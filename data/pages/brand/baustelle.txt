@@ -1,0 +1,32 @@
+====== Baustellen-Brand ======
+
+<WRAP round info>Auf dieser Seite wird lediglich die Thematik Brand auf der Baustelle besprochen, für Technische Hilfeleistungen siehe z.B. [[allgemeine_hilfe:tiefbauunfall|Tiefbauunfall]] und [[allgemeine_hilfe:einsturz|Gebäudeeinsturz]].</WRAP>
+
+===== zu treffende Maßnahmen =====
+
+  * Genaue Anfahrt? Wird die Zufahrt durch die Baustelle behindert? Ggf. verminderte Tragfähigkeit bei der Fahrzeugaufstellung beachten!
+  * [[allgemein:absicherung_einsatzstelle|Absicherung Einsatzstelle]], [[cbrn:allgemein:gefahrenbereich|Gefahren- und Absperrbereich]], [[allgemein:einsatzabschnitte|Einsatzabschnitte bilden]], Funkkanaltrennung, [[allgemein:bereitstellungsraum|Bereitstellungsraum]] einrichten
+  * Nutzbarkeit der [[brand:allgemein:loeschwasserversorgung|Hydranten]]?
+  * Besondere Löschmittel erforderlich (z.B. bei Brand Teerkocher auf dem Dach)
+  * [[allgemein:absturzsicherung|Absturzsicherung]] erforderlich?
+  * Sicherheitstrupp stellen ([[brand:allgemein:atemschutznotfall|Atemschutznotfall]])
+  * [[brand:allgemein:belueftung|Belüften]] (falls nicht sowieso "offener Bau"), Kontrolle der Räumlichkeiten (Obdachlose? -> insbesondere außerhalb der Betriebszeiten!)
+  * Einsatzdokumentation
+  * Nachforderung: evtl. Versorger (Stadtwerke; Gas, Wasser, Strom, ...), [[allgemein:thw|THW]]?
+  * Information weiterer Stellen: übergeordnete Führungskräfte, Polizei, Ordnungsamt, Arbeitsschutz, Bürgermeister, ...
+
+==== besondere Gefahren ====
+
+  * Absturz in unzureichend gesicherte Öffnungen
+  * Vorbeugender Brandschutz ggf. (noch) nicht im Soll-Zustand (z.B. Brandabschnittstrennungen, ebenso wie anlagentechnischer Brandschutz)
+    * -> Brand- und Rauchausbreitung im Objekt allgemein
+    * -> [[brand:fassadenbrand|Brandausbreitung auf Fassade]] (Folien an Baugerüsten, Wärmedämmverbundsysteme)
+  * Betriebsmittel: Druckgasbehälter (insbesondere [[cbrn:chemisch:klasse_2:stoffe:acetylen|Acetylen]], [[cbrn:chemisch:klasse_2:stoffe:sauerstoff|Sauerstoff]], [[cbrn:chemisch:klasse_2:stoffe:fluessiggas|Flüssiggas]]), Diesel, weitere gefährliche Stoffe
+
+===== Quellenangabe =====
+
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+
+===== Stichwörter =====
+
+Bauarbeiten, Sanierung, Renovierung

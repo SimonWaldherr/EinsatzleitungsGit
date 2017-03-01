@@ -1,0 +1,15 @@
+====== Wasserlöslichkeit ======
+
+auch: **Löslichkeit**
+
+Die Wasserlöslichkeit gibt an, welche Menge eines Stoffs sich in Wasser lösen lässt. Sie ist stark temperaturabhängig. 
+
+Gase lösen sich mit steigender Temperatur schlechter in Wasser. 
+
+Feststoffe lösen sich mit steigender Temperatur grundsätzlich besser in Wasser, hier gibt allerdings viele Ausnahmen. 
+
+===== Quellenangabe =====
+
+  * [[wpde>Wasserlöslichkeit#Wasser_als_L.C3.B6sungsmittel|Wikipedia: Wasserlöslichkeit]]
+
+Bitte beachten Sie auch die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

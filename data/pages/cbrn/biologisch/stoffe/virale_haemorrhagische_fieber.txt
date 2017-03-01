@@ -1,0 +1,23 @@
+====== Virale Hämorrhagische Fieber ======
+
+Virale hämorrhagische Fieber sind hoch ansteckende, von Viren übertragene Fiebererkrankungen die Blutungen hervorrufen. Aufgrund der hohen Ansteckungsgefahr dürfen Proben nur in [[cbrn:biologisch:risikogruppen_schutzstufen|S4-Laboren]] gehandhabt werden. Der Begriff //virale hämorrhagische Fieber// fasst unterschiedliche Fiebererkrankungen zusammen, die aber sehr ähnliche Eigenschaften haben und teilweise miteinander verwandt sind. Beispiele für diese Fieber sind im Abschnitt "Stichwörter" genannt.
+
+===== zu treffende Maßnahmen =====
+
+Zu finden auf der {{cbrn:biologisch:stoffe:lfs_bw_kampfstoffe_virale_haemorrhagische_fieber.pdf|Einsatzleiterkarte Virale Hämorrhagische Fieber}} der Landesfeuerwehrschule Baden-Württemberg.
+
+  * Sofern es sich nicht um einen Terroranschlag handelt, ist i.d.R. auch [[cbrn:allgemein:koerperschutzformen|Körperschutzform]] 2 ausreichend. Im Zweifel Abstimmung mit fachkundigem Personal.
+
+===== Weblinks =====
+
+  * [[wpde>Hämorrhagisches_Fieber|Wikipedia: Hämorrhagisches Fieber]]
+
+===== Quellenangabe =====
+
+  * {{cbrn:allgemein:hinweise_abc_kampfstoffe.pdf|Einsatzleiterkarten für den Einsatz mit ABC-Kampfstoffen, Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2011}}. Nutzung mit freundlicher Genehmigung.
+
+===== Stichwörter =====
+
+Die hier folgend aufgezählten Viruserkrankungen und deren Synonyme sind keine abschließende Aufzählung!
+
+Gelbfieber, Ochropya, Rifttalfieber, Rift valley fever, RVF, Lassafieber, Krim-Kongo-Fieber, CCHF, Hanta-Virus, Hanta-Fieber, Ebola, Ebola-Fieber, Ebola-Virus,  Marburg-Fieber, Marburg-Virus, Dengue-Fieber, Dengue-Virus, DHF

@@ -1,0 +1,30 @@
+====== Sachgebiet S6 - Information und Kommunikation ======
+
+===== Planen des Informations- und Kommunikationseinsatzes =====
+
+  * Feststellen des Ist-Zustands der Führungsorganisation
+  * Feststellen des Ist-Zustands der Fernmeldeorganisation
+  * Absprechen der Führungsorganisation mit S 3
+  * Aufteilen der zugewiesenen Kanäle
+  * Anfordern von Sonderkanälen
+  * Ermitteln des Kräftebedarfs für den Kommunikationsbetrieb
+  * Ermitteln des Materialbedarfs für den Kommunikationsbetrieb
+  * Feststellen der Einsatzmöglichkeiten von Funktelefonen
+  * Ermitteln der Einsatzmöglichkeiten von Kommunikationsverbindungen über Feldkabel und anderer drahtgebundener Netze
+  * Erarbeiten eines Kommunikationskonzeptes einschließlich Fernmeldeskizze
+  * Sicherstellen der Kontakte mit den Informations- und Kommunikationsdiensten anderer Behörden, Organisationen und Institutionen
+
+===== Durchführen des Informations- und Kommunikationseinsatzes =====
+
+  * Umsetzen der Planung
+  * Führen der Informations- und Kommunikationseinheiten
+  * Gewährleisten der Kommunikationssicherheit (Redundanz)
+  * Übermitteln von Befehlen, Meldungen und Informationen
+  * Überwachen des Kommunikationsbetriebes
+  * Dokumentieren des Kommunikationsbetriebes (Nachweisung)
+  * Ausstattung der Befehlsstellen mit Bürokommunikation
+  * Einrichten von Meldediensten
+
+===== Quellenangabe =====
+
+  * [[http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext_Fw_Dv/SKK_Dv_100.pdf?__blob=publicationFile|Führung und Leitung im Einsatz : Führungssystem ; Vorschlag einer Dienstvorschrift DV 100]], Ständige Konferenz für Katastrophenvorsorge und Katastrophenschutz

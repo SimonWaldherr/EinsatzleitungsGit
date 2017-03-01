@@ -1,0 +1,55 @@
+====== Download und Start des EinsatzleiterwikiStick ======
+
+Der //EinsatzleiterwikiStick// ermöglicht einen vollwertigen Betrieb des Einsatzleiterwikis auf einem USB-Stick. Werden Sie beispielsweise im Stab einer Technischen Einsatzleitung tätig, so haben Sie all Ihre Unterlagen dabei; sowohl die Standard-Daten des Einsatzleiterwikis als auch Ihre evtl. lokal eingepflegten Daten.
+
+Der EinsatzleiterwikiStick ist ebenso eine Alternative wenn Sie das [[wiki:hilfe:installation_download|normale Einsatzleiterwiki]] nicht fest auf Ihrem Computer installieren und nur bei Bedarf starten möchten.
+
+Beachten Sie: Der EinsatzleiterwikiStick läuft nur unter Microsoft Windows und ist nicht unter Mac OS oder Linux startfähig.
+
+===== Download =====
+
+Laden Sie den EinsatzleiterwikiStick unter der Adresse http://einsatzleiterwiki.de/index.php/download/category/1-einsatzleiterwiki-installation herunter bzw. speichern Sie die Zip-Datei an einem Ort Ihrer Wahl und Öffnen Sie die eben heruntergeladene Datei. Das Archiv mit dem EinsatzleiterwikiStick wird jede Nacht automatisiert neu erzeugt und ist dadurch immer tagesaktuell.
+
+===== Entpacken =====
+
+Öffnen Sie ein zweites Fenster des Windows Explorer. Ziehen Sie nun einfach den Ordner //EinsatzleiterwikiStick// aus dem Zip-Archiv auf Ihren USB-Stick wie in der Grafik gezeigt (klicken Sie darauf um zu vergrößern).
+
+{{:wiki:hilfe:installation:elwikistick_1.png?direct&600|Entpacken}}
+
+===== Erster Start =====
+
+Öffnen Sie nun den Ordner //EinsatzleiterwikiStick// auf Ihrem USB-Stick. Darin finden Sie die Ordner //einsatzleiterwiki//, //server// und die Datei //start.cmd//. Klicken Sie doppelt auf die Datei //start.cmd// um sie zu öffnen.
+
+{{:wiki:hilfe:installation:elwikistick_2.png?direct&600|EinsatzleiterwikiStick starten}}
+
+Nun öffnet sich ein schwarzes Kommandozeilen-Fenster. Schließen Sie dieses nicht, es muss während der gesamten Nutzung des EinsatzleiterwikiSticks geöffnet bleiben. Sollten Sie das Fenster doch versehentlich einmal schließen, so führen Sie einfach erneut einen Doppelklick auf die Datei //start.cmd// aus um den Server wieder zu starten.
+
+{{:wiki:hilfe:installation:elwikistick_3.png?direct&600|Kommandozeilen-Fenster}}
+
+Kurz darauf öffnet sich Ihr Browser (Internet Explorer, Firefox, etc.). Beim ersten Mal werden Sie wahrscheinlich eine Fehlermeldung erhalten dass die Seite nicht gefunden werden kann und gleichzeitig eine Nachfrage der Windows Firewall erhalten. Bestätigen Sie hier, dass der Apache HTTP Server in Heim- und Arbeitspatznetzwerken kommunizieren darf.
+
+{{:wiki:hilfe:installation:elwikistick_4.png?direct|Windows Firewall}}
+
+Laden Sie nun in Ihrem Browser die Seite neu. Ihnen wird jetzt die Eingabemaske für die Ersteinrichtung angezeigt in der Sie das Administratorkonto für Ihr Wiki anlegen müssen.
+
+{{:wiki:hilfe:installation:elwikistick_5.png?direct&600|Ersteinrichtung für das Administratorkonto}}
+
+Nach dem Speichern der Eingaben sehen Sie folgendes Fenster:
+
+{{:wiki:hilfe:installation:elwikistick_6.png?direct&600|Ersteinrichtung abgeschlossen}}
+
+Klicken Sie nun auf den Link //Einsatzleiterwiki// um zur Startseite zu gelangen.
+
+{{:wiki:hilfe:installation:elwikistick_7.png?direct&600|Startseite}}
+
+Nun sind Sie mit der Ersteinrichtung fast am Ende. Erzeugen Sie am Ende noch den Suchindex neu wie in der folgenden Anleitung beschrieben: [[wiki:hilfe:plugins:searchindex]]. Andernfalls wird Ihre Suchfunktion nicht korrekt funktionieren.
+
+<WRAP center round important 100%>
+In anderen Anleitungen des Einsatzleiterwikis sehen Sie Adressen bzw. Links im Format http://127.0.0.1:8080/einsatzleiterwiki/doku.php oder http://localhost:8080/einsatzleiterwiki/doku.php
+
+Beachten Sie den kleinen aber wichtigen Unterschied, dass Sie bei entsprechenden Links für den EinsatzleiterwikiStick die Zahl (bzw. fachlich korrekt: den Port) von 8080 auf 8800 ändern. Andernfalls erhalten Sie eine Fehlermeldung, dass die Datei nicht gefunden wurde.
+</WRAP>
+
+===== Betrieb ab dem 2. Start =====
+
+Zukünftig wird ein Doppelklick auf die Datei //start.cmd// sofort Ihren Browser mit der Startseite öffnen.

@@ -1,0 +1,25 @@
+====== Feuerwehraufzug ======
+
+<WRAP center round info 100%>
+Da die lokalen Regelungen zu Feuerwehraufzügen sehr unterschiedlich sind, können hier nur sehr allgemeine Ratschläge gegeben werden!
+</WRAP>
+
+===== zu treffende Maßnahmen =====
+
+{{ :brand:allgemein:feuerwehraufzug.png?nolink&100|Symbol für einen Feuerwehraufzug}}
+
+  * Feuerwehraufzug mit Einsatzkraft als Aufzugsführer besetzen, PA mitführen lassen!
+  * Anfahren unterhalb des Brandgeschosses oder im Brandgeschoss (je nach örtlicher Vorgehensweise)
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Merkmale eines Feuerwehraufzugs ====
+
+  * Nach Betätigung des Feuerwehr-Vorzugsrufs fährt der Aufzug in die Zugangsebene (meist Erdgeschoss) und bleibt mit offenen Türen stehen.
+  * Steuerung nur im Korb möglich. Nach Anfahren einer Etage muss die Tür explizit durch Drücken der "Tür öffnen"-Taste geöffnet werden.
+  * Kommunikationsmöglichkeit vom Fahrkorb zur BMZ bzw. zum Vorraum des Aufzugs in der Zugangsebene\\ Bei neueren Anlagen ebenfalls Einsprechmöglichkeiten in den Vorräumen der einzelnen Stockwerke.
+  * Leiter im Fahrkorb (ggf. hinter einer Klappe), Notausstiegsklappe im Dach des Fahrkorbs, durchgehende Leiter im Fahrschacht (die vom Dach des Fahrkorbs dann hinaufgestiegen werden kann)
+
+===== Stichwörter =====
+
+Aufzug, Fahrstuhl, Feuerwehrfahrstuhl, Lift, Feuerwehrlift

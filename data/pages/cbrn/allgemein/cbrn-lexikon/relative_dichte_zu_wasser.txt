@@ -1,0 +1,12 @@
+====== relative Dichte zu Wasser ======
+
+Die relative Dichte zu Luft gibt an, wie groß die Dichte bzw. Masse eines Stoffs im Vergleich zum gleichen Volumen Wasser bei der Temperatur 4°C ist.
+
+Ist der Stoff nicht vollständig mit Wasser mischbar gilt folgendes:
+
+  * Ist der Wert kleiner als 1, schwimmt der Stoff auf dem Wasser
+  * Ist der Wert größer als 1, sinkt er im Wasser ab
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

@@ -1,0 +1,116 @@
+====== Strahlenschutz / A-Einsatz ======
+
+===== zu treffende Maßnahmen =====
+
+[[cbrn:gefahrgut|Allgemeine Maßnahmen für ABC-Einsätze]] beachten
+
+  * bereits auf der Anfahrt Dosisleistungsmessgerät und Dosisleistungswarngerät einschalten und auf Ausschlag achten
+  * Einsatzkräfte mit [[cbrn:atomar:strahlenschutzmessgeraete|Mess- und Warngeräten]] ausstatten
+    * Strahlenschutzüberwachung einrichten
+    * Entscheidung über höchstmöglichen [[cbrn:atomar:dosisrichtwerte|Dosisrichtwert]] treffen
+    * Auch zur Menschenrettung nicht ohne [[cbrn:atomar:strahlenschutzmessgeraete#gleitschatten-filmdosimeter|Filmdosimeter]] vorgehen, mindestens PA + Körperschutzform 1 anlegen, außerdem:
+      * bei Transportunfällen kann Dosimeter und Dosiswarngerät entfallen
+      * bei baulichen Anlagen ab [[cbrn:allgemein:gefahrengruppen|Gefahrengruppe]] II ist auch Dosimeter und Dosiswarngerät erforderlich
+      * in Bereichen in denen mit Kernbrennstoffen gearbeitet wird darf nur bei Anwesenheit eines zuständigen Strahlenschutzbeauftragten vorgegangen werden
+  * Liegen keine ausreichenden Erkenntnisse vor: Trupps mit [[cbrn:allgemein:koerperschutzformen|Körperschutzform 2]] ausrüsten
+  * [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] festlegen:
+    * bei Dosisleistung von **25 µSv/h** oder
+    * in 5 Meter Abstand zum Einatzobjekt (Gebäude, Fahrzeug, ...), falls bis zu diesem Punkt keine 25 µSv/h erreicht werden (i.d.R. Absperrung des Objekt**zugangs** ausreichend) oder
+    * 50 Meter falls noch keine Messgeräte vor Ort sind
+    * Gefahrenbereich erweitern, falls z.B. luftgetragene radioaktive Stoffe eine Ausweitung vermuten lassen
+  * [[cbrn:allgemein:dekontamination:kontaminationsnachweis|Kontaminationsnachweisplatz]] an der Grenze von Gefahren- zu Absperrbereich aufbauen lassen
+  * Dosisleistung messen / Versandstück freimessen (siehe [[cbrn:atomar:befoerderung]] für weitere Informationen), aus der gemessenen Dosisleistung:
+    * Dosis abschätzen
+    * Zeitbeschränkungen festlegen
+    * Mindestabstände festlegen
+  * Schadensausbreitung / Ausbreitung radioaktiver Stoffe verhindern; z.B.:
+    * Türen zu Kontrollbereichen schließen
+    * sparsamer Löschmitteleinsatz
+    * Rauch nicht in Atmosphäre entlüften
+  * Betroffene isolieren, vor Transport dekontaminieren, frühstmöglich Fachklinik informieren und Maßnahmen abstimmen
+  * Nachalarmierung ABC-Erkundungskraftwagen, insbesondere bei Strahlersuche oder großflächiger Kontamination (weitergehende und feinere Mess-Möglichkeiten)
+  * Weitergehende Maßnahmen nur in Amtshilfe (Feuerwehr ist im A-Einsatz nur für die Gefahrenabwehr zuständig!)
+
+==== Erkundung und Lagebeurteilung (nach FwDV 500) ====
+
+  * Wie hoch ist die Dosisleistung?
+  * Um welches Radionuklid handelt es sich? -> Befragung Betreiber, Kennzeichnung Versandstück
+  * Welche Strahlung wird erzeugt? -> Befragung Betreiber, Ermittlung durch [[cbrn:atomar:nuklidkarte|Nuklidkarte]]
+  * In welcher Form liegt der radioaktive Stoff vor? -> offener oder umschlossener Strahler?
+  * Kann die Umhüllung umschlossener Strahler zerstört worden sein?
+  * Sind radioaktive Stoffe frei geworden?
+  * Welcher Art ist die vorhandene Abschirmung?
+  * Besteht die Gefahr der Ausbreitung radioaktiver Stoffe durch Brandrauch oder Löschwasser?
+
+==== Einsatz in Gebäuden ====
+
+  * Ortskundige Personen einbeziehen
+  * Fenster und Türen schließen
+  * Lüftungstechnik und Klimatechnik abschalten/gezielt steuern
+  * Geschlossene Behälter nicht öffnen
+
+==== Nach dem Einsatz ====
+
+  * Behandlung kontaminierter Personen: durch K-Nachweis und Entkleidung
+  * Versorgung der Verletzen durch Übergabe an Rettungsdienst (siehe [[cbrn:atomar:start#medizinische_hinweise|unten]])
+  * Aufräumarbeiten: zuständige Behörde, evtl. Fw (Amtshilfe)
+  * Übergabe der Einsatzstelle an zuständige Stellen (Gewerbeaufsicht)
+  * bei Überschreitung folgender Dosis-Werte Maßnahmen treffen:
+    * ab 15 mSv sind die Einsatzkräfte zu überwachen
+    * über 50 mSv oder bei Verdacht auf Inkorporation ist die Einsatzkraft direkt nach Einsatzende einem ermächtigtem Arzt vorzustellen (zu finden z.B. in [[cbrn:atomar:strahlenschutzzentren|dieser Liste]])
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Truppzuordnung der [[cbrn:atomar:strahlenschutzmessgeraete|Messgeräte]] nach FwDV 500:
+    * alle Einsatzkräfte mit Dosiswarngeräten und Gleitschattenfilmdosimetern (Personendosimetern)
+    * Angriffstrupp mit Dosisleistungsmessgerät
+    * Wassertrupp zum Absperren des Gefahrenbereichs mit Dosisleistungswarngerät; nach vollständiger Absperrung der Einsatzstelle wird diese weiterhin zur permanenten Überprüfung der Absperrung umrundet
+  * Abschirmung um den Strahler herstellen, z.B. durch
+    * platzieren in einem Bleibehälter
+    * bauen einer Umhüllung mit Schaummittelkanistern
+
+==== Strahlersuche ====
+
+Bei sehr schwachen Strahlenquellen das [[cbrn:atomar:strahlenschutzmessgeraete#kontaminationsnachweisgeraet|Kontaminationsnachweisgerät]] verwenden, da dies sehr viel empfindlicher als das Dosisleistungsmessgerät ist. Folgende Punkte beachten
+
+  * Geeignetes Zählrohr verwenden, Schalter am K-Nachweisgerät auf die entsprechende Strahlung einstellen
+  * Neuere Geräte verfügen über einen zählgasfreien Plastikszintillationsdetektor zur simultanen Messung von α- und β- und γ- Kontaminationen, die simultane Anzeige der Nuklide ist entsprechend im Menü zu wählen
+  * Kontamination des Geräts unbedingt vermeiden!
+
+
+==== medizinische Hinweise ====
+
+  * Einsatzkräfte mit offenen Wunden sofort aus dem Einsatz herauslösen.
+  * Rettungsdienst auf Kontaminationsverdacht hinweisen.
+  * Bei der Beförderung kontaminierter Personen ist eine Infektionsschutzkleidung wie sie auch für B-Gefahren verwendet wird ausreichend.
+  * Nicht verletzte Betroffen bei Verdacht auf Inkorporation oder starke Strahlenexposition einem ermächtigten Arzt vorstellen oder an [[cbrn:atomar:strahlenschutzzentren|regionales Strahlenschutzzentrum]] vermitteln.
+
+==== Grundsätze im Strahlenschutzeinsatz ====
+
+  * **Dosis begrenzen** 
+    * Abstand: Dosisleistung nimmt im Quadrat ab ([[cbrn:atomar:strahlenschutzberechnungen#abstandsgesetz|Berechnungen zum Abstand]]).
+      * Für Manipulation am bzw. Bergung des Strahlers Hilfsmittel wie Ferngreifer, Schaufeln, etc. verwenden
+      * [[cbrn:atomar:strahlenschutzmessgeraete#dosisleistungsmessgeraet|Teleskopsonde]] verwenden
+    * Aufenthaltsdauer
+    * [[cbrn:atomar:physikalische_grundlagen|Abschirmung: Halbwertsschicht]]
+    * Abschalten wenn möglich, dann gegen Wiedereinschalten sichern. Ggf. können auch nach dem Abschalten noch höhere Dosisleistungen vorliegen (wenn beim Betrieb der Anlage Neutronen oder hochenergetische Gammastrahlung entsteht)
+  * **Kontamination vermeiden**: [[cbrn:allgemein:gefahrengruppen|geeignete Schutzkleidung tragen, abhängig von der angegebenen Gefahrengruppe]]
+  * **Kontaminationsverschleppung vermeiden**: durch [[cbrn:allgemein:dekontamination:kontaminationsnachweis|Kontaminationsnachweis]]
+  * **[[cbrn:allgemein:begriffsklaerungen#inkorporation|Inkorporation]] ausschließen**: Atemschutz tragen, nicht essen, trinken und rauchen
+
+==== weitere Seiten im Bereich Strahlenschutz/A-Einsatz ====
+
+{{simplenavi>cbrn:atomar}}
+
+[[cbrn:ericards:klasse_7:start]]
+
+===== Weblinks =====
+
+  * [[http://odlinfo.bfs.de/DE/index.html|Tagesaktuelle Ortsdosisleistungen gemessen vom Bundesamt für Strahlenschutz an über 1.800 Messstationen in Deutschland]]
+
+===== Quellenangabe =====
+
+  * Ausbildungsunterlagen Lehrgang ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * {{cbrn:atomar:lfs_bw_kampfstoffe_radioaktive_stoffe.pdf|Einsatzleiterkarte "Radioaktive Stoffe"}} (mit speziellen Hinweisen für Anschläge), entnommen aus {{cbrn:allgemein:hinweise_abc_kampfstoffe.pdf|Einsatzleiterkarten für den Einsatz mit ABC-Kampfstoffen, Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2011}}. Nutzung mit freundlicher Genehmigung.

@@ -1,0 +1,85 @@
+====== Verkehrsunfall ======
+
+Dieser Artikel ist für Verkehrsunfälle allgemein gültig. Zusätzliche Hinweise für LKW-Unfälle sind auf der Seite [[allgemeine_hilfe:verkehrsunfall:lkw-unfall]] zu finden, für Bus-Unfälle auf der Seite [[allgemeine_hilfe:verkehrsunfall:bus-unfall]].
+
+===== zu treffende Maßnahmen =====
+
+  * [[allgemein:absicherung_einsatzstelle|Absicherung Verkehrsraum]], ggf. Ausleuchten der Einsatzstelle
+  * zweifachen Brandschutz sicherstellen, beim Auslaufen brennbarer Flüssigkeiten dreifachen Brandschutz (Wasser, [[brand:allgemein:pulver|Pulver]], [[:brand:allgemein:schaum|Schaum]])
+  * Gefahr durch alternative Antriebe (siehe unten)?
+  * Motor ausschalten (ggf. [[brand:allgemein:co2|CO₂-Löscher]] in Luftansaugung einblasen)
+  * gegen Wegrollen sichern und gegen Bewegung Stabilisieren
+  * Innenraum/Kofferraum erkunden (gefährliche Ladung)?
+  * Batterie abklemmen!?\\ Davor erkunden ob Fahrzeugsysteme für die Rettung eingesetzt werden können (elektr. Fensterheber, Sitzverstellung, ...). Abklemmen spätestens bei Einsatzabschluss!
+  * Akute Gefahr von auslaufenden Betriebsstoffen in Abwasserkanäle/Erdreich?
+
+==== Fahrzeugaufstellung ====
+
+  * nicht zu nah an verunfallte Fahrzeuge heranfahren
+  * Freie An- und Abfahrt für Rettungsdienstfahrzeuge ermöglichen
+  * eventuell [[allgemein:hubschrauberlandeplatz|Landeplatz für einen Rettungshubschrauber einrichten]]
+  * Platz für RW und [[allgemein:kran-einsatz|Kran]] freilassen?
+  * unbesetztes, schweres Fahrzeug als Puffer aufstellen
+
+==== Befreiung eingeklemmter Personen ====
+
+  * [[erste_hilfe:verkehrsunfall_p_klemmt|Patient durch Feuerwehr versorgen]] bis der Rettungsdienst eintrifft
+  * Entscheidung mit Notarzt über: Sofortrettung, schnelle Rettung oder patientenorientierte Rettung\\ **Achtung** bei Einklemmungen, die bei Entlastung zum inneren Verbluten führen können
+  * [[rettungsdatenblaetter:start|Rettungsdatenblatt]] vorhanden? Normalerweise an der Fahrer-Sonnenblende aufzufinden.
+  * Plan für Erstöffnung, Versorgungsöffnung und Befreiungsöffnung erabeiten
+  * Geräte- und Schrottablage sowie Bereitstellungsplatz für Rettungsdienst einrichten (im 10m-Radius um das Fahrzeug)
+  * Patient möglichst aus Airbag-Wirkbereich herausbringen falls noch nicht augelöst ([[allgemeine_hilfe:verkehrsunfall:airbag|detaillierte Informationen zu Airbags]])
+  * Inneren Retter ins Fahrzeug schicken (Patientenbetreuung und Airbag-Erkundung; Innenverkleidung entfernen)\\ alle weiteren Einsatzkräfte über nicht ausgelöste Airbags informieren
+  * Wärmeerhalt (Decke/Scheinwerfer)
+
+==== Einsatzabschluss ====
+
+  * [[allgemein:psnv:start|Psychische Betreuung]] für Einsatzkräfte notwendig?
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * scharfe Kanten abdecken
+  * automatische Überrollbügel vorhanden (Cabrios)?
+  * Druck aus den Reifen ablassen behindert die Polizei bei der Unfallrekonstruktion - wenn möglich anders lösen
+  * Zündung ausschalten, aber Zündschlüssel nicht abziehen - elektrische Sitzen können in Endposition zurückfahren
+
+==== Alternative Antriebe ====
+
+Erkennbar an Aufschriften oder Tankeinfüllstutzen, Unterscheidungshilfen auf der Seite [[allgemeine_hilfe:verkehrsunfall:erkennung_alternativer_fahrzeugantriebe|Erkennung alternativer Fahrzeugantriebe]]
+  * [[allgemeine_hilfe:verkehrsunfall:elektrofahrzeuge|Elektrofahrzeuge]]
+  * [[cbrn:chemisch:klasse_2:lpg-fahrzeuge|Autogasfahrzeuge (LPG)]]
+  * [[cbrn:chemisch:klasse_2:cng-fahrzeuge|Erdgasfahrzeuge (CNG)]]
+  * [[cbrn:chemisch:klasse_2:wasserstofffahrzeuge|Wasserstofffahrzeuge]]
+
+Bei nachgerüsteten Fahrzeugen können die Anlagen anders verbaut sein als die direkt vom Hersteller ausgerüsteten Fahrzeuge.
+
+==== Karosserien aus kohlenstofffaserverstärktem Kunststoff (CFK) ====
+
+  * Beim Arbeiten mit Rettungsgeräten (Schere, Spreizer, Säbelsäge, ...) Staubschutzmaske tragen (es entsteht Carbonstaub)
+  * Schneiden funktioniert besser als Drücken, Rettungszylinder sind eher ungeeignet (Werkstoff reißt und splittert)
+  * [[rettungsdatenblaetter:start|Rettungsdatenblätter]] sollten unbedingt genutzt werden soweit vorhanden
+
+==== Zusammenarbeit mit Polizei ====
+
+<wrap important>Unfälle mit Verletzten sind Tatorte!</wrap> Rettungsarbeiten haben Vorrang vor Ermittlungsarbeiten, allerdings sollten im Interesse der Polizei bzw. der Geschädigten folgende Hinweise beachtet werden:
+
+  * Aufnahme von (Übersichts-) Fotos durch das erste Einsatzfahrzeug
+  * nicht durch die Einsatzstelle fahren
+  * Absprache mit Polizei über die nächsten durchzuführenden Maßnahmen:
+    * Lage von Trümmerteilen nur ändern wenn unbedingt notwendig, Aufräumarbeiten erst nach Rücksprache!
+    * Einsatz von Ölbindemittel nur wenn notwendig, dann möglichst wenig
+    * Arbeiten welche die Spurenlage erheblich verändern (Einsatz hydraulischer Rettungsgeräte, Aufhebeln von Motorhaube, Glasmanagement, ...) vorher ankündigen
+  * Selbst vorgenommene Veränderungen dokumentieren und der Polizei mitteilen
+
+===== Quellenangabe =====
+
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * Lehrgangsunterlagen "Technische Hilfeleistung" des Landkreis Bad Dürkheim, Dünkelberg/Lander 2011
+  * {{:allgemein:kleine_merkhilfe_fuer_den_feuerwehreinsatz_1.03.pdf|Kleine Merkhilfe für den Feuerwehreinsatz: Zusammenstellung für Führungskräfte der Feuerwehr}}, Florian Pernpeintner
+  * [[http://www.vfdb.de/download/Merkblatt0601.pdf|vfdb-Merkblatt „Technisch-medizinische Rettung nach Verkehrsunfällen“]], November 2011
+  * Christoph Wöhrle: Verzögern Carbon-Bauweise und Elektro-Antrieb die Rettung? In: Brandschutz 10/2014, Verlag W. Kohlhammer, Stuttgart, S. 746 ff.
+  * Hendrik Hanekamp: Ein Verkehrsunfall ist ein Tatort. In: Brandschutz 10/2014, Verlag W. Kohlhammer, Stuttgart, S. 749 ff.
+
+===== Stichwörter =====
+
+Unfall, VU, VKU, Crash, PKW, KFZ

@@ -1,0 +1,36 @@
+====== Eisrettung ======
+
+===== zu treffende Maßnahmen =====
+
+  * Tauchergruppe alarmieren falls noch nicht geschehen
+  * Eisfläche nicht ohne Eigensicherung (Leinensicherung und Rettungsweste, kein Feuerwehrhelm!) betreten
+  * erste Sofortmaßnahme: Verunfalltem Feuerwehrleine zuwerfen (mit Beutel). Dabei möglichst über die Person hinweg werfen, mögl. Wurfweite ca. 15 Meter
+  * Retter bewegt sich flach robbend mit Steckleiter und Schleifkorbtrage zum Verunfallten. Bevor dieser aus dem Wasser gezogen werden soll, entfernt sich der Retter von der Kante!
+  * ggf. auch Drehleiter einsetzen
+  * gerät die Person unter das Eis, dann nur Einsatz der Tauchergruppe. Nicht versuchen mit PA zu tauchen! Tauchereinsatz vorbereiten (siehe Abschnitt "Allgemeine Hinweise"). Taucheinsatz macht auch eine Stunde nach dem Einbrechen noch Sinn.
+  * Personen möglichst wenig bewegen wenn diese nicht mehr selbst an der Rettung mitwirken konnten (Bergungstod), für Umlagerungen Schaufeltrage verwenden
+    * Person durch Aufschneiden der Kleider entkleiden
+    * in Decke und Rettungsfolie hüllen, **nicht** trocken reiben/massieren
+    * bis zum Eintreffen des RD an einem warmen Ort (z.B. Fahrzeug) betreuen
+    * bei Bewusstlosigkeit in stabile Seitenlage bringen
+    * ggf. reanimieren
+  * Eisfläche in Einvernehmen mit Bürgermeister oder entsprechendem Amt sperren
+
+==== besondere Gefahren ====
+
+  * Unterkühlung; Überlebenszeit bei 0°C Wassertemperatur < 30 Minuten
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * ist die Person bei vollem Bewusstsein und konnte noch an der Rettung mitwirken, können ihr warme **Getränke ohne Alkohol** verabreicht werden
+  * Einsatz der [[allgemein:geraete:waermebildkamera|Wärmebildkamera funktioniert aus technischen Gründen]] nicht
+  * Vorbereitungen für Taucheinsatz
+    * Einbruchstelle auf Fläche von 2x2m erweitern (bei dickem Eis ggf. mit Motorsäge), Kanten durch Steckleiterteile sichern
+    * Arbeitsplattform für Signalmann und Sicherheitstaucher am Einstiegsloch aufbauen, kann auch z.B. ein RTB 1 sein
+    * Einsatzstelle bzw. Eisfläche gut ausleuchten, Lichtquelle so nah und hoch wie möglich am Ufer anbringen/ausfahren.
+
+===== Quellenangabe =====
+
+  * {{:allgemeine_hilfe:eisrettung.pdf|Einsatztaktik für die Feuerwehr - Hinweise zu Eisunfällen. Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2011.}}
+
+===== Stichwörter =====

@@ -1,0 +1,3 @@
+====== Biogasanlage ======
+
+~~GOTO>cbrn:biologisch:biogasanlage~~

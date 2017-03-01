@@ -1,0 +1,113 @@
+====== Eichenprozessionsspinner ======
+
+===== zu treffende Maßnahmen =====
+
+  * Entscheidung, ob Feuerwehr zuständig (auf Privatgeländen ohne besondere Gefährdung in der Regel nicht)
+  * Gefahrenbereich absperren, Bevölkerung im Umkreis von 300 Metern warnen (z.B. Flugblätter, Plakate)
+  * Einsatzkräfte auf Gefahren hinweisen
+  * Raupen und deren Nester nicht ungeschützt berühren
+  * bei größeren Einsätzen [[cbrn:allgemein:dekontamination:start|Dekon-Platz]] einrichten 
+  * ggf. Schädlingsbekämpfer hinzuziehen
+
+==== bei der Beseitigung ====
+
+  * Nester vor der Entfernung mit Wasser besprühen um Ausbreitung zu verringern\\ ACHTUNG: Nicht mit Wasser oder Schaum vom Baum herunterspritzen, da die Gefahr so noch weiter verteilt wird!
+  * Einweg-Schutzanzug ([[cbrn:allgemein:koerperschutzformen#koerperschutz_form_2|Körperschutzform 2]]) und mindestens Atemschutzmaske mit Filter tragen. Übergänge zu Armen, Beinen und Atemschutzmaske mit Klebeband sicher verschließen. CSA ist unverhältnismäßig, hat sich nicht bewährt.
+  * während der Beseitigung dürfen sich keine ungeschützten Personen in der Nähe aufhalten
+  * höher gelegene Nester mit Leitern oder Hebebühnen entfernen, notfalls einzelne Bäume **in Absprache mit den entsprechenden Fachbehörden** fällen (absolute Ausnahme!)
+
+Privatpersonen sollten Eichenprozessionsspinner nicht selbst entfernen!
+
+==== Nach der Beseitigung ====
+
+  * Schutzkleidung vor dem Ausziehen abspritzen
+  * Schutzkleidung nach dem Ausziehen in Plastiksäcke verpacken und verbrennen (lassen)
+
+==== Maßnahmen nach Kontakt ====
+
+  * Kleidung wechseln und diese waschen
+  * Bei Augenkontakt Augenspülflasche einsetzen
+  * bei allergischen Reaktionen der Einsatzkräfte RTW und Notarzt nachalarmieren
+  * Kleidung und benutzte Gerätschaften verpacken, größere Geräte wie ggf. genutzte Drehleiter gründlich waschen!
+  * Duschen und Haare waschen, Augen ausspülen
+    * kaltes Wasser mildert den Juckreiz, heißes verstärkt ihn!
+
+==== besondere Gefahren ====
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+<WRAP group>
+<WRAP column>
+{{:allgemeine_hilfe:eichenprozessionsspinner_einzeln.jpg?direct&300|Einzelner Eichenprozessionsspinner}}\\ Einzelne Eichenprozessionsspinner-Raupe
+</WRAP>
+
+<WRAP column>
+{{:allgemeine_hilfe:eichenprozessionsspinner_nest.jpg?direct&300|Eichenprozessionsspinner-Nest}}\\ Raupen des Eichenprozessionsspinners  im Nest am Stamm einer Eiche
+</WRAP>
+</WRAP>
+
+Eicheprozessionsspinner treten im Frühjahr mit dem Austrieb der Eichen auf, etwa Ende April/Anfang Mai. Während des Tages wandern die Raupen am Baum entlang. Ab der dritten Häutung, die etwa im Juni auftritt, besitzen die Raupen die giftigen Haare (Eiweißgift Thaumetopoein). Die Raupen bauen aus abgestreifter Haut und Kot an Stämmen und Astgabelungen bis 1 Meter lange Nester. Ende Juni/Anfang Juli verpuppen sich die Raupen, aus denen nach ca. 3 bis 5 Wochen der Falter wird. Die Nester können jedoch noch über mehrere Jahre weiter bestehen und stellen so lange noch eine Gefahr dar. Gifthaare können mit dem Wind bis zu 100 Meter weit weggeweht werden.
+
+Eichenprozessionsspinner treten häufig an einzeln stehenden Eichen auf, an denen es warm und hell ist (auch in der Nähe von Straßenlaternen und Flutlichtern).
+
+==== Möglichkeiten zur Beseitigung ====
+
+^  Methode  ^  Beurteilung  ^  Entsorgung  ^
+| Absaugen mit Groß-/Industrie-Staubsauger | gut, vollständige Entfernung der Gifthaare | Staubsaugerbeutel in Müllverbrennungsanlage geben |
+| Verkleben mit Wasserglas | gut, kaum Gifthaar-Rückstände | nach Entfernung vom Baum in Müllverbrennungsanlage geben |
+| Einsprühen mit Wasser, danach Abflammen | evtl. Schäden am Baum\\ vermehrte Freisetzung von Gifthaaren | entfällt |
+
+Der Müllsack nicht einfach in den Mülleimer werfen, sondern sicher der Verbrennung zuführen!
+
+Chemische Maßnahmen sollten nur von Fachleuten/-behörden durchgeführt werden.
+
+==== gesundheitliche Auswirkungen ====
+
+Die Symptome nach Berührung können sehr unterschiedlich sein. In der Regel führt ein Kontakt nur zu Reizungen, in Einzelfällen können aber auch stärkere allergische Reaktionen auftreten. Die Reizungen gehen normalerweise nach maximal 7 Tagen wieder zurück.
+
+Symptome beim Berühren:
+
+  * juckende Hautausschläge; Hautrötungen, Quaddeln und Bläschen an Gesicht, Hals und Ellenbogenbeugen
+  * selten Bindehautentzündungen (wenn die Häärchen in die Augen geraten)
+
+Symptome beim Einatmen:
+
+  * Reizungen im Rachenbereich, Halsschmerzen, Husten
+
+Die Auswirkungen können in der Regel von Ärzten gut behandelt werden.
+
+==== Mustertext für Warnzettel ====
+
+<WRAP round box 90% center>
+**! ACHTUNG !**
+
+**Gesundheitsgefahr !!!**
+
+**Eichenprozessionsspinner**\\
+In der Umgebung Ihrer Wohnung ist es zum Auftreten von Raupen des Prozessionsspinners gekommen.
+
+**Hautkontakt vermeiden**\\
+Direkter Kontakt mit Raupen und Netzgespinster sowie unmittelbarer Aufenthalt in der Nähe von Nestbäumen sind zu vermeiden!
+
+Bei Auftreten von allergischen Symptomen suchen Sie bitte Ihren behandelnden Arzt oder Hautarzt auf.\\
+Teilen Sie ihm den möglichen Kontakt mit diesen Raupen mit.
+
+Die betroffenen Bäume befinden sich ...\\
+Bitte dieses Gebiet meiden.
+
+Feuerwehr Musterstadt
+</WRAP>
+
+Mustertext entnommen aus: Kreisfeuerwehrverband Erlangen-Höchstadt; Feuerwehreinsatz: Eichenprozessionsspinner; Bericht von Kreisbrandrat Karl-Heinz Schalk
+
+===== Quellenangabe =====
+
+  * [[http://www.lwf.bayern.de/waldbewirtschaftung/waldschutz/schaedlinge-und-baumkrankheiten/verzeichnis/eichenprozessionsspinner/35271/linkurl_1.pdf|Informationen zum Eichenprozessionsspinner in Bayern]], Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit, Bayerische Landesanstalt für Wald und Forstwirtschaft
+  * [[http://www.lfs-bw.de/Fachthemen/Einsatztaktik-fuehrung/Sonstiges/Documents/eichenprozessionsspinner_FVA.pdf|Waldschutz-Infor Eichenprozessionsspinner]], Forstliche Versuchs- und Forschungsanstalt Baden-Württemberg
+  * [[http://www.feuerwehr-aschaffenburg.de/Downloaddateien/Eichenprozessionspinner/eichenprozessionsspinner_herzogen.pdf|Feuerwehreinsatz: Eichenprozessionsspinner]], Kreisbrandrat Karl-Heinz Schalk, Kreisfeuerwehrverband Erlangen-Höchstadt
+  * Bild einzelne Eichenprozessionsspinner-Raupe: [[https://commons.wikimedia.org/wiki/File:ThaumetopoeaProcessionea3.jpg]], veröffentlicht vom Wikipedia-Nutzer [[https://commons.wikimedia.org/wiki/User:Fice|Christian Fischer]] unter Creative Commons Attribution-Share Alike 3.0 Unported-Lizenz
+  * Bild Eichenprozessionsspinner-Nest: [[https://commons.wikimedia.org/wiki/File:Thaumetopoea_processionea_caterpillars_nest.JPG]], veröffentlicht vom Wikipedia-Nutzer [[https://commons.wikimedia.org/wiki/User:FWHS|Falko Seyffarth]] unter GNU Free Documentation Lizenz, Version 1.2
+
+===== Stichwörter =====
+
+Thaumetopoea processionea

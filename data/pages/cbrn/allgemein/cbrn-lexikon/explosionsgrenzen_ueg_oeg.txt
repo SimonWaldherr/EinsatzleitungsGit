@@ -1,0 +1,19 @@
+====== Explosionsgrenzen (UEG/OEG) ======
+
+===== Untere Explosionsgrenze (UEG) =====
+
+auch LEL (Lower Explosion Level)
+
+Niedrigste Konzentration eines brennbaren Stoffs in der Luft, bei dem sich das Gemisch entzünden kann (siehe [[cbrn:allgemein:cbrn-lexikon:flammpunkt|Flammpunkt]]).
+
+Siehe auch [[cbrn:geraete:ex-messgeraet|Ex-Messgeräte]] für Hinweise zum Vorgehen im Messeinsatz und Umrechnungshilfe falls das Messgerät auf einen anderen Stoff als den zu Messenden kalibriert ist.
+
+===== Obere Explosionsgrenze (OEG) =====
+
+auch UEL (Upper Explosion Level)
+
+Oberhalb der OEG ist das Gemisch zu fett für eine Zündung. Auf dieses Kriterium sollte sich jedoch nicht verlassen werden, weil sich die Situation schnell ändern kann (z.B. Verteilung des Gemischs durch einen Windstoß), wodurch die OEG wieder unterschritten wird.
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

@@ -1,0 +1,76 @@
+====== VINYLPYRIDINE, STABILISIERT - UN 3073 - Gefahrnr. 638 - ERICard-Nr. 6-51 - UN3073 ======
+|Stoff | VINYLPYRIDINE, STABILISIERT   |
+|UN-Nummer | 3073   |
+|[[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Gefahrnummer]] | 638   |
+|ADR-Gefahrzettel |  {{cbrn:6-1.png?nolink&100}} + {{cbrn:3.png?nolink&100}} + {{cbrn:8.png?nolink&100}}    |
+|ADR-Klasse | 6.1   |
+|Klassifizierungscode | TFC   |
+|[[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]] | II   |
+|ERI-Card | 6-51   |
+
+==== Unfall-Hilfeleistung ====
+===== Giftiger flüssiger Stoff, entzündbar, ätzend =====
+==== 1. Eigenschaften. ====
+  * Kann spontan zu einer heftigen Reaktion führen.
+  * Giftig bei Verschlucken, Einatmen oder Hautkontakt.
+  * Ätzend, kann Haut, Augen und Atemwege schädigen.
+  * [[cbrn:allgemein:begriffsklaerungen#flammpunkt|Flammpunkt]] unter 60°C.
+  * Nicht oder nur teilweise mischbar mit Wasser (weniger als 10%), leichter als Wasser.
+==== 2. Gefahren. ====
+  * Die Hitzeeinwirkung auf Behälter führt zu Druckanstieg mit Berstgefahr und nachfolgender Explosion.
+  * Einwirkung von Wärme, Licht, Erschütterung oder Kontakt mit anderen Chemikalien führt zu plötzlichem Druckanstieg oder Selbstentzündung.
+  * Entwickelt giftige und ätzende Dämpfe, auch im Brandfall.
+  * Kann mit Luft explosionsfähige Gemische bilden.
+  * Kann Metalle angreifen, hierbei Wasserstoffgas entwickeln und mit Luft ein explosionsfähiges Gemisch bilden.
+  * Die Dämpfe können unsichtbar sein und sind schwerer als Luft. Sie breiten sich am Boden aus und können in Kanalisation und Kellerräume eindringen.
+  * Starke Wärmeeinwirkung kann den Stabilisator zerstören. [[cbrn:allgemein:tuis|Fachberater hinzuziehen]]!
+==== 3. Persönlicher Schutz. ====
+  * [[cbrn:allgemein:koerperschutzformen#koerperschutz_form_3_chemikalienschutzanzug_csa|Chemikalienschutzanzug CSA-Vollschutz]]
+  * Unter dem Schutzanzug gegebenenfalls Feuerschutzkleidung nach EN 469 tragen.
+==== 4. Einsatz-Massnahmen. ====
+=== 4.1 Allgemeine Massnahmen. ===
+  * Nicht rauchen, Zündquellen ausschließen.
+  * Aus geschützter Stellung arbeiten, um die Gefährdung der Einsatzkräfte zu reduzieren. Mobile Wasserwerfer verwenden.
+  * Mit dem Wind vorgehen. Schutzausrüstung bereits vor dem Betreten des [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]]s anlegen.
+  * Zahl der Einsatzkräfte im [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] beschränken.
+=== 4.2 Massnahmen bei Stoffaustritt. ===
+  * Lecks wenn möglich schließen.
+  * Ausgetretenes Produkt mit allen verfügbaren Mitteln auffangen.
+  * [[cbrn:geraete:ex-messgeraet|Auf explosionsfähige Atmosphäre überprüfen]].
+  * Keine funkenreißenden Werkzeuge verwenden. Explosionsgeschützte Ausrüstung einsetzen.
+  * Flüssigkeit mit Sand, Erde oder anderen geeigneten Materialien aufnehmen oder mit [[brand:allgemein:schaum|Schaum]] abdecken.
+  * Falls der Stoff in offenes Gewässer oder Kanalisation gelangt, zuständige Behörde informieren.
+  * Falls keine Gefahren für Einsatzkräfte oder die Öffentlichkeit entstehen, Kanalisation und Kellerräume belüften.
+=== 4.3 Massnahmen bei Feuer (falls Stoff betroffen). ===
+  * Behälter mit Wasser kühlen.
+  * Mit [[brand:allgemein:schaum|Schaum]] löschen.
+  * Nicht mit Vollstrahl, Sprühstrahl oder [[brand:allgemein:pulver|Pulver]] löschen
+  * Brandgase wenn möglich mit Sprühstrahl niederschlagen.
+  * Aus Umweltschutzgründen [[brand:allgemein:loeschwasserrueckhaltung|Löschmittel zurückhalten]].
+==== 5. Erste Hilfe. ====
+  * Falls der Stoff in die Augen gelangt ist, mindestens 15 Minuten mit Wasser spülen und Personen sofort medizinischer Behandlung zuführen.
+  * Personen, die mit dem Stoff in Berührung gekommen sind oder Dämpfe eingeatmet haben, sofort medizinischer Behandlung zuführen. Dabei alle verfügbaren Stoffinformationen mitgeben.
+  * Bei Verbrennungen die betroffenen Hautbereiche sofort und so lange wie möglich mit kaltem Wasser kühlen. An der Haut haftende Kleidung nicht entfernen.
+  * Kontaminierte Kleidung sofort entfernen und betroffene Hautbereiche mit Seife und viel Wasser spülen.
+  * Mund-zu-Mund-Beatmung vermeiden. Beatmungsgeräte anwenden.
+==== 6. Besondere Vorsichtsmassnahmen bei der Bergung von Havariegut. ====
+  * Beim Umpumpen auf ausreichende Erdung achten.
+  * Explosionsgeschützte Pumpen einsetzen. Bei Elektropumpen auf geeignete [[cbrn:chemisch:temperaturklasse|Temperaturklasse]] achten. Mindestens T3 !
+  * Säurebeständige Ausrüstung einsetzen.
+  * Ausgetretenes Produkt in belüfteten und mit Absorptionsfiltern ausgestatteten Behältern aufnehmen.
+==== 7. Vorsichtsmassnahmen nach dem Hilfeleistung-Einsatz. ====
+=== 7.1 Ablegen der Schutzkleidung. ===
+  * Vor dem Ablegen von Maske und Schutzanzug, kontaminierten Anzug und Atemschutzgerät mit Wasser/Seifenlösung abspülen.
+  * Beim Entkleiden von kontaminierten Einsatzkräften oder bei der Handhabung von kontaminiertem Gerät chemikalienbeständige Kleidung und umluftunabhängigen Atemschutz tragen.
+  * Kontaminierte Reinigungsflüssigkeit zurückhalten.
+=== 7.2 Reinigung der Ausrüstung. ===
+  * Vor Verlassen der Einsatzstelle [[cbrn:allgemein:tuis|Fachleute hinzuziehen]].
+===== Quelle und Copyright =====
+
+Bitte nehmen Sie die Verwendungshinweise zu den ERI-Cards auf der [[cbrn:ericards:start#allgemeine_hinweise|ERI-Card Übersichtsseite]] zur Kenntnis.
+
+Diese ERICard kann im Original unter folgendem Link aufgerufen werden: [[http://www.ericards.net/psp/ericards.psp_ericard?lang=3&subkey=30731901]]
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

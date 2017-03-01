@@ -1,0 +1,67 @@
+====== Rettungskarten für zivile Luftfahrzeuge ======
+
+Boeing (und Douglas bzw. McDonnell Douglas) sowie Airbus bieten Rettungskarten für ihre Flugzeuge an, für die allerdings keine Nutzungserlaubnis zum direkten Einbinden in das Einsatzleiterwiki erteilt wurde. Diese können aber bei bestehender Internetverbindung direkt heruntergeladen werden:
+
+<WRAP group>
+<WRAP half column>
+==== Boeing ====
+
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arff707.pdf|Boeing 707]]
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arff717.pdf|Boeing 717]]
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arff720.pdf|Boeing 720]]
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arff727.pdf|Boeing 727]]
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arff737.pdf|Boeing 737]]
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arff737max.pdf|Boeing 737-MAX]]
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arff747.pdf|Boeing 747]]
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arff757.pdf|Boeing 757]]
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arff767.pdf|Boeing 767]]
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arff7672c.pdf|Boeing 767-2C]]
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arff777.pdf|Boeing 777]]
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arff787.pdf|Boeing 787]] 
+
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arffdc3.pdf|Douglas DC-3]]
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arffdc6.pdf|Douglas DC-6]]
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arffdc7.pdf|Douglas DC-7]]
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arffdc8.pdf|Douglas DC-8]]
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arffdc9.pdf|Douglas DC-9]]
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arffdc10.pdf|Douglas DC-10]]
+
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arffmd11.pdf|McDonnell Douglas MD-11]]
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arffmd80.pdf|McDonnell Douglas MD-80]]
+  * [[http://www.boeing.com/assets/pdf/commercial/airports/arff/arffmd90.pdf|McDonnell Douglas MD-90]]
+</WRAP>
+
+<WRAP half column>
+==== Airbus ====
+
+  * [[http://www.airbus.com/fileadmin/media_gallery/files/tech_data/ARFC/ARFC_A300.pdf|A300]]
+  * [[http://www.airbus.com/fileadmin/media_gallery/files/tech_data/ARFC/ARFC_A300-600.pdf|A300-600]]
+  * [[http://www.airbus.com/fileadmin/media_gallery/files/tech_data/ARFC/ARFC_A300-600ST.pdf|A300-600ST]]
+  * [[http://www.airbus.com/fileadmin/media_gallery/files/tech_data/ARFC/ARFC_A300F4-600.pdf|A300F4-600]]
+  * [[http://www.airbus.com/fileadmin/media_gallery/files/tech_data/ARFC/ARFC_A310.pdf|A310]]
+  * [[http://www.airbus.com/fileadmin/media_gallery/files/tech_data/ARFC/ARFC_A318_May14.pdf|A318]]
+  * [[http://www.airbus.com/fileadmin/media_gallery/files/tech_data/ARFC/ARFC_A319_May14.pdf|A319 / A319neo]]
+  * [[http://www.airbus.com/fileadmin/media_gallery/files/tech_data/ARFC/ARFC_A320_May14.pdf|A320 / A320neo]]
+  * [[http://www.airbus.com/fileadmin/media_gallery/files/tech_data/ARFC/ARFC_A321_May14.pdf|A321 / A321neo]]
+  * [[http://www.airbus.com/fileadmin/media_gallery/files/tech_data/ARFC/ARFC_A330-200-300_Jan14.pdf|A330-200/-300]]
+  * [[http://www.airbus.com/fileadmin/media_gallery/files/tech_data/ARFC/ARFC_A330-200F_Jan14.pdf|A330-200F]]
+  * [[http://www.airbus.com/fileadmin/media_gallery/files/tech_data/ARFC/ARFC_A340-200-300_Jan14.pdf|A340-200/-300]]
+  * [[http://www.airbus.com/fileadmin/media_gallery/files/tech_data/ARFC/ARFC_A340-500_Jan14.pdf|A340-500]]
+  * [[http://www.airbus.com/fileadmin/media_gallery/files/tech_data/ARFC/ARFC_A340-600_Jan14.pdf|A340-600]]
+  * [[http://www.airbus.com/fileadmin/media_gallery/files/tech_data/ARFC/Airbus-ARFC_A350-XWB-Oct14.pdf|A350 XWB]]
+  * [[http://www.airbus.com/fileadmin/media_gallery/files/tech_data/ARFC/ARFC_A380.pdf|A380]] 
+</WRAP>
+</WRAP>
+
+===== Weblinks =====
+
+Sollte einer der obigen Links aufgrund einer kurzfristigen Änderung nicht mehr funktionieren, können Sie hier die Übersichtsseiten der Hersteller aufrufen und dort nachsehen:
+
+  * [[http://www.boeing.com/commercial/airports/rescue_fire.page|Boeing-Rettungskarten]]
+  * [[http://www.airbus.com/support/maintenance-engineering/technical-data/aircraft-rescue-firefighting-charts/|Airbus-Rettungskarten]]
+
+Letzte Überprüfung auf Aktualität: 01/2016
+
+===== Stichwörter =====
+
+Rettungsdatenblatt, Rettungsdatenblätter, Flugzeug, Flugzeugabsturz, Absturz

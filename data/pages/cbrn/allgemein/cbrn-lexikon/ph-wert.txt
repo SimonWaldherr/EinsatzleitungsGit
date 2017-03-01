@@ -1,0 +1,19 @@
+====== pH-Wert ======
+
+{{:cbrn:allgemein:cbrn-lexikon:ph-skala.png?nolink|pH-Wert-Skala}}
+
+Die Konzentration und damit die Aggressivität von [[cbrn:chemisch:klasse_8:start|Säuren und Laugen]] wird durch den pH-Wert angegeben. Je weiter der pH-Wert von 7 (neutral) entfernt liegt, desto aggressiver ist der jeweilige Stoff.
+
+^Lösung  ^  Sauer  ^  Neutral  ^  Alkalisch  |
+^pH-Wert  |  Kleiner als 7  |  7  |  Größer als 7  |
+^Beispiel:  |  Salzsäure 35% \\ pH-Wert= -1  |  H<sub>2</sub>O  |  Ammoniak \\ pH-Wert= 11  |
+^Lackmuspapier- \\ färbung|  <WRAP danger>**Rot**</WRAP>  |  <WRAP safety>**Grün**</WRAP>  |  <WRAP notice>**Blau**</WRAP>  |
+
+===== Weblinks =====
+
+  * [[wpde>pH-Wert|Wikipedia-Artikel pH-Wert]]
+
+===== Quellenangabe =====
+
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr
+  * Grafik [[https://commons.wikimedia.org/wiki/File:PHscalenolang.png|pH-Wert-Skala]]: veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:Patr%C3%ADciaR|PatríciaR]] unter CC BY-SA 2.5-Lizenz

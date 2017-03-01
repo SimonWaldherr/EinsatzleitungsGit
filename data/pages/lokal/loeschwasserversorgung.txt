@@ -1,0 +1,5 @@
+====== Löschwasserversorgung ======
+
+Diese Seite dient der Demonstration in welcher Art und Weise der lokale Bereich in einer Einsatzleiterwiki-Installation der eigenen Feuerwehr genutzt werden könnte. Sie ist in der Online-Variante des Einsatzleiterwikis für die Bearbeitung gesperrt, um ein fälschliches Eintragen eigener Daten ins Internet zu verhindern.
+
+In diesem Bereich können Sie unterirdische Löschwasserbehälter, Hydrantenpläne, Saugstellen und Ähnliches ablegen. 

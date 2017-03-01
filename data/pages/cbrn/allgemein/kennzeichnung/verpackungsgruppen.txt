@@ -1,0 +1,24 @@
+====== Verpackungsgruppen ======
+
+===== zu treffende Maßnahmen =====
+
+Ist ein Stückguttransport an einem Gefahrgutunfall beteiligt und auf den Ladepapieren sind viele Stoffe aufgelistet, so kann anhand der Verpackungsgruppe eine Reihenfolge für die Gefährlichkeit aufgestellt werden:
+
+**Je niedriger die Verpackungsgruppe, desto höher die Gefahr.**
+
+Somit lassen sich die gefährlichsten Stoffe herausfinden und über Recherche in Gefahrstoffdatenbanken die zu treffenden Maßnahmen primär für diese Stoffe ermitteln. Dabei ist jedoch zu beachten, dass bei der Reaktion verschiedener, alleine eher ungefährlicher freigewordener Stoffe auch gefährlichere Produkte entstehen können!
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+Das [[cbrn:allgemein:adr|ADR]] schreibt in Abhängigkeit zur Gefährlichkeit eines Stoffs Kriterien für dessen Verpackung vor. Diese werden in drei verschiedene sogenannte Verpackungsgruppen eingeteilt:
+
+  * Verpackungsgruppe I: Stoffe mit hoher Gefahr
+  * Verpackungsgruppe II: Stoffe mit mittlerer Gefahr
+  * Verpackungsgruppe III: Stoffe mit geringer Gefahr
+
+Ein Gefahrstoff kann auch in eine höherwertige Verpackung verpackt werden; erfordert ein Gefahrstoff eine Verpackung der Verpackungsgruppe II kann er also auch in eine Verpackung eingepackt werden die den Anforderungen der Verpackungsgruppe I gerecht wird.
+
+===== Quellenangabe =====
+
+  * FwDV 500, Stand 2012
+  * Lehrgangsunterlagen „Führer im ABC-Einsatz“, Staatliche Feuerwehrschule Regensburg

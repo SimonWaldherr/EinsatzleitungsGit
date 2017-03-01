@@ -1,0 +1,9 @@
+====== BLEVE ======
+
+Ein BLEVE (//Boiling Liquid Expanding Vapour Explosion//) kann entstehen, wenn in einem Tank die Gasphase über einem verflüssigtem, brennbaren Gas so stark erhitzt wird, dass durch den Druckaufbau der Behälter aufreißt. Die nun austretende große Gasmenge entzündet sich in einer Explosion und einem Feuerball.
+
+[[cbrn:chemisch:klasse_2:fluessiggasberechnungen#bleve_boiling_liquid_expanding_vapour_explosion|Berechnung der Auswirkungen eines BLEVE]]
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

@@ -1,0 +1,129 @@
+<WRAP round info>
+Für diese Anleitung sind noch keine Bilder bzw. Screenshots vorhanden. Wenn Sie diese Anleitung befolgen und sich mit dem Erstellen von Screenshots auskennen, so wären wir Ihnen sehr dankbar wenn Sie uns diese zusenden.
+</WRAP>
+
+====== Installation unter Mac OS ======
+
+<WRAP round important 100%>
+Diese Anleitung gilt ab OS X 10.8. In früheren Versionen wird der Webserver auf eine andere Art und Weise freigeschaltet, daher ist diese Anleitung für OS X 10.7 und älter nicht anwendbar.
+</WRAP>
+
+Da Wiki-Systeme eigentlich für den Betrieb auf (Internet-)Servern entwickelt wurden, muss für die Nutzung des Einsatzleiterwikis eine entsprechende Server-Software aktiviert werden, die jedoch bei OS X bereits vorinstalliert ist. Um Aktualisierungen einfacher zu gestalten, werden die Programm- und die Datenbasis des Einsatzleiterwikis getrennt angeboten. Somit müssen insgesamt drei Schritte werden:
+
+  - Server-Software aktivieren
+  - Wiki-Programm (DokuWiki) mit entsprechenden Erweiterungen installieren
+  - Daten des Einsatzleiterwikis einfügen
+
+Im weiteren Verlauf des Artikels wird das Vorgehen zur Installation Schritt für Schritt erklärt.
+
+===== Aktivierung der Server-Software =====
+
+Der Apache-Webserver ist in OS X bereits installiert und muss nur noch aktiviert und eine Einstellung angepasst werden. Zuerst muss die Apache-Erweiterung PHP aktiviert werden. Öffnen Sie dazu //Launchpad// und suchen Sie die Anwendung //Terminal//. Nach einem Klick auf diese sehen Sie ein schwarzes Fenster mit einem blinkenden Strich.
+
+Geben Sie nun in das Fenster ein:
+
+<code>
+sudo nano /etc/apache2/httpd.conf
+</code>
+
+und drücken Sie //Enter//. Sie müssen nun Ihr Passwort eingeben. **Dabei erscheinen keine Zeichen wie Sternchen, dies ist normal!** Drücken Sie nach der Eingabe des Passworts erneut //Enter//, und Sie sehen die angesprochene Konfigurationsdatei in einem einfachen Texteditor.
+
+Drücken Sie nun ''CTRL + W'' um die Suchfunktion zu öffnen und suchen Sie die Zeile
+
+<code>
+#LoadModule php5_module libexec/apache2/libphp5.so
+</code>
+
+Entfernen Sie die Raute am Anfang der Zeile sodass dort nun steht
+
+<code>
+LoadModule php5_module libexec/apache2/libphp5.so
+</code>
+
+und drücken Sie ''CTRL + O'' (großes o) um die geänderte Datei zu speichern und dann ''CTRL + X'' um die Datei wieder zu schließen.
+
+Damit ist die Konfiguration der Server-Software beendet.
+
+===== Installation der Wiki-Software =====
+
+Als nächstes wird die Wiki-Software installiert. Dafür muss diese als erstes unter dem Link http://www.einsatzleiterwiki.de/index.php/download/category/2-weiterfuehrende-dateien-fuer-fortgeschrittene-nutzer?download=5:einsatzleiterwiki-software heruntergeladen werden.
+
+Entpacken Sie das ZIP-Archiv in den Ordner ''/Library/WebServer/Documents/''. Dabei wird der Unterordner ''einsatzleiterwiki'' erstellt.
+
+===== Installation der Einsatzleiterwiki-Daten =====
+
+Im nächsten Schritt müssen die Einsatzleiterwiki-Daten heruntergeladen werden, die Sie unter der Adresse http://www.einsatzleiterwiki.de/index.php/download/category/2-weiterfuehrende-dateien-fuer-fortgeschrittene-nutzer?download=4:einsatzleiterwiki-daten finden.
+
+Wechseln Sie in das im vorherigen Schritt erwähnte Unterverzeichnis ''einsatzleiterwiki'' und entpacken Sie das Archiv mit den Einsatzleiterwiki-Daten in dieses. Integrieren Sie dabei den Ordner ''data'' aus dem heruntergeladenen Archiv in den bereits bestehenden.
+
+===== Installation abschließen =====
+
+Als letztes muss als Eigentümer der eben entpackten Dateien der Benutzer eingetragen werden unter dem der Apache-Server betrieben wird. Unter OS X ist dies der Benutzer **_www**. Öffnen Sie dazu erneut ein Terminal-Fenster, und geben Sie in dieses ein:
+
+<code>
+sudo chmod -R a+w /Library/WebServer/Documents/einsatzleiterwiki
+</code>
+
+Drücken Sie Enter und geben Sie Ihr Passwort ein. Geben Sie danach in das Fenster ein:
+
+<code>
+sudo chown -R _www /Library/WebServer/Documents/einsatzleiterwiki
+</code>
+
+Nun kann der Server gestartet werden. Dies geschieht mit dem Befehl
+
+<code>
+sudo apachectl start
+</code>
+
+Der Server läuft nun, und Sie können mit der Einrichtung und Benutzung des Einsatzleiterwikis fortfahren.
+
+===== Administrator-Benutzerkonto erstellen und erster Start =====
+
+Rufen Sie in Ihrem Browser die URL [[http://127.0.0.1/einsatzleiterwiki/install.php]] auf.
+
+Füllen Sie die Felder auf der linken Seite aus:
+
+  * Wiki-Name: Der Name des Einsatzleiterwikis, welcher später in der Titelleiste Ihres Browsers angezeigt wird. Tragen Sie hier z.B. ein: "Einsatzleiterwiki Feuerwehr XY"
+  * Die Felder Administrator Benutzername, Voller Name, E-Mail und Passwort sollten selbsterklärend sein.
+  * Klicken Sie nun auf Speichern. Auf der sich nun öffnenden Seite finden Sie den Link zur Startseite Ihres Einsatzleiterwikis. Alternativ können Sie dies jederzeit unter folgender Adresse aufrufen: [[http://127.0.0.1/einsatzleiterwiki/doku.php]].
+
+===== Suchindex erstellen =====
+
+Als letztes müssen Sie noch den Suchindex erstellen, wie auf der Seite [[wiki:hilfe:plugins:searchindex|Datenbank der Volltextsuchfunktion neu erzeugen]] beschrieben.
+
+===== Server automatisch starten =====
+
+Um den Server bei jedem Systemstart automatisch mitzustarten, müssen noch die folgenden beiden Befehle eingegeben werden:
+
+<code>
+sudo apachectl stop
+</code>
+
+um den Server anzuhalten und
+
+<code>
+sudo launchctl load -w /System/Library/LaunchDaemons/org.apache.httpd.plist
+</code>
+
+um den Server automatisch bei jedem Hochfahren zu starten.
+
+<WRAP round important>
+Wenn Sie den Apache-Server nicht wie hier beschrieben so einrichten dass er automatisch beim Systemstart mitgestartet wird, so müssen Sie jedes Mal den Befehl
+
+<code>
+sudo apachectl start
+</code>
+
+eingeben bevor Sie das Einsatzleiterwiki benutzen können.
+</WRAP>
+
+===== Abschluss =====
+
+Um das Einsatzleiterwiki schneller starten zu können, sollten Sie sich ein Lesezeichen in Ihrem Browser anlegen. Ggf. können Sie dieses auch auf Ihrem Desktop speichern.
+
+Viel Spaß mit Ihrem Einsatzleiterwiki unter OS X!
+
+===== Quellenangabe =====
+
+  * http://anver.ch/articles/article-13.php

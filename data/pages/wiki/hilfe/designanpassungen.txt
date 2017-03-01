@@ -1,0 +1,35 @@
+====== Designanpassungen ======
+
+<WRAP center round help 100%>
+Falls Sie sich bisher noch nie mit HTML- und CSS-Programmierung beschäftigt haben, ist [[https://wiki.selfhtml.org/wiki/CSS]] sowie [[http://www.css4you.de/]] eine gute Anlaufstelle. Auch wenn es nicht sonderlich kompliziert ist, ein grundlegendes Verständnis über das Programmieren sollte vorhanden sein.
+</WRAP>
+
+Der größte Teil des Aussehens der dem Einsatzleiterwiki zugrunde liegende DokuWiki-Software kann durch [[wpde>Cascading_Style_Sheets|Cascading Style Sheets]] angepasst werden. Die DokuWiki-Software selbst definiert nur einige wenige Designregeln. Der größte Teil wird im genutzten Template sowie in den verwendeten Plugins festgelegt.
+
+Die dort festgelegten Regeln können durch eigene CSS-Regeln überschrieben werden. Dies kann in vier verschiedenen Dateien geschehen. Diese Dateien müssen im Unterordner ''conf'', ausgehend vom Wiki-Hauptverzeichnis, angelegt werden.
+
+^ CSS-Datei              ^ Wann sie verwendet wird ^
+| ''conf/userstyle.css'' | Im Bildschirm-Modus |
+| ''conf/userprint.css'' | Wenn die Seite gedruckt wird |
+| ''conf/userfeed.css''  | Wenn der [[doku>:de:syndication|(RSS-)Feed]] dargestellt wird |
+| ''conf/userall.css''   | In jedem Modus |
+
+Die hier genannten Dateien werden bei einer Aktualisierung nicht angetastet und bleiben unverändert bestehen.
+
+===== Links zu Grafiken und weiteren Stylesheets =====
+
+Relative Links zu Grafiken (''url(...)'') und verlinkte Stylesheets (''@import ...'') in eigenen CSS-Dateien werden durch DokuWiki automatisch angepasst; sie werden als relativ zum Hauptverzeichnis des Templates angesehen.
+
+===== Beispiel =====
+
+<file css userstyle.css>
+/* Hintergrundfarbe für Tabellenüberschriften (orange) */
+
+.dokuwiki table.inline th {
+	background-color: #ffcc00;
+}
+</file>
+
+===== Quellenangabe =====
+
+  * [[https://www.dokuwiki.org/start?id=devel:css]], übersetzt aus dem Englischen. Der Originalartikel geht jedoch noch wesentlich weiter ins Detail

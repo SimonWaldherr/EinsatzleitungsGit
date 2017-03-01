@@ -1,0 +1,62 @@
+====== NITROCRESOLE, FEST - UN 2446 - Gefahrnr. 60 - ERICard-Nr. 6-03 - UN2446 ======
+|Stoff | NITROCRESOLE, FEST   |
+|UN-Nummer | 2446   |
+|[[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Gefahrnummer]] | 60   |
+|ADR-Gefahrzettel |  {{cbrn:6-1.png?nolink&100}}    |
+|ADR-Klasse | 6.1   |
+|Klassifizierungscode | T2   |
+|[[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]] | III   |
+|ERI-Card | 6-03   |
+
+==== Unfall-Hilfeleistung ====
+===== Giftiger Stoff =====
+==== 1. Eigenschaften. ====
+  * Gefährlich für Haut, Augen und Atemwege.
+  * Giftig bei Verschlucken, Einatmen oder Hautkontakt.
+  * [[cbrn:allgemein:begriffsklaerungen#flammpunkt|Flammpunkt]] über 60°C oder nicht entzündbar.
+==== 2. Gefahren. ====
+  * Die Hitzeeinwirkung auf Behälter führt zu Druckanstieg mit Berstgefahr und nachfolgender Explosion.
+  * Entwickelt giftige und reizende Dämpfe, auch im Brandfall.
+  * Die Dämpfe können unsichtbar sein und sind schwerer als Luft. Sie breiten sich am Boden aus und können in Kanalisation und Kellerräume eindringen.
+==== 3. Persönlicher Schutz. ====
+  * Chemikalienbeständige Kleidung (z.B. Spritzschutz-, Säureschutzkleidung)
+  * Umluftunabhängiger Atemschutz
+  * Chemikalienschutzanzug bei Arbeiten im Wirkbereich des Stoffes oder der Dämpfe
+==== 4. Einsatz-Massnahmen. ====
+=== 4.1 Allgemeine Massnahmen. ===
+  * Mit dem Wind vorgehen. Schutzausrüstung bereits vor dem Betreten des [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]]s anlegen.
+=== 4.2 Massnahmen bei Stoffaustritt. ===
+  * Lecks wenn möglich schließen.
+  * Ausgetretenes Produkt mit allen verfügbaren Mitteln auffangen.
+  * Flüssigkeit mit Sand, Erde oder anderen geeigneten Materialien aufnehmen.
+  * Falls der Stoff in offenes Gewässer oder Kanalisation gelangt, zuständige Behörde informieren.
+  * Falls keine Gefahren für Einsatzkräfte oder die Öffentlichkeit entstehen, Kanalisation und Kellerräume belüften.
+=== 4.3 Massnahmen bei Feuer (falls Stoff betroffen). ===
+  * Behälter mit Wasser kühlen.
+  * Mit Sprühstrahl löschen
+  * Nicht mit Vollstrahl löschen.
+  * Brandgase wenn möglich mit Sprühstrahl niederschlagen.
+  * Aus Umweltschutzgründen [[brand:allgemein:loeschwasserrueckhaltung|Löschmittel zurückhalten]].
+==== 5. Erste Hilfe. ====
+  * Falls der Stoff in die Augen gelangt ist, mindestens 15 Minuten mit Wasser spülen und Personen sofort medizinischer Behandlung zuführen.
+  * Kontaminierte Kleidung sofort entfernen und betroffene Haut mit viel Wasser spülen.
+  * Personen, die mit dem Stoff in Berührung gekommen sind oder Dämpfe eingeatmet haben, sofort medizinischer Behandlung zuführen. Dabei alle verfügbaren Stoffinformationen mitgeben.
+  * Mund-zu-Mund-Beatmung vermeiden. Beatmungsgeräte anwenden.
+==== 6. Besondere Vorsichtsmassnahmen bei der Bergung von Havariegut. ====
+  * Ausgetretenes Produkt in belüfteten und mit Absorptionsfiltern ausgestatteten Behältern aufnehmen.
+==== 7. Vorsichtsmassnahmen nach dem Hilfeleistung-Einsatz. ====
+=== 7.1 Ablegen der Schutzkleidung. ===
+  * Vor dem Ablegen von Maske und Schutzanzug kontaminierten Anzug und Atemschutzgerät mit Wasser abspülen.
+  * Beim Entkleiden von kontaminierten Einsatzkräften oder bei der Handhabung von kontaminiertem Gerät chemikalienbeständige Kleidung und umluftunabhängigen Atemschutz tragen.
+  * Kontaminierte Reinigungsflüssigkeit zurückhalten.
+=== 7.2 Reinigung der Ausrüstung. ===
+  * Vor Verlassen der Einsatzstelle [[cbrn:allgemein:tuis|Fachleute hinzuziehen]].
+===== Quelle und Copyright =====
+
+Bitte nehmen Sie die Verwendungshinweise zu den ERI-Cards auf der [[cbrn:ericards:start#allgemeine_hinweise|ERI-Card Übersichtsseite]] zur Kenntnis.
+
+Diese ERICard kann im Original unter folgendem Link aufgerufen werden: [[http://www.ericards.net/psp/ericards.psp_ericard?lang=3&subkey=24461430]]
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

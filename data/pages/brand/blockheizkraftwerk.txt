@@ -1,0 +1,31 @@
+====== Blockheizkraftwerk (BHKW) ======
+
+Verwendung z.B. in Kombination mit [[cbrn:biologisch:biogasanlage|Biogasanlage]] wenn Treibstoff nicht über öffentliches Leitungsnetz bezogen wird.
+
+===== zu treffende Maßnahmen =====
+
+Allgemeine Maßnahmen für [[brand:gebaeudebrand|Gebäudebrände]] beachten!
+
+bei Brand des Blockheizkraftwerks:
+
+  * Treibstoffzufuhr absperren (meist [[cbrn:chemisch:klasse_2:stoffe:erdgas|(Erd-)Gas]] oder Diesel)
+  * Not-Aus-Schalter betätigen
+  * Strom abschalten
+  * Löschmittel [[brand:allgemein:schaum|Schaum]] und/oder [[brand:allgemein:co2|Kohlenstoffdioxid (CO2)]]
+  * Brandübertragung durch Lüftungsleitungen in andere Räume möglich
+  * Motor enthält Motor- und/oder Zündöl, entsprechende Maßnahmen ergreifen
+
+==== besondere Gefahren ====
+
+  * Verbrennungsgefahr an heißen Teilen (vor allem Zuleitung und Wärmespeicher)
+  * Verbrühungsgefahr durch Wasser(-dampf) wenn Leitungen brechen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Brandherde in Dämmungen und Verkleidungen möglich, trotz dass diese aus nicht brennbarem Material bestehen müssen
+
+===== Quellenangabe =====
+
+  * [[http://www.erdgas-suedwest.de/inhalte/185/D/849/Erdgas_und_Biogas_Leitfaden_fuer_Feuerwehren.pdf|Erdgas und Biogas - Leitfaden für Feuerwehren. Erdgas Südwest GmbH, 2011.]]
+
+===== Stichwörter =====

@@ -1,0 +1,59 @@
+====== ÖLSAATKUCHEN mit höchstens 1,5 Masse-% Öl und höchstens 11 Masse-% Feuchtigkeit - UN 2217 - Gefahrnr. 40 - ERICard-Nr. 4-02 - UN2217 ======
+|Stoff | ÖLSAATKUCHEN mit höchstens 1,5 Masse-% Öl und höchstens 11 Masse-% Feuchtigkeit   |
+|UN-Nummer | 2217   |
+|[[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Gefahrnummer]] | 40   |
+|ADR-Gefahrzettel |  {{cbrn:4-2.png?nolink&100}}    |
+|ADR-Klasse | 4.2   |
+|Klassifizierungscode | S2   |
+|[[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]] | III   |
+|ERI-Card | 4-02   |
+
+==== Unfall-Hilfeleistung ====
+===== Entzündbarer fester Stoff =====
+==== 1. Eigenschaften. ====
+  * Leicht oder spontan entzündbar.
+  * Selbsterhitzungsfähig
+==== 2. Gefahren. ====
+  * Entwickelt giftige und reizende Dämpfe bei starker Erwärmung oder Brand.
+  * Erwärmung von Behältern kann zum Druckanstieg und Bersten führen.
+  * Achtung, Rückzündungsgefahr über einen längeren Zeitraum.
+==== 3. Persönlicher Schutz. ====
+  * Umluftunabhängiger Atemschutz
+  * Chemikalienbeständige Kleidung bei Kontaminationsgefahr.
+==== 4. Einsatz-Massnahmen. ====
+=== 4.1 Allgemeine Massnahmen. ===
+  * Mit dem Wind vorgehen.
+  * Nicht rauchen, Zündquellen ausschließen.
+  * Zahl der Einsatzkräfte im [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] beschränken.
+=== 4.2 Massnahmen bei Stoffaustritt. ===
+  * Lecks wenn möglich schließen.
+  * Ausgetretenes Produkt mit allen verfügbaren Mitteln auffangen.
+  * Falls der Stoff in offenes Gewässer oder Kanalisation gelangt, zuständige Behörde informieren.
+=== 4.3 Massnahmen bei Feuer (falls Stoff betroffen). ===
+  * Behälter mit Wasser kühlen.
+  * Mit Vollstrahl löschen.
+  * Brandgase wenn möglich mit Sprühstrahl niederschlagen.
+  * Aus Umweltschutzgründen [[brand:allgemein:loeschwasserrueckhaltung|Löschmittel zurückhalten]].
+==== 5. Erste Hilfe. ====
+  * Falls der Stoff in die Augen gelangt ist, mindestens 15 Minuten mit Wasser spülen und Personen sofort medizinischer Behandlung zuführen.
+  * Personen, die mit dem Stoff in Berührung gekommen sind oder Dämpfe eingeatmet haben, sofort medizinischer Behandlung zuführen. Dabei alle verfügbaren Stoffinformationen mitgeben.
+  * Bei Verbrennungen die betroffenen Hautbereiche sofort und so lange wie möglich mit kaltem Wasser kühlen. An der Haut haftende Kleidung nicht entfernen.
+  * Kontaminierte Kleidung sofort entfernen und betroffene Hautbereiche mit Seife und viel Wasser spülen.
+==== 6. Besondere Vorsichtsmassnahmen bei der Bergung von Havariegut. ====
+  * Bergung des Produkts kann nicht mit Standardausrüstung durchgeführt werden! Sofort [[cbrn:allgemein:tuis|Fachberater hinzuziehen]].
+==== 7. Vorsichtsmassnahmen nach dem Hilfeleistung-Einsatz. ====
+=== 7.1 Ablegen der Schutzkleidung. ===
+  * Vor dem Ablegen von Maske und Schutzanzug kontaminierten Anzug und Atemschutzgerät mit Wasser abspülen.
+  * Beim Entkleiden von kontaminierten Einsatzkräften oder bei der Handhabung von kontaminiertem Gerät chemikalienbeständige Kleidung und umluftunabhängigen Atemschutz tragen.
+  * Kontaminierte Reinigungsflüssigkeit zurückhalten.
+=== 7.2 Reinigung der Ausrüstung. ===
+  * Vor Abtransport von der Einsatzstelle mit Wasser abspülen.
+===== Quelle und Copyright =====
+
+Bitte nehmen Sie die Verwendungshinweise zu den ERI-Cards auf der [[cbrn:ericards:start#allgemeine_hinweise|ERI-Card Übersichtsseite]] zur Kenntnis.
+
+Diese ERICard kann im Original unter folgendem Link aufgerufen werden: [[http://www.ericards.net/psp/ericards.psp_ericard?lang=3&subkey=22171223]]
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

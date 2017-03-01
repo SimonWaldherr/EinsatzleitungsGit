@@ -1,0 +1,58 @@
+====== Körperschutzformen ======
+
+Grundsätzlich müssen im Gefahrstoffeinsatz die Beständigkeitslisten der verwendeten Schutzkleidung mit den entsprechenden Durchbruchzeiten zu dem jeweiligen Gefahrstoff beachtet werden!
+
+===== Körperschutz Form 1 =====
+
+{{ cbrn:allgemein:koerperschutz_form_1.jpeg?nolink&100|Körperschutz Form 1}}
+
+  * Schutz gegen Kontamination mit festen Stoffen
+  * eingeschränkter Spritzschutz
+  * nicht flüssigkeits- oder gasdicht
+
+Bestandteile:
+
+  * Schutzbekleidung zur Brandbekämpfung
+  * Schutzhaube
+  * das Tragen von Gummistiefeln und Chemikalienschutzhandschuhen wird empfohlen
+
+Ist das thermische Risiko höher als das Kontaminationsrisiko, so ist die Form 1 im ABC-Einsatz zu tragen. Dann sind Gummi- gegen Lederstiefel und Chemikalien- gegen thermisch beständige Handschuhe auszutauschen.
+
+===== Körperschutz Form 2 =====
+
+{{ cbrn:allgemein:koerperschutz_form_2a.jpeg?nolink&100|Körperschutzform 2 für den A-Einsatz}}
+{{ cbrn:allgemein:koerperschutz_form_2bc.jpeg?nolink&100|Körperschutzform 2 für den B- und C-Einsatz}}
+
+  * Schutz gegen Kontamination mit festen Stoffen
+  * eingeschränkter Schutz gegen Kontamination mit flüssigen Stoffen
+  * erweiterter Kontaminationsschutz, aber nicht gasdicht
+  * für alle Einsatzszenarien geeignet, die nicht die Form 1 oder 3 erfordern
+  * Gefahr der [[cbrn:allgemein:cbrn-lexikon:inkorporation|Inkorporation]] und Kontamination bei gefährlichen Dämpfen und Gasen
+
+Übergänge zu Stiefeln, Handschuhen und Atemanschluss z.B. mit Klebeband abdichten.
+
+===== Körperschutz Form 3 (Chemikalienschutzanzug CSA) =====
+
+{{ cbrn:allgemein:koerperschutz_form_3a.jpeg?nolink&100|Körperschutzform 3 Typ 1a}}
+{{ cbrn:allgemein:koerperschutz_form_3b.jpeg?nolink&100|Körperschutzform 3 Typ 1b}}
+
+  * Schutz gegen Kontamination mit festen, flüssigen und gasförmigen Stoffen
+  * in der Regel kein ausreichender Schutz gegen hohe oder tiefe Temperaturen. Anzüge können brechen, schmelzen und Beständigkeit verlieren.
+
+==== Einsatzzeiten unter CSA ====
+
+^  Umgebungs-\\ temperatur\\ in °C  ^  Einsatzzeit in Minuten                  ^^
+^  :::                          ^  mittlere Belastung  ^  starke Belastung  ^
+|  20                           |  30                  |  17                |
+|  25                           |  30                  |  15                |
+|  30                           |  30                  |  13                |
+|  35                           |  27                  |  11                |
+|  40                           |  19                  |  10                |
+|  45                           |  14                  |  8                 |
+|  50                           |  11                  |  7                 |
+
+===== Quellenangabe =====
+
+  * FwDV 500, Stand 2004
+  * Gefahrstoffkonzept Rheinland-Pfalz, Stand 2005
+  * Ausbildungsunterlage „Chemikalienschutzanzug“, Berliner Feuerwehr- und Rettungsdienstakademie (BFRA)

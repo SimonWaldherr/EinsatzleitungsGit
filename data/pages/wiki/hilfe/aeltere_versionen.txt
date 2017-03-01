@@ -1,0 +1,23 @@
+====== Ältere versionen ======
+
+Wird der Inhalt einer Seite bearbeitet und geändert, so wird die neue Version erstellt. Die ältere Version wird aber nicht einfach gelöscht oder überschrieben, sondern sie wird ins //Attic//-Verzeichnis verschoben und bleibt dort erhalten. Mit dem Button ''Ältere Versionen'' werden alle älteren Bearbeitungen der Seite angezeigt.
+
+Die [[doku>de:diff|Diff-Funktion]] (dargestellt mit blau-roter Brille) erlaubt das Vergleichen von älteren Versionen. Die Änderungen von einer Version zur nächsten werden farblich hervorgehoben.
+
+==== Technisches (nur relevant für den Administrator des eigenen Wikis) ====
+
+Wo die Dateien mit den älteren Versionen physikalisch abgelegt werden, ist in den beiden [[wiki:hilfe:config|Konfigurationsoptionen]] ''savedir'' und ''olddir'' definiert.
+
+
+Standardpfad:\\
+
+  DokuWiki-Installationspfad / data / attic / (Namensraum) / Seitenname mit Zeitstempel
+
+
+Der gesamte Seiteninhalt wird gespeichert (nicht nur die Unterschiede zwischen den beiden Versionen).
+
+Die Konfigurationsoption [[wiki:hilfe:config|compression]] gibt an, ob die älteren Versionen im //attic// komprimiert abgelegt werden oder nicht. Ältere Versionen können gelöscht werden, indem manuell (auf Dateisystemebene) Dateien und ggf. Ordner der Namensräume gelöscht werden.
+
+===== Quellenangabe =====
+
+  * https://www.dokuwiki.org/de:attic, veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

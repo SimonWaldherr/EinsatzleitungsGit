@@ -1,0 +1,9 @@
+====== Verdunstungszahl (VZ) ======
+
+Die Verdunstungszahl gibt an wie schnell ein Stoff verdunstet, verglichen mit Diethylether. 
+
+Je höher die Verdunstungszahl ist, desto langsamer verdunstet der Stoff. Liegt die Verdunstungszahl über 10, ist die Brandgefahr eher gering, da nur geringe Mengen brennbare Dämpfe entstehen können. 
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

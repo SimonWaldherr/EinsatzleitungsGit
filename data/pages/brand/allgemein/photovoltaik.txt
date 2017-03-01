@@ -1,0 +1,95 @@
+====== Photovoltaik ======
+
+Einteilung in parallel- und in Reihe geschaltet Anlagen
+   * parallel geschaltete Anlagen erzeugen Spannungen < 120 V und sind daher nach VDE-Vorschriften ungefährlich
+   * in Reihe geschaltete Anlagen erzeugen Spannungen bis zu 1.500 V
+
+===== zu treffende Maßnahmen =====
+
+  * Elektrofachkraft nachalarmieren; Spannungsfreiheit muss messtechnisch festgestellt werden!
+
+==== Erkundung ====
+
+  * PV-Anlagen auf Flachdächern ggf. nicht direkt erkennbar!
+  * Anlage beschädigt?
+  * Anlagenkennzeichnung: Wenn keine oder nicht eindeutig Kennzeichnung von parallel geschalteter Anlage vorhanden, dann von in Reihe geschalteter Anlage ausgehen.
+  * Lage der einzelnen Komponenten: Gleichstrom-Freischalter (Einbaupflicht ab 2006), Wechselrichter, Wechselstromsicherung, Lage der Kabel, evtl. Akkus. Ggf. ist ein Übersichtsplan für das Gebäude vorhanden.
+    * Gleichstrom-Freischalter kann in Wechselrichter integriert sein
+    * Trennstelle direkt an den PV-Modulen nicht vorgeschrieben
+    * [[brand:allgemein:photovoltaik#photovoltaik-stromspeicher|Stromspeicher]] vorhanden?
+  * Erkundungsergebnisse an Einsatzkräfte mitteilen
+
+==== Einsatzdurchführung ====
+
+Maßnahmen nur bei beschädigten Anlagen nötig, bei intakten Anlagen besteht keine Gefahr!
+
+  * Umluftunabhängigen Atemschutz (PA) tragen
+  * ggf. [[allgemein:absturzsicherung|Absturzsicherung]] anlegen
+  * Abstände einhalten (1m beim Bewegen, 1m bzw. 5m beim Löschen mit CM-Sprüh- bzw. CM-Vollstrahl), siehe auch [[allgemein:elektrische_anlagen|Elektrische Anlagen]] für andere Strahlrohrtypen und Löschmittel
+  * zum Abschalten nur Betätigung von Gleichstrom-Freischalter und Wechselstromsicherung erlaubt
+    * beschädigte Schalter dürfen nur durch Elektro-Fachkraft betätigt werden
+    * bevorzugt Gleichstrom-Freischalter betätigen soweit vorhanden (Einbau bis 2006 nicht vorgeschrieben)\\ **Achtung:** Leitungen von Photovoltaikanlage bis zur Trennstelle stehen weiterhin unter Spannung.
+    * keine Steckverbindungen auf der Gleichspannungsseite trennen (nur für Elektrofachkräfte erlaubt; Gefahr eines Lichtbogens)
+  * Abstand zu überfluteten Anlagen halten!
+
+==== Einsatzabschluss ====
+
+  * gefährliche Anlagenteile absichern
+  * Betreiber anweisen die PV-Anlage durch Fachfirma in sicheren Zustand setzen zu lassen
+  * zerstörte PV-Module als Brandschutt behandeln
+
+==== besondere Gefahren ====
+
+  * Gefahr durch Stromschlag solange natürliches Licht auf Photovoltaik-Module fällt, auch wenn diese beschädigt sind
+    * durch vollständige Abdeckung kann die Gefahr verringert/verhindert werden\\ Bei großen Anlagen und im Brandfall praktisch nicht möglich
+    * Beschäumung der Anlage zur Abdunklung ungeeignet
+  * Gefahr von Lichtbogen im Bereich der Anlage
+  * Absturzgefahr bei Beschädigung/Brandeinwirkung auf die Anlage. Trümmerschatten absperren.
+  * Bei auf das Dach aufgesetzten Anlagen Kamineffekt zwischen Dachhaut und Anlage!
+  * Überbrückung von Brandwänden durch PV-Anlagen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Anlage nicht zerstören; Strom wird weiterhin erzeugt
+  * Module nicht betreten
+  * Mond- und Kunstlicht erzeugen keine gefährlichen Spannungen / Ströme, solange mit Schweinwerfern ein Mindestabstand eingehalten wird (z.B. 12m bei 1 kW)
+
+==== Photovoltaik-Stromspeicher ====
+
+Photovolaik-Stromspeicher ähneln vom Aussehen her Schaltschränken und dienen dazu, tagsüber überschüssige Energie zu speichern und nach Sonnenuntergang wieder abzugeben. Als Energiespeicher kommen i.d.R. Blei- und Lithium-Ionen-Akkus zum Einsatz.
+
+  * Installationsorte z.B. Dachboden oder Keller, als Standgerät oder an der Wand montiert
+  * Blei-Gel-Akkus relativ handhabungssicher, ggf. Säureschutzhandschuhe tragen
+  * Bei Lithium-Ionen-Akkus erhöhte Brandgefahr sowie Gefahr durch gefährliche Stoffe, spezielle Einsatzmaßnahmen siehe [[cbrn:chemisch:klasse_9:stoffe:lithium-ionen-akkumulatoren|Lithium-Ionen-Akkumulatoren]]
+
+==== Unterscheidung Photovoltaik - Solar ====
+
+{{ :brand:allgemein:photovoltaik-solar.jpg?nolink&300|Photovoltaik- und Solaranlage nebeneinander}} Auf dem nebenstehenden Bild befindet sich auf der rechten Seite eine Solaranlage (3 Zellen) und zusätzlich eine Photovoltaik-Anlage. Möglichkeiten zur optischen Unterscheidung beider Anlagentypen sind:
+  * Farbe:
+    * Solar: matt-/tiefschwarz
+    * Photovoltaik: bläulich-schimmernd
+  * Dicke: Solaranlagen sind dicker als Photovoltaik-Module
+  * Anschlüsse:
+    * Solar: Rohre, Zu- und Ableitungen
+    * Photovoltaik: Verkabelung / Steckverbindungen
+  * Struktur:
+    * Solar: durchgehend gleich aussehende Fläche, ggf. darin liegende Rohre erkennbar
+    * Photovoltaik: Rasterung in Rechtecke
+
+===== Weblinks =====
+
+    * [[http://www.dfv.org/photovoltaik.html|Informationsportal Photovoltaik des deutschen Feuerwehrverbandes]]
+
+===== Quellenangabe =====
+
+  * {{:brand:bsw_feuerwehrkarte_final_prev.pdf|Einsatzkarte "Handlungsempfehlungen Photovoltaik-Anlagen"}}, Deutscher Feuerwehrverband
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachwissen/BSW_Feuerwehrbroschuere_2010.pdf|Handbuch "Einsatz an Photovoltaik-Anlagen"]] Deutscher Feuerwehrverband
+  * [[http://www.vfdb.de/download/MB_PhotovoltaikAnlagen_Feb2012.pdf|vfdb-Merkblatt "Einsätze an Photovoltaik-Anlagen"]]
+  * Reeh, A.; Thorns, J.: Filderstadt - Brand eines Photovoltaik-Stromspeichers, BRANDSchutz 04/2014, S. 302 ff., Kohlhammer Verlag, Stuttgart
+  * [[http://www.solaranlagen-portal.com/photovoltaik/stromspeicher/kennzahlen|Kennzahlen einer Solarbatterie: technische & praktische Bezugsgrößen]], www.solaranlagen-portal.com
+  * [[http://www.dguv.de/medien/inhalt/praevention/fachbereiche/fb-fhb/documents/li_solar.pdf|Einsatz an stationären Lithium-Solarstromspeichern]], Bundesverband Solarwirtschaft e.V. 2014
+
+===== Stichwörter =====
+
+Fotovoltaik, Solaranlage
+

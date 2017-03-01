@@ -1,0 +1,42 @@
+====== Nuklidkarte ======
+
+{{:cbrn:atomar:nuklidkarte_deutsch.png?direct&800|Nuklidkarte}}
+
+Nuklidkarte anklicken, um in voller Größe darzustellen.
+
+===== Radioaktive Zerfallsarten in der Nuklidkarte =====
+
+{{:cbrn:atomar:zerfallsarten_nuklidkarte.png?direct&300 |Radioaktive Zerfallsarten in der Nuklidkarte}}
+Verschiedene Zerfallsarten eines Radionuklids in der Segrè-Darstellung der Nuklidkarte, wie sie auf dieser Seite eingebunden ist.
+
+Senkrecht: Ordnungszahl Z, waagerecht: Neutronenzahl N
+
+===== Programm "Nukliddaten" =====
+
+Neben der klassischen Nuklidkarte ist auch eine Software verfügbar welche die Inhalte in Form eines Programms zur Verfügung stellt. Die Bedienung ist intuitiv, die Inhalte gehen deutlich über das hinaus was direkt auf einer Nuklidkarte abzulesen wäre. Folgende Ansichten/Funktionen bietet das Programm (umschaltbar über die graue Leiste am oberen Rand):
+
+  * klassische **Nuklidkarte** (vergrößerbar mit dem Knopf "Nuklidkarte vergrößern" oben links)
+  * **Zerfallsreihen** listet wahrscheinlichste oder alle möglichen Zerfallsreihen zum Nuklid auf
+  * die **Nuklidsuche** listet Nuklide auf die die gewählten Kriterien erfüllen
+  * das **Periodensystem** listet viele Daten zu den jeweiligen Elementen auf
+  * **Spektrallinien** zeigt die Spektren der Elemente an
+
+Das Programm wurde von Holger Werner programmiert und als Freeware veröffentlicht.
+
+==== Programm starten ====
+
+Das Programm Nukliddaten ist Bestandteil des Datenbereichs des Einsatzleiterwikis. Es ist somit auch offline verfügbar wenn Sie das Einsatzleiterwiki lokal auf Ihrem Rechner installiert haben.
+
+Klicken Sie auf den folgenden Link und entpacken Sie das Programm in einen Ordner Ihrer Wahl. Danach können Sie das Programm mit einem Doppelklick auf Nukliddaten.exe starten, es ist keine weitere Installation nötig.
+
+{{cbrn:atomar:nukliddaten.zip|nukliddaten.zip}}
+
+===== Weblinks =====
+
+  * [[http://www.nndc.bnl.gov/nudat2/|Online-Nuklidkarte]] mit vielen Details, englisch
+
+===== Quellenangabe =====
+
+  * Grafik [[https://upload.wikimedia.org/wikipedia/commons/9/92/NuclideMap.PNG|Nuklidkarte]], vom United States Department of Energy unter Public-Domain-Lizenz veröffentlicht
+  * Grafik [[https://commons.wikimedia.org/wiki/File:Radioaktive_Zerfallsarten_in_der_Nuklidkarte.svg|Radioaktive Zerfallsarten in der Nuklidkarte]], veröffentlicht vom Wikipedia-User [[https://de.wikipedia.org/wiki/Benutzer:Cepheiden|Cepheiden]] unter Attribution-Share Alike 3.0 Unported-Lizenz
+  * [[http://www.marcoschwarz-online.de/physik/nukliddaten.html|Downloadseite des Programms "Nukliddaten"]]

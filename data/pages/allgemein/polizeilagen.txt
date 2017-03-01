@@ -1,0 +1,37 @@
+====== Polizeilagen ======
+
+z.B. Amok-Lage, Schießerei, Geiselnahme, ...
+
+===== zu treffende Maßnahmen =====
+
+  * Information aller Einsatzkräfte!
+  * Enge und permanente Absprache mit Polizei (Bildung gemeinsamer Einsatzleitung):
+    * Beurteilung der Lage durch Polizei (u.a.: Wo befindet sich der Täter?)
+    * Sicheren Ort für Aufstellungsort (z.B. Patientenablage bei [[allgemein:manv|MANV]]), [[allgemein:bereitstellungsraum|Bereitstellungsraum]], … wählen; außerhalb des Sichtbereichs des Täters!
+    * Maßnahmen und deren Vorbereitung abstimmen
+  * Nur in Bereich vorgehen der durch Polizei bereits gesichert wurde!
+  * i.d.R. Menschenrettung aus dem betroffenen in den sicheren Bereich nur durch die Polizei!
+  * Ggf. Brandschutz sicherstellen wenn mit Brandsätzen/Sprengstoffen gerechnet werden muss
+  * Wenn möglich auf [[allgemein:verhalten_an_einsatzstellen#spuren_erhalten|Sicherung von Beweismitteln]] Rücksicht nehmen (z.B. keine Leichen bewegen)
+  * Ggf. [[allgemein:psnv:start|Psychologische Betreuung]] Angehöriger und Einsatzkräfte
+
+==== besondere Gefahren ====
+
+  * Evtl. große Anzahl Verletzter/Betroffener
+  * Unkonventionelle Gewaltmittel (z.B. improvisierte Sprengsätze)
+  * Unberechenbarer Täter in Ausnahmesituation
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Einsatzfahrzeuge bieten keinen ausreichenden Schutz als Deckung vor Schusswaffen!
+  * Durch Schusswaffen verletzte Personen müssen schnell in ein geeignetes Krankenhaus gebracht werden
+  * Angehörige kommen ggf. an die Einsatzstelle
+  * Großes Medieninteresse, [[allgemein:pressearbeit|Auskünfte an Presse]] nur durch Polizei!
+
+===== Quellenangabe =====
+
+  * Präsentation „Bedrohungslagen Gewalt/Amok/Geiselnahme“, Dr. Rolf Erbe, Berliner Feuerwehr
+
+===== Stichwörter =====
+
+Amoklauf, Amok-Lauf, Gefahrenlage

@@ -1,0 +1,66 @@
+====== CHLORWASSERSTOFF, WASSERFREI - UN 1050 - Gefahrnr. 268 - ERICard-Nr. 2-24 - UN1050 ======
+|Stoff | CHLORWASSERSTOFF, WASSERFREI   |
+|UN-Nummer | 1050   |
+|[[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Gefahrnummer]] | 268   |
+|ADR-Gefahrzettel |  {{cbrn:2-3.png?nolink&100}} + {{cbrn:8.png?nolink&100}}    |
+|ADR-Klasse | 2   |
+|Klassifizierungscode | 2TC   |
+|[[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]] |    |
+|ERI-Card | 2-24   |
+
+==== Unfall-Hilfeleistung ====
+===== Unter Druck verflüssigtes oder gelöstes Gas, giftig und ätzend =====
+==== 1. Eigenschaften. ====
+  * Ätzend, kann Haut, Augen und Atemwege schädigen.
+  * Giftig bei Einatmen oder Hautkontakt
+  * Nicht entzündbar
+  * Das Gas wird durch Sprühstrahl gebunden oder stark verdünnt.
+==== 2. Gefahren. ====
+  * Kann bei einem Brand reagieren und giftige oder reizende Gase oder Dämpfe entwickeln.
+  * Erwärmung des Behälters führt zu Druckanstieg und Berstgefahr mit schlagartiger Freisetzung einer giftigen und ätzenden Dampfwolke, die sich mit einer Druckwelle ausbreiten kann (Gefahr eines [[cbrn:allgemein:begriffsklaerungen#bleve|BLEVE]]).
+  * Kontakt mit dem flüssigen Stoff führt zu Erfrierungen und schweren Augenverletzungen.
+  * Kann Metalle angreifen, hierbei Wasserstoffgas entwickeln und mit Luft ein explosionsfähiges Gemisch bilden.
+  * Das Gas kann unsichtbar sein, in Kanalisation und Kellerräume eindringen oder die Atemluft in geschlossenen Räumen verdrängen.
+==== 3. Persönlicher Schutz. ====
+  * [[cbrn:allgemein:koerperschutzformen#koerperschutz_form_3_chemikalienschutzanzug_csa|Chemikalienschutzanzug CSA-Vollschutz]]
+  * Kälte-isolierende Unterkleidung und dicke Handschuhe aus Textil- oder Leder
+==== 4. Einsatz-Massnahmen. ====
+=== 4.1 Allgemeine Massnahmen. ===
+  * Gefahr für die Öffentlichkeit! Personen in der Nähe auffordern, in Gebäuden zu bleiben, Fenster und Türen zu schließen und Klimaanlagen abzustellen. [[allgemein:evakuierung|Evakuierung von Personen]] erwägen.
+  * Mit dem Wind vorgehen. Schutzausrüstung bereits vor dem Betreten des [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]]s anlegen.
+  * Zahl der Einsatzkräfte im [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] beschränken.
+  * Personen auffordern, Kellerräume, Kanalisation oder andere geschlossene tieferliegende Räume zu verlassen und nicht wieder zu betreten.
+=== 4.2 Massnahmen bei Stoffaustritt. ===
+  * Lecks wenn möglich schließen.
+  * Gaswolke mit Sprühstrahl niederschlagen oder verwirbeln.
+  * Falls der Stoff in offenes Gewässer oder Kanalisation gelangt, zuständige Behörde informieren.
+  * Falls keine Gefahren für Einsatzkräfte oder die Öffentlichkeit entstehen, Kanalisation und Kellerräume belüften.
+  * Falls Personenschäden nicht befürchtet werden, bei kleinen Mengen ausgetretenen Stoff mit Sprühstrahl beaufschlagen, um Verdampfung zu beschleunigen und Gas zu absorbieren.
+=== 4.3 Massnahmen bei Feuer (falls Stoff betroffen). ===
+  * Behälter mit Wasser kühlen.
+  * Aus geschützter Stellung arbeiten, um Gefährdung der Einsatzkräfte zu reduzieren. Mobile Wasserwerfer verwenden.
+  * Brandgase wenn möglich mit Sprühstrahl niederschlagen.
+  * Aus Umweltschutzgründen [[brand:allgemein:loeschwasserrueckhaltung|Löschmittel zurückhalten]].
+==== 5. Erste Hilfe. ====
+  * Falls der Stoff in die Augen gelangt ist, mindestens 15 Minuten mit Wasser spülen und Personen sofort medizinischer Behandlung zuführen.
+  * Kontaminierte Kleidung sofort entfernen und betroffene Haut mit viel Wasser spülen.
+  * Personen, die mit dem Stoff in Berührung gekommen sind oder Dämpfe eingeatmet haben, sofort medizinischer Behandlung zuführen. Dabei alle verfügbaren Stoffinformationen mitgeben.
+  * Mund-zu-Mund-Beatmung vermeiden. Beatmungsgeräte anwenden.
+  * Erfrorene Körperteile vorsichtig mit kaltem Wasser auftauen.
+==== 6. Besondere Vorsichtsmassnahmen bei der Bergung von Havariegut. ====
+  * Bergung des Produkts kann nicht mit Standardausrüstung durchgeführt werden! Sofort [[cbrn:allgemein:tuis|Fachberater hinzuziehen]].
+==== 7. Vorsichtsmassnahmen nach dem Hilfeleistung-Einsatz. ====
+=== 7.1 Ablegen der Schutzkleidung. ===
+  * Vor dem Ablegen von Maske und Schutzanzug kontaminierten Anzug und Atemschutzgerät mit Wasser abspülen.
+  * Beim Entkleiden von kontaminierten Einsatzkräften oder bei der Handhabung von kontaminiertem Gerät chemikalienbeständige Kleidung und umluftunabhängigen Atemschutz tragen.
+=== 7.2 Reinigung der Ausrüstung. ===
+  * Vor Verlassen der Einsatzstelle [[cbrn:allgemein:tuis|Fachleute hinzuziehen]].
+===== Quelle und Copyright =====
+
+Bitte nehmen Sie die Verwendungshinweise zu den ERI-Cards auf der [[cbrn:ericards:start#allgemeine_hinweise|ERI-Card Übersichtsseite]] zur Kenntnis.
+
+Diese ERICard kann im Original unter folgendem Link aufgerufen werden: [[http://www.ericards.net/psp/ericards.psp_ericard?lang=3&subkey=10500403]]
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

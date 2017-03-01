@@ -1,0 +1,31 @@
+====== Gerätedekontamination ======
+
+siehe auch den Hauptartikel [[cbrn:allgemein:dekontamination:start]]
+
+Für Dekontaminationsmittel-Empfehlungen, siehe die Seiten [[cbrn:allgemein:dekontamination:kontaminationsnachweis]], [[cbrn:allgemein:dekontamination:desinfektion]] und [[cbrn:allgemein:dekontamination:c-dekon]].
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Einsatzgeräte ====
+
+  * kontaminierte Geräte an der Einsatzstelle grob reinigen soweit möglich, um
+    * die Transportfähigkeit herzustellen
+    * eine Reaktion mit dem Schadstoff zu verhindern
+  * kontaminierte Geräte verpacken (z.B. Foliensack) und beschriften (z.B. Anhänger/Aufkleber mit Einsatzort, -datum, Inhalt, Art der Kontamination) und in der nähe des Weißbereichs lagern, insofern dadurch keine Gefahren entstehen (z.B. radioaktive Strahlung)
+  * kontaminierte Geräte nicht im Mannschaftsraum von Fahrzeugen transportieren
+  * weiteres Vorgehen mit zuständiger Behörde abstimmen
+  * bei Großschadensereignissen abwägen ob grob dekontaminiertes Gerät erneut eingesetzt werden kann
+
+==== Fremde Geräte ====
+
+  * kontaminierte Geräte und Schadstoffe sicherstellen und verpacken falls möglich um weitere Gefahren abzuwenden
+  * verpackte Geräte verbleiben im [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] soweit möglich
+  * Abtransport nur veranlassen, wenn nicht durch zuständige Behörde möglich
+
+===== Quellenangabe =====
+
+  * FwDV 500, Stand 2012
+
+===== Stichwörter =====
+
+Dekon-G

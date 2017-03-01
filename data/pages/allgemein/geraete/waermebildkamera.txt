@@ -1,0 +1,37 @@
+====== Wärmebildkamera ======
+
+Diese physikalischen Eigenschaften sind auch bei Infrarotthermometern zu beachten.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+    * eine Wärmebildkamera kann nicht durch Wände sehen, sie kann nur anzeigen ob eine Wand erwärmt ist
+    * kleine Temperaturunterschiede sind bei niedrigen Umgebungstemperaturen sehr viel deutlicher zu erkennen als bei hohen Temperaturen
+    * flache Löcher in Fußböden sind möglicherweise kaum zu erkennen
+    * Wassernebel, Sprühwasser, starker Nebel, dichter Rauch oder Kondensat auf der Linse der Kamera können die angezeigte Temperatur nach unten verfälschen. Dies gilt auch, wenn die Linse durch Dreck oder Ruß verschmutzt ist.
+    * heißer Rauch oder heiße Gase können den Standort einer Wärmequelle verschleiern
+    * nicht in die Sonne oder Objekte über 1500°C sehen. Die Kamera kann für kurze Zeit unempfindlich werden.
+    * nicht auf die Wärmebildkamera als einziges Gerät zur Sicherung des Rückwegs vertrauen (evtl. Ausfall des Geräts)
+    * auf spiegelnde Flächen achten (z.B. Edelstahl, Glanzfliesen, Fenster), hier kann es zu Fehlinterpretierungen kommen.
+
+==== Anwendungsgebiete ====
+
+  * Auffinden von Glutnestern
+  * Suche von Personen bei Brandeinsätzen
+  * Entdecken von Personen bei Personensuchen
+  * Feststellen der Füllhöhe von dünnwandigen Behältnissen, z.B. Ölfässern
+  * Sichtbarmachen von Einleitungen in Gewässer (bei Temperaturunterschied zwischen Wasser und eingeleiteter Flüssigkeit)
+  * Erkennen von abströmenden Gasflaschen (Druckbehälter kühlt sich bei ausströmendem Gas ab)
+
+==== Eigenschaften von Infrarotstrahlung ====
+
+An ebenen Oberflächen wie ruhigem Wasser, Glas und Metall wird Infrarotstrahlung wie in einem Spiegel reflektiert. Sie kann Glas oder durchsichtiges Plastik nicht durchdringen.
+
+-> Glasflächen und Metalltüren wirken wie ein Spiegel. Die Wärmequelle befindet sich in diesem Fall hinter dem Benutzer. Heiße Objekte sind durch eine Scheibe hindurch nicht zu sehen, solange sie die Scheibe selbst nicht erwärmen.
+
+===== Quellenangabe =====
+
+  * Bedienungsanleitung Wärmebildkamera "Eagle Imager"
+
+===== Stichwörter =====
+
+Infrarotthermometer, WBK

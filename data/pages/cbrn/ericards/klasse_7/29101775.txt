@@ -1,0 +1,57 @@
+====== RADIOAKTIVE STOFFE, FREIGESTELLTES VERSANDSTÜCK - BEGRENZTE STOFFMENGE - UN 2910 - Gefahrnr.  - ERICard-Nr. 7-01 - UN2910 ======
+|Stoff | RADIOAKTIVE STOFFE, FREIGESTELLTES VERSANDSTÜCK - BEGRENZTE STOFFMENGE   |
+|UN-Nummer | 2910   |
+|[[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Gefahrnummer]] |    |
+|ADR-Gefahrzettel |    |
+|ADR-Klasse | 7   |
+|Klassifizierungscode |    |
+|[[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]] |    |
+|ERI-Card | 7-01   |
+
+==== Unfall-Hilfeleistung ====
+===== Radioaktiver Stoff in freigestellten Versandstücken =====
+==== 1. Eigenschaften. ====
+  * Stoff mit begrenztem radiologischen Gefährdungspotential: Geringe Personengefährdung durch äußere Bestrahlung.
+  * Max. [[cbrn:allgemein:begriffsklaerungen#dosisleistung|Dosisleistung]] an der Oberfläche des unbeschädigten Versandstückes: 0,005 mSv/h.
+==== 2. Gefahren. ====
+  * Kontaminations- und Inkorporationsgefahr nur bei beschädigten Versandstücken.
+==== 3. Persönlicher Schutz. ====
+  * Umluftunabhängiger Atemschutz
+  * Chemikalienbeständige Kleidung bei Kontaminationsgefahr.
+  * Personendosimeter und [[cbrn:allgemein:begriffsklaerungen#dosisleistung|Dosisleistung]]smeßgerät
+==== 4. Einsatz-Massnahmen. ====
+=== 4.1 Allgemeine Massnahmen. ===
+  * Mit dem Wind vorgehen.
+  * Zahl der Einsatzkräfte im [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] beschränken.
+  * Zuständige Behörden benachrichtigen.
+=== 4.2 Massnahmen bei Stoffaustritt. ===
+  * Ausgetretenen Stoff oder aus einer Abschirmung herausgefallenen Strahler nicht berühren.
+  * Ausgetretenes Produkt mit allen verfügbaren Mitteln auffangen.
+  * Flüssigkeit mit Sand, Erde oder anderen geeigneten Materialien aufnehmen.
+=== 4.3 Massnahmen bei Feuer (falls Stoff betroffen). ===
+  * Mit allen verfügbaren Mitteln löschen, aber keinen Vollstrahl einsetzen!
+  * Unbeschädigte Behälter aus der Wärmestrahlung entfernen.
+  * Löschmittel sparsam einsetzen und zurückhalten.
+==== 5. Erste Hilfe. ====
+  * Betroffene Personen aus dem [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] retten; die medizinische Versorgung hat Vorrang vor Maßnahmen des Strahlenschutzes.
+  * Erste Hilfe darf nur von Einsatzkräften mit geeigneter Schutzausrüstung geleistet werden.
+  * Kontaminierte Kleidung sofort entfernen, hierbei (z.B mit einer Maske) die Atemwege schützen und betroffene Haut mit viel Wasser spülen.
+  * Personen, die mit dem Stoff in Berührung gekommen sind, sofort medizinischer Behandlung zuführen. Dabei alle verfügbaren Stoffinformationen mitgeben.
+  * Mund-zu-Mund-Beatmung vermeiden. Beatmungsgeräte anwenden.
+==== 6. Besondere Vorsichtsmassnahmen bei der Bergung von Havariegut. ====
+  * Bergung des Produkts kann nicht mit Standardausrüstung durchgeführt werden! Sofort [[cbrn:allgemein:tuis|Fachberater hinzuziehen]].
+==== 7. Vorsichtsmassnahmen nach dem Hilfeleistung-Einsatz. ====
+=== 7.1 Ablegen der Schutzkleidung. ===
+  * Vor dem Ablegen von Maske und Schutzanzug Einsatzkräfte mit Messgerät auf Kontamination überprüfen.
+  * Zur [[cbrn:allgemein:dekontamination:start|Dekontamination]] unbedingt [[cbrn:allgemein:tuis|Fachleute hinzuziehen]].
+=== 7.2 Reinigung der Ausrüstung. ===
+  * Vor Verlassen der Einsatzstelle [[cbrn:allgemein:tuis|Fachleute hinzuziehen]].
+===== Quelle und Copyright =====
+
+Bitte nehmen Sie die Verwendungshinweise zu den ERI-Cards auf der [[cbrn:ericards:start#allgemeine_hinweise|ERI-Card Übersichtsseite]] zur Kenntnis.
+
+Diese ERICard kann im Original unter folgendem Link aufgerufen werden: [[http://www.ericards.net/psp/ericards.psp_ericard?lang=3&subkey=29101775]]
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

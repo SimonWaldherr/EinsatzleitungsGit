@@ -1,0 +1,22 @@
+====== Artikel bearbeiten allgemein ======
+
+Um eine Seite in DokuWiki zu bearbeiten, einfach den Button "Diese Seite bearbeiten" anklicken. Dadurch wird ein Bearbeitungsfenster für diese Seite aufgerufen, die den Quelltext der Seite anzeigt. Dieser Quelltext kann nun mit diesem Editor bearbeitet werden.
+
+**Hinweis:** // Einige Seiten sind im Online-Einsatzleiterwiki gesperrt (z.B. [[wiki:rechtliches|Impressum]], [[rettungsdatenblaetter:start|Rettungskarten]] und [[cbrn:ericards:start|ERICards]]) und sind nur für bestimmte Nutzer editierbar. Diese Seiten besitzen keinen Button "Diese Seite bearbeiten", sondern einen Button "Zeige [[wiki:hilfe:wikitext|Quelltext]]". Um so eine Seite bearbeiten zu können, müsste sich ein entsprechender Benutzer zuerst einloggen. Mehr Informationen unter [[wiki:hilfe:acl|access control]].//
+
+Wenn eine Seite bearbeitet und die Änderung gespeichert wurde ist der alte Inhalt nicht verloren. Er wird als [[wiki:hilfe:aeltere_versionen|frühere Version]] der Seite gespeichert und kann weiterhin angesehen und auch wiederhergestellt werden.
+
+Bevor die erste "echte" Seite in der Wiki bearbeitet wird, sollten die Möglichkeiten auf dem "Spielplatz" (englisch: [[playground:playground]]) ausprobiert werden. Der Spielplatz steht zur Verfügung, um Dinge zu testen und mit beliebigem Inhalt herum zu spielen.
+
+===== Nutzung der Text-Editoren =====
+
+Das Einsatzleiterwiki bietet zwei verschiedene Text-Editoren zur Bearbeitung der Artikel:
+
+  - den [[wiki:hilfe:artikel_standardeditor|Standard-Editor]] und
+  - den [[wiki:hilfe:artikel_fck-editor|FCK-Editor]]
+
+Sie können zwischen den beiden Editoren wechseln und ausprobieren mit welchem Sie lieber arbeiten. Der FCK-Editor ist einfach zu bedienen und ähnelt Bedienoberflächen, wie Sie sie vielleicht von Online-Email-Diensten wie web.de oder GMX kennen. Der Standard-Editor sieht dagegen eher spartanisch aus, lässt sich aber von geübten, mit Computern gut vertrauten Anwendern möglicherweise schneller bedienen. Der Wechsel erfolgt, indem Sie bei der Bearbeitung eines Textes unterhalb des Bearbeitungsfenster auf {{:wiki:hilfe:standard-editor:fck-editor.png?nolink|FCK-Editor}} klicken (zum Umschalten vom Standard-Editor auf den FCK-Editor) oder indem Sie auf {{:wiki:hilfe:fck-editor:dw_edit.png?nolink|DW Edit}} klicken (zum Umschalten vom FCK-Editor auf den Standard-Editor). Im Bezug auf den Funktionsumfang existieren nur geringfügige Unterschiede, die in den meisten Fällen wohl nicht relevant sind.
+
+===== Quellen =====
+
+  * [[doku>de:editing]], veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

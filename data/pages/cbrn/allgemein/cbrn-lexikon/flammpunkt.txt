@@ -1,0 +1,7 @@
+====== Flammpunkt ======
+
+Niedrigste Temperatur einer brennbaren Flüssigkeit, bei der sich so viele Dämpfe entwickeln, dass eine (kurzzeitige) Entzündung des Dampf-Luft-Gemischs möglich ist. Der Verbrennungsvorgang stoppt in der Regel kurze Zeit nach der Zündung wieder, da bei dieser Temperatur noch nicht genügend brennbare Dämpfe entstehen um die Verbrennung aufrecht zu erhalten. Temperaturen für den Flammpunkt werden normalerweise bei einem Luftdruck von 1013 mbar angegeben.
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

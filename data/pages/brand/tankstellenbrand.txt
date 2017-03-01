@@ -1,0 +1,25 @@
+====== Tankstellenbrand ======
+
+===== zu treffende Maßnahmen =====
+
+  * Zufahrt zur Tankstelle sperren, Tankstelle räumen
+  * Not-Aus der Zapfsäule sperrt Zuleitung vom Erdtank ab
+  * Löschmittel [[brand:allgemein:schaum|Schaum]]\\ ausgetretene Treibstofflachen mit Schaumteppich abdecken
+  * evtl. an die Tankstelle angeschlossene [[brand:werkstattbrand|Werkstatt]] vorhanden?
+
+==== besondere Gefahren ====
+
+  * auslaufende Kraftstoffe in die Umwelt, aber normalerweise spezielle Abläufe mit Auffangbehältern für diese vorhanden
+  * alternative Kraftstoffe ([[cbrn:chemisch:klasse_2:stoffe:fluessiggas|Flüssiggas]], [[cbrn:chemisch:klasse_2:stoffe:erdgas|Erdgas]], [[cbrn:chemisch:klasse_2:stoffe:wasserstoff|Wasserstoff]], ... -> siehe auch [[cbrn:chemisch:klasse_2:lpg-fahrzeuge|Autogas-(Flüssiggas-)fahrzeuge]], [[cbrn:chemisch:klasse_2:cng-fahrzeuge|Ergasfahrzeuge]], [[cbrn:chemisch:klasse_2:wasserstofffahrzeuge|Wasserstofffahrzeuge]], [[allgemeine_hilfe:verkehrsunfall:elektrofahrzeuge|Elektro-/Hybridfahrzeuge]])
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Rauchentwicklung aus dem Verkaufsraum kann auch von der Alarmanlage nach einem Einbruchsalarm stammen
+
+===== Quellenangabe =====
+
+-
+
+===== Stichwörter =====
+
+Tanken

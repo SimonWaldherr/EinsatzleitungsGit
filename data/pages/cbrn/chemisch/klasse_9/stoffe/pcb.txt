@@ -1,0 +1,37 @@
+====== PCB (Polychlorierte Biphenyle) ======
+
+PCB kann noch als Betriebsmittel, beispielsweise in Transformatoren, vorhanden sein. Bei Brandeinwirkung (z.B. [[brand:trafostation|Trafobrand]]) entstehen giftige Zersetzungsprodukte.
+
+===== zu treffende Maßnahmen =====
+
+  * Löschangriff und Kühlen gefährdeter Anlagenteile, um die Entstehung giftiger Zersetzungsprodukte zu vermindern
+  * Schutzkleidung: [[cbrn:allgemein:koerperschutzformen|Körperschutz Form 1]] (Schutzbekleidung zur Brandbekämpfung und Kontaminationsschutzhaube)
+  * Vorgehen wie im [[cbrn:gefahrgut|Gefahrstoffeinsatz]]:
+    * auslaufende Stoffe auffangen, dürfen nicht ins Erdreich gelangen
+    * Brandstelle sperren und sichern
+    * Kontaminierte Schutzkleidung und Geräte gesondert lagen
+    * weitere Maßnahmen in Abhängigkeit des Kontaminationsgrades
+
+==== besondere Gefahren ====
+
+Bei Brandeinwirkung kann sich PCB zersetzen und
+
+  * Dioxine und
+  * Furane
+
+bilden.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+ERICards:
+  * [[cbrn:ericards:klasse_9:23151308|UN 2315 - POLYCHLORIERTE BIPHENYLE, FLÜSSIG]]
+  * [[cbrn:ericards:klasse_9:34322210|UN 3432 - POLYCHLORIERTE BIPHENYLE, FEST]]
+
+===== Weblinks =====
+
+  * [[wpde>Polychlorierte_Biphenyle|Wikipedia - Polychlorierte Biphenyle]]
+
+===== Quellenangabe =====
+
+  * [[http://www.mi.brandenburg.de/sixcms/media.php/4055/Gefahrenabwehr%20an%20Anlagen%20zur%20Gewinnung%20erneuerbarer%20Energien.pdf|Gefahrenabwehr an Anlagen zur Gewinnung erneuerbarer Energien]], Landesschule und Technische Einrichtung für Brand- und Katastrophenschutz des Landes Brandenburg
+  * DIN VDE 0132, Ausgabe 2008

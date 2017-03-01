@@ -1,0 +1,75 @@
+====== KLEBSTOFFE, mit entzündbarem flüssigem Stoff - UN 1133 - Gefahrnr. 33 - ERICard-Nr. 3-11 Wählen Sie diesen Eintrag, wenn zwei Stoffe die gleiche UN-Nummer haben und sich in der Gefahrnummer unterscheiden und Ihnen diese nicht bekannt ist - UN1133 ======
+|Stoff | KLEBSTOFFE, mit entzündbarem flüssigem Stoff   |
+|UN-Nummer | 1133   |
+|[[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Gefahrnummer]] | 33   |
+|ADR-Gefahrzettel | {{cbrn:3.png?nolink&100}}    |
+|ADR-Klasse | 3   |
+|Klassifizierungscode | F1   |
+|[[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]] | I,II,III   |
+|ERI-Card | 3-11   |
+
+
+
+==== Unfall-Hilfeleistung ====
+===== Leicht entzündbarer flüssiger Stoff =====
+==== 1. Eigenschaften. ====
+  * Entwickelt gefährliche Dämpfe.
+  * [[cbrn:allgemein:begriffsklaerungen#flammpunkt|Flammpunkt]] unter 23°C.
+  * Gefährlich für Augen und Atemwege.
+  * Nicht oder nur teilweise mischbar mit Wasser (weniger als 10%), leichter als Wasser.
+==== 2. Gefahren. ====
+  * Die Hitzeeinwirkung auf Behälter führt zu Druckanstieg mit Berstgefahr und nachfolgender Explosion.
+  * Kann mit Luft explosionsfähige Gemische bilden.
+  * Entwickelt giftige und reizende Dämpfe bei starker Erwärmung oder Brand.
+  * Die Dämpfe können unsichtbar sein und sind schwerer als Luft. Sie breiten sich am Boden aus und können in Kanalisation und Kellerräume eindringen.
+  * Kann narkotisch wirken und zu Bewußtlosigkeit führen.
+==== 3. Persönlicher Schutz. ====
+  * Umluftunabhängiger Atemschutz
+  * Chemikalienbeständige Kleidung bei Kontaminationsgefahr.
+  * Unter dem Schutzanzug gegebenenfalls Feuerschutzkleidung nach EN 469 tragen.
+==== 4. Einsatz-Massnahmen. ====
+=== 4.1 Allgemeine Massnahmen. ===
+  * Mit dem Wind vorgehen.
+  * Nicht rauchen, Zündquellen ausschließen.
+  * Gefahr für die Öffentlichkeit! Personen in der Nähe auffordern, in Gebäuden zu bleiben, Fenster und Türen zu schließen und Klimaanlagen abzustellen. [[allgemein:evakuierung|Evakuierung von Personen]] erwägen.
+  * Zahl der Einsatzkräfte im [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] beschränken.
+=== 4.2 Massnahmen bei Stoffaustritt. ===
+  * Lecks wenn möglich schließen.
+  * Ausgetretenes Produkt mit allen verfügbaren Mitteln auffangen.
+  * [[cbrn:geraete:ex-messgeraet|Auf explosionsfähige Atmosphäre überprüfen]].
+  * Keine funkenreißenden Werkzeuge verwenden. Explosionsgeschützte Ausrüstung einsetzen.
+  * Flüssigkeit mit Sand, Erde oder anderen geeigneten Materialien aufnehmen oder mit [[brand:allgemein:schaum|Schaum]] abdecken.
+  * Falls der Stoff in offenes Gewässer oder Kanalisation gelangt, zuständige Behörde informieren.
+  * Falls keine Gefahren für Einsatzkräfte oder die Öffentlichkeit entstehen, Kanalisation und Kellerräume belüften.
+=== 4.3 Massnahmen bei Feuer (falls Stoff betroffen). ===
+  * Behälter mit Wasser kühlen.
+  * Mit [[brand:allgemein:schaum|Schaum]] oder [[brand:allgemein:pulver|Pulver]] löschen, danach mit [[brand:allgemein:schaum|Schaum]] abdecken.
+  * Nicht mit Wasser löschen.
+  * Brandgase wenn möglich mit Sprühstrahl niederschlagen.
+  * Aus Umweltschutzgründen [[brand:allgemein:loeschwasserrueckhaltung|Löschmittel zurückhalten]].
+==== 5. Erste Hilfe. ====
+  * Falls der Stoff in die Augen gelangt ist, mindestens 15 Minuten mit Wasser spülen und Personen sofort medizinischer Behandlung zuführen.
+  * Personen, die mit dem Stoff in Berührung gekommen sind oder Dämpfe eingeatmet haben, sofort medizinischer Behandlung zuführen. Dabei alle verfügbaren Stoffinformationen mitgeben.
+  * Bei Verbrennungen die betroffenen Hautbereiche sofort und so lange wie möglich mit kaltem Wasser kühlen. An der Haut haftende Kleidung nicht entfernen.
+  * Kontaminierte Kleidung sofort entfernen und betroffene Hautbereiche mit Seife und viel Wasser spülen.
+==== 6. Besondere Vorsichtsmassnahmen bei der Bergung von Havariegut. ====
+  * Beim Umpumpen auf ausreichende Erdung achten.
+  * Explosionsgeschützte Pumpen einsetzen. Bei Elektropumpen auf geeignete [[cbrn:chemisch:temperaturklasse|Temperaturklasse]] achten. Mindestens T3 !
+  * Mineralölbeständige Ausrüstung einsetzen.
+  * Ausgetretenes Produkt in belüfteten und mit Absorptionsfiltern ausgestatteten Behältern aufnehmen.
+==== 7. Vorsichtsmassnahmen nach dem Hilfeleistung-Einsatz. ====
+=== 7.1 Ablegen der Schutzkleidung. ===
+  * Vor dem Ablegen von Maske und Schutzanzug, kontaminierten Anzug und Atemschutzgerät mit Wasser/Seifenlösung abspülen.
+  * Beim Entkleiden von kontaminierten Einsatzkräften oder bei der Handhabung von kontaminiertem Gerät chemikalienbeständige Kleidung und umluftunabhängigen Atemschutz tragen.
+  * Kontaminierte Reinigungsflüssigkeit zurückhalten.
+=== 7.2 Reinigung der Ausrüstung. ===
+  * Vor Abtransport von der Einsatzstelle mit Wasser/Seifenlösung abspülen.
+===== Quelle und Copyright =====
+
+Bitte nehmen Sie die Verwendungshinweise zu den ERI-Cards auf der [[cbrn:ericards:start#allgemeine_hinweise|ERI-Card Übersichtsseite]] zur Kenntnis.
+
+Diese ERICard kann im Original unter folgendem Link aufgerufen werden: [[http://www.ericards.net/psp/ericards.psp_ericard?lang=3&subkey=11330467]]
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

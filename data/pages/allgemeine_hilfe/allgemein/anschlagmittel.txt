@@ -1,0 +1,36 @@
+====== Anschlagmittel ======
+
+siehe auch [[allgemeine_hilfe:allgemein:winden|Seilwinde / Mehrzweckzug]]
+
+===== zu treffende Maßnahmen =====
+
+  * Keinen Anschlagwinkel größer als 60° wählen. Bei Rundschlingen verändert sich die zulässige Zugkraft je nach Art der Nutzung auf folgende Faktoren:\\ {{:allgemeine_hilfe:allgemein:faktoren_rundschlingen.png?nolink&500|Faktoren für zulässige Kräfte bei Rundschlingen}}
+  * keine beschädigte Anschlagmittel einsetzen
+  * bei nicht vorhandenem Etikett (bzw. kleines Schild oder Prägung auf der Einfassung bei Drahtseilen) darf das Anschlagmittel nicht benutzt werden
+  * Kantenschoner zum Gleiten über Kanten verwenden
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Farbkennzeichnung der Tragfähigkeit von Rundschlingen und Hebebändern nach DIN EN 1492 ====
+
+^  Farbkennzeichnung  ^^  Tragfähigkeit  ^^
+^ :::               ^^  in kg  ^  in kN  ^
+|{{:allgemein:farben:violett_ral_4008.jpg?nolink|violett}}|  violett  |  1.000  |  10  |
+|{{:allgemein:farben:gruen_ral_6032.jpg?nolink|grün}}|  grün  |  2.000  |  20  |
+|{{:allgemein:farben:gelb_ffff00.jpg?nolink|gelb}}|  gelb  |  3.000  |  30  |
+|{{:allgemein:farben:grau_ral_7004.jpg?nolink|grau}}|  grau  |  4.000  |  40  |
+|{{:allgemein:farben:rot_ff0000.jpg?nolink|rot}}|  rot  |  5.000  |  50  |
+|{{:allgemein:farben:braun_ral_8002.jpg?nolink|braun}}|  braun  |  6.000  |  60  |
+|{{:allgemein:farben:blau_ral_5005.jpg?nolink|blau}}|  blau  |  8.000  |  80  |
+|{{:allgemein:farben:orange_ral_2010.jpg?nolink|orange}}|  orange  |  >= 10.000  |  >= 100  |
+| ::: |  :::  |  siehe genaue Aufschrift! ||
+
+===== Weblinks =====
+
+  * Weitere Hinweise in der [[http://publikationen.dguv.de/dguv/pdf/10002/bgi556.pdf|BGI 556: BG-Information Anschläger]]
+
+===== Quellenangabe =====
+
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * [[http://www.heavy-rescue.de/2013/04/arbeiten-mit-der-winde-vorlage-fur-berechnungen/|heavy-rescue.de: Arbeiten mit der Winde: Vorlage für Berechnungen]], Irakli West
+  * [[http://www.planeta-herne.de/deutsch/files/Hebebaender/Tragfaehigkeitstabellen_Hebebaender_und_Rundschlingen.pdf|Tragfähigkeitstabellen Hebebänder und Rundschlingen]], PLANETA-Hebetechnik GmbH

@@ -1,0 +1,300 @@
+====== Einsturz ======
+
+Die folgenden Vorgehensweisen beziehen sich auf einen Standardeinsatz, der wie folgt aussieht:
+
+//Teil- oder Kompletteinsturz eines mehrgeschossiges Wohngebäudes in Massivbauweise. Das Gebäude ist mit Gas, Wasser und Elektrizität versorgt. In und um das Gebäude befindet sich eine unbekannte Anzahl von Personen.//
+
+Alle Inhalte sind auch auf kleinere und größere Schadenlagen übertragbar.
+
+===== zu treffende Maßnahmen =====
+
+
+Die zu treffenden Maßnahmen lassen sich in fünf Phasen gliedern, welche sich wiederum in Unterabschnitte teilen. Diese fünf Phasen sollten nacheinander abgearbeitet werden.
+
+
+=== Phase 1: Erkundung und Erstmaßnahmen ===
+
+
+__1.1. Sicherungsmaßnahmen__ 
+
+
+    * Brandschutz sicherstellen
+    * Gefahrenbereich absperren
+    * Verkehr regeln und kontrollieren
+    * Gas / Wasser / Strom regeln und kontrollieren
+    * EX- und OX- Messungen durchführen
+    * Aus Trümmerschatten fernhalten (Eigenschutz)
+    * Trümmer nicht betreten
+
+
+__1.2. Ortungsmaßnahmen: __ 
+
+
+    * „Sehen und Hören“ von möglichen betroffenen Personen
+    * Erkunden der Randbereiche der Schadenstelle, nicht die Trümmerbereiche selbst!
+    * Befragen von Betroffenen und Augenzeugen zur Feststellung der Anzahl und letzten Aufenthaltsorte der Betroffenen
+
+
+__1.3. Zugang-schaffen:__ 
+
+
+**Keine!** 
+
+
+__1.4. Lebenserhaltende Sofortmaßnahmen:__ 
+
+
+    * Retten und Betreuen von Betroffenen
+    * Registrieren der Verletzten und Betroffenen
+
+
+__1.5. Befreiungsmaßnahmen:__ 
+
+
+**Keine!** 
+
+
+__Weitere Maßnahmen durch die Einsatzleitung:__ 
+
+
+    * Anfahrtswege zur Schadenstelle festlegen
+    * Aufstellung der Fahrzeuge an der Schadenstelle festlegen
+
+
+=== Phase 2: Durchsuchen und einfache Rettung ===
+
+
+__2.1. Sicherungsmaßnahmen:__ 
+
+
+    * Maßnahmen aus Phase 1 weiterführen
+
+
+__2.2. Ortungsmaßnahmen:__ 
+
+
+    * Maßnahmen aus Phase 1 weiterführen
+    * Leicht zugängliche und „sichere“ Räume in der Schadenstelle durchsuchen
+
+
+__2.3. Zugang-schaffen:__ 
+
+
+    * Zugänge schaffen ohne Veränderung der Trümmerlage durch technisches Gerät
+    * Ausnahme: Der Einsatz von Leitern für Rettungsmaßnahmen ist erlaubt!
+
+
+__2.4. Lebenserhaltende Sofortmaßnahmen:__ 
+
+
+    * Retten und Betreuen von Betroffenen
+    * Registrieren der Verletzten und Betroffenen
+
+
+__2.5. Befreiungsmaßnahmen:__ 
+
+
+**Keine!** 
+
+
+__Weitere Maßnahmen durch die Einsatzleitung:__ 
+
+
+    * Führungsorganisation:
+      * Einsatzleitung aufbauen
+      * Festlegung der Kommunikationswege
+    * Gliederung des Raumes:
+      * Einsatzabschnitte festlegen
+      * Anfahrt-/ Abfahrtwege festlegen
+      * Bereitstellungsräume festlegen
+      * Gefahrenbereiche und Absperrbereiche definieren
+      * Aufstellbereiche, z.B. von Kränen, an der Schadenstelle festlegen
+      * Verletztenablage einrichten
+    * Aufbau der Logistikstrukturen und frühzeitiges Nachfordern von Material u. Personal
+    * [[allgemein:pressearbeit|Pressearbeit]]
+
+
+=== Phase 3: Ortung und technische Rettung ===
+
+
+__3.1. Sicherungsmaßnahmen:__ 
+
+
+    * Maßnahmen aus Phase 1 und 2 weiterführen
+    * Absichern einsturzgefährdeter Bauteile
+    * Erforderliche [[:allgemeine_hilfe:abstuetzen_und_aussteifen|Abstützungen und Aussteifungen]] herstellen
+
+
+__3.2. Ortungsmaßnahmen:__ 
+
+
+    * „[[:allgemeine_hilfe:allgemein:horch-_ruf-_klopfmethode|Horch-, Ruf-, Klopfmethode]] “ durchführen zur Lokalisierung Verschütteter
+    * Biologische Ortung (Trümmerrettungshunde) für gezielte Suche einsetzen
+    * Technische Ortung (Horchgeräte, Minikameras) für gezielte Suche einsetzen
+
+
+__3.3. Zugang-schaffen:__ 
+
+
+    * Zugänge schaffen unter Veränderung der Trümmerlage durch Einsatz von technischem Gerät
+
+
+__3.4. Lebenserhaltende Sofortmaßnahmen:__ 
+
+
+    * Medizinische Versorgung und Betreuung von Betroffenen
+    * Registrieren der Verletzten und Betroffenen
+
+
+__3.5. Befreiungsmaßnahmen:__ 
+
+
+    * Retten von Betroffenen aus der Zwangslage und anschließender Transport aus der Schadenstelle zur Verletztenablage
+
+
+__Weitere Maßnahmen durch die Einsatzleitung:__ 
+
+
+    * Einsatzdauer abschätzen und beachten
+    * Reservebildung berücksichtigen
+    * Einsatzdokumentation: Schichtweise Darstellung der Schadenstelle
+    * Trümmerablageplatz einrichten
+    * Spezialgeräte nachfordern
+
+
+Erst nach Abschluss von Phase 3 soll Phase 4 eingeleitet werden, d.h. wenn es momentan zu keinen weiteren Ortungen kommt, soll gezielt zu vermuteten Personen vorgedrungen werden. Bei Bedarf soll wieder zu Phase 3 zurückgekehrt werden, d.h. wenn die Schadenstelle durch Veränderung der Trümmerlage ein neues Schadenbild ergibt.
+
+
+=== Phase 4: Gezieltes Vordringen zu vermuteten Personen ===
+
+
+Unterschied:\\ 
+Phase 3 – Trümmer abtragen weil ich weiß, dort liegt jemand\\ 
+Phase 4 – Trümmer abtragen, weil ich vermute dort liegt jemand
+
+
+__4.1. Sicherungsmaßnahmen:__ 
+
+
+    * Maßnahmen aus Phase 1, 2 und 3 weiterführen
+
+
+__4.2. Ortungsmaßnahmen: (nach Bedarf)__ 
+
+
+    * Maßnahmen aus Phase 3 weiterführen
+    * Sichtkontrolle
+
+
+__4.3. Zugang-schaffen:__ 
+
+
+    * wie Phase 3
+
+
+__4.4. Lebenserhaltende Sofortmaßnahmen:__ 
+
+
+    * Medizinische Versorgung und Betreuung von Betroffenen
+    * Registrieren der Verletzten und Betroffenen
+
+
+__4.5. Befreiungsmaßnahmen: __ 
+
+
+    * wie Phase 3
+
+
+__Weitere Maßnahmen durch die Einsatzleitung:__ 
+
+
+    * Dokumentation der Schadensituation (Lagekarten, Bildlicher Nachweis)
+
+
+=== Phase 5: Abschließende Maßnahmen ===
+
+
+__5.1. Sicherungsmaßnahmen:__ 
+
+
+    * Maßnahmen aus Phase 1, 2 und 3 weiterführen
+
+
+__5.2. Ortungsmaßnahmen:__ 
+
+
+    * In regelmäßigen Abständen und beim Öffnen von Zugängen wird weiterhin auf Lebenszeichen geachtet, sowie die Lage von getöteten Opfern ermittelt (bei Lebenszeichen analog Phase 3 oder 4)
+    * Sichtkontrolle
+
+
+__5.3. Zugang-schaffen:__ 
+
+
+    * Vorsichtiges Abtragen der Trümmer durch Einsatz von [[allgemein:kran-einsatz|Autokranen]] und Schuttmulden. In Bereichen, die mit Sicherheit frei von Überlebenden sind, kann schweres Räumgerät verwendet werden
+
+
+__5.4. Lebenserhaltende Sofortmaßnahmen:__ 
+
+
+    * bei Auffinden von Überlebenden wird zurück zu Phase 3 gesprungen
+
+
+__5.5. Befreiungsmaßnahmen:__ 
+
+
+    * Bergen von Personen, Tieren und Sachen in Abstimmung mit den Ermittlungsbehörden
+
+
+__Weitere Maßnahmen durch die Einsatzleitung:__ 
+
+
+    * Übergabe der Einsatzstelle und Feststellung des Einsatzendes
+
+==== besondere Gefahren ====
+
+  * Atemgifte (in Form von Staubpartikeln)
+  * Absturzgefahr beim Betreten von Trümmern
+  * Angstreaktion der Betroffenen (Betreuung notwendig)
+  * Explosionsgefahr durch gebrochene Gasleitungen oder Sprengsätze
+  * Einsturzgefahr und Herabfallen weiterer Teile
+  * Gefahr durch freiliegene, elektrische Leitungen
+  * Gefahren durch Betreten und Umlagern von Trümmern. Es können weitere Einstürze verursacht werden oder Kräfteumlagerungen, die verschüttete Personen weiter schädigen
+  * Große Anzahl Verletzter (MANV-Lage)
+  * Psychologische Belastung der Einsatzkräfte
+  * Katastrophentourismus und großes Interesse der Bevölkerung/[[allgemein:pressearbeit|Presse]]
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Nachalarmierung von Verstärkung und Spezialkräften
+    * Feuerwehr (weitere Löschzüge, übergeordnetre Einsatzleitung, [[allgemein:kran-einsatz|Kran]])
+    * Polizei 
+    * Rettungsdienst / Sanitätsdienst einschließlich Leitender Notarzt 
+    * Technisches Hilfswerk (für Ortung, Bergung und Räumung)
+    * Baufachberater / Statiker 
+    * Rettungshundestaffel 
+    * Energie-Versorgungsunternehmen 
+  * Alle an und in der Schadenstelle eingesetzten Kräfte bei ihrem Eintreffen an der Einsatzstelle registrieren, nur so kann ihre Sicherheit garantiert werden. 
+  * Zum Eigenschutz sollen alle an und in der Schadenstelle tätigen Kräfte über Mund- und Augenschutz verfügen! 
+  * Aufgrund der starken psychischen und physischen Belastung der Einsatzkräfte muss die Einsatzleitung rechtzeitig an Betreuungseinheiten für die Einsatzkräfte denken (auch Einsatzkräftenachbetreuung)! 
+  * Um den Einsatz möglichst effizient abwickeln zu können, sollen bestehende Einheiten grundsätzlich nicht getrennt werden! 
+  * Bei Gebäudeeinstürzen bzw. Teileinstürzen, nie alleine an oder in der Schadenstelle bewegen oder aufhalten! 
+  * Externe Dienstleister, wie z.B. Abrissunternehmen oder Kranfirmen, sollen nur auf Anweisung und unter ständiger Kontrolle von Fachpersonal arbeiten. Diese Firmen beherrschen zwar ihre Gerätschaften perfekt, der einsatztaktische bzw. einsatztechnische Hintergrund fehlt ihnen aber meistens! 
+  * Die Abstimmung zwischen den unterschiedlichen Fachgruppen muss gewährleistet sein, damit sie sich nicht gegenseitig behindern. So ist es besonders wichtig, dass sich die Ortungseinheiten mit den Rettungseinheiten absprechen, da sonst eine reibungslose Ortung durch gleichzeitige Rettungsaktionen gestört wird! 
+  * Während des Rettungshundeeinsatzes dürfen sich keine Personen auf dem Trümmer bzw. in unmittelbarer Nähe am Trümmer aufhalten. Rettungshunde reagieren auf jegliche menschliche Witterung und versuchen diese zu lokalisieren. Einsatzkräfte, die sich im Suchgebiet aufhalten, sind eine Störquelle für den Hund. Er weiß auf eine gewisse Distanz hin nicht, ob es sich bei der aufgenommenen Witterung um die verschüttete Person oder um eine Einsatzkraft handelt. 
+  * Wegen der kriminalpolizeilichen Aufklärung eines Schadenereignisses ist es wichtig, dass die Einsatzkräfte Beweis sichernde Maßnahmen mit Polizei oder Staatsanwaltschaft abstimmen! 
+  * Für den reibungslosen Einsatzablauf und zum Eigenschutz sind einheitliche und im Vorfeld abgesprochene Kommandos wichtig. Standardisierte Kommandos sind z.B. „Ruhe für die Ortung!“ und „Achtung Rückzug!“
+
+===== Weblinks =====
+
+  * [[http://www.drk-weimar.de/pix/downloadsiterhs/Gebaeudeeinsturz-DV-Rettungshundeeinsatz.pdf|„Hinweise für Maßnahmen der Feuerwehr und anderer Hilfskräfte nach Gebäudeeinstürzen“ im Auftrag der vfdb]] 
+  * www.thw.de
+
+===== Quellenangabe =====
+
+
+  * [[http://www.drk-weimar.de/pix/downloadsiterhs/Gebaeudeeinsturz-DV-Rettungshundeeinsatz.pdf|„Hinweise für Maßnahmen der Feuerwehr und anderer Hilfskräfte nach Gebäudeeinstürzen“ im Auftrag der vfdb]] 
+  * [[http://gsb.download.bva.bund.de/BBK/KatS_Dv_221_1_Vorlaeufer.pdf|KatS-DV 221/1 Ausbildung des Bergungsdienstes (Vorläufer)]] 
+  * [[http://thwiki.org/t=Hauptseite|THW-Wiki]] 
+  * [[http://www.thw-ausbildung.de/unterlagen/unterlagen.htm|Lehrunterlagen des THW OV Euskirchen auf thw-ausbildung.de]] 
+===== Stichwörter =====
+
+Gebäudeeinsturz, Einsturz, Trümmer, Verschüttung, Ortung, Bergung

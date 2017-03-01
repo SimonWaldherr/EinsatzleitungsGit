@@ -1,0 +1,192 @@
+====== Rettungsdatenblätter Bahn ======
+
+{{ :allgemeine_hilfe:bahn:hinweise_fuer_fremdrettungskraefte_09-2016.pdf |Hinweise für Fremdrettungskräfte}}
+
+Hinweis: Es existieren einige Baureihen die sehr unterschiedliche Nummern haben aber sich das gleiche Rettungsdatenblatt teilen. Zur besseren Benutzbarkeit sind gleiche Fahrzeuge mit eng beieinanderliegenden Baureihennummern zusammengefasst (z.B. //Baureihe 215, 216, 217, 218, 225, 226//). Die Baureihe 753 besitzt in diesem Beispiel ebenfalls das gleiche Rettungsdatenblatt, allerdings wurde dafür ein eigener Eintrag angelegt um die Logik der ansteigenden Nummerierung zu erhalten (nach 753 würde sonst 232 folgen).
+
+===== Ermittlung der Fahrzeugnummer =====
+
+==== Triebfahrzeuge ====
+
+{{:allgemeine_hilfe:allgemein:fahrzeugnummer_triebfahrzeuge.png?nolink&800|Ermittlung der Fahrzeugnummer von Triebfahrzeugen}}
+
+==== Reisezugwagen ====
+
+{{:allgemeine_hilfe:allgemein:fahrzeugnummer_reisezugwagen.png?nolink&800|Ermittlung der Fahrzeugnummer von Reisezugwagen}}
+
+===== Fahrzeuge mit Elektromotor =====
+
+^  Baureihe  ^  Betreiber  ^  Fahrzeugart  ^  Hinweise  ^
+|{{:allgemeine_hilfe:bahn:elok:db_101_11-2008.pdf|Baureihe 101}}|  DB  |  Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:elok:db_110_140_11-2008.pdf|Baureihe 110}}|  DB  |  Lokomotive  |identisch mit Baureihe 113 / 115 / 139 / 140|
+|{{:allgemeine_hilfe:bahn:elok:db_111_11-2008.pdf|Baureihe 111}}|  DB  |  Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:elok:db_112_143_11-2008.pdf|Baureihe 112}}|  DB  |  Lokomotive  |identisch mit Baureihe 114 / 143|
+|{{:allgemeine_hilfe:bahn:elok:db_110_140_11-2008.pdf|Baureihe 113}}|  DB  |  Lokomotive  |identisch mit Baureihe 110 / 115 / 139 / 140|
+|{{:allgemeine_hilfe:bahn:elok:db_112_143_11-2008.pdf|Baureihe 114}}|  DB  |  Lokomotive  |identisch mit Baureihe 112 / 143|
+|{{:allgemeine_hilfe:bahn:elok:db_110_140_11-2008.pdf|Baureihe 115}}|  DB  |  Lokomotive  |identisch mit Baureihe 110 / 113 / 139 / 140|
+|{{:allgemeine_hilfe:bahn:elok:db_120_11-2008.pdf|Baureihe 120}}|  DB  |  Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:elok:db_110_140_11-2008.pdf|Baureihe 139, 140}}|  DB  |  Lokomotive  |identisch mit Baureihe 110 / 113 / 115|
+|{{:allgemeine_hilfe:bahn:elok:db_112_143_11-2008.pdf|Baureihe 143}}|  DB  |  Lokomotive  |identisch mit Baureihe 112 / 114|
+|{{:allgemeine_hilfe:bahn:elok:db_145_185_11-2008.pdf|Baureihe 145, 146}}|  DB  |  Lokomotive  |identisch mit Baureihe 185|
+|{{:allgemeine_hilfe:bahn:elok:db_147_187_05-2016.pdf|Baureihe 147}}|  DB  |  Lokomotive  |identisch mit Baureihe 187|
+|{{:allgemeine_hilfe:bahn:elok:db_151_11-2008.pdf|Baureihe 151}}|  DB  |  Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:elok:db_152_11-2008.pdf|Baureihe 152}}|  DB  |  Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:elok:db_155_11-2008.pdf|Baureihe 155}}|  DB  |  Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:elok:db_180_11-2008.pdf|Baureihe 180}}|  DB  |  Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:elok:db_181_11-2008.pdf|Baureihe 181}}|  DB  |  Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:elok:db_182_11-2008.pdf|Baureihe 182}}|  DB  |  Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:elok:db_145_185_11-2008.pdf|Baureihe 185}}|  DB  |  Lokomotive  |identisch mit Baureihe 145 / 146|
+|{{:allgemeine_hilfe:bahn:elok:db_186_11-2016.pdf|Baureihe 186}}|  DB  |  Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:elok:db_147_187_05-2016.pdf|Baureihe 187}}|  DB  |  Lokomotive  |identisch mit Baureihe 147|
+|{{:allgemeine_hilfe:bahn:elok:db_189_11-2008.pdf|Baureihe 189}}|  DB  |  Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:elok:tp-bev_x4e_193_11-2013.pdf|Baureihe 193}}|Transpetrol|  Lokomotive  |Transpetrol GmbH|
+|{{:allgemeine_hilfe:bahn:elok:db_420_421_03-2011.pdf|Baureihe 420, 421}}|  DB  |  Triebzug  |S-Bahn-Triebzug|
+|{{:allgemeine_hilfe:bahn:elok:db_422_11-2016.pdf|Baureihe 422}}|  DB  |  Triebzug  |S-Bahn-Triebzug, identisch mit Baureihe 432|
+|{{:allgemeine_hilfe:bahn:elok:db_423_11-2016.pdf|Baureihe 423}}|  DB  |  Triebzug  |S-Bahn-Triebzug, identisch mit Baureihe 433|
+|{{:allgemeine_hilfe:bahn:elok:db_424_425_11-2016.pdf|Baureihe 424, 425}}|  DB  |  Triebzug  |identisch mit Baureihe 434 / 435|
+|{{:allgemeine_hilfe:bahn:elok:db_426_11-2016.pdf|Baureihe 426}}|  DB  |  Triebzug  | |
+|{{:allgemeine_hilfe:bahn:elok:hlb_427_mls_2010-10.pdf|Baureihe 427}}|  HLB  |  Triebzug  |**Fahrzeug 427-041 bis 427-043**, Hessische Landesbahn|
+|{{:allgemeine_hilfe:bahn:elok:vias_427_tnr_2010-10.pdf|Baureihe 427}}|  VIAS  |  Triebzug  |**Fahrzeug 427-149 bis 427-153**, VIAS GmbH|
+|{{:allgemeine_hilfe:bahn:elok:vias_428_tnr_2010-10.pdf|Baureihe 428}}|  VIAS  |  Triebzug  |**Fahrzeug 428-135 bis 428-148**, VIAS GmbH|
+|{{:allgemeine_hilfe:bahn:elok:hlb_429_mls_2010-10.pdf|Baureihe 429}}|  HLB  |  Triebzug  |**Fahrzeug 429-041 bis 429-046**, Hessische Landesbahn|
+|{{:allgemeine_hilfe:bahn:elok:db_429_04-2011.pdf|Baureihe 429}}|  DB  |  Triebzug  | |
+|{{:allgemeine_hilfe:bahn:elok:db_429.1_1428_05-2016.pdf|Baureihe 429.1}}|  DB  |  Triebzug  |identisch mit Baureihe 1428|
+|{{:allgemeine_hilfe:bahn:elok:db_430_431_11-2012.pdf|Baureihe 430, 431}}|  DB  |  Triebzug  |S-Bahn-Triebzug|
+|{{:allgemeine_hilfe:bahn:elok:db_422_11-2016.pdf|Baureihe 432}}|  DB  |  Triebzug  |S-Bahn-Triebzug, identisch mit Baureihe 422|
+|{{:allgemeine_hilfe:bahn:elok:db_423_11-2016.pdf|Baureihe 433}}|  DB  |  Triebzug  |S-Bahn-Triebzug, identisch mit Baureihe 423|
+|{{:allgemeine_hilfe:bahn:elok:db_424_425_11-2016.pdf|Baureihe 434, 435}}|  DB  |  Triebzug  |identisch mit Baureihe 424 / 425|
+|{{:allgemeine_hilfe:bahn:elok:db_440_06-2013.pdf|Baureihe 440, 441}}|  DB  |  Triebzug  | |
+|{{:allgemeine_hilfe:bahn:elok:db_442_05-2009.pdf|Baureihe 442}}|  DB  |  Triebzug  | |
+|{{:allgemeine_hilfe:bahn:elok:db_445_446_04-2018.pdf |Baureihe 445, 446}}|  DB  |  Elektrischer Triebwagen  |Dosto 2010, DB Regio AG|
+|{{:allgemeine_hilfe:bahn:elok:avg_vbk_gt8_10-2007_br_450_fahrzeug-nr_801-836.pdf|Baureihe 450}}|  VBK  |  Triebzug  |**Fahrzeug-Nr. 450-801 bis 450-836**, Verkehrsbetriebe Karlsruhe| 
+|{{:allgemeine_hilfe:bahn:elok:avg_vbk_gt8_10-2007_br_450_fahrzeug-nr_837-922.pdf|Baureihe 450}}|  VBK  |  Triebzug  |**Fahrzeug-Nr. 450-837 bis 450-922**, Verkehrsbetriebe Karlsruhe|
+|{{:allgemeine_hilfe:bahn:elok:cisalpino_etr_470_06-2006.pdf|Baureihe ETR 470}}|  Cisalpino  |  Triebzug  |Schweiz|
+|{{:allgemeine_hilfe:bahn:elok:db_472_473_10-2004.pdf|Baureihe 472, 473}}|  DB  |  Triebzug  |S-Bahn-Triebzug Hamburg|
+|{{:allgemeine_hilfe:bahn:elok:db_474_06-2006.pdf|Baureihe 474}}|  DB  |  Triebzug  |S-Bahn-Triebzug Hamburg|
+|{{:allgemeine_hilfe:bahn:elok:db_480_10-2004.pdf|Baureihe 480}}|  DB  |  Triebzug  |S-Bahn-Triebzug Berlin|
+|{{:allgemeine_hilfe:bahn:elok:db_481_10-2004.pdf|Baureihe 481}}|  DB  |  Triebzug  |S-Bahn-Triebzug Berlin|
+|{{:allgemeine_hilfe:bahn:elok:db_485_10-2004.pdf|Baureihe 485}}|  DB  |  Triebzug  |S-Bahn-Triebzug Berlin|
+|{{:allgemeine_hilfe:bahn:elok:db_488_10-2004.pdf|Baureihe 488}}|  DB  |  Triebzug  |S-Bahn-Triebzug Berlin|
+|{{:allgemeine_hilfe:bahn:elok:boby_1427_10-2016.pdf|Baureihe 1427}}|  BOB  |  Triebzug  |Bayerische Oberlandbahn|
+|{{:allgemeine_hilfe:bahn:elok:db_429.1_1428_05-2016.pdf|Baureihe 1428}}|  DB  |  Triebzug  |identisch mit Baureihe 429.1|
+|{{:allgemeine_hilfe:bahn:elok:nbe_1429_1430_12-2014.pdf|Baureihe 1429, 1430}}|  nordbahn  |  Triebzug  |nordbahn Eisenbahngesellschaft|
+|{{:allgemeine_hilfe:bahn:elok:boby_1430_10-2016.pdf|Baureihe 1430}}|  BOB  |  Triebzug  |Bayerische Oberlandbahn|
+|{{:allgemeine_hilfe:bahn:elok:db_3442_12-2016.pdf|Baureihe 3442}}|  DB  |  Triebzug  |Baden-Württemberg|
+
+==== weitere Eisenbahnunternehmen ====
+
+^  Baureihe  ^  Fahrzeugart  ^  Hinweise  ^
+|{{:allgemeine_hilfe:bahn:elok:fiu_cfl-2300_de_08-2014.pdf|FIU CFL 2300}}|  Triebzug  |Doppelstocktriebzug, Luxemburg|
+|{{:allgemeine_hilfe:bahn:elok:fiu_cfl-4000_de_12-2013.pdf|FIU CFL 4000}}|  Lokomotive  |Luxemburg|
+|{{:allgemeine_hilfe:bahn:elok:db_tgv_pos_06-2007.pdf|TGV POS}}|  Triebzug  |Frankreich|
+|{{:allgemeine_hilfe:bahn:elok:sncf_tgv_2n2_tk_11-2011.pdf|TGV 2N2 Euroduplex Triebkopf}}|  Triebzug  |Frankreich|
+
+===== Fahrzeuge mit Verbrennungsmotor =====
+
+^  Baureihe  ^  Betreiber  ^  Fahrzeugart  ^  Hinweise  ^
+|{{:allgemeine_hilfe:bahn:vlok:db_203_05-2009.pdf|Baureihe 203}}|  DB  |  Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:vlok:db_204_298_05-2009.pdf|Baureihe 204, 212}}|  DB  |  Lokomotive  |identisch mit Baureihe 290 / 291 / 294 / 295 / 298|
+|{{:allgemeine_hilfe:bahn:vlok:db_215_753_05-2008.pdf|Baureihe 215, 216, 217, 218, 225, 226}}|  DB  |  Lokomotive  |identisch mit Baureihe 753|
+|{{:allgemeine_hilfe:bahn:vlok:db_232_241_05-2008.pdf|Baureihe 232, 233, 234, 241}}|  DB  |  Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:vlok:db_245_12-2013.pdf|Baureihe 245}}|  DB  |  Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:vlok:db_247_01-2012.pdf|Baureihe 247}}|  DB  |  Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:vlok:db_260_261_05-2017.pdf|Baureihe 260, 261}}|  DB  |  Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:vlok:db_265_05-2013.pdf|Baureihe 265}}|  DB  |  Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:vlok:db_204_298_05-2009.pdf|Baureihe 290, 291, 294, 295, 298}}|  DB  |  Lokomotive  |identisch mit Baureihe 204 / 212|
+|{{:allgemeine_hilfe:bahn:vlok:db_333_399_05-2008.pdf|Baureihe 333, 335}}|  DB  |  Klein-Lokomotive  |identisch mit Baureihe 399|
+|{{:allgemeine_hilfe:bahn:vlok:db_345_365_05-2008.pdf|Baureihe 345, 346, 347, 362, 363, 364, 365}}|  DB  |  Klein-Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:vlok:db_333_399_05-2008.pdf|Baureihe 399}}|  DB  |  Klein-Lokomotive  |identisch mit Baureihe 333 / 335|
+|{{:allgemeine_hilfe:bahn:vlok:boby_609_10-2016.pdf|Baureihe 609}}|  BOB  |  Triebzug  |Bayerische Oberlandbahn|
+|{{:allgemeine_hilfe:bahn:vlok:db_610_08-2006.pdf|Baureihe 610}}|  DB  |  Triebzug  | |
+|{{:allgemeine_hilfe:bahn:vlok:db_611_08-2006.pdf|Baureihe 611}}|  DB  |  Triebzug  | |
+|{{:allgemeine_hilfe:bahn:vlok:db_612_08-2006.pdf|Baureihe 612}}|  DB  |  Triebzug  | |
+|{{:allgemeine_hilfe:bahn:vlok:db_614_08-2008.pdf|Baureihe 614}}|  DB  |  Triebzug  |identisch mit Baureihe 914|
+|{{:allgemeine_hilfe:bahn:vlok:db_620_622_2013-05.pdf|Baureihe 620, 621, 622}}|  DB  |  Triebzug  | |
+|{{:allgemeine_hilfe:bahn:vlok:db_648_11-2014.pdf|Baureihe 623}}|  DB  |  Triebzug  |identisch mit Baureihe 648|
+|{{:allgemeine_hilfe:bahn:vlok:db_624_634_03-2002.pdf|Baureihe 624}}|  DB  |  Triebzug  |identisch mit Baureihe 634|
+|{{:allgemeine_hilfe:bahn:vlok:db_628_928_2014-04.pdf|Baureihe 628, 629}}|  DB  |  Triebzug  |identisch mit Baureihe 928|
+|{{:allgemeine_hilfe:bahn:vlok:db_624_634_03-2002.pdf|Baureihe 634}}|  DB  |  Triebzug  |identisch mit Baureihe 624|
+|{{:allgemeine_hilfe:bahn:vlok:db_640_01-2012.pdf|Baureihe 640}}|  DB  |  Triebwagen  | |
+|{{:allgemeine_hilfe:bahn:vlok:db_641_08-2006.pdf|Baureihe 641}}|  DB  |  Triebwagen  | |
+|{{:allgemeine_hilfe:bahn:vlok:db_642_04-2018.pdf|Baureihe 642}}|  DB  |  Triebzug  | |
+|{{:allgemeine_hilfe:bahn:vlok:db_642_x_ha_11-2011.pdf|Baureihe 642 Hybrid}}|  DB  |  Triebzug  |**gilt nur für die Fahrzeuge mit Nr. 642-129 und 642-629**|
+|{{:allgemeine_hilfe:bahn:vlok:db_643_2014-04.pdf|Baureihe 643}}|  DB  |  Triebzug  |identisch mit Baureihe 943|
+|{{:allgemeine_hilfe:bahn:vlok:db_644_01-2012.pdf|Baureihe 644}}|  DB  |  Triebzug  |identisch mit Baureihe 944|
+|{{:allgemeine_hilfe:bahn:vlok:db_646_11-2013.pdf|Baureihe 646}}|  DB  |  Triebzug  |identisch mit Baureihe 946|
+|{{:allgemeine_hilfe:bahn:vlok:db_648_11-2014.pdf|Baureihe 648}}|  DB  |  Triebzug  |identisch mit Baureihe 623|
+|{{:allgemeine_hilfe:bahn:vlok:db_650_03-2011.pdf|Baureihe 650}}|  DB  |  Triebwagen  | |
+|{{:allgemeine_hilfe:bahn:vlok:db_672_11-2014.pdf|Baureihe 672}}|  DB  |  Triebwagen  | |
+|{{:allgemeine_hilfe:bahn:vlok:db_708.3_09-2016.pdf|Baureihe 708.3}}|  DB  |  Arbeits-/ Sonderfzg  |Instandhaltungsfahrzeug für Oberleitungsanlagen|
+|{{:allgemeine_hilfe:bahn:arbeitsfz:db_netz_711-1_08-2014.pdf|Baureihe 711.1}}|  DB  |  Arbeits-/ Sonderfzg  |9980 9136 001-1 bis ...007-8, Instandhaltung Oberleitung|
+|{{:allgemeine_hilfe:bahn:vlok:db_714_12-2010.pdf|Baureihe 714}}|  DB  |  Arbeits-/ Sonderfzg  |Rettungszuglok|
+|{{:allgemeine_hilfe:bahn:vlok:db_netz_719_05-2016.pdf|Baureihe 719}}|  DB  |  Arbeits-/ Sonderfzg  |719 001-0, 720 001-7 und 719 501-9, DB Netz Schienenprüfzug 2|
+|{{:allgemeine_hilfe:bahn:vlok:db_741.0_09-2016.pdf|Baureihe 741}}|  DB  |  Arbeits-/ Sonderfzg  |Gleisarbeitsfahrzeug SKL 26|
+|{{:allgemeine_hilfe:bahn:vlok:db_744.0_09-2016.pdf|Baureihe 744}}|  DB  |  Arbeits-/ Sonderfzg  |Gleisarbeitsfahrzeug (Bamowag)|
+|{{ :allgemeine_hilfe:bahn:vlok:db_748.0_04-2018.pdf |Baureihe 748.0}}|  DB  |  Neben-/ Spezialfahrzeug  |748.0, Unimog U423 2-Wege-Gleisarbeitsfahrzeug|
+|{{:allgemeine_hilfe:bahn:vlok:db_215_753_05-2008.pdf|Baureihe 753}}|  DB  |  Lokomotive  |identisch mit Baureihe 215 / 216 / 217 / 218 / 225 / 226|
+|{{:allgemeine_hilfe:bahn:vlok:db_772_12-2010.pdf|Baureihe 772}}|  DB  |  Triebwagen  | |
+|{{:allgemeine_hilfe:bahn:vlok:db_614_08-2008.pdf|Baureihe 914}}|  DB  |  Triebzug  |identisch mit Baureihe 614|
+|{{:allgemeine_hilfe:bahn:vlok:db_628_928_2014-04.pdf|Baureihe 928}}|  DB  |  Triebzug  |identisch mit Baureihe 628 / 629|
+|{{:allgemeine_hilfe:bahn:vlok:db_643_2014-04.pdf|Baureihe 943}}|  DB  |  Triebzug  |identisch mit Baureihe 643|
+|{{:allgemeine_hilfe:bahn:vlok:db_644_01-2012.pdf|Baureihe 944}}|  DB  |  Triebzug  |identisch mit Baureihe 644|
+|{{:allgemeine_hilfe:bahn:vlok:db_646_11-2013.pdf|Baureihe 946}}|  DB  |  Triebzug  |identisch mit Baureihe 646|
+|{{:allgemeine_hilfe:bahn:vlok:vossloh_g6.pdf|Vossloh G6}}|  DB  |  Lokomotive  | |
+|{{:allgemeine_hilfe:bahn:arbeitsfz:db_netz_gaf_100_08-2014.pdf|Gleisarbeitsfahrzeug GAF 100}}|  DB  |  Arbeits-/ Sonderfzg  |Gleisarbeitsfahrzeug|
+|{{:allgemeine_hilfe:bahn:arbeitsfz:db_netz_gaf_200_08-2014.pdf|Gleisarbeitsfahrzeug GAF 200}}|  DB  |  Arbeits-/ Sonderfzg  |Gleisarbeitsfahrzeug|
+|{{ :allgemeine_hilfe:bahn:vlok:db_rotrac_02-2017.pdf |DB ROTRAC}}|  DB  |  Nebenfahrzeug  |DB Cargo Rangierfahrzeug, Zweiwegefahrzeug|
+
+==== weitere Eisenbahnunternehmen ====
+
+^  Baureihe  ^  Fahrzeugart  ^  Hinweise  ^
+|{{:allgemeine_hilfe:bahn:vlok:pkp_sa_105_11-2013.pdf|PKP SA 105}}|  Triebwagen  |Polen|
+
+===== ICE-Züge =====
+
+^  Baureihe  ^  Hinweise  ^
+|{{:allgemeine_hilfe:bahn:ice:db_401_402_2004-10_v2.pdf|Baureihe 401, 402}}|ICE 1/ICE 2|
+|{{:allgemeine_hilfe:bahn:ice:db_403_406_2005-05_v2.pdf|Baureihe 403, 406}}|ICE 3|
+|{{:allgemeine_hilfe:bahn:ice:db_407_10-2013.pdf|Baureihe 407}}|ICE 3|
+|{{:allgemeine_hilfe:bahn:ice:db_411_415_10-2004.pdf|Baureihe 411}}|ICE T, identisch mit 415|
+|{{:allgemeine_hilfe:bahn:ice:db_412_812_09-2016.pdf|Baureihe 412}}|ICE 4, identisch mit 812|
+|{{:allgemeine_hilfe:bahn:ice:db_411_415_10-2004.pdf|Baureihe 415}}|ICE T, identisch mit 411|
+|{{:allgemeine_hilfe:bahn:ice:db_605_04-2006.pdf|Baureihe 605}}|ICE TD (Verbrennungsmotor)|
+|{{:allgemeine_hilfe:bahn:ice:db_wg_n-ice_02-2011_ice_mittelwagen.pdf|Baureihe 801, 802, 803, 804, 805, 806, 807, 808}}|ICE-Mittelwagen für ICE 1/ICE 2|
+|{{:allgemeine_hilfe:bahn:ice:db_412_812_09-2016.pdf|Baureihe 812}}|ICE 4, identisch mit 412|
+
+===== Reisezugwagen =====
+
+{{:allgemeine_hilfe:bahn:rzwagen:db_autozug_132_10-2007_speisewagen_ba132.pdf|Baureihe 132 (Autozug Speisewagen)}}\\
+{{:allgemeine_hilfe:bahn:rzwagen:db_autozug_138_10-2007_speisewagen_ba138.pdf|Baureihe 138 (Autozug Speisewagen)}}\\
+{{:allgemeine_hilfe:bahn:rzwagen:db_autozug_171_10-2007_doppelstockschlafwagen_ba_171_172.pdf|Baureihe 171, 172 (Autozug Doppelstockschlafwagen)}}\\
+{{:allgemeine_hilfe:bahn:rzwagen:db_autozug_173_10-2007_schlafwagen_ba173.pdf|Baureihe 173 (Autozug Schlafwagen)}}\\
+{{:allgemeine_hilfe:bahn:rzwagen:db_autozug_236_10-2007_sitzwagen_ba236_v2.pdf|Baureihe 236 (Autozug Sitzwagen)}}\\
+{{:allgemeine_hilfe:bahn:rzwagen:db_autozug_248_10-2007_liegewagen_ba248_v2.pdf|Baureihe 248 (Autozug Liegewagen)}}\\
+{{:allgemeine_hilfe:bahn:rzwagen:db_autozug_249_10-2007_liegewagen_ba249.pdf|Baureihe 249 (Autozug Liegewagen)}}\\
+{{:allgemeine_hilfe:bahn:rzwagen:db_autozug_874_10-2007_halbgepaeck-liegewagen_ba874_v2.pdf|Baureihe 874 (Autozug Halbgepäck-Liegewagen)}}\\
+{{:allgemeine_hilfe:bahn:rzwagen:db_wg_d_11-2004_doppelstock.pdf|Doppelstockwagen mit Schwenkschiebetüren}}\\
+{{:allgemeine_hilfe:bahn:rzwagen:db_wagen_tief_do2010_03-2018.pdf |Mittelwagen Tiefeinstieg, Dosto 2010}}, Regionalzüge der DB Regio AG\\
+{{:allgemeine_hilfe:bahn:rzwagen:db_wagen_hoch_do2010_03-2018.pdf |Mittelwagen Hocheinstieg, Dosto 2010}}, Intercity 2 der DB Fernverkehr AG sowie Regionalzüge der DB Regio AG\\
+{{:allgemeine_hilfe:bahn:rzwagen:db_steuerwagen_do2010_03-2018.pdf |Steuerwagen, Dosto 2010}}, Intercity 2 der DB Fernverkehr AG\\
+{{:allgemeine_hilfe:bahn:rzwagen:db_wg_mbw_05-2007_begleitwagen.pdf|Baureihe 240.0 (Begleitwagen für Sonderverkehre)}}\\
+{{:allgemeine_hilfe:bahn:rzwagen:db_wg_n-1_11-2004_drehfalttuer.pdf|Drehfalttürwagen}}\\
+{{:allgemeine_hilfe:bahn:rzwagen:db_wg_n-2_11-2004_schwenkschiebetuer.pdf|Schwenkschiebetürwagen}}
+
+==== weitere Eisenbahnunternehmen ====
+
+{{:allgemeine_hilfe:bahn:rzwagen:cd_173_10-2013.pdf|Baureihe 173 (Schlafwagen)}} (Tschechien)\\
+{{:allgemeine_hilfe:bahn:rzwagen:fiu_cfl-do_mw-stw_de_11-2013.pdf|Doppelstockwagen}} (Luxemburg)\\
+{{:allgemeine_hilfe:bahn:rzwagen:fpk_wlabmee_10-2013.pdf|Schlafwagen Gattung WLABmee (RIC)}} (Russland)\\
+{{:allgemeine_hilfe:bahn:rzwagen:hz-pp_bc_12-2013.pdf|Schlafwagen BC}} (Kroatien)\\
+{{:allgemeine_hilfe:bahn:rzwagen:hz-pp_wl_12-2013.pdf|Schlafwagen WL}} (Kroatien)\\
+{{:allgemeine_hilfe:bahn:rzwagen:pkp_ic_152a_06-2013.pdf|Liegesesselwagen Baureihe 152A}} (Polen)\\
+{{:allgemeine_hilfe:bahn:rzwagen:pkp_ic_305ad_12-2013.pdf|Schlafwagen Baureihe 305Ad}} (Polen)\\
+{{:allgemeine_hilfe:bahn:rzwagen:pkp_ic_406a_10-2013.pdf|Speisewagen Baureihe 406A}} (Polen)\\
+{{:allgemeine_hilfe:bahn:elok:sncf_tgv_2n2_mw_02-2012.pdf|TGV 2N2 Euroduplex Mittelwagen}} (Frankreich)
+
+===== Quellen und Copyright =====
+
+Letzte Überprüfung auf Aktualität: 05/2018
+
+Die Rettungskarten wurden von folgender Internetadresse bezogen: [[http://www.deutschebahn.com/de/einsatzmerkblaetter_notfallmanagement.html]]
+
+Alle Inhalte dieser und aller untergeordneten Seite © Deutsche Bahn AG. Nutzung mit freundlicher Genehmigung. 

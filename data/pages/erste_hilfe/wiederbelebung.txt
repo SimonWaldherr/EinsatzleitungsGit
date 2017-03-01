@@ -1,0 +1,44 @@
+====== Wiederbelebung (Reanimation) ======
+
+===== zu treffende Maßnahmen =====
+
+Wenn Person
+
+  * nicht ansprechbar und/oder
+  * trotz Überstrecken des Kopfes keine sichtbare Atmung/keine normale Atmung (Schnappatmung)
+
+**dann sofortiger Beginn der Wiederbelebung**
+
+==== Schema für Wiederbelebung ====
+
+  * 30 Kompressionen des Brustkorbs
+  * Atemwege freimachen (Kopf überstrecken, Kinn anheben)
+  * 2 Beatmungen
+  * von Vorne beginnen
+
+<wrap round important 100%>
+Ist ein AED (Automatisierter Externer Defibrillator) vorhanden, so soll dieser schnellstmöglich eingesetzt werden! Anweisungen zum Verhalten werden vom Gerät gegeben.
+</wrap>
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Geschwindigkeit: mindestens 100 Kompressionen pro Minute
+  * Kompressionstiefe:
+    * Erwachsene und Kinder 5 cm
+    * Säuglinge 4 cm
+  * Brustkorb zwischen Kompressionen vollständig entlasten
+  * Unterbrechungen der Kompressionen so kurz wie möglich halten
+  * übermäßige Beatmung vermeiden
+  * Druckpunkt für Kompression ist die Mitte des Brustkorbs (zwischen den Brustwarzen)
+  * Über das Ende der Wiederbelebung entscheidet nur ein Arzt!
+
+Eine Wiederbelebung darf nur unterbleiben wenn sichere Todeszeichen vorliegen, z.B:
+
+  * Totenstarre
+  * Leichenflecken
+  * Fäulniserscheinungen
+  * Verletzungen, die nicht mit dem Leben vereinbar sind
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_ERC-Guidelines_2010.pdf|Erste-Hilfe kompakt - Notfallstichwort Wiederbelebung]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband

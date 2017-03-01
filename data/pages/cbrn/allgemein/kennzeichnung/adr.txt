@@ -1,0 +1,59 @@
+====== ADR-Kennzeichnung ======
+
+Folgende Placards (Großzettel) können nach den ADR-Vorschriften angebracht sein (zu detaillierteren Vorgehenshinweisen zu den einzelnen Klassen siehe [[:cbrn:start|]]):
+
+^  Kennzeichnung  ^  Bedeutung  |
+|[[:cbrn:chemisch:klasse_1:start|{{:cbrn:1.png?nolink&100}}]] [[:cbrn:chemisch:klasse_1:start|{{:cbrn:1-4.png?nolink&100}}]] [[:cbrn:chemisch:klasse_1:start|{{:cbrn:1-5.png?nolink&100}}]] [[:cbrn:chemisch:klasse_1:start|{{:cbrn:1-6.png?nolink&100}}]]  |[[:cbrn:chemisch:klasse_1:start|]]|
+|[[:cbrn:chemisch:klasse_2:start|{{:cbrn:2-1.png?nolink&100}}]] [[:cbrn:chemisch:klasse_2:start|{{:cbrn:2-2.png?nolink&100}}]] [[:cbrn:chemisch:klasse_2:start|{{:cbrn:2-3.png?nolink&100}}]]  |[[:cbrn:chemisch:klasse_2:start|]]|
+|[[:cbrn:chemisch:klasse_3:start|{{:cbrn:3.png?nolink&100}}]]  |[[:cbrn:chemisch:klasse_3:start|]]|
+|[[:cbrn:chemisch:klasse_4-1:start|{{:cbrn:4-1.png?nolink&100}}]]|[[:cbrn:chemisch:klasse_4-1:start|]]|
+|[[:cbrn:chemisch:klasse_4-2:start|{{:cbrn:4-2.png?nolink&100}}]]|[[:cbrn:chemisch:klasse_4-2:start|]]|
+|[[:cbrn:chemisch:klasse_4-3:start|{{:cbrn:4-3.png?nolink&100}}]]|[[:cbrn:chemisch:klasse_4-3:start|]]|
+|[[:cbrn:chemisch:klasse_5-1:start|{{:cbrn:5-1.png?nolink&100}}]]  |[[:cbrn:chemisch:klasse_5-1:start|]]|
+|[[:cbrn:chemisch:klasse_5-2:start|{{:cbrn:5-2.png?nolink&100}}]]  |[[:cbrn:chemisch:klasse_5-2:start|]]|
+|[[:cbrn:chemisch:klasse_6-1:start|{{:cbrn:6-1.png?nolink&100}}]]  |[[:cbrn:chemisch:klasse_6-1:start|]]|
+|[[:cbrn:biologisch:start|{{:cbrn:6-2.png?nolink&100}}]]  |[[:cbrn:biologisch:start|Klasse 6.2: Ansteckungsgefährliche Stoffe / B-Einsatz]]|
+|[[:cbrn:atomar:start|{{:cbrn:7-1.png?nolink&100}}]] [[:cbrn:atomar:start|{{:cbrn:7-2.png?nolink&100}}]] [[:cbrn:atomar:start|{{:cbrn:7-3.png?nolink&100}}]] [[:cbrn:atomar:start|{{:cbrn:7-4.png?nolink&100}}]]  |[[:cbrn:atomar:start|Klasse 7: Radioaktive Stoffe]]|
+|[[:cbrn:chemisch:klasse_8:start|{{:cbrn:8.png?nolink&100}}]]  |[[:cbrn:chemisch:klasse_8:start|]]|
+|[[:cbrn:chemisch:klasse_9:start|{{:cbrn:9.png?nolink&100}}]]  |[[:cbrn:chemisch:klasse_9:start|]]|
+|{{:cbrn:allgemein:kennzeichnung:pollution.png?nolink&100|umweltgefährdende Stoffe}}|umweltgefährdende Stoffe|
+|{{:cbrn:allgemein:kennzeichnung:adr_erhitzt.png?nolink&100|Stoffe, die in erwärmtem Zustand befördert werden}}|Stoffe, die in erwärmtem Zustand befördert werden|
+|{{:cbrn:allgemein:kennzeichnung:limited_quantity.png?nolink&100|gefährliche Güter in begrenzten Mengen}}|gefährliche Güter in begrenzten Mengen|
+|{{:cbrn:allgemein:kennzeichnung:limited_quantity_luftfracht.png?nolink&100|gefährliche Güter in begrenzten Mengen - Luftfracht}}|gefährliche Güter in begrenzten Mengen - Luftfracht|
+|{{:cbrn:allgemein:kennzeichnung:limited_quantity_lq.png?nolink&100|gefährliche Güter in begrenzten Mengen}} \\  {{:cbrn:allgemein:kennzeichnung:limited_quantity_un.png?nolink&100|gefährliche Güter in begrenzten Mengen - alte Kennzeichnung}}|gefährliche Güter in begrenzten Mengen - alte Kennzeichnung \\   \\ Diese Kennzeichnungen ist seit der ADR 2011 veraltet. Sie darf aber übergangsweise noch bis 01.07.2015 verwendet werden.|
+
+==== Kühl- und Konditionierungsmittel ====
+
+{{:cbrn:allgemein:kennzeichnung:kuehlmittel.png?nolink&200  |Kühl- und Konditionierungsmittel}}
+
+Fahrzeuge und Container, die gefährliche Güter zur Kühlung oder Konditionierung enthalten, müssen an jedem Zugang an einer für Personen, welche das Fahrzeug oder Container öffnen oder betreten, leicht einsehbaren Stelle mit diesem Warnkennzeichen versehen sein.
+
+Anstelle des Sterns * wird der Name des eingesetzten Stoffs, gefolgt von dem Ausdruck //ALS KÜHLMITTEL// bzw. //ALS KONDITIONIERUNGSMITTEL//, z.B. //KOHLENDIOXID, FEST, ALS KÜHLMITTEL//
+==== freigestellte Mengen ====
+
+{{:cbrn:allgemein:kennzeichnung:freigestellte_mengen.png?nolink&200  |freigestellte Mengen}}
+
+* An dieser Stelle ist die Nummer des ersten oder einzigen ADR-Gefahrzettels anzugeben.
+
+** Sofern nicht bereits an anderer Stelle auf dem Versandstück angegeben, ist an dieser Stelle der Name des Absenders oder des Empfängers anzugeben.
+
+==== begaste Einheiten ====
+
+{{:cbrn:allgemein:kennzeichnung:begaste_einheit.png?nolink&300  |begaste Einheit}}
+
+Der Container ist mit einem giftigen Gas gefüllt um Schädlinge usw. fernzuhalten.
+
+Verhaltensanweisungen sind im Artikel [[:cbrn:chemisch:begaste_container|begaste Container]] beschrieben.
+
+===== Quellenangabe =====
+
+  * [[:cbrn:allgemein:adr|]]
+  * Bildquelle Placards
+      * Placard Klasse 1.1: [[https://commons.wikimedia.org/wiki/File:UN_transport_pictogram_-_1_%28asterisks%29.svg|https://commons.wikimedia.org/wiki/File:UN_transport_pictogram_-_1_%28asterisks%29.svg]], veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:Wostr|Wostr]] unter Public-Domain-Lizenz
+      * restliche Placards der Klassen 1 bis 9: [[http://www.unece.org/trans/danger/publi/ghs/pictograms.html|http://www.unece.org/trans/danger/publi/ghs/pictograms.html]], veröffentlicht von den United Nations unter Public-Domain-Lizenz
+      * Placard "umweltgefährdende Stoffe": [[https://commons.wikimedia.org/wiki/File:UN_transport_pictogram_-_pollution.svg|https://commons.wikimedia.org/wiki/File:UN_transport_pictogram_-_pollution.svg]], veröffentlicht vom Wikipedia-User [[https://en.wikipedia.org/wiki/pl:User:Wostr|Wostr unter Public-Domain-Lizenz]]
+
+===== Stichwörter =====
+
+\\
+

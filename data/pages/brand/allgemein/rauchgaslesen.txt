@@ -1,0 +1,124 @@
+====== Rauchgaslesen ======
+
+===== Rauch lesen nach Shan Raffel =====
+
+==== Rauchfärbung ====
+
+^ Dunkel | Fette Bedingungen, Sauerstoff-kontrolliert |
+^ Hell | Hoher Anteil von Pyrolyse-Produkten |
+
+==== Rauchschicht ====
+
+^ Hoch | Brand ist im Anfangsstadium |
+^ Niedrig | Backdraft-Potential |
+^ Hebt sich plötzlich | Ventilation findet statt |
+^ Allmähliche Absenkung | Flash-Over-Potential, Brandgas-Ansammlung |
+^ Plötzliche Absenkung | Brand intensiviert sich |
+
+==== Rauch pulsiert ====
+
+^ Rauch pulsiert | Sauerstoff-kontrolliert, Aktiver Brand, Backdraft-Potential |
+
+==== Luftströme ====
+
+^ Plötzliches Einströmen | Backdraft-Potential |
+^ Langsam und sanft | Brand ist in einem frühen Stadium, Brennstoff-kontrolliert |
+^ Schnell und turbulent | Entwickelter Brand, Sauerstoff-kontrolliert |
+^ Pfeifende Geräusche | Sauerstoff-kontrolliert |
+
+==== Geschwärzte Fenster ====
+
+^ Geschwärzte Fenster | Fette Bedingungen, Backdraft-Potential |
+
+==== Wärme ====
+
+^ Rissbildung am Fenster | Hohe Temperaturen |
+^ Plötzlicher Wärmeanstieg | Flash-Over- und Backdraft-Potential |
+
+==== Flammen ====
+
+^ Gelb (bei Zimmerbrand) | Brennstoff-kontrolliert |
+^ Rötlich (oft kurze Flammen) | wenig Sauerstoff, fette Bedingungen |
+^ Hellgelb (große u. langsame) | evtl. entzündete Pyrolyse-Produkte |
+^ Blau, in der Trennschicht | [[cbrn:chemisch:klasse_2:stoffe:kohlenmonoxid|Kohlenmonoxid]] |
+
+===== Rauch lesen nach Dave Dodson =====
+
+Die Schlüsselfaktoren zur Bewertung des Brandrauches sind: Volumen, Geschwindigkeit (Druck), Dichte und Farbe.
+
+==== Volumen =====
+
+  * Rauchvolumen mit Brandraumvolumen vergleichen
+
+**Rückschlüsse**
+
+  * wie viel Brennstoff bereits ausgegast hat
+  * Fortschritt des Brandes
+
+==== Geschwindigkeit (Druck) ====
+
+  * Wie schnell entweicht der Rauch?
+  * Kann Volumen oder Wärme anzeigen
+  * Kann den tatsächlichen Brandort anzeigen
+
+**Rückschlüsse**
+
+  * Volumengetriebener Rauch verlangsamt sich nach Verlassen der Öffnung
+  * Wärmegetriebener Rauch behält seine Geschwindigkeit bei
+  * Dort wo der Rauch am schnellsten austritt ist der Brandort zu vermuten
+
+==== Dichte ====
+
+  * Wichtigster Bewertungsfaktor
+
+**Rückschlüsse**
+
+  * Qualität der Verbrennung
+  * Vorhandener Brennstoff
+  * Wahrscheinlichkeit einer schnellen Brandausbreitung
+  * Schweregrad einer schnellen Brandausbreitung
+
+==== Farbe ====
+
+  * Nur selten ein Hinweis auf den Brennstoff
+  * Flammenanteil
+
+**Rückschlüsse**
+
+  * Stadium der Erwärmung
+  * Brandort
+  * Weiß und langsam: frühes Erwärmungsstadium
+  * Weiß und schnell: „Heißes Feuer“, aber der sichtbare Rauch hat bereits größere Strecke zurückgelegt
+  * Schwarz: spätes Erwärmungsstadium (heiß)
+  * Schwarz und dünn: Feuer ist in der Nähe
+  * Schwarz und dick: Achtung!
+  * Braun: mittlerer Erwärmungszustand von unvollständig verbranntem Holz ([[brand:allgemein:brandverhalten_baustoffe_bauteile|tragende Bauteile]]?)
+
+==== Warnzeichen ====
+
+=== bevorstehender Flashover ===
+
+  * Großvolumiger, schneller, extrem dichter und schwarzer Rauch
+  * Turbulenter Rauch, „Rollover“, Rauch entzündet sich außerhalb des Brandraumes
+
+=== bevorstehender Backdraft ===
+
+  * Gelblich-grauer Rauch
+  * pfeifende Geräusche
+  * Fenster biegen sich ein
+  * Brand in geschlossenen Räume
+
+==== Vorhersage des Brandverhaltens ====
+
+Die vier Schritte zur Vorhersage des Brandverhaltens und von Ereignissen der schnellen Brandausbreitung:
+
+  - Erkennen der Schlüsselfaktoren (s.o.)
+  - Gewichten der Schlüsselfaktoren, unter Berücksichtigung des Brandraumes, des thermischen Gleichgewichts, des Wetters und der Brandbekämpfungsmaßnahmen
+  - Beurteilen, wie schnell sich die Schlüsselfaktoren ändern
+  - Vorhersage des Brandverhaltens
+
+===== Quellenangabe =====
+
+Kompletten Text mit freundlicher Genehmigung entnommen aus:\\ {{:allgemein:kleine_merkhilfe_fuer_den_feuerwehreinsatz_1.03.pdf|Kleine Merkhilfe für den Feuerwehreinsatz: Zusammenstellung für Führungskräfte der Feuerwehr}}, Florian Pernpeintner, basierend auf den Arbeiten von:
+  * „Einen Brand lesen“, Shan Raffel
+  * „The Art of Reading Smoke”, Dave Dodson

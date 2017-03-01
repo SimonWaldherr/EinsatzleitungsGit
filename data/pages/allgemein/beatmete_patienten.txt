@@ -1,0 +1,47 @@
+====== Beatmete Patienten (außerhalb von Klinken/Heimen) ======
+
+Dieser Artikel beschäftigt sich in erster Linie mit Patienten, die außerhalb von Krankenhäusern und Heimen in Beatmungs-Wohngemeinschaften gepflegt werden. Er ist aber auch auf heimbeatmete Patienten anwendbar.
+
+==== besondere Gefahren ====
+
+  * Bis zu 12 beatmete Patienten in einer Beatmungs-WG, abhängig von der Landes-Gesetzgebung
+  * [[cbrn:chemisch:klasse_2:stoffe:sauerstoff|Sauerstoff]] in Druckbehältern/Tanks
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Brandfall ====
+
+  * nicht betroffene Patienten in ihren Zimmern belassen, sofern möglich
+
+==== Räumung/Evakuierung ====
+
+<WRAP center round important 100%>
+Räumungen von Beatmeten-WGs sind sehr komplex und möglichst zu vermeiden!
+</WRAP>
+
+siehe auch: [[allgemein:raeumung#spezialfallraeumung_von_krankenhaeusern_alten-_und_pflegeheimen|Räumung - Spezialfall: Räumung von Krankenhäusern, Alten- und Pflegeheimen]]
+
+  * Patienten möglichst im eigenen Bett transportieren, an dem die nötigen medizinischen Geräte angebracht sind
+  * Einsatzkräfte, die die Patienten evakuieren, müssen die Beatmung mittels Beatmungsbeutel beherrschen
+  * KTW sind i.d.R. nicht für den Transport von beatmeten Patienten geeignet, daher sind RTW erforderlich -> ggf. Auslösung [[allgemein:manv|MANV]] / Anforderung Patiententransportzug -> evtl. längere Vorlaufzeit
+  * Auswahl geeigneter Kliniken: Viele Kliniken haben nur geringe Kapazitäten für kurzfristig eingelieferte, beatmete Patienten! Auf mehrere Kliniken verteilen!
+
+==== Stromausfall ====
+
+<WRAP center round important 100%>
+Ein Stromausfall kann den sofortigen Eintritt von Lebensgefahr bedeuten!
+</WRAP>
+
+  * evtl. nur geringe Akkulaufzeit von Beatmungs- und weiteren medizinischen Geräten
+  * Sauerstoffkonzentratoren sind nicht Akku-gepuffert
+
+  * stromunabhängige Geräte einsetzen wenn möglich
+  * Ermittlung des tatsächlichen Leistungsbedarfs für Notstromeinspeisung -> derzeit pro Patient ca. 1.000 Watt.
+
+===== Quellenangabe =====
+
+  * Roland Beusch: Risikoanalyse von Beatmungs-Wohngemeinschaften. In: Brandschutz 11/2017, Verlag W. Kohlhammer, Stuttgart, S. 892 ff.
+
+===== Stichwörter =====
+
+Beatmung, beatmet, Heimbeatmung, heimbeatmet, Sauerstoff

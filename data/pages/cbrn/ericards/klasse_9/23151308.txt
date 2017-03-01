@@ -1,0 +1,56 @@
+====== POLYCHLORIERTE BIPHENYLE, FLÜSSIG - UN 2315 - Gefahrnr. 90 - ERICard-Nr. 9-01 - UN2315 ======
+|Stoff | POLYCHLORIERTE BIPHENYLE, FLÜSSIG   |
+|UN-Nummer | 2315   |
+|[[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Gefahrnummer]] | 90   |
+|ADR-Gefahrzettel |  {{cbrn:9.png?nolink&100}}    |
+|ADR-Klasse | 9   |
+|Klassifizierungscode | M2   |
+|[[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]] | II   |
+|ERI-Card | 9-01   |
+
+==== Unfall-Hilfeleistung ====
+===== Umweltgefährdender Stoff =====
+==== 1. Eigenschaften. ====
+  * Gefährlich für Haut, Augen und Atemwege.
+  * [[cbrn:allgemein:begriffsklaerungen#flammpunkt|Flammpunkt]] über 60°C oder nicht entzündbar.
+==== 2. Gefahren. ====
+  * Die Hitzeeinwirkung auf Behälter führt zu Druckanstieg mit Berstgefahr und nachfolgender Explosion.
+  * Entwickelt giftige und reizende Dämpfe bei starker Erwärmung oder Brand.
+  * Die Dämpfe können unsichtbar sein und sind schwerer als Luft. Sie breiten sich am Boden aus und können in Kanalisation und Kellerräume eindringen.
+==== 3. Persönlicher Schutz. ====
+  * Chemikalienbeständige Kleidung (z.B. Spritzschutz-, Säureschutzkleidung)
+  * Umluftunabhängiger Atemschutz
+==== 4. Einsatz-Massnahmen. ====
+=== 4.1 Allgemeine Massnahmen. ===
+  * Mit dem Wind vorgehen.
+=== 4.2 Massnahmen bei Stoffaustritt. ===
+  * Lecks wenn möglich schließen.
+  * Ausgetretenes Produkt mit allen verfügbaren Mitteln auffangen.
+  * Falls der Stoff in offenes Gewässer oder Kanalisation gelangt, zuständige Behörde informieren.
+  * Falls keine Gefahren für Einsatzkräfte oder die Öffentlichkeit entstehen, Kanalisation und Kellerräume belüften.
+=== 4.3 Massnahmen bei Feuer (falls Stoff betroffen). ===
+  * Behälter mit Wasser kühlen.
+  * Mit Sprühstrahl löschen
+  * Nicht mit Vollstrahl löschen.
+  * Brandgase wenn möglich mit Sprühstrahl niederschlagen.
+  * Aus Umweltschutzgründen [[brand:allgemein:loeschwasserrueckhaltung|Löschmittel zurückhalten]].
+==== 5. Erste Hilfe. ====
+  * Falls der Stoff in die Augen gelangt ist, mindestens 15 Minuten mit Wasser spülen und Personen sofort medizinischer Behandlung zuführen.
+  * Kontaminierte Kleidung sofort entfernen und betroffene Haut mit viel Wasser spülen.
+  * Personen, die mit dem Stoff in Berührung gekommen sind oder Dämpfe eingeatmet haben, sofort medizinischer Behandlung zuführen. Dabei alle verfügbaren Stoffinformationen mitgeben.
+==== 6. Besondere Vorsichtsmassnahmen bei der Bergung von Havariegut. ====
+  * Bergung des Produkts kann nicht mit Standardausrüstung durchgeführt werden! Sofort [[cbrn:allgemein:tuis|Fachberater hinzuziehen]].
+==== 7. Vorsichtsmassnahmen nach dem Hilfeleistung-Einsatz. ====
+=== 7.1 Ablegen der Schutzkleidung. ===
+  * Zur [[cbrn:allgemein:dekontamination:start|Dekontamination]] unbedingt [[cbrn:allgemein:tuis|Fachleute hinzuziehen]].
+=== 7.2 Reinigung der Ausrüstung. ===
+  * Vor Verlassen der Einsatzstelle [[cbrn:allgemein:tuis|Fachleute hinzuziehen]].
+===== Quelle und Copyright =====
+
+Bitte nehmen Sie die Verwendungshinweise zu den ERI-Cards auf der [[cbrn:ericards:start#allgemeine_hinweise|ERI-Card Übersichtsseite]] zur Kenntnis.
+
+Diese ERICard kann im Original unter folgendem Link aufgerufen werden: [[http://www.ericards.net/psp/ericards.psp_ericard?lang=3&subkey=23151308]]
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

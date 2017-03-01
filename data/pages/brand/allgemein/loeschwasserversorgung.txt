@@ -1,0 +1,80 @@
+~~NOCACHE~~
+
+====== Löschwasserversorgung ======
+
+Dieser Artikel dient dem Thema "Löschwasserversorgung" allgemein. Zur [[brand:allgemein:loeschwasser_lange_wegstrecke|Wasserversorgung über lange Wegstrecken siehe den entsprechenden Artikel]].
+
+===== Hydranten =====
+
+==== Wasserlieferung von Hydranten ====
+
+Berechnung über Faustformel:
+
+=== Unterflurhydrant ===
+
+Durchmesser der Rohrleitung (Angabe auf Hydrantenschild) x 10 = Wasserlieferung in Liter/Minute
+
+Maximale Wasserlieferung 2.000 Liter/Minute, begrenzt durch den Durchmesser des Standrohrs.
+
+=== Überflurhydrant ===
+
+Durchmesser der Rohrleitung (Angabe auf Hydrantenschild) x 15 = Wasserlieferung in Liter/Minute
+
+Maximale Wasserlieferung 3.200 Liter/Minute, begrenzt durch den Durchmesser der Hydrantensäule.
+
+==== Hydrantenabstände in geschlossenen Ortschaften ====
+
+Die folgend genannten Abstände sind seit 2006 nicht mehr vorgegeben, in neu angelegten Gebieten sind die Abstände "meist unter 150 Meter". In bestehenden Gebieten sind die bis dato geltenden Abstände weiterhin anzutreffen.
+
+^ Gebiet ^ Abstände zwischen zwei Hydranten ^
+| besonders zu schützende Objekte | max. 100 m |
+| Geschäftsstraßen | ca. alle 100 m |
+| geschlossene Wohngebiete | ca. alle 120 m |
+| offene Wohngebiete | ca. alle 140 m |
+
+Definition geschlossene Wohngebiete: vielgeschossige Wohngebäude in dicht bebautem Gebiet, in größeren Städten
+
+Definition offene Wohngebiete: Einfamilien- oder kleine Mehrfamilien- bzw. Reihenhäuser
+
+===== Wasserentnahme aus offenem Gewässer =====
+
+==== maximale Länge der Saugleitung ====
+
+Nach Erfahrungen aus der Praxis darf die Saugleitung bis zu einer geodätischen Saughöhe von 3 Metern maximal 22,5 Meter lang sein. Dies betrifft nur die Anzahl der Leitungen, die bis zur Wasseroberfläche liegen; Leitungen unterhalb der Wasseroberfläche werden nicht berücksichtigt.
+
+Ist die geodätische Saughöhe größer als 3 Meter, so kann die maximale Länge der Saugleitung über die folgende Formel berechnet werden:
+
+~~INCLFORM=max_laenge_saugleitung~~
+
+=== Faustformel ===
+
+Die zugrundeliegende Formel lautet wie folgt:
+
+<code>
+        70
+-------------------- = maximale Länge der Saugleitung
+geodätische Saughöhe
+</code>
+
+===== Kennzeichnung =====
+
+^ Kennzeichnungsschild ^ Bedeutung ^
+| {{:brand:allgemein:schild_hydrant.png?nolink&200|Schild "Hydrant" mit rotem Rand}} | **Hydrant**\\ \\ In diesem Beispiel:\\ 300 mm Rohrdurchmesser (siehe oben für Faustformel zur Wasserlieferung)\\ 8,4 Meter vor und 1,1 Meter links neben dem Schild zu finden |
+| {{:brand:allgemein:schild_hydrant_blau.png?nolink&200|Schild "Hydrant" mit blauem Rand}} | **Hydrant**\\ \\ Hydrantenschilder mit blauem Rand kennzeichnen Hydranten, die technische Zwecke erfüllen, z.B. zum Be- und Entlüften der Leitung. Eine Wasserentnahme durch die Feuerwehr ist nicht einheitlich geregelt. Vor einer Nutzung des Hydrants muss mit den Wasserbetrieben geklärt werden, ob eine Nutzung erlaubt ist.\\ \\ In diesem Beispiel:\\ 300 mm Rohrdurchmesser (siehe oben für Faustformel zur Wasserlieferung)\\ 8,4 Meter vor und 1,1 Meter links neben dem Schild zu finden |
+| {{:brand:allgemein:schild_hydrant_gruen.png?nolink&200|Schild "Hydrant" mit grünem Rand}} | **Hydrant**\\ \\ Hydrantenschilder mit grünem Rand kennzeichnen Hydranten auf Abwasserleitungen. Bei diesen sollte eine Wasserentnahme durch die Feuerwehr aus eigenem Interesse nicht erfolgen.\\ \\ In diesem Beispiel:\\ 300 mm Rohrdurchmesser\\ 8,4 Meter vor und 1,1 Meter links neben dem Schild zu finden |
+| {{:brand:allgemein:schild_loeschwasserbrunnen.png?nolink&200|Schild "Löschwasserbrunnen"}} | **Löschwasserbrunnen**\\ \\ Geodätische Saughöhe zum ruhenden Wasserspiegel kleiner als 5 Meter, während des Saugbetriebs kleiner als 7,5 Meter\\ \\ In diesem Beispiel:\\ 8,4 Meter vor und 1,1 Meter links neben dem Schild zu finden |
+| {{:brand:allgemein:schild_loeschwasserbrunnen_pumpe_e.png?nolink&200|Schild "Löschwasserbrunnen mit Elektropumpe"}} | **Löschwasserbrunnen mit Tiefpumpe (Elektropumpe [E] oder Turbinenpumpe [T])**\\ \\ Geodätische Saughöhe zum ruhenden Wasserspiegel oder während des Saugbetriebs größer als 7,5 Meter.\\ \\ Für den Betrieb der Elektropumpe muss ein Stromerzeuger eingesetzt werden.\\ Für den Betrieb der Turbinenpumpe muss eine zusätzliche Feuerlöschkreiselpumpe eingesetzt werden, die die Turbinenpumpe antreibt.\\ \\ Löschwasserbrunnen werden nach DIN 14220 in 3 verschiedene Ergiebigkeitsklassen eingeteilt. Die Ergiebigkeit muss bei der Neueinrichtung über die Dauer von 3 Stunden nachgewiesen werden, bei den wiederkehrenden Prüfungen eine halbe Stunde.\\ Die Einteilungsklassen lauten:\\ - klein (Kennzahl 400): 400 bis 800 Liter/min\\ - mittel (Kennzahl 800): 800 bis 1.600 Liter/min\\  - groß (Kennzahl 1600): über 1.600 Liter/min\\ \\ In diesem Beispiel:\\ 8,4 Meter vor und 1,1 Meter links neben dem Schild zu finden |
+| {{:brand:allgemein:schild_loeschwasserbrunnen_pumpe_t.png?nolink&200|Schild "Löschwasserbrunnen mit Turbinenpumpe"}} | ::: |
+| {{:brand:allgemein:schild_loeschwasserbehaelter.png?nolink&200|Schild "Löschwasserbehälter"}} | **Löschwasserbehälter**\\ \\ Künstlich angelegter überdeckter Löschwasser-Vorratsraum mit Entnahmestelle (Sauganschluss) und Feuerwehrzufahrt/Bewegungsfläche, nach DIN 14 230 Einteilung in 3 Klassen:\\ \\ - klein: 75 bis 150 m³\\ - mittel: 150 bis 300 m³\\ - groß: über 300 m³\\ \\ In diesem Beispiel:\\ Volumen 300 m³ \\ 8,4 Meter vor und 1,1 Meter links neben dem Schild zu finden. |
+| {{:brand:allgemein:schild_saugstelle.png?nolink&200|Schild "Saugstelle"}} | **Saugstelle**\\ \\ Kennzeichnung von Löschwasserentnahmestellen, Saugschächten und festverlegten Saugleitungen.\\ \\ Auch in Verbindung z.B. mit Löschwasserbrunnen zu finden.\\ \\ In diesem Beispiel:\\ 8,4 Meter vor und 1,1 Meter links neben dem Schild zu finden. |
+| {{:brand:allgemein:schild_saugstelle_position.png?nolink&200|Schild "Saugstelle mit Positionsangabe"}} | ::: |
+
+===== Quellenangabe =====
+
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * Bildquellen:
+    * [[https://commons.wikimedia.org/wiki/File:Hydrantenschild_Beispielgrafik_2009-01-29.svg|Rotes Hydranten-Schild]]: veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:Wimox|Henry Mühlpfordt]] unter Creative Commons Attribution-Share Alike 3.0 Unported-Lizenz, das blaue und grüne Hydrantenschild wurde aus dieser Version erzeugt.
+    * Schilder [[https://commons.wikimedia.org/wiki/File:L%C3%B6schwasserbrunnenschild_%28f%C3%BCr_Saugbetrieb%29_mit_Legende.svg|Löschwasserbrunnen]], [[https://commons.wikimedia.org/wiki/File:L%C3%B6schwasserbrunnenschild_%28mit_Tiefpumpe%29_mit_Legende.svg|Löschwasserbrunnen mit Tiefpumpe]] (modifiziert), [[https://commons.wikimedia.org/wiki/File:L%C3%B6schwasserzisterne_mit_Legende.svg|Löschwasserbehälter]], [[https://commons.wikimedia.org/wiki/File:Saugstelle.svg|Saugstelle ohne Entfernungsangabe]], [[https://commons.wikimedia.org/wiki/File:Saugstelle_mit_Legende.svg|Saugstelle mit Entfernungsangabe]] veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:Jiver|Jiver]] unter Public-Domain-Lizenz
+
+===== Stichwörter =====

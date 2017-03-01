@@ -1,0 +1,78 @@
+====== Öl auf Gewässer ======
+
+Dieser Artikel beschäftigt sich mit Öl auf Gewässerflächen, für Ölspuren auf Verkehrsflächen siehe [[cbrn:chemisch:klasse_3:oelspur|Ölspur]].
+
+===== zu treffende Maßnahmen =====
+
+  * Absicherung Einsatzstelle durch Wasserschutzpolizei bei größeren Gewässern
+  * Nachforderung [[allgemein:thw|THW]] - Fachgruppe Ölschadenbekämpfung bei größeren Lagen
+  * Einsatzdokumentation
+  * ggf.: Brandschutz sicherstellen und Ex-geschützte Geräte einsetzen
+  * ggf. Information weiterer Stellen: übergeordnete Führungskräfte, Umweltbehörde, Wasserbehörde
+
+==== besondere Gefahren ====
+
+  * Ertrinken: Schwimmwesten tragen!
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Einbau von Ölsperren ====
+
+  * mind. 1/3 der Gewässertiefe muss unter der Ölsperre freibleiben
+  * die Ölsperre muss immer schräg eingebaut werden da sonst Öl unter der Sperre hindurchgespült wird
+  * an der Uferseite, an der sich der Befestigungspunkt weiter flussabwärts befindet, wird sich das Öl sammeln
+  * in Flusskrümmungen (Kurven) muss die die Befestigung an der Innenseite weiter flussabwärts liegen
+  * Buchten u.ä. zum eigenen Vorteil nutzen wenn diese nicht ökologisch bedeutsam sind
+  * beim Setzen mehrere Sperren hintereinander mindestens 6 Meter Abstand halten
+  * [[allgemeine_hilfe:allgemein:winden|Seilwinde oder Mehrzweckzug]] vereinfachen das Ziehen der Ölsperre vom einen zum anderen Ufer
+
+{{cbrn:chemisch:klasse_9:oelsperre.png?nolink|Ölsperre}}
+
+<WRAP center round info 100%>
+Die Fließgeschwindigkeit des Gewässers bestimmt, in welchem Winkel die Ölsperre eingebracht und welche Länge gewählt werden muss.
+</WRAP>
+
+^  Fließgeschwindigkeit\\ in m/s  ^  Winkel\\ alpha  ^  Sperrenlänge\\ in m  ^  Abstand zwischen\\ beiden Befestigungspunkten\\ in m  ^
+^  0 - 0,5    |  45°  |  L = B x 1,5  |  A = B        |
+^  0,5 - 1,0  |  30°  |  L = B x 2    |  A = 1,7 x B  |
+^  1,0 - 1,5  |  20°  |  L = B x 3    |  A = 2,8 x B  |
+^  1,5 - 2,0  |  15°  |  L = B x 4    |  A = 4 x B    |
+
+==== Befestigung am Ufer ====
+
+  * pro Meter Sperrenlänge wirkt eine Zugkraft von 60 N (entspricht 6 kg) auf die Ölsperre
+  * nicht an Fahrzeugen befestigen
+  * zur Abdichtung die Sperrenenden am Ufer eingraben oder mit Folien abdichten
+
+==== Aufnahme des Öls ====
+
+  * gestautes Öl sofort aufnehmen
+  * größte Schichtdicke des Öls nicht direkt an der Ölsperre, sondern durch Verwirbelungen an der Kopfwelle -> an dieser Stelle aufnehmen
+  * Uferbereiche gegen Verschmutzung schützen, z.B. mit Ölvlies
+
+==== Improvisationsmöglichkeiten ====
+
+  * B-Druckschläuche mit Druckluft oder Abgasen gefüllt
+  * Bei schmalen Bächen einen Holzpfosten quer zur Flussrichtung so befestigen, dass er einige cm eintaucht. Eventuell müssen mehrere Holzpfosten in einigem Abstand hintereinander befestigt werden, insbesondere bei höherer Fließgeschwindigkeit.
+
+==== Mengenabschätzung von Öl ====
+
+^  Beschreibung / Aussehen      ^  Dickenbereich der Schicht (µm)  ^  Liter pro km²        ^  ml pro m²        ^
+|  Glanz (silbergrau)           |  0,04 bis 0,30                   |  40 - 300             |  0,04 - 0,30      |
+|  Regenbogen                   |  0,3 bis 5,0                     |  300 - 5.000          |  0,3 - 5,0        |
+|  Metallisch                   |  5,0 bis 50                      |  5.000 - 50.000       |  5,0 - 50         |
+|  Öleigenfarbe, ungleichmäßig  |  50 bis 200                      |  50.000 - 200.000     |  50 - 200         |
+|  Öleigenfarbe, gleichmäßig    |  200 und darüber                 |  200.000 und darüber  |  200 und darüber  |
+
+1 µm = 0,001 mm
+
+===== Quellenangabe =====
+
+  * [[http://www.unece.org/fileadmin/DAM/env/teia/water/inventory/nationalguid/germanfloatingbarriers/German.pdf|Merkblatt "Schwimmende Ölsperren für Binnengewässer"]], Bekanntmachung des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit vom 30.Juni 1992
+  * Wikipedia-Artikel [[wpde>Ölsperre|Ölsperre]], veröffentlicht unter Creative Commons Attribution-ShareAlike 3.0 Unported-Lizenz
+  * [[https://www.schleswig-holstein.de/DE/Landesregierung/LKN/_documents/pdf/broschuereSchadstoffunfallbekaempfung.pdf?__blob=publicationFile&v=2|Schadstoffunfallbekämpfung an Schleswig-Holsteins Küsten: Gut gerüstet für den Ernstfall]], Landesbetrieb für Küstenschutz, Nationalpark und Meeresschutz Schleswig-Holstein
+
+
+===== Stichwörter =====
+
+Ölschaden, Ölspur

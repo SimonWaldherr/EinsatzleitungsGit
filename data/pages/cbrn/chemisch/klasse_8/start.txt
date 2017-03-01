@@ -1,0 +1,51 @@
+====== Klasse 8: Ätzende Stoffe ======
+
+===== zu treffende Maßnahmen =====
+
+[[cbrn:ericards:klasse_8:start]]
+
+  * [[cbrn:allgemein:cbrn-lexikon:ph-wert|pH-Wert]] mittels z.B. Indikatorpapier oder Teststäbchen bestimmen. Akute Verätzungsgefahr bei pH < 2 oder > 12 !
+  * Fachkräfte hinzuziehen (z.B. [[cbrn:allgemein:tuis|TUIS]])
+  * [[cbrn:allgemein:auslaufende_stoffe|auslaufende Säure/Lauge auffangen/eindämmen]] und Entsorgung veranlassen. Nur geeignete Chemikalienbinder einsetzen!
+  * [[cbrn:chemisch:klasse_8:verduennen|Kleinere Mengen können verdünnt werden]]
+  * Gas/Dampfwolke mit Sprühstrahl niederschlagen
+  * Bei Brandeinwirkung auf Druckbehälter: siehe zusätzliche Maßnahmen unter [[cbrn:chemisch:klasse_2:brandeinwirkung_auf_druckgasbehaelter]]
+  * Bei Kontakt von Personen schnell reagieren: Kleidung entfernen, mit viel Wasser spülen, Person nach Verschlucken nicht zum Erbrechen bringen
+  * Neutralisation nur nach Rücksprache mit Fachpersonal / Fachberater
+  * ggf. [[brand:allgemein:loeschwasserrueckhaltung|Löschwasserrückhaltung einrichten]]
+  * Klärwerk verständigen
+
+==== besondere Gefahren ====
+
+  * Zerstörung des Gewebes
+    * Gefährdung der Augen durch Spritzer
+    * Reizung/Schädigung der Lungen durch ätzende Dämpfe
+  * Erhitzung/heftige Reaktion (herumspritzen) bei Kontakt mit Wasser
+  * Zerstörung von Metallen/Verpackungen, dabei Entstehung von Wasserstoff (bei Kontakt mit Metallen) oder nitrosen Gasen (bei Kontakt mit organischen Stoffen)
+  * Störung der Kläranlage bei unverdünntem Eintritt
+  * Umwelt-/ Wassergefährdung
+  * Gefährlichkeit steigt in der Regel mit der Konzentration
+  * Kontaminationsverschleppung durch kontaminiertes Löschwasser
+  * Reaktion/Brandgefahr mit organischen Stoffen
+  * organische Säuren sind brennbar
+  * Bei Laugen Rutschgefahr durch Verseifung
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Stoff kann auch erhitzt transportiert werden
+  * Dichteverhältnis zu Luft beachten, schwere Gase können sich am Boden sammeln
+
+==== besondere Stoffe der Klasse 8 ====
+
+{{simplenavi>cbrn:chemisch:klasse_8:stoffe}}
+
+===== Quellenangabe =====
+
+  * Lehrgangsunterlagen ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+  * FwDV 500 Stand 2012
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr
+
+===== Stichwörter =====
+
+Säure, Säuren, Lauge, Laugen

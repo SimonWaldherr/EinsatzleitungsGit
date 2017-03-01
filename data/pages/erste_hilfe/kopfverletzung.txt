@@ -1,0 +1,41 @@
+====== Kopfverletzung ======
+
+<wrap important>Eine Kopfverletzung kann immer auch mit einer Wirbelsäulenverletzung einhergehen! Den Patienten daher entsprechend vorsichtig bewegen.</wrap>
+
+===== zu treffende Maßnahmen =====
+
+  * permanente Überwachung der Vitalfunktionen
+  * Oberköper hoch lagern um Hirndruck zu minimieren
+  * Wundversorgung steril und druckfrei (**kein Druckverband!**)
+  * Wärmeerhalt auch bei warmen Außentemperaturen
+  * Sauerstoff geben soweit vorhanden (4 bis 6 l/min)
+  * im Zweifel immer Rettungsdienst (nach-) alarmieren!
+
+Bei Bewusstlosigkeit:
+
+  * in stabile Seitenlage bringen
+  * bei Herz-Kreislauf-Stillstand direkt mit [[erste_hilfe:wiederbelebung|Wiederbelebung]] beginnen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+Kopfverletzungen können schnell zu einer lebensbedrohlichen Situation führen!
+
+==== Symptome ====
+
+  * Kopfplatzwunden, Schwellungen
+  * Kopfschmerzen
+  * Schwindel
+  * Übelkeit und Erbrechen
+  * Gedächtnislücken
+  * Verwirrtheit
+  * Licht- und Lärmempfindlichkeit
+  * Bewusstseinseintrübung
+  * Bewusstlosigkeit
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_Kopfverletzungen.pdf|Erste-Hilfe kompakt - Notfallstichwort: Kopfverletzung]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband
+
+===== Stichwörter =====
+
+Schädelprellung, Schädel-Hirn-Trauma, SHT, Gehirnerschütterung

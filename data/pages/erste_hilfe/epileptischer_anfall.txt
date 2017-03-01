@@ -1,0 +1,25 @@
+====== Epileptischer Anfall ======
+
+===== zu treffende Maßnahmen =====
+
+  * Rettungsdienst alarmieren
+  * Patient während dem Anfall vor weiteren Gefahren schützen
+    * harte, scharfkantige, spitze, etc. Gegenstände aus dem Weg räumen an denen sich der Patient verletzen könnte
+    * dem Patient **nichts** in den Mund stecken um vor einem Zungenbiss zu schützen (kann zu Kieferbruch führen)
+    * keine der folgenden Maßnahmen durchführen, so lange der Krampf noch andauert
+  * Sauerstoff geben falls vorhanden
+  * Wärmeerhalt
+  * Blutzucker bestimmen wenn möglich (ggf. war [[erste_hilfe:unterzuckerung|Unterzuckerung]] der Auslöser)
+  * Während der Nachschlafphase beim Patienten bleiben, ihn aber nicht wecken
+    * bis zum Erwachen in die stabile Seitenlage bringen
+  * dem Patient erklären was passiert ist wenn er wieder ansprechbar ist
+  * vor Schaulustigen schützen
+  * Wenn möglich, Dokumentation der Ereignisse und deren Dauer für den Rettungsdienst
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_Epileptischer_Anfall.pdf|Erste-Hilfe kompakt - Notfallstichwort: Epileptischer Anfall! Was tun?]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband
+
+===== Stichwörter =====
+
+Epilepsie, Krampf

@@ -1,0 +1,62 @@
+====== Gebäudebrand ======
+
+Diese Seite ist eher weniger zur Nutzung im Erstangriff, sondern eher als Checkliste nach Abarbeitung der Chaosphase bzw. zu Ausbildungszwecken zu verstehen!
+
+===== zu treffende Maßnahmen =====
+
+  * ausführliche [[brand:allgemein:erkundung_brandeinsatz|Erkundung]]
+  * Ergänzende Maßnahmen für besondere Brände auf den [[:brand:start|entsprechenden Seiten]] nachsehen (z.B. Kellerbrand, Brand Krankenhaus, etc.).
+ 
+==== Brandbekämpfungsmaßnahmen ====
+
+  * Geschosse kontrollieren, kontrollierte Räume kennzeichnen lassen (Nutzungseinheiten daneben, darüber und darunter kontrollieren)
+  * [[:allgemein:raeumung|Räumung]] prüfen
+  * Fluchtwege aus Gebäude, insbesondere aus Bereich über dem Brandgeschoss sicherstellen
+  * Rauchausbreitung verhindern in/über:
+      * Treppenraumtüren/Rettungswege
+      * Installations-/Lüftungsschächte
+      * Müllabwurfschächte \\ → Treppenraum [[:brand:allgemein:belueftung|durch Lüfter entrauchen]] und rauchfrei halten, [[:brand:allgemein:rwa|RWA/RDA]] aktivieren
+  * Einsatz der [[:allgemein:geraete:waermebildkamera|Wärmebildkamera]] hilfreich?
+  * Besonders schützenswerte Gegenstände im Bereich (hohe Sachwerte, Kulturgüter, …)?
+
+==== weitere einsatztaktische Maßnahmen ====
+
+  * ggf. [[:allgemein:manv|MANV]] bei vielen Betroffenen\\ bei Brand in Mehrfamilienhaus (kein [[brand:hochhaus|Hochhaus]]!) bei verrauchtem Treppenraum und unübersichtlicher Lage ca. 5 bis 10 Rauchvergiftete
+  * [[:allgemein:bereitstellungsraum|Bereitstellungsraum]] festlegen
+  * ggf. Bildung von Einsatzabschnitten
+  * Funkverbindung im Gebäude beachten; evtl. Probleme wegen Größe des Gebäudes
+  * Fahrzeugaufstellung und Gebäudezugang möglichst außerhalb des Trümmerschattens (Gebäudeteile, Glasscherben, springende Personen,…)
+      * Anfahrt; Aufstellfläche für [[:allgemein:drehleiter|Drehleiter]] möglichst direkt vorm betroffenen Gebäude (Anleiterbereitschaft!)
+      * Fahrzeugaufstellung so wählen dass eine Vorbeifahrt weiterer Einsatzfahrzeuge möglich ist
+      * RTW unbedingt mit freiem Abfahrweg abstellen
+  * Trümmerschatten absperren/Absichern
+  * Sicherheitstrupps einteilen
+  * Atemschutzüberwachung sicherstellen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Wird ein RTW für eine verletzte Person gebraucht, einen weiteren zum Eigenschutz nachfordern
+  * Energieversorgung – [[cbrn:allgemein:kennzeichnung:rohrleitungskennzeichnung|Gas]], [[:allgemein:elektrische_anlagen|Elektrizität]], Wasser, Heizung
+      * Elektrische Betriebsräume können i.d.R. auch von außen freigeschaltet werden
+      * bei [[:brand:allgemein:photovoltaik|Photovoltaikanlagen]], [[:brand:blockheizkraftwerk|Blockheizkraftwerken]], usw. kann Spannung aus zwei Richtungen am Hausanschlusskasten anliegen
+  * Einsatzstelle ([[:brand:allgemein:kalte_brandstelle|Kalte Brandstelle]]) übergeben
+  * ggf. Notunterkünfte/Aufenthaltsmöglichkeiten für Betroffene organisieren
+
+==== Einsatzabschluss ====
+
+  * Brandbereich mit [[:allgemein:geraete:waermebildkamera|Wärmebildkamera]] kontrollieren
+  * Wasserbetriebe über einlaufendes Löschwasser in die Kanalisation informieren
+  * ggf. Eigentumssicherung
+  * ggf. Information des Besitzers
+  * ggf. Information an vorbeugenden Brandschutz
+  * Übergabe der E-Stelle
+
+===== Quellenangabe =====
+
+  * Einsatzleiterhandbuch Feuerwehr Kaiserslautern
+  * ETS FW-Hamburg
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+
+===== Stichwörter =====
+
+Wohnhausbrand, Wohnungsbrand

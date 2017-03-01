@@ -1,0 +1,135 @@
+====== Flusssäure ======
+
+auch Fluorwasserstoffsäure genannt, ist die wässrige Lösung von Fluorwasserstoff (HF). Sie greift Glas stark an und wirkt stark ätzend auf die Haut, die Schleimhäute und die Bindehaut der Augen. Flusssäure wird, abhängig von der Konzentration, entweder in Kunststoff- oder in Edelstahl-Behältern aufbewahrt.
+
+===== zu treffende Maßnahmen =====
+
+  * [[cbrn:allgemein:gefahrenbereich|Gefahren- und Absperrbereich]] einrichten, nicht mehr Einsatzkräfte im Gefahrenbereich als nötig!
+  * mind. [[cbrn:allgemein:koerperschutzformen|Körperschutz Form 2]] für vorgehenden Trupp (Beständigkeitsliste des Schutzanzugs und der Handschuhe beachten!)
+  * [[cbrn:allgemein:dekontamination:start|Dekon-Platz]] vorbereiten
+  * Flusssäure nicht in die Kanalisation gelangen lassen, [[brand:allgemein:loeschwasserrueckhaltung|Rückhaltung]]
+    * mit geeignetem Bindemittel aufnehmen (gebundene Flusssäure weiterhin gefährlich!)
+    * Neutralisation durch gelöschten Kalk (Calciumhydroxid), Kalkmilch (gelöschter Kalk in Wasser), kohlensauren Kalk (Calciumcarbonat)\\ Achtung: Behälter nicht verschließen: Exotherme Reaktion unter Bildung von Wärme und CO<sub>2</sub>
+    * Verdünnung nur bei Kleinstmengen möglich (siehe [[cbrn:chemisch:klasse_8:start#neutralisation_und_verduennung|Erklärung Verdünnung]])
+  * freiwerdendes Fluorwasserstoffgas ggf. mit Wasser niederschlagen.
+  * ggf. Unterstützung durch [[cbrn:allgemein:tuis|TUIS]] / [[cbrn:allgemein:atf|ATF]] anfordern
+
+==== besondere Gefahren ====
+
+  * Starkes Kontaktgift. Eine handtellergroße Verätzung durch 40-prozentige Flusssäure ist in der Regel tödlich.
+  * Verätzung tieferer Gewebeschichten und sogar der Knochen ist möglich, ohne dass die Haut äußerlich sichtbar verletzt ist. Ein warnender Schmerz tritt oft erst mit einer Verzögerung von mehreren Stunden auf.
+  * Bildung von [[cbrn:chemisch:klasse_2:stoffe:wasserstoff|Wasserstoff]] bei Kontakt mit Metallen.
+  * bei größeren Freisetzungen: Bildung giftiger und ätzender Dämpfe, die schwerer als Luft sind und sich am Boden ausbreiten.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Einsatz von [[cbrn:geraete:atemfilter|Atemfiltern]] möglich wenn keine weiteren gefährlichen Stoffe anwesend sind (Filter-Kennbuchstabe E / Farbe gelb)
+  * Geeignete Kunststoff-Behälter für die Aufnahme von Flusssäure können z.B. aus Polyethylen (PE) oder Polypropylen (PP) sein. Auch Behältnisse aus PVC und Teflon sind geeignet.
+
+==== Erste Hilfe ====
+
+Notarzt alarmieren! Nach den ersten Maßnahmen schnellstmöglich in geeignetes Krankenhaus transportieren, Voranmeldung des Patienten im Krankenhaus.
+
+**Augen**: Auge 10 Minuten spülen, unverletztes Auge schützen. Lockeren Verband anlegen.
+
+**Haut**: Benetzte Kleidung entfernen, Selbstschutz beachten. Haut und Schleimhäute gründlich mit viel Wasser spülen (ggf. mit Notdusche falls vorhanden). Calciumgluconat-Gel (2,5%ig) reichlich auftragen und leicht einmassieren, auch wenn kein Schmerz empfunden wird. Zwischendurch Spülen und erneut Calciumgluconat-Gel auftragen. Behandlung bis Schmerzfreiheit und danach noch für weitere 15 Minuten fortsetzen. Calciumgluconat-Gel wird in Laboren die mit Flusssäure umgehen in einem Notfall-Set vorgehalten. Die Anwendung von Calciumgluconat-Gel ist unschädlich; es kann also auch im Verdachtsfall verwendet werden wenn nicht klar ist ob eine Flusssäure-Verätzung erfolgt ist.\\
+Nasse Umschläge mit 10%iger Calciumgluconat-Lösung auflegen, wenn kein Calciumgluconat-Gel verfügbar.\\
+Spritzen von Calciumgluconat-Lösung unter die Haut nur durch einen Arzt!\\
+Verletzten ruhig lagern und vor Unterkühlung schützen.\\
+Bei Kontakt mit mehr als 40%-iger Flusssäure, insbesondere der oberen Körperhälfte, gleichzeitige Inhalation wahrscheinlich (siehe //Atmungsorgane//).
+
+**Atmungsorgane:** Verletzten an frische Luft bringen, Selbstschutz beachten! Die Person auch bei Beschwerdefreiheit tragen. Mit erhöhtem Oberkörper lagern.\\
+So schnell wie möglich Glucocorticoid-Dosieraerosol wiederholt tief einatmen lassen. Bei Atemnot Sauerstoff geben.\\
+Verletzten ruhig lagern und vor Unterkühlung schützen.\\
+Bei Atemstillstand künstliche Beatmung (z.B. Beatmungsbeutel), Selbstschutz beachten!
+
+**Verschlucken:** Mund ausspülen, Flüssigkeit wieder ausspucken.\\
+**Sofort** 1-4 Trinkampullen "frubiase calcium T" oder 1%ige Calciumgluconat-Lösung in kleinen Schlucken trinken lassen, ersatzweise Milch, Kreideaufschwemmung, sonst Wasser.\\
+Bei Erbrechen Kopf tief halten, damit Erbrochenes abfließen kann.
+Verletzten ruhig in Schocklage lagern und vor Unterkühlung schützen.
+
+**Symptome einer Flusssäureverätzung**
+
+  * Rötung der Haut
+  * Bildung weißer Flecken
+  * Es beginnt zu pochen
+
+==== Flusssäure-Graffitis ====
+
+Teilweise werden mit Flusssäure-gefüllten Filzstiften Ätz-Graffitis auf Glasscheiben angefertigt, sogenanntes "Etching". Die Schriftzüge auf der Scheibe sind milchig und aufgeraut (aber nicht berühren!). Ist die Flusssäure noch mit der "Original-Tinte" vermischt, so können die Graffitis auch farbig sein.
+
+Bei Kontakt mit Wasser entsteht wieder Flusssäure, dafür ist auch bereits die Feuchtigkeit der Haut ausreichend. Teilweise ist der Mischung auch Schwefelsäure beigemischt.
+
+Etching erfüllt nicht nur den Straftatbestand der Sachbeschädigung, sondern auch §330a StGB "Schwere Gefährdung durch Freisetzen von Giften", daher sollten solche Einsätze in enger Abstimmung mit der Polizei erfolgen.
+
+==== AEGL-Werte (in ppm) ====
+
+Siehe auch [[cbrn:chemisch:grenzwerte#aegl|AEGL-Erklärungsseite]]
+
+^        ^  10 min  ^  30 min  ^  60 min  ^  4 h  ^  8 h  ^
+^ AEGL 1 |  1       |  1       |  1       |  1    |  1    |
+^ AEGL 2 |  95      |  34      |  24      |  12   |  12   |
+^ AEGL 3 |  170     |  62      |  44      |  22   |  22   |
+
+==== Stoffdaten ====
+
+^ Identifikation ^^^
+^ Alternative Namen                            | Fluorwasserstoffsäure, Flußsäure, Hydrofluorsäure, Hydrogenfluorid \\ für die Gasform: Fluorwasserstoff, Wasserfreie Flusssäure  ||
+^ CAS-Nr.                                      | 7664-39-3 (Fluorwasserstoff, wasserfrei) ||
+^ Gefahrgutbezeichnung                         | Fluorwasserstoffsäure, Lösung mit mehr als 60 % Fluorwasserstoff | Fluorwasserstoffsäure, Lösung mit höchstens 60 % Fluorwasserstoff |
+^ [[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Nummer zur Kennzeichnung der Gefahr]] |  {{cbrn:chemisch:klasse_8:stoffe:886-1090_flusssaeure.png?direct&100|886 - 1090}}  |  {{cbrn:chemisch:klasse_8:stoffe:86-1090_flusssaeure.png?direct&100|86 - 1090}}  |
+^ UN-Nr.                                       |  :::  |  :::  |
+^ [[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]]  |  I (hohe Gefährlichkeit)  |  II (mittlere Gefährlichkeit)  |
+^ Gefahrzettel                                 |  {{cbrn:8.png?direct&100|Gefahrzettel 8}} {{cbrn:6-1.png?direct&100|Gefahrzettel 6.1}}  ||
+^ ADR-Klasse                                   | [[cbrn:chemisch:klasse_8:start|ADR-Klasse 8: Ätzende Stoffe]] ||
+^ ERICard                                      | [[cbrn:ericards:klasse_8:17900985|FLUORWASSERSTOFFSÄURE mit mehr als 60 % Fluorwasserstoff, aber höchstens 85 % Fluorwasserstoff - ERICard-Nr. 8-56]]\\ \\ [[cbrn:ericards:klasse_8:17900984|FLUORWASSERSTOFFSÄURE mit mehr als 85 % Fluorwasserstoff - ERICard-Nr. 8-56]] | [[cbrn:ericards:klasse_8:17900986|FLUORWASSERSTOFFSÄURE mit höchstens 60 % Fluorwasserstoff - ERICard-Nr. 8-26]] |
+^ Summenformel                                 | HF ||
+^ [[cbrn:allgemein:begriffsklaerungen#molare_masse|molare Masse]] | 20,01 g/mol ||
+^ Charakterisierung ^^^
+^ Aggregatszustand                             | flüssig ||
+^ Farbe                                        | farblos ||
+^ Geruch                                       | stechend ||
+^ Brennbarkeit                                 | nicht brennbar ||
+^ Verhalten an Luft                            | Bei Konzentration über 70%: Raucht an der Luft ||
+^ physikalisch-chemische Eigenschaften (für ca. 40%-ige Flusssäure) ^^^
+^ Schmelzpunkt                                 | ca. -44 °C ||
+^ Siedepunkt                                   | ca. 112 °C bei 1.013 hPa ||
+^ Dichte                                       | 1,13 g/cm³ bei 20 °C ||
+^ [[cbrn:allgemein:begriffsklaerungen#wasserloeslichkeit|Wasserlöslichkeit]] | vollständig mischbar ||
+^ [[cbrn:allgemein:cbrn-lexikon:ph-wert|pH-Wert]] | ca. 2 bei 20 °C ||
+^ [[cbrn:allgemein:begriffsklaerungen#wassergefaehrdungsklasse|Wassergefährdungsklasse]] | 2 ||
+^ Explosionsgefahr bei Reaktion mit            | Kalium, Natrium, Cyanogenfluorid, Kaliumpermanganat; Metallen; Methansulfonsäure; Salpetersäure + Glycerin ||
+^ gefährliche Reaktion mit                     | Ammoniak, organischen Stoffen, Schwefelsäure, Fluor, Acetanhydrid; 2-Aminoethanol; Aminoethanol (feucht); Ammoniumhydroxid; Arsen(III)oxid/wasserfreiem Fluorwasserstoff; Calciumoxid/wasserfreiem Fluorwasserstoff; Glas (wird geätzt); Metalloxiden/wasserfreiem Fluorwasserstoff; Metallsiliciden; Natriumhydroxid; Papier (trocken); Phosphorpentoxid; Quarz (wird geätzt); Schwefelsäure; Siliciumverbindungen; Vinylacetat; Bismutsäure ||
+^ Maßnahmen bei Bränden ^^^
+^ [[brand:allgemein:brandklassen|Brandklasse]] | nicht brennbar ||
+^ geeignete Löschmittel                        | Löschmittel auf Umgebung abstimmen ||
+^ ungeeignete Löschmittel                      | ::: ||
+^ gefährliche Zersetzungsprodukte beim Löschen | ::: ||
+^ Grenzwerte ^^^
+^ [[cbrn:chemisch:grenzwerte#etw-wert|ETW-Wert]] | 12 ppm ||
+^ [[cbrn:chemisch:grenzwerte#agw-wert|AGW-Wert]] | 1 ppm ||
+^ [[cbrn:allgemein:kennzeichnung:ghs|GHS-Einstufung und Kennzeichnung]] ^^^
+^ [[cbrn:allgemein:kennzeichnung:ghs#piktogramme|GHS-Piktogramm(e)]] |  {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_skull.png?nolink&100|giftig}} {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_acid_red.png?nolink&100|ätzend}}  ||
+^ GHS-Signalwort                               |  Gefahr  ||
+^ [[cbrn:allgemein:kennzeichnung:ghs#gefahrenhinweise_h-saetze|GHS-Gefahrenhinweise (H-Sätze)]] | H330: Lebensgefahr bei Einatmen.\\ H310: Lebensgefahr bei Hautkontakt.\\ H300: Lebensgefahr bei Verschlucken.\\ H314: Verursacht schwere Verätzungen der Haut und schwere Augenschäden. ||
+^ [[cbrn:allgemein:kennzeichnung:ghs#sicherheitshinweise_p-saetze|GHS-Sicherheitshinweise (P-Sätze)]] | P260: Staub/Rauch/Gas/Nebel/Dampf/Aerosol nicht einatmen.\\ P264: Nach Gebrauch Hände gründlich waschen.\\ P280: Schutzhandschuhe/Schutzkleidung/Augenschutz/Gesichtsschutz tragen.\\ P284: Atemschutz tragen.\\ P301+P310: BEI VERSCHLUCKEN: Sofort [[cbrn:allgemein:giftnotrufzentralen|GIFTINFORMATIONSZENTRUM]] oder Arzt anrufen.\\ P302+P350: BEI BERÜHRUNG MIT DER HAUT: Behutsam mit viel Wasser und Seife waschen. ||
+^ [[cbrn:allgemein:kennzeichnung:gefahrensymbole|Einstufung nach Stoffrichtlinie]] (R- und S-Sätze) ^^^
+^ [[cbrn:allgemein:kennzeichnung:gefahrensymbole|Piktogramm]] |  {{cbrn:allgemein:kennzeichnung:gefahr_t.png?nolink&100|Sehr giftig}} {{cbrn:allgemein:kennzeichnung:gefahr_c.png?nolink&100|Ätzend}}\\ Sehr giftig / Ätzend  ||
+^ Risiko-Sätze (R-Sätze)                       | R 26/27/28 Sehr giftig beim Einatmen, Verschlucken und Berührung mit der Haut.\\ R 35 Verursacht schwere Verätzungen. ||
+^ Sicherheitssätze (S-Sätze)                   | S 1/2 Unter Verschluss und für Kinder unzugänglich aufbewahren.\\ S 7/9 Behälter dicht geschlossen an einem gut gelüfteten Ort aufbewahren.\\ S 26 Bei Berührung mit den Augen gründlich mit Wasser abspülen und Arzt konsultieren.\\ S 36/37 Bei der Arbeit geeignete Schutzhandschuhe und Schutzkleidung tragen.\\ S 45 Bei Unfall oder Unwohlsein sofort Arzt hinzuziehen (wenn möglich, dieses Etikett vorzeigen). ||
+^ [[cbrn:allgemein:kennzeichnung:warnzeichen|Warnzeichen]] ^^^
+|  {{cbrn:allgemein:kennzeichnung:warnung_vor_giftigen_stoffen.png?nolink&100|Warnung vor giftigen Stoffen}}  | Warnung vor giftigen Stoffen ||
+|  {{cbrn:allgemein:kennzeichnung:warnung_vor_aetzenden_stoffen.png?nolink&100|Warnung vor ätzenden Stoffen}}  | Warnung vor ätzenden Stoffen ||
+
+**Lizenzhinweis**: Die Daten aus dem Bereich "Stoffdaten" stammen zu großen Teilen aus der GESTIS-Stoffdatenbank und dürfen daher ausschließlich für nichtkommerzielle Zwecke des Arbeitssschutzes verwendet werden.
+
+
+===== Quellenangabe =====
+
+  * Präsentation "Problemstoff Flusssäure", Peter Link, Werkfeuerwehr Merck
+  * [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/520038.xml?f=templates&fn=default.htm|Eintrag für Fluorwasserstoffsäure]] in der GESTIS-Gefahrstoffdatenbank
+  * [[http://www.emdmillipore.com/INTERSHOP/web/WFS/Merck-CH-Site/de_DE/-/CHF/ShowDocument-File?ProductSKU=MDA_CHEM-100337&DocumentId=100337_SDS_DE_DE.PDF&DocumentType=MSD&Language=DE&Country=DE|Sicherheitsdatenblatt für Flusssäure 38-40%]], Merck KGaA
+
+===== Stichwörter =====
+
+Fluorwasserstoff-Säure, Flourwasserstoffsäure, Flourwasserstoff-Säure, Flußsäure

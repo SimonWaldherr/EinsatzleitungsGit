@@ -1,0 +1,26 @@
+====== Gefahrensymbole ======
+
+Die folgenden Kennzeichnungen sind die Vorläufer des [[cbrn:allgemein:kennzeichnung:ghs|GHS-Systems]] und wurden von diesem vollständig abgelöst. Die Übergangsfristen endeten am:
+
+  * 01.12.2010 für Reinstoffe
+  * 01.06.2015 für Zubereitungen
+
+Im gewerblichen Bereich dürfen lagernde Bestände noch für die Dauer von zwei Jahren weiterverwendet werden. Trotzdem ist nicht auszuschließen, dass die Feuerwehr im Einsatzfall mit solch einer Kennzeichnung auch danach noch in Kontakt kommt, besonders im privaten Bereich.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+^  Piktogramm  ^  Gefahrenbezeichnung  ^^  Einstufung  ^
+|{{cbrn:allgemein:kennzeichnung:gefahr_e.png?nolink&100|}}|  E  |  [[cbrn:chemisch:klasse_1:start|explosionsgefährlich]]  |Explosiver Stoff|
+|{{cbrn:allgemein:kennzeichnung:gefahr_f.png?nolink&100|}}|  F+  |  hochentzündlich  |Siedepunkt liegt unter 35 °C und [[cbrn:allgemein:cbrn-lexikon:flammpunkt|Flammpunkt]] liegt in flüssigem Zustand unter 0 °C|
+|{{cbrn:allgemein:kennzeichnung:gefahr_f.png?nolink&100|}}|  F  |  leichtentzündlich  |Erhitzt sich bei Raumtemperatur an der Luft ohne Energiezufuhr und kann sich später entzünden, oder Flammpunkt liegt in flüssigem Zustand unter 21 °C, oder lässt sich in festem Zustand durch eine Feuerquelle entzünden und brennt nach deren Entfernung weiter, oder Entwickelt bei Berührung mit Wasser oder feuchter Luft hochentzündliche Gase|
+|{{cbrn:allgemein:kennzeichnung:gefahr_o.png?nolink&100|}}|  O  |  [[cbrn:chemisch:klasse_5-1:start|brandfördernd]]  |Unterstützt, ohne selbst brennbar zu sein, eine Verbrennung|
+|{{cbrn:allgemein:kennzeichnung:gefahr_t.png?nolink&100|}}|  T+  |  [[cbrn:chemisch:klasse_6-1:start|sehr giftig]]  |Führt in sehr geringer Menge bei Einatmen, Verschlucken oder Aufnahme über die Haut zum Tode oder verursacht akute oder chronische Gesundheitsschäden|
+|{{cbrn:allgemein:kennzeichnung:gefahr_t.png?nolink&100|}}|  T  |  [[cbrn:chemisch:klasse_6-1:start|giftig]]  |Führt in geringer Menge bei Einatmen, Verschlucken oder Aufnahme über die Haut zum Tode oder verursacht akute oder chronische Gesundheitsschäden|
+|{{cbrn:allgemein:kennzeichnung:gefahr_x.png?nolink&100|}}|  Xn  |  gesundheitsschädlich  |Verursacht bei Einatmen, Verschlucken oder Aufnahme über die Haut akute oder chronische Gesundheitsschäden (frühere Bezeichnung: mindergiftig)|
+|{{cbrn:allgemein:kennzeichnung:gefahr_c.png?nolink&100|}}|  C  |  [[cbrn:chemisch:klasse_8:start|ätzend]]  |Zerstört lebendes Gewebe bei Berührung|
+|{{cbrn:allgemein:kennzeichnung:gefahr_x.png?nolink&100|}}|  Xi  |  reizend  |Ruft, ohne ätzend zu sein, bei kurzzeitigem, länger andauerndem oder wiederholtem Kontakt mit Haut oder Schleimhaut eine Entzündung hervor|
+|{{cbrn:allgemein:kennzeichnung:gefahr_n.png?nolink&100|}}|  N  |  umweltgefährlich  |Verändert Wasser, Boden, Luft, Klima, Tiere, Pflanzen oder Mikroorganismen, sodass dadurch Umweltschäden entstehen|
+
+===== Quellenangabe =====
+
+  * [[wpde>Gefahrstoff|Wikipedia: Gefahrstoff]]

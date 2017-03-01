@@ -1,0 +1,126 @@
+====== Druckluftbaustellen ======
+
+Druckluftbaustellen werden genutzt, um im Bereich der Baustellen mit erhöhtem Luftdruck das Grundwasser am Eindringen in die Baustelle zu hindern. Arbeiter und die tätig werdenden Einsatzkräfte an Druckluftbaustellen können den Überdruckbereich nur über eine Schleuse betreten und müssen beim Verlassen erhebliche Pausen in der Schleuse machen um nicht an der Taucherkrankheit zu erkranken. Druckluftbaustellen zum Einsatz kommen bei:
+
+  * Schildvortriebsmaschinen; hier befindet sich der Überdruckbereich nur bis kurz hinter das Schneidrad
+  * Caissonbaustellen; hier wird die spätere Tunnelröhre an der Erdoberfläche vorgefertigt und dann von einem Hohlraum unter dem Caissonboden aus das Erdreich entfernt sodass der Caisson nach und nach im Erdboden versinkt. Hierzu wird das Erdreich mit Wasserkraft gelöst und das Gemisch mit starken Pumpen an die Oberfläche gepumpt.
+
+===== zu treffende Maßnahmen =====
+
+  * eingesetzte Einsatzkräfte müssen über eine gültige G31-Untersuchung verfügen (die jährlich zu wiederholen ist) und dürfen nicht erkältet sein (gilt auch für Rettungsdienst / Notarzt!) -> Feuerwehrtaucher nachalarmieren, diese verfügen über diese Untersuchung
+  * Druckluftarzt ist ständig eingeteilt, aber ggf. nicht vor Ort sondern nur auf Rufbereitschaft. Von Polizei an Einsatzstelle bringen lassen um schnelles Eintreffen sicherzustellen. Druckluftarzt ist i.d.R. kein Notfallmediziner, sondern nur Berater für den Notarzt
+  * Ausdehnung der Baustelle? Ggf. weite Anmarschwege!
+  * realistische Abschätzung der möglichen Einsatzdauer der Trupps!
+  * Beachtung von langen Ausschleuszeiten beim Rückweg. Bei Patienten im kritischen Zustand ggf. Notausschleusung mit Inkaufnahme der Dekompressionskrankheit
+  * hohe Umgebungstemperaturen, dadurch Dehydration der Einsatzkräfte
+    * wenn möglich Marscherleichterung befehlen
+    * Schon beim Anmarsch Getränke ohne Kohlensäure mitgeben
+  * Alle benötigten Geräte direkt mitnehmen, Nachbringen dauert sehr lange
+  * Einsatz- und Zeitdokumentation (wird für das Ausschleusen benötigt)
+
+==== Brand ====
+
+  * Menschenrettung oder Brandbekämpfung praktisch nicht möglich, Löschen von außen durch
+    * Druckabsenkung, dadurch Eintritt von Grundwasser in die Kammer
+    * bei Tunnelbohrmaschinen: Vollpumpen mit Betonit (Bohrflüssigkeit)
+  * [[allgemein:geraete:waermebildkamera|Wärmebildkamera]] mitnehmen
+  * Gefahr durch massive Betonabplatzungen
+
+=== bei Tunnelbohrmaschinen ===
+
+  * Lutten die regulär für die Bewetterung (Belüftung) genutzt werden halten der Brandeinwirkung nicht stand, dadurch bricht Bewetterung ab
+  * Baugrube in der die Tunnelbohrmaschine (TBM) gestartet und über die der Angriff erfolgt ist wird bei einem Brandereignis verrauchen\\ -> Angriffstrupp ging bei Rauchfreiheit vor und findet auf dem Rückweg verrauchte Grube vor
+
+==== Auswirkungen auf Einsatztaktik ====
+
+  * kürzere Einsatzzeiten von PAs; Verringerung bei 1 bar Überdruck auf ca. die Hälfte, bei 3 bar Überdruck auf 1/4 der normalen Zeit
+    * enge Zugangsleitern bei Caisson-Baustellen machen PA-Einsatz nahezu unmöglich
+    * bei angelegter Atemschutzmaske Druckausgleich nur noch sehr schwierig möglich
+  * Regenerationsgeräte sind nicht einsetzbar; es würde eine toxische Sauerstoff-Konzentration erreicht werden
+  * Gebrauchsdauer von [[brand:allgemein:pulver|Pulverlöschern]] ist um ca. die Hälfte reduziert
+  * Abgedichtete (vor allem EX-geschützte) Geräte mit Hohlräumen wie Handlampen, Funkgeräte, etc. können mitgenommen werden, müssen aber beim Rückweg aufgrund von Berstgefahr separat ausgeschleust werden
+  * Funkverbindung zum Trupp ggf. nicht möglich; vor Ort befinden sich Telefone zur Kommunikation nach draußen
+  * Notsignalgeber der PAs ("Totmannwarner") schalten sich ggf. von selbst ein und lassen sich nicht ausschalten
+  * [[allgemeine_hilfe:geraete:hebekissen|Hebekissen]] können fast uneingeschränkt benutzt werden, lediglich etwas höherer Luftverbrauch
+  * dicht schließende Materialkoffer lassen sich ggf. nicht öffnen -> schon während dem Einschleusen belüften
+
+==== besondere Gefahren ====
+
+  * schwierige Orientierung
+  * anderes Brandverhalten unter Druck:
+    * höhere Brandgeschwindigkeit
+    * niedrigere [[cbrn:allgemein:cbrn-lexikon:zuendtemperatur|Zündtemperatur]]
+    * größere Hitzeentwicklung
+  * Baumaterialien und Geräte die im fertigen Tunnel abgestellt sind (als Brandlast oder Brandursache)
+  * Druckgasbehälter (insbesondere [[cbrn:chemisch:klasse_2:stoffe:acetylen|Acetylen]])
+  * ggf. veränderte Wirkung von Gefahrstoffen
+  * Ausbläser (Hohlräume oder Löcher nach außen), der Überdruck geht schnell verloren, dadurch
+    * Gefahr der Taucherkrankheit für Arbeiter
+    * Eintritt von Grundwasser
+  * [[cbrn:chemisch:klasse_2:stoffe:methan|Methangas]]ansammlungen (Anbohren von Faulgas-Kammern)
+  * Kampfmittel (Weltkriegsmunition), eher bei Caissonbauweise
+  * Unbekannt verlaufende Versorgungsleitungen (Wasser, Gas, Öl, ...)
+  * Ortsbrust (nur bei TBM; bei Zurückfahren zu Wartungszwecken vor dem Schneidrad stehende, ungestützte Wand), kann jederzeit umstürzen
+  * ggf. Lagerung von nicht vorgesehenen Stoffen/Müll im Bereich
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Für beide Baustellentypen ====
+
+  * pro Meter Baustellentiefe Druckzunahme um 0,1 bar (analog zum Tauchen)
+  * Anwesenheitstafel zur Übersicht über die derzeit eingesetzten Arbeiter
+  * i.d.R. Kabine zum Anhängen an den Kran für Personen- und Materialtransport vorhanden
+  * Krankendruckluftkammer ist ab 0,7 bar Überdruck an der Baustelle vorgeschrieben, diese darf aber ggf. entfallen wenn ein entsprechend ausgerüstetes Krankenhaus in der Nähe ist.
+
+==== Caissonbaustellen ====
+
+Der Einstieg in den Caisson geschieht über das Dach
+
+  * [[allgemein:drehleiter|Drehleiter]] zum Transport von Personen und Material auf Caisson-Dach verwenden
+  * im Caisson befindet sich eine spezielle, verkürzte Schleifkorbtrage zur Rettung der Person
+
+==== Tunnelbohrmaschinen-Baustellen ====
+
+  * Einsatz am Schneidrad nur mit [[allgemein:absturzsicherung|Absturzsicherung]]; kaum gerade Flächen, rutschig
+  * die Tunnelbohrmaschine (TBM) an sich kann Längen von 100m und darüber hinaus erreichen
+  * TBM wird von 10kV-Leitung versorgt, daher Trafos mit entsprechendem Öl auf der Maschine, außerdem Hydrauliköl für Schneidrad und Pressen (Brandlast!)
+  * auf der TBM sind i.d.R. Löscheinrichtungen vorhanden. Ggf. ist am Ende der Maschine eine Wassernebelanlage installiert die eine Rauchausbreitung in den Tunnel hinter der TBM verhindert. Evtl. ist ein Anschluss für Schläuche der Feuerwehr vorhanden.
+  * auf der TBM werden ggf. Fluchrettungsgeräte für die Arbeiter vorgehalten
+  * auf TBM wird i.d.R. eine Rettungskammer vorgehalten, in der alle Arbeiter für 24 Stunden mit Frischluft versorgt werden. Diese ist aber nur gegen Rauch, nicht gegen Hitze geschützt.
+
+==== medizinische/rettungsdienstliche Auswirkungen ====
+
+  * Sauerstoff beginnt ab einem Partialdruck von ca. 1,4 bis 1,8 bar toxisch zu wirken
+  * automatische Beatmungsgeräte können nicht genutzt werden, stattdessen normalen Beatmungsbeutel verwenden
+  * kein Einsatz von Defibrillatoren!
+    * evtl. entstehende Funken können als Zündquelle in der Überdruck-Atmosphäre dienen
+    * bei Tunnelbohrmaschinen: Weiterleitung des Stroms über metallene Teile der Maschine
+  * Beim Verlassen des Überdruck-Bereichs
+    * Vakuummatratze wird weich
+    * pneumatische Bandagen erzeugen Druck auf Extremitäten -> Unterbrechung des Blutkreislaufs, ggf. platzt die Bandage
+    * bei intubiert beatmeten Patienten: Cuff am Tubus wird größer und kann platzen oder die Luftröhre zum Einreißen bringen -> Tubus mit Kochsalzlösung befüllen
+    * Infusion: Nadel oberhalb des Flüssigkeitsspiegels einstechen und stecken lassen, dient zum Druckausgleich. Ansonsten beim Ausschleusen sehr schnelles Einlaufen der Infusion, evtl. auch von Luft
+
+siehe auch: [[allgemein:druckkammern|Druckkammern]]
+
+==== physikalische Gegebenheiten ====
+
+  * bei steigendem Druck Volumenverkleinerung von Gasen (p·V = const) -> Gesetz von Boyle-Mariotte
+  * bei steigendem Druck verändern sich die Partialdrücke (Teildrücke) der einzelnen Gase bzw. Bestandteile der Luft -> Gesetz von Dalton
+  * bei zu schnell abfallendem Druck gast der zuvor unter Druck eingelagerte Stickstoff aus dem Gewebe aus und gelangt ins Blut, was zur Dekompressionskrankheit führt -> Gesetz von Henry
+
+für weitere Informationen siehe Abschnitt "Weblinks"
+
+===== Weblinks =====
+
+  * [[wpde>Tunnelbohrmaschine|Tunnelbohr- bzw. Schildvortriebsmaschine]]
+  * [[wpde>Dekompressionskrankheit|Dekompressionskrankheit (Taucherkrankheit)]]
+  * [[wpde>Thermische_Zustandsgleichung_idealer_Gase#Gesetz_von_Boyle-Mariotte|Gesetz von Boyle-Mariotte]]
+  * [[wpde>Partialdruck#Dalton-Gesetz|Gesetz von Dalton]]
+  * [[wpde>Henry-Gesetz|Gesetz von Henry]]
+  * [[http://www.bgbau-medien.de/gv/drucklv/titel.htm?gesamt=1|Druckluftverordnung]] (mit den erforderlichen Ausschleusungszeiten im Anhang 2)
+
+===== Quellenangabe =====
+
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * [[http://www.bgbau-medien.de/bausteine/d_230/d_230.htm|BG Bau: Arbeiten unter Druckluft]]

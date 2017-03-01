@@ -1,0 +1,35 @@
+====== Dosisrichtwerte ======
+
+===== zu treffende Maßnahmen =====
+
+Einhaltung der Dosisrichtwerte
+
+  * **15 mSv** Schutz von Sachwerten pro Einsatz
+  * **100 mSv** Abwehr einer Gefahr für Personen oder zur Verhinderung einer wesentlichen Schadensausbreitung pro Einsatz und Jahr
+  * **250 mSv** Rettung von Menschenleben, danach kein weiterer Einsatz der Person im Strahlenschutzeinsatz mehr
+
+Da es sich um Dosis**richt**werte handelt, kann in begründeten Ausnahmefällen auch eine angemessene Überschreitung der maximalen Personendosis von 250 mSv erfolgen, um das Einsatzziel zu erreichen. Dafür ist die Beurteilung durch eine fachkundige Person nötig, die dies als unverzichtbar und vertretbar ansieht. Den betroffenen Einsatzkräften ist dies mitzuteilen.
+
+Für Übung und Ausbildung ist die Aufnahme einer Dosis von **1 mSv** pro Jahr gestattet. Hierbei handelt es sich nicht um einen Richt-, sondern um einen Grenzwert. Dieser darf nicht überschritten werden.
+
+==== besondere Gefahren ====
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * [[cbrn:atomar:strahlenschutzberechnungen#aufenthaltsdauer|Berechnung zur erlaubten Aufenthaltsdauer]]
+
+==== Auswirkungen auf den menschlichen Körper ====
+
+^ Dosis             ^ körperliche Auswirkungen ^
+| < 250 mSv         | keine Auswirkungen zu erwarten |
+| 250 mSv           | Schwellendosis |
+| 750 mSv - 1,5 Sv  | stärkere Blutbildveränderung, Strahlenkrankheit |
+| 1 Sv              | kritische Dosis |
+| 3 - 6 Sv          | 50 % Todesfälle |
+| ab 7 Sv           | tödliche Dosis |
+
+===== Quellenangabe =====
+
+  * FwDV 500, Stand 2012
+
+===== Stichwörter =====

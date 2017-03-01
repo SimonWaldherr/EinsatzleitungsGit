@@ -1,0 +1,33 @@
+====== Schiff leckgeschlagen ======
+
+Auf dieser Seite werden leckgeschlagene Schiffe behandelt, beachten Sie für allgemeine Hinweise für Einsätze auf Schiffen bitte auch die Seite [[allgemein:schiffsunfall]].
+
+===== zu treffende Maßnahmen =====
+
+==== Lenzen ====
+
+Gewerbliche genutzte Schiffe besitzen i.d.R. Lenzpumpen, die jedoch nur für kleinere Leckagen ausreichend sind.
+
+  * mehrere Pumpen mit hoher Leistung gleichzeitig einsetzen
+  * Leckstelle abdichten (siehe nächster Abschnitt)
+  * beim Lenzen aus verschiedenen Laderäumen müssen diese gleichzeitig leergepumpt werden, da das Schiff sonst auseinanderbrechen kann
+  * beim Lenzen aus Maschinenräumen sind die großen Mengen Betriebsstoffe zu beachten die dort lagern 
+  * ggf. Nachforderung [[allgemein:thw|THW]] (Tauchpumpen mit hoher Kapazität)
+  * bei erfolglosem Lenzen nach Möglichkeit Schiff auf Grund setzen lassen
+
+==== Abdichten ====
+
+  * Bei Schüttgutfrachtern muss die Leckstelle evtl. erst freigelegt werden (mit Bagger, [[allgemein:kran-einsatz|Kran]], o.ä.)
+  * Abdichtung durch (evtl. ist euch schon eine Verminderung des Wassereintritts ausreichend der abgepumpt werden kann)
+    * Holzkeile
+    * pneumatische (Rohr-)Dichtkissen
+    * Unterziehen eines Lecksegels (nur bei geübtem Personal möglich!)
+
+===== Quellenangabe =====
+
+  * Fiß, Manfred: Die Roten Hefte Nr. 85: Einsätze auf Schiffen. Kohlhammer, Stuttgart 2006.
+  * Lehrunterlage "Brandbekämpfung auf Binnenschiffen", Feuerwehrakademie Hamburg.
+
+===== Stichwörter =====
+
+Loch, sinken, gesunken, Wassereinbruch

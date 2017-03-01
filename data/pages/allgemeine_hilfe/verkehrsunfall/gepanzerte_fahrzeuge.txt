@@ -1,0 +1,30 @@
+====== Gepanzerte Fahrzeuge ======
+
+Diese Seite beschäftigt sich nur mit dem speziellen Vorgehen bei gepanzerten Fahrzeugen. Es sind außerdem auch alle generell bei einem [[:allgemeine_hilfe:verkehrsunfall:start|Verkehrsunfall]] zu treffende Maßnahmen durchzuführen.
+
+
+===== zu treffende Maßnahmen =====
+
+  * nur wirklich benötigte Einsatzkräfte sollen sich in Fahrzeugnähe aufhalten
+  * mindestens einen weiteren hydraulische Rettungssatz nachalarmieren
+  * Türen beim Entfernen sichern, sehr schwer (teilweise mehrere hundert Kilogramm)
+
+==== besondere Gefahren ====
+
+  * Panzerung nicht verformbar; gibt mit einem Mal komplett nach, Teile platzen ab und fliegen herum, etc., dabei werden große Energien frei
+  * unkontrolliertes und unerwartetes Abrutschen hydraulischer Rettungsgeräte
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Aufspreizen der Türschaniere bietet in der Regel die besten Chancen, alternativ auch Aufschneiden mit Trennschleifer
+  * ggf. zwei Spreizer parallel einsetzen
+  * Scheiben evtl. mit Rettungsschere schneidbar
+  * teilweise Notöffnungsmechanismen (nicht immer vorhanden), die von innen oder per Fernbedienung aus Begleitfahrzeugen heraus ausgelöst werden können\\ -> Begleiter/Personenschützer nach Notöffnungsmechanismen befragen
+
+===== Quellenangabe =====
+
+  * 3. Fachtagung „Technische Rettung aus Pkw“ 2011, Verein für Fahrzeugsicherheit Berlin e.V.
+
+===== Stichwörter =====
+
+Sonderfahrzeuge, Bundeswehr, Geldtransporter

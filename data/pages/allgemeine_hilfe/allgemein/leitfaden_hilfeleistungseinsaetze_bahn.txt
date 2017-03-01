@@ -1,0 +1,127 @@
+====== Leitfaden Hilfeleistungseinsätze der DB AG ======
+
+  * {{allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_00_deckblatt-impressum.pdf|Deckblatt und Impressum}}
+  * {{allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_00_verzeichnisse.pdf|Inhalts- und Abbildungsverzeichnis}}
+  * {{allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_01_vorwort_rechtliche_grundlagen.pdf|1 Vorwort und rechtliche Grundlagen und Zuständigkeiten}}
+  * {{allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_02_einsaetze_vorbereiten.pdf|2 Hilfeleistungseinsätze im Eisenbahnbereich vorbereiten}}
+    * 2.1 Bedeutung der Kenntnis des Eisenbahninfrastrukturunternehmers
+    * 2.2 Betreiber des Schienenweges ermitteln
+      * 2.1.1 Eisenbahnaufsichten 
+      * 2.1.2 Umsetzen der Mitwirkungspflicht durch andere Eisenbahninfrastrukturunternehmen 
+  * {{allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_03_verhalten_gleisbereich.pdf|3 Gefahren aus dem Bahnbetrieb/ Verhalten im Gleisbereich}}
+    * 3.1 Gefahren durch bewegte Eisenbahnfahrzeuge
+      * 3.1.1 Verhalten im und am Gleis
+    * 3.2 Elektrische Gefahren aus der Oberleitung/ Stromschiene
+      * 3.2.1 Oberleitung
+      * 3.2.2 Stromschiene der Gleichstrom-S-Bahn
+  * {{allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_04_notfallmanagement_bahn.pdf|4 Das Notfallmanagement der Bahn}}
+    * 4.1 Fachberatung 
+      * 4.1.1 Der Notfallmanager
+      * 4.1.2 Der Notdienst des Eisenbahnverkehrsunternehmers
+      * 4.1.3 Weitere Fachberater
+    * 4.2 Meldestellen
+    * 4.3 Schutz
+      * 4.3.1 Einstellung des Fahrbetriebs
+      * 4.3.2 Wiederaufnahme des Fahrbetriebs
+      * 4.3.3 Oberleitung ausschalten und bahnerden
+      * 4.3.4 Bahnerden durch Feuerwehren
+    * 4.4 Einsatzunterstützung
+      * 4.4.1 Kartenmaterial 
+      * 4.4.2 Orientierung am Ereignisort 
+      * 4.4.3 Bahnspezifisches Gerät (Rüstsatz Bahn) 
+      * 4.4.4 Einsatzmerkblätter für Eisenbahnfahrzeuge 
+    * 4.5 Vorbereiten und Informieren
+      * 4.5.1 Einsatzkräfte von Feuerwehr und Rettungsdienst
+      * 4.5.2 Angehörige von Landes- bzw. Bundespolizei
+      * 4.5.3 Übungen
+      * 4.5.4 Seminare zu Gefahrguteinsätzen
+    * 4.6 Notfalltechnik
+      * 4.6.1 Hilfszug
+      * 4.6.2 Schienenkran
+      * 4.6.3 Rettungszüge
+      * 4.6.4 Sonstige Fahrzeuge
+  * {{allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_05_eisenbahnfahrzeuge.pdf|5 Eisenbahnfahrzeuge}}
+    * 5.1 Triebfahrzeuge
+    * 5.2 Wagen
+      * 5.2.1 Reisezugwagen
+      * 5.2.2 Güterwagen
+    * 5.3 Fahrzeugnummern
+      * 5.3.1 Triebfahrzeuge
+      * 5.3.2 Wagen
+    * 5.4 Weitere Fahrzeuganschriften
+      * 5.4.1 Anschriften an Reisezugwagen
+      * 5.4.2 Anschriften an Güterwagen
+    * 5.5 Fahrzeugverbindungen
+      * 5.5.1 Fahrzeugkupplungen
+      * 5.5.2 Luftleitungen
+      * 5.5.3 Elektrische Verbindungen
+    * 5.6 Sichern von Fahrzeugen
+      * 5.6.1 Das Bremssystem
+      * 5.6.2 Sichern durch Feststellbremse
+      * 5.6.3 Sichern durch Betriebsbremse
+      * 5.6.4 Weitere Sicherungsmittel
+    * 5.7 Anheben von Fahrzeugen
+    * 5.8 Eindringen in Fahrzeuge
+  * {{ allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_06_tunnel.pdf |6 Tunnel}}
+    * 6.1 Tunnelarten
+    * 6.2 Sicherheitskonzept
+    * 6.3 Einrichtungen des Rettungskonzeptes
+    * 6.3.1 Organisatorische Maßnahmen
+    * 6.3.2 Bauliche Einrichtungen
+    * 6.3.3 Technische Einrichtungen
+  * {{allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_07_einsaetze_gefahrgut.pdf|7 Einsätze mit Gefahrgut}}
+    * 7.1 Aufgaben während der Beförderung
+      * 7.1.1 Aufgaben des Eisenbahninfrastrukturunternehmens
+      * 7.1.2 Aufgaben des Beförderers
+    * 7.2 Information zur Ladung
+    * 7.3 Kennzeichnung von Gefahrguttransporten
+    * 7.4 Unterstützung durch [[cbrn:allgemein:tuis|TUIS]]
+  * {{allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_08_oertliche_vorbereitungen.pdf|8 Örtliche Vorbereitungen}}
+    * 8.1 Erforderliche Kenntnisse
+    * 8.2 Vorhandene Kräfte
+    * 8.3 Vorhandene Ausrüstung
+      * 8.3.1 Rollpalette
+      * 8.3.2 Arbeitsplattform
+    * 8.4 Anfahrmöglichkeiten
+    * 8.5 Tunnelanlagen
+      * 8.5.1 Betreten und Befahren des Tunnels
+      * 8.5.2 Löschwasserversorgung
+      * 8.5.3 Übungserfahrungen
+  * {{allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_09_einsatz_schadensort.pdf|9 Einsatz am Schadensort}}
+    * 9.1 Meldewege
+      * 9.1.1 Ereignismeldung
+      * 9.1.2 Gegenseitige Informationen
+    * 9.2 Einsatzleitung
+    * 9.3 Kommunikationswege
+    * 9.4 Maßnahmen am Schadensort
+      * 9.4.1 Maßnahmen nach Eintreffen
+      * 9.4.2 Besonderheiten bei Tunnelanlagen
+      * 9.4.3 Gefahren der Einsatzstelle
+    * 9.5 Einsatz von Notfalltechnik
+  * {{allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_10_vordrucke.pdf|10 Vordrucke}}
+    * 10.1 Bestätigungen der Notfallleitstelle per Faxversand
+      * 10.1.1 Einstellung des Fahrbetriebs
+      * 10.1.2 Ausschaltung der Oberleitung
+    * 10.2 Sicherungsplan
+    * 10.3 Kurzbedienungsanleitung Oberleitungsspannungsprüfeinrichtung
+  * {{allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_11_tipps.pdf|11 Tipps für Einsatzplanung und Einsatzverlauf}}
+    * 11.1 Tipps für den Einsatzplaner
+    * 11.2 Tipps für den Leitstellendisponenten
+    * 11.3 Tipps für den Einsatzleiter
+  * {{allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_12_nachwort.pdf|12 Nachwort}}
+  * {{ allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_13_wissenswertes_im_internet.pdf |13 Wissenswertes im Internet}}
+    * 13.1 Verzeichnis der Eisenbahninfrastrukturunternehmen
+    * 13.2 Kontaktdaten zu Landeseisenbahnaufsichten
+    * 13.3 Güterwagenkatalog und Güterwagenanschriften
+    * 13.4 TUIS
+  * {{ allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_99_stichwortverzeichnis.pdf |Stichwortverzeichnis}}
+
+===== Version und Copyright =====
+
+Stand: Ausgabe 2017
+
+Letzte Überprüfung auf Aktualität: 06/2017
+
+Der "Leitfaden Hilfeleistungseinsätze" wurde von folgender Internetadresse bezogen: http://www.deutschebahn.com/de/leitfaden_hilfeleistung_cs.html
+
+Alle Inhalte dieser Seite © DB AG. Nutzung mit freundlicher Genehmigung.

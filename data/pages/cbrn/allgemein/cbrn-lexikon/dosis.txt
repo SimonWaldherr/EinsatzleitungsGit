@@ -1,0 +1,23 @@
+====== Dosis ======
+
+[[cbrn:atomar:start#dosisrichtwerte|Dosisrichtwerte für den Einsatz]]
+
+===== Energiedosis =====
+
+Die Energiedosis gibt an, wie groß die von der Strahlung übertragene Energie ist. Die Energiedosis wird in der Einheit Gray angegeben.
+
+===== Äquivalentdosis =====
+
+Die Äquivalentdosis gibt an, wie hoch die durch den menschlichen Körper aufgenommene Energie ist. Dabei wird berücksichtigt, dass verschiedene Strahlungsarten (Alpha, Beta, Gamma, ...) unterschiedlich stark wirken.
+
+Die auf den üblichen [[cbrn:atomar:strahlenschutzmessgeraete|Messgeräten]] der Feuerwehr angezeigte Dosis ist die Äquivalentdosis. Die Äquivalentdosis wird in der Einheit Sievert (Sv) angegeben.
+
+===== Effektive Dosis =====
+
+Die effektive Dosis berücksichtigt, dass die Äquivalentdosis auf die verschiedenen Organe im menschlichen Körper unterschiedlich stark wirkt.
+
+Die effektive Dosis wird in der Einheit Sievert (Sv) angegeben.
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

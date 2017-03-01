@@ -1,0 +1,9 @@
+====== Plugins - Übersichtsseite ======
+
+Plugins sind Erweiterungen der zugrunde liegenden DokuWiki-Software um weitere Funktionen. Es sind neben den entsprechenden Inhalten zu einem großen Teil die Plugins, die aus der //normalen// Wiki-Software das Einsatzleiterwiki machen.
+
+Auf den folgenden untergeordneten Seiten werden die Funktionen der Plugins und wie diese jeweils in den Seiteninhalt eingebunden werden erklärt.
+
+===== derzeit in der Einsatzleiterwiki-Standardinstallation vorhandene Plugins =====
+
+{{simplenavi>wiki:hilfe:plugins}}

@@ -1,0 +1,73 @@
+====== Download und Installation ======
+
+Da Wiki-Systeme eigentlich für den Betrieb auf (Internet-)Servern entwickelt wurden, muss für die Nutzung des Einsatzleiterwikis eine entsprechende Server-Software installiert werden, falls diese auf dem Computer nicht bereits vorhanden ist. Die derzeitigen Systemvoraussetzungen können Sie auf der Seite [[wiki:hilfe:voraussetzungen]] nachlesen.
+
+Um Aktualisierungen einfacher zu gestalten, werden die Programm- und die Datenbasis des Einsatzleiterwikis getrennt angeboten. Somit müssen insgesamt drei Pakete heruntergeladen werden, die Sie im Downloadbereich in der Kategorie [[http://www.einsatzleiterwiki.de/index.php/download/category/2-weiterfuehrende-dateien-fuer-fortgeschrittene-nutzer|weiterführende Dateien für fortgeschrittene Nutzer]] finden:
+
+    - [[http://www.einsatzleiterwiki.de/index.php/download/category/2-weiterfuehrende-dateien-fuer-fortgeschrittene-nutzer?download=7:xampp-lokaler-webserver|Server-Software]] (falls bis jetzt nicht sowieso schon ein eigener Server betrieben wird)
+    - [[http://www.einsatzleiterwiki.de/index.php/download/category/2-weiterfuehrende-dateien-fuer-fortgeschrittene-nutzer?download=5:einsatzleiterwiki-software|Wiki-Programm (DokuWiki) mit entsprechenden Erweiterungen]]
+    - [[http://www.einsatzleiterwiki.de/index.php/download/category/2-weiterfuehrende-dateien-fuer-fortgeschrittene-nutzer?download=4:einsatzleiterwiki-daten|Daten des Einsatzleiterwikis]]
+
+Im weiteren Verlauf des Artikels wird das Vorgehen zur Installation Schritt für Schritt erklärt.
+
+===== Server-Software =====
+
+Grundsätzlich gilt es zu erwähnen, dass DokuWiki, welches die Grundlage des Einsatzleiterwikis bildet, auf vielen verschiedenen Webserver-Programmen lauffähig ist. Der hier aufgezeigte Weg soll eine einfache Möglichkeit zur Installation darstellen, es gibt in diesem Bereich aber viele Wege die zum Ziel führen. Eine für Anfänger geeignete Serversoftware stellt XAMPP dar. Unter anderem ist dort auch eine einfache Möglichkeit enthalten, den Webserver als //Service//  einzurichten; damit wird er beim Hochfahren automatisch mitgestartet.
+
+==== Installation unter Windows ====
+
+  - Öffnen Sie den Windows Explorer und legen Sie ein Verzeichnis Ihrer Wahl für die Installation des Einsatzleiterwikis an - Der Ordner ''C:\Programme (x86)\Einsatzleiterwiki'' bzw. ''C:\Programme\Einsatzleiterwiki'' bietet sich an, da Sie so in den gleichen Ordner installieren wie auch in der Version mit dem automatischen Installationsprogramm.
+  - Entpacken Sie den Inhalt der heruntergeladenen Datei **xampp.zip** in den angelegten Ordner. Im Ordner ''Einsatzleiterwiki'' sollte sich nun der Unterordner ''xampp'' befinden.
+  - Öffnen Sie nun den Unterordner ''xampp'' und führen Sie einen Doppelklick auf die Datei setup_xampp.bat aus - somit wird die Konfiguration der Server-Software auf Ihren Computer eingerichtet.
+  - Öffnen Sie nun die Datei **xampp-control.exe** und klicken Sie in der Zeile **Apache** auf **Start**
+  - Falls sich nun Ihre Firewall zu Wort meldet, so gestatten Sie dem Apache-Server die Kommunikation{{ :wiki:hilfe:installation:firewall.png?nolink& |}}
+  - Öffnen Sie nun Ihren Browser (Internet Explorer, Firefox, etc.) und geben Sie in die Adressleiste ein und drücken Enter (oder klicken direkt auf den nachfolgenden Link): [[http://127.0.0.1:8080/xampp]] (Dies ist immer die Netzwerkadresse ihres eigenen Rechners. Sie stellen also nun eine Serveranfrage an sich selbst.) Folgende Seite sollten Sie nun sehen:{{ :wiki:hilfe:installation:kontrolle_xampp.png?direct&500 |}}
+  - Die Server-Software ist damit installiert und sie können mit der Installation der Wiki-Software fortfahren.
+
+===== Installation des Wiki-Programms =====
+
+Um das Wiki zu installieren, muss lediglich die heruntergeladene ZIP-Datei (einsatzleiterwiki.zip) in das Datenverzeichnis des Servers entpackt werden. Wenn Sie beispielsweise das XAMPP-Paket wie vorgeschlagen nach ''C:\Programme (x86)\Einsatzleiterwiki'' bzw. ''C:\Programme\Einsatzleiterwiki'' installiert haben, müssen Sie nun das Archiv mit der Wiki-Software nach ''C:\Programme (x86)\Einsatzleiterwiki\xampp\htdocs\einsatzleiterwiki'' entpacken (je nach Packprogramm müssen Sie möglicherweise den Ordner ''einsatzleiterwiki'' erst von Hand anlegen, bitte achten Sie dabei auf die Kleinschreibung!). Mehr ist in diesem Schritt nicht nötig.
+
+===== Daten des Einsatzleiterwikis integrieren =====
+
+==== Daten herunterladen ====
+
+Als letzten Schritt müssen Sie die aktuellen Daten des Einsatzleiterwikis in selbiges integrieren. Zu diesem Zweck müssen Sie am Anfang heruntergeladene Datei einsatzleiterwiki_daten.zip öffnen und in Ihr Einsatzleiterwiki-Verzeichnis entpacken.
+
+=== Beispiel für Windows ===
+
+Falls Sie XAMPP in das vorgeschlagene Verzeichnis auf Ihrem Computer installiert haben, müssen Sie das Archiv in folgenden Pfad entpacken (kann sich je nach Installationsort unterscheiden!):
+
+''C:\Programme (x86)\Einsatzleiterwiki\xampp\htdocs\einsatzleiterwiki''  bzw. ''C:\Programme\Einsatzleiterwiki\xampp\htdocs\einsatzleiterwiki''
+
+Hier nun das Vorgehen zum Entpacken Schritt für Schritt:
+
+    - Öffnen Sie das Archiv ''einsatzleiterwiki_daten.zip''  mit einem Packprogramm.
+    - Nun sollten Sie als Archivinhalt einen Ordner ''data'' sehen.
+    - Den Ordner ''data'' müssen Sie in ihr einsatzleiterwiki-Unterverzeichnis entpacken, um die Datenintegration zu beenden. Etwaige Nachfragen, ob Sie die Dateien in den bereits existierenden Ordner ''data'' integrieren möchten, beantworten Sie mit ja: {{  :wiki:hilfe:installation:tar-3.png?direct&500  }}
+
+==== Administrator-Benutzerkonto erstellen und erster Start ====
+
+Nachdem Sie die Daten heruntergeladen und entpackt haben, rufen Sie in Ihrem Browser die URL [[http://127.0.0.1:8080/einsatzleiterwiki/install.php]] auf (sie können direkt auf diesen Link klicken falls Sie sich an die Vorschläge für die Benennung der Ordner gehalten haben, andererseits müssen Sie diesen nun anpassen).
+
+Füllen Sie die Felder auf der linken Seite aus:
+
+  * Wiki-Name: Der Name des Einsatzleiterwikis, welcher später in der Titelleiste Ihres Browsers angezeigt wird. Tragen Sie hier z.B. ein: "Einsatzleiterwiki Feuerwehr XY"
+  * Die Felder Administrator Benutzername, Voller Name, E-Mail und Passwort sollten selbsterklärend sein.
+  * Klicken Sie nun auf Speichern. Auf der sich nun öffnenden Seite finden Sie den Link zur Startseite Ihres Einsatzleiterwikis. Alternativ können Sie dies jederzeit unter folgender Adresse aufrufen: [[http://127.0.0.1:8080/einsatzleiterwiki/doku.php]] (auch hier gilt wieder: Falls Sie den Standardordner umbenannt haben sollten, müssen Sie den Ausdruck ''einsatzleiterwiki'' dementsprechend anpassen.).
+
+===== Abschließende Arbeiten =====
+
+  - Öffnen Sie die Eingabeaufforderung unter //Start// -> //Programme// -> //Zubehör//. Falls Sie Windows Vista, 7 oder neuer verwenden, so öffnen Sie die Eingabeaufforderung mit einem Rechtsklick und wählen Sie //Als Administrator ausführen//.
+  - Im sich nun öffnenden, schwarzen Fenster geben Sie ein und drücken danach ENTER: <code>cd C:\Program Files (x86)\Einsatzleiterwiki\xampp\apache\bin</code> bzw. <code>cd C:\Program Files\Einsatzleiterwiki\xampp\apache\bin</code> bzw. ändern Sie das Kommando entsprechend ab, falls Sie die Software in einen anderen Ordner als standardmäßig angegeben installiert haben. **Schreiben Sie unbedingt "Program Files" und nicht "Programme", da sonst der Ordner nicht gefunden werden kann!**
+  - Geben Sie nun als nächstes ein: <code>httpd -k install -n "Einsatzleiterwiki"</code> und drücken Sie ENTER, um die Software für das Einsatzleiterwiki als Dienst einzurichten. Dadurch startet die Server-Software beim Systemstart automatisch mit.
+  - Starten Sie zum Abschluss der Installation Ihren Computer neu.
+  - Sie können Ihr Einsatzleiterwiki nun unter der Adresse http://127.0.0.1:8080/einsatzleiterwiki/doku.php aufrufen - erstellen Sie am Besten ein Lesezeichen und legen Sie dieses auf dem Desktop ab!
+
+===== Quellenangabe =====
+
+    * [[http://www.dokuwiki.org/de:requirements|DokuWiki Systemvoraussetzungen]] 
+
+===== Stichwörter =====
+
+Noch keine Stichwörter angegeben.

@@ -1,0 +1,52 @@
+~~NOCACHE~~
+
+====== Strahlenschutzberechnungen ======
+
+===== Abstandsgesetz =====
+
+~~INCLFORM=abstandsgesetz~~
+
+==== maßgeblich zugrunde liegende Formel für die Berechnung mit dem Abstandsgesetz ====
+
+{{cbrn:atomar:abstandsgesetz.png?200&direct|Formel für Abstandsgesetz}}
+
+Ḋ: Dosisleistung\\
+r: Radius bzw. Abstand
+
+===== Aufenthaltsdauer =====
+
+~~INCLFORM=aufenthaltsdauer~~
+
+==== maßgeblich zugrunde liegende Formel für die Berechnung der Aufenthaltsdauer ====
+
+{{cbrn:atomar:aufenthaltsdauer.png?150&direct|Formel für Aufenthaltsdauer}}
+
+D: Dosis bzw. in diesem Fall Dosisrichtwert\\
+Ḋ: Dosisleistung\\
+t: Zeit bzw. Aufenthaltsdauer
+
+===== Berechnung der erlaubten Dosisleistung aus der Transportkennziffer =====
+
+~~INCLFORM=transportindex~~
+
+===== Abschätzung der Dosisleistung bei bekannter Aktivität des Strahlers =====
+
+~~INCLFORM=abschaetzung_dl~~
+
+===== Umrechnung der Dosisleistung =====
+
+~~INCLFORM=umrechnung_dosisleistung~~
+
+===== Umrechnung der Aktivität =====
+
+~~INCLFORM=umrechnung_aktivitaet~~
+
+===== Umrechnung der Zeitdauer =====
+
+~~INCLFORM=umrechnung_zeit~~
+
+===== Quellenangabe =====
+
+  * Ausbildungsunterlagen Lehrgang ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+
+===== Stichwörter =====

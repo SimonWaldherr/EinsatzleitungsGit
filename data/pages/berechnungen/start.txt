@@ -1,0 +1,46 @@
+====== Berechnungen ======
+
+An dieser Stelle sehen Sie einen Überblick aller im Einsatzleiterwiki vorhandenen Berechnungsformulare. Beachten Sie, dass diese Übersicht nicht automatisch erstellt, sondern manuell gepflegt wird.
+
+
+  * [[cbrn:atomar:befoerderung]]
+    * Aus der Transportkennzahl ermitteln, welche Dosisleistung bei einem Versandstück maximal auftreten darf
+  * [[cbrn:allgemein:dekontamination:desinfektion]]
+    * Berechnung der erforderlichen Desinfektionsmittel-Konzentration
+  * [[cbrn:geraete:ex-messgeraet]]
+    * Abschätzung der realen Konzentration von explosiven Gasgemischen, wenn das Ex-Messgerät nicht auf ein anderes Gas als das zu messende kalibriert ist
+  * [[allgemein:flaechen_volumenberechnungen]]
+    * Volumen und Gewicht eines Quaders
+  * [[cbrn:chemisch:klasse_2:fluessiggasberechnungen]]
+    * Explosion von freigesetzten Gasmengen / Vapour Cloud Explosion
+    * Abschätzung des spontan verdampften Anteils beim Austritt eines beliebigen Flüssiggases
+    * Sicherheitsabstände von Kugeltanks
+    * BLEVE (Boiling Liquid Expanding Vapour Explosion)
+    * Abschätzung des spontan verdampften Anteils bei schlagartiger Freisetzung
+    * Rückzündung von Gaswolken
+  * [[brand:allgemein:schaum]]
+    * Berechnung der maximal erzeugbaren Schaummenge
+    * Berechnung der benötigten Schaummittelmenge für eine bestimmte Menge Schaum
+  * [[brand:allgemein:loeschwasserversorgung]]
+    * maximale Länge der Saugleitung
+  * [[brand:allgemein:loeschwasser_lange_wegstrecke]]
+    * Pendelverkehr mit TLF
+    * Berechnung der Pumpenabstände für offene und geschlossene Schaltreihe
+  * [[allgemein:mathematische_berechnungen]]
+    * Winkelfunktionen
+    * lineare Interpolation
+  * [[allgemeine_hilfe:allgemein:winden]]
+    * Berechnung der erforderlichen Kraft für eine Fahrzeugbergung
+  * [[cbrn:atomar:strahlenschutzberechnungen]]
+    * Abstandsgesetz
+    * Aufenthaltsdauer
+    * Abschätzung der Dosisleistung bei bekannter Aktivität des Strahlers
+    * Umrechnung der Dosisleistung
+    * Umrechnung der Aktivität
+    * Umrechnung der Zeitdauer
+  * [[allgemein:umrechnung_basiseinheiten]]
+    * Temperatur
+    * Zeit
+    * Geschwindigkeit
+  * [[brand:windenergieanlagen]]
+    * Wurfweite von Eis bei Windenergieanlagen

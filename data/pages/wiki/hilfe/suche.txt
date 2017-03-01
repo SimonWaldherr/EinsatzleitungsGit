@@ -1,0 +1,55 @@
+====== Suchfunktion ======
+
+Die Suchfunktion sucht standardmäßig nach Artikeln, in denen sich alle Suchbegriffe befinden (AND-Verknüpfung). Es wird dabei nicht in Groß- und Kleinschreibung unterschieden.
+
+Die erweiterten Suchmöglichkeiten werden folgend aufgeführt. Alle Suchmöglichkeiten können miteinander kombiniert werden. Beispiele werden in eckigen Klammern [ ... ] dargestellt.
+
+===== Suchoptionen =====
+
+==== Begriffe ausschließen (-)====
+
+Um einen Suchbegriff auszuschließen, ist diesem ein Bindestrich ''-'' voranzustellen. So werden mit der Suche ''[ schaum -brand ]'' alle Seiten herausgesucht, die den Begriff "Schaum" enthalten, aber nicht den Begriff "Brand".
+
+"-" kann nicht nur für Suchbegriffe, sondern auch mit [[#Fragmentsuche (*)]], [[#Ausdruckssuche ("")]], [[#Suche in Namensräumen (@)]] und der [[#Gruppierung von Suchbegriffen mit "()"]]. Bspw. kann mit [- "diese Wortfolge soll nicht gefunden werden"] eine exakte Wortfolge ausgeschlossen werden.
+
+==== Fragmentsuche (*)====
+
+Eine Fragmentsuche kann mit vorangestelltem oder angehängtem Sternchen * durchgeführt werden. Während der Suchbegriff ''[ schlauch ]'' auch nur die Einträge mit dem Wort "Schlauch" findet, würde eine Suche mit ''[ *schlauch ]'' auch das Wort "Saugschlauch" finden. Genauso können die Suchbegriffe ''[ schlauch* ]'' als auch ''[ *schlauch* ]'' konstruiert werden.
+
+Die Verwendung von * ist jedoch nicht innerhalb des Begriffes möglich wie ''[ saug*lauch ]''. 
+
+==== Ausdruckssuche ("") ====
+Mehrere Worte in doppelten Anführungszeichen werden in exakt dieser Konstellation gesucht. ''[ "Installation von Einsatzleiterwiki" ]''
+
+==== Suche in Namensräumen (@) ====
+Die Suche kann auch auf Namensräume eingeschränkt werden, indem ein ''@'' oder ''ns:'' dem Namensraum vorangestelllt werden. Um dagegen bestimmte Namensräume auszuschliessen, müssen diese mit ''^'' oder ''-ns'' eingegeben werden:
+
+So wird der Ausdruck ''"schaum" @brand @cbrn:allgemein'' den Suchbegriff ''"Schaum"'' in den Namensräumen ''brand'' und ''cbrn:allgemein'' suchen.
+
+==== Suche mit ODER (|) ====
+
+Grundsätzlich wird eine logische UND-Suche durchgeführt, d.h. Trefferseiten müssen alle angegebenen Suchbegriffe enthalten. Mit dem "|"-Operator ist eine ODER-Suche möglich (einschließendes ODER), so dass bspw. eine Suchanfrage ''[ flüssiggas | erdgas ]'' alle Seiten findet, die "Flüssiggas" oder "Erdgas" oder beides beinhalten (statt "|" kann auch das englische "or" verwendet werden). Eine ODER-Suche kann als einfache Alternative zu einer [[#Fragmentsuche (*)]] verwendet werden, bspw. bei variierenden Schreibweisen von Namen wie ''[ Acetylen | Azetylen ]''.
+
+Technisch wird ODER nach UND ausgewertet, d.h. die Suchanfrage ''[ maßnahmen benzin | diesel ]'' entspricht einer [[#Gruppierung von Suchbegriffen mit "()" |durch Gruppierung vorgegebenen Suchreihenfolge]] ''[ (maßnahmen benzin) | diesel ]'' und nicht etwa ''[ maßnahmen (benzin | diesel) ]''.
+
+Wenn eine ODER-Suche [[#Suche in Namensräumen (@) |auf einen Namensraum beschränkt werden]] soll, dann **muss** die Suchanfrage mit "()" gruppiert werden, andernfalls wird sich ''[ schaum | wasser @brand]'' wie ''[ (schaum) | (wasser @brand)]'' verhalten, d.h. nach "schaum" oder "wasser @brand" in //allen// Namensräumen suchen, aber nicht wie vermutlich beabsichtigt nach "schaum" oder "wasser" im Namensraum //brand//. Letzteres wäre korrekt als ''[ (schaum | wasser) @brand]'' anzugeben.
+
+==== Gruppierung von Suchbegriffen mit "()" ====
+
+Suchbegriffe können durch Klammerung mit ''( ... )'' zu Gruppen zusammengefasst werden, so dass sie zuerst mit Begriffen innerhalb der selben Klammer kombiniert werden und erst dann mit Begriffen außerhalb dieser Klammer. Die resultierende Reihenfolge kann eine entscheidende Rolle für das [[#Begriffe ausschließen (-) |Ausschließen von Begriffen]] und die [[#Suche mit ODER (|)]] spielen. Bspw. findet die Suchanfrage ''[ schaum -(brand | @brand) ]'' Seiten mit dem Stichwort "Schaum", sofern sie nicht zugleich das Stichwort "brand" enthalten oder im Namensraum "brand" liegen.
+
+===== Schnellsuche =====
+
+Wenn in das Suchfeld der Anfang eines Seitennamens eingegeben wird, erscheint in den meisten, modernen Browsern nach einer halben Sekunde automatisch ein Popup mit allen passenden Seitennamen.
+
+===== Hintergrundinformationen zum Suchindex =====
+
+Die dem Einsatzleiterwiki zugrunde liegende Software //DokuWiki// verwendet einen Index um sogar in großen Systemen Suchanfragen sehr schnell zu verarbeiten. Um alles finden zu können, muss der Index mit den aktuellen Daten gefüllt sein. Informationen über den Seiteninhalt werden hinzugefügt und abgeändert, wenn sich ein User die Seite anzeigen lässt.
+
+Werden viele neue Inhalte auf einmal hinzugefügt (z.B. wenn nach langer Zeit wieder synchronisiert wurde), so werden die Inhalte einer neuen Seite erst gefunden werden, wenn sie einmal von Hand aufgerufen wurde. Dies kann umgangen werden, in dem das Plugin [[wiki:hilfe:plugins:searchindex|Searchindex]] verwendet wird; nach der Indexierung durch das Plugin werden wieder alle Inhalte gefunden.
+
+===== Quellenangabe =====
+
+  * https://www.dokuwiki.org/start?id=de:search, veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz
+
+===== Stichwörter =====

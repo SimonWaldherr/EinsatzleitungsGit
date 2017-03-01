@@ -1,0 +1,59 @@
+====== Atemschutznotfall ======
+
+===== zu treffende Maßnahmen =====
+
+Diese folgende Liste soll als Unterstützung bei Eintreten eines Atemschutznotfalls helfen. Für die Abarbeitung sollte die Reihenfolge der Maßnahmen von oben nach unten eingehalten werden:
+
+==== 1. Erkennung/Gründe für Ausrufen eines Atemschutznotfalls ====
+
+  * Notruf über Funk („mayday, mayday, mayday“)
+  * Funkkontakt zum Atemschutztrupp abgerissen
+  * Totmannwarner hat ausgelöst
+  * Lageänderung (z.B. Explosion / Einsturz)
+
+==== 2. Nachalarmierung ====
+
+Mit entsprechendem Stichwort / Kurzlagemeldung
+
+==== 3. Information der Einsatzkräfte ====
+
+Durchsage auf Einsatzstellen-Kanal um alle Einsatzkräfte zu informieren:
+
+„Es gibt einen Atemschutznotfall. Alle Kräfte reduzieren den Funkverkehr aufs Nötigste und halten absolute Funkdisziplin.“
+
+==== 4. Atemschutzüberwachung ====
+
+  * Bisheriger Atemschutzüberwacher wird Führungsgehilfe (hat die meisten Informationen über den eingesetzten Trupp). Da dies in der Regel der Maschinist sein wird ggf. Pumpe kurzen Moment unbesetzt lassen und mit freier/nachrückender Einsatzkraft besetzen, diese wird auch die neue Atemschutzüberwachung
+  * Informationen von Atemschutzüberwachung einholen:
+    * Welcher Trupp ist betroffen?
+    * Wo ist der genaue/letzte gemeldete Standort?
+    * Welchen Restdruck/Restzeit hat der Trupp? (1 min pro 10 bar Restdruck)
+
+==== 5. Sicherheitstrupp einsetzen ====
+
+  * Gefahren neu bewerten
+  * Einsatzbefehl erteilen: besondere Ausrüstungsgegenstände für den Sicherheitstrupp (z.B. Wärmebildkamera, Schleifkorbtrage, ...), Info über verbleibende Zeit/Restdruck des verunglückten Trupps
+  * neuen Sicherheitstrupp stellen
+
+==== 6. Neuorganisation der Einsatzstelle ====
+
+  * Eigenen Einsatzabschnitt für die Eigenrettung bilden
+  * Ursprüngliches Einsatzziel überprüfen
+  * Kanaltrennung (alle Kräfte außer verunglückter Trupp, Sicherheitstrupp und Führungskraft wechseln auf anderen Kanal)
+  * [[allgemein:bereitstellungsraum|Bereitstellungsraum]] für nachrückende Kräfte festlegen
+  * Einweisung der nachrückenden Kräfte in Lage
+  * [[allgemein:psnv:start|Notfallseelsorge]] alarmieren (KIT/KID/PSU etc.)
+  * Ursprünglich eingesetzte und dem verunglückten Trupp nahestehende Einsatzkräfte wenn möglich aus dem Einsatz herauslösen / austauschen und von Notfallseelsorge betreuen lassen
+
+==== 7. Dokumentation ====
+
+  * Sicherstellung von Atemschutzgeräten und Masken des verunfallten Trupps
+  * keine Manipulation an Geräten vornehmen
+  * Flaschenventil entweder geöffnet lassen oder Ventilstellung markieren und danach unter Zählen der Umdrehungen schließen
+
+===== Quellenangabe =====
+
+  * Lehrgangsinhalte B3-Lehrgang (2013) an der Berliner Feuerwehr- und Rettungsdienstakademie
+  * Lehrgangsinhalte B4-Lehrgang (2013) an der Berliner Feuerwehr- und Rettungsdienstakademie
+
+===== Stichwörter =====

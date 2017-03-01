@@ -1,0 +1,11 @@
+====== diff ======
+
+Das [[wiki:hilfe:hintergrund_einsatzleiterwiki|zugrunde liegenden DokuWiki-System]] unterstützt [[wpde>diff]], ein sehr mächtiges *NIX Werkzeug zur Anzeige von Unterschieden zwischen zwei Texten. 
+
+Es wird benutzt um unter [[wiki:hilfe:aeltere_versionen|Ältere Versionen]] beim Klick auf die 3D-Brille {{:wiki:hilfe:diff.png?nolink|3D-Brillen-Symbol}} die Unterschiede zwischen der aktuellen und der nebenstehenden Version zu zeigen.
+
+Die Analyseschnittstelle zum Vergleich der Texte wurde aus dem [[http://www.mediawiki.org|MediaWiki]] Projekt übernommen. 
+
+===== Quellenangabe =====
+
+https://www.dokuwiki.org/de:diff, veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

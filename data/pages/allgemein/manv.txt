@@ -1,0 +1,65 @@
+====== Massenanfall von Verletzten ======
+
+===== zu treffende Maßnahmen =====
+
+==== Einsatzbeginn ====
+
+  * Erstmaßnahmen MANV für die ersten 15 Minuten: ERST-Schema
+    * Erstversorgung
+    * Raumordnung (insbes. Patientenablage), Fahrzeugaufstellung
+    * Sichtung
+    * Transportorganisation
+  * abgeschlossenes Ereignis (kann die Anzahl der Patienten im Einsatzverlauf noch ansteigen)?
+  * [[allgemein:gefahrenmatrix|Gefahrenmatrix]] beachten!
+    * CBRN-Einsatz?
+    * Bedrohungslage (z.B. Amoklauf, Terroranschlag)?
+
+==== weiterer Einsatzverlauf ====
+
+  * keine Spontantransporte, außer wenn der Patient nicht vor Ort behandelt werden kann
+  * folgende Orte/Einsatzabschnitte festlegen:
+    * Zufahrten und Abfahrten freihalten, evtl. Einbahnregelung einrichten
+    * Übergabepunkt, an dem aus dem Gefahrenbereich gerettete Personen an den Rettungsdienst übergeben werden 
+    * Patientennablage (ggf. Zelt oder vorhandenes Gebäude als Witterungsschutz)
+    * Behandlungsplatz (erst ab einer größeren Anzahl von Betroffenen lohnend)
+    * Transportorganisation
+    * Rettungsmittel-Halteplatz
+    * [[allgemein:hubschrauberlandeplatz|Hubschrauberlandeplatz]]
+    * ggf. [[cbrn:allgemein:dekontamination:start|Dekontaminations-Platz]]
+    * Betreuungsplatz (für unverletzte Personen)
+    * [[allgemein:bereitstellungsraum|Bereitstellungsraum]], evtl. RD- und FW-Fahrzeuge getrennt
+    * Logistik
+  * Alarmierung von Fw als Trägerkolonnen
+  * Sofortmeldung absetzen
+  * Dokumentation (Registrierung, Verteilung auf Krankenhäuser)
+    * Krankenhäuser frühzeitig informieren
+    * Leichtverletzte werden eigenständig die umliegenden Krankenhäuser aufsuchen und diese „blockieren“
+  * auf Anfragen der [[allgemein:pressearbeit|Presse]] vorbereiten
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== weitere Maßnahmen ====
+
+  * Leichtverletzte ("grüne") Patienten ggf. mit Bus tranpsortieren / ggf. mit einem RTW mehrere Patienten transportieren
+  * [[allgemein:psnv:start|PSNV]] alarmieren?
+  * Ablösung/[[allgemein:verpflegung|Verpflegung]] der Einsatzkräfte?
+
+==== Faustregeln ====
+
+  * Einrichtung einer Patientenablage lohnt sich ab ca. 10 Personen.
+  * Zur Versorgung eines Patienten werden ca. 3 Einsatzkräfte benötigt.
+  * Vorlaufzeit für den Aufbau eines BHP 50 beträgt ca. 1 Stunde, lohnt sich ab ca. 30 Verletzten.
+
+==== Sichtungskategorien ====
+
+^  Kategorie  ^  Patientenzustand                ^  Farbe          ^  Behandlung  ^  Anteil der\\ Betroffenen  ^
+^  <wrap danger>T1 / I</wrap>  |  <wrap danger>Akute, vitale Bedrohung</wrap>  |  <wrap danger>Rot</wrap>  |  <wrap danger>Sofortbehandlung</wrap>  |  <wrap danger>ca. 40 %</wrap>  |
+^  <wrap caution>T2 / II</wrap>  |  <wrap caution>Schwer verletzt / erkrankt</wrap>  |  <wrap caution>Gelb</wrap>  |  <wrap caution>Aufgeschobene Behandlungsdringlichkeit, Überwachung</wrap>  |  <wrap caution>ca. 20 %</wrap>  |
+^  <wrap safety>T3 / III</wrap>  |  <wrap safety>Leicht verletzt / erkrankt</wrap>  |  <wrap safety>Grün</wrap>  |  <wrap safety>Spätere (ggf. ambulante) Behandlung</wrap>  |  <wrap safety>ca. 40 %</wrap>  |
+^  <wrap notice>T4 / VI</wrap>  |  <wrap notice>Ohne Überlebenschance / sterbend</wrap>  |  <wrap notice>Blau</wrap> oder <wrap>Grau</wrap>  |  <wrap notice>Betreuende (abwartende) Behandlung, Sterbebegleitung</wrap>  |  <wrap notice>in T1\\ enthalten</wrap>  |
+
+===== Quellenangabe =====
+
+  * {{:allgemein:kleine_merkhilfe_fuer_den_feuerwehreinsatz_1.03.pdf|Kleine Merkhilfe für den Feuerwehreinsatz: Zusammenstellung für Führungskräfte der Feuerwehr}}, Florian Pernpeintner
+  * Lehrgang "Organisatorischer Leiter Rettungsdienst" an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * [[http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Downloads/GesBevS/Hilfekonzept_bei_MANV.pdf?__blob=publicationFile|Konzept zur überörtlichen Hilfe bei MANV]], Arbeitsgruppe der Hilfsorganisationen im Bundesamt für Bevölkerungsschutz und Katastrophenhilfe

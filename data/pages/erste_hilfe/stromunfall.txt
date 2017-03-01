@@ -1,0 +1,35 @@
+====== Stromunfall ======
+
+===== zu treffende Maßnahmen =====
+
+==== Einsatzbeginn bei Niederspannungsunfall (bis 1.000 Volt) ====
+
+  * Eigensicherung beachten
+  * Stromquelle abschalten und Stecker ziehen
+  * elektrischen Leiter ggf. mit nichtleitendem Gegenstand (z.B. aus Holz) wegschieben
+  * Rettungsdienst (nach-) alarmieren
+
+==== Einsatzbeginn bei Hochspannungsunfall (über 1.000 Volt) ====
+
+  * Eigensicherung beachten
+  * Rettungsdienst / Notarzt sowie Elektrofachkraft / Energieversorger nachalarmieren
+  * Elektrische Anlage entsprechend der [[allgemein:elektrische_anlagen#sicherheitsregeln|5 Sicherheitsregeln]] in einen sicheren Zustand bringen
+  * Person aus dem Gefahrenbereich retten
+
+==== weitere Maßnahmen, identisch für Niederspannungs- und Hochspannungsunfall ====
+
+  * permanent Vitalfunktionen kontrollieren
+  * Reanimationsbereitschaft herstellen und AED vorbereiten soweit vorhanden
+  * Für Ruhe sorgen
+  * [[erste_hilfe:verbrennung|Verbrennungen versorgen]]
+  * Wärmeerhalt
+  * grundsätzlich vom Rettungsdienst zur Überwachung in Krankenhaus transportieren lassen
+
+Bei Bewusstlosigkeit:
+
+  * in stabile Seitenlage bringen
+  * bei Atemstillstand direkt mit [[erste_hilfe:wiederbelebung|Wiederbelebung]] beginnen
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_Stromunfall.pdf|Erste-Hilfe kompakt - Notfallstichwort: Unfall mit Strom]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband

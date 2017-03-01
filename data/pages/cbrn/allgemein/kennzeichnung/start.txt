@@ -1,0 +1,35 @@
+====== Kennzeichnung von Gefahrstoffen und Gefahrgütern ======
+
+Je nachdem ob es sich um einen Transportunfall (=Gefahrgut) oder um einen Unglück vor Ort handelt (=Gefahrstoff), erfolgt die Kennzeichnung nach unterschiedlichen Vorschriften und damit unterschiedlicher Art der Kennzeichnung. Auch können Versandstücke die international transportiert werden nach einem fremden Schema gekennzeichnet sein.
+
+Wenn möglich sollte überprüft werden ob es sich wirklich um den Stoff handelt als der er gekennzeichnet ist. Auch nicht kennzeichnungspflichtige Freimengen sind möglich!
+
+===== Kennzeichnungssysteme =====
+
+^  Kennzeichnung  ^  Bedeutung / Erläuterung  ^
+|  {{ :cbrn:chemisch:klasse_2:stoffe:23-1965.png?nolink&100 |Gefahrgutwarntafel}}  |Orangefarbene **Gefahrgutwarntafel**\\ oben Gefahrnummer, unten UN-Nummer\\ siehe [[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern]]|
+|  {{:cbrn:8.png?nolink&100|Gefahrzettel}}  |**Gefahrzettel** (auch //Placard//) zur Kennzeichnung der jeweiligen Gefahrgutklasse\\ siehe [[cbrn:allgemein:kennzeichnung:adr]] |
+|  {{ :cbrn:allgemein:kennzeichnung:ghs_piktogramm_skull.png?nolink&100 |GHS}}  |**GHS (Global harmonisiertes System)** zur Behälter- und Verpackungskennzeichnung\\ siehe [[cbrn:allgemein:kennzeichnung:ghs]] |
+|  {{ :cbrn:allgemein:gasflasche_giftig_aetzend.png?nolink&100 |Gasflaschenkennzeichnung}}  | **Gasflaschenkennzeichnung**, Markierung der Schulter von Druckgasflaschen\\ siehe [[cbrn:allgemein:kennzeichnung:gasflaschenkennzeichnung]] |
+|  {{ :cbrn:allgemein:kennzeichnung:rohrleitungskennzeichnung.png?nolink&100|Rohrleitungskennzeichnung}}  | **Rohrleitungskennzeichnung**\\ siehe [[cbrn:allgemein:kennzeichnung:rohrleitungskennzeichnung]] |
+|  {{cbrn:allgemein:kennzeichnung:warnung_vor_giftigen_stoffen.png?nolink&100|Warnzeichen Arbeitsschutz}}  |**Warnzeichen** zur Unfallverhütung an Arbeitsstätten\\ siehe [[cbrn:allgemein:kennzeichnung:warnzeichen]]|
+|  {{ :cbrn:allgemein:kennzeichnung:gefahr_t.png?nolink&100 |Gefahrensymbole}}  | **Gefahrensymbole**, nicht mehr zugelassene Kennzeichnung, abgelöst durch das GHS\\ siehe [[cbrn:allgemein:kennzeichnung:gefahrensymbole]] |
+|  {{:cbrn:chemisch:klasse_1:klasse2.png?nolink&100|Munitionsbrandklasse 2}}  |Kennzeichnung der **Munitionsbrandklassen** an Lagerungsorten von Munition durch Nato und Bundeswehr\\ siehe [[cbrn:allgemein:kennzeichnung:munitionsbrandklassen]] |
+|  {{ :cbrn:allgemein:kennzeichnung:ablaufverbot.png?nolink&100 |Eisenbahnkennzeichnung}}  |Kennzeichnung zur **Handhabung von Eisenbahnwagons mit Gefahrgut**\\ siehe [[cbrn:allgemein:kennzeichnung:eisenbahn]]|
+|  {{ :cbrn:allgemein:gefahrendiamant.png?nolink&100 |Gefahrendiamant}}  | **Gefahrendiamant**, Kennzeichnung von Versandstücken in/aus den USA\\ siehe [[cbrn:allgemein:kennzeichnung:gefahrendiamant]] |
+|  {{ :cbrn:allgemein:kennzeichnung:dg-ea-3ye.png?nolink&100 |DG-EA-Code}}  | **DG-EA-Code**, Kennzeichnungsystem z.B. in Großbritannien und Australien\\ siehe [[cbrn:allgemein:kennzeichnung:dg-ea-code]] |
+|  {{ :cbrn:allgemein:kennzeichnung:abfalltransport.png?nolink&100 |Abfalltransport}}  |Fahrzeug, das gewerbsmäßig **Abfall** befördert|
+|  {{ :cbrn:allgemein:kennzeichnung:binnenschiff_1_tag.gif?nolink&100 |Schiffskennzeichnung}}  | **Kennzeichnung an Schiffen**,\\ siehe [[cbrn:allgemein:kennzeichnung:schiffe]] |
+
+===== Kennzeichnungssysteme (alphabetische Auflistung) =====
+
+{{simplenavi>cbrn:allgemein:kennzeichnung}}
+
+===== Quellenangabe =====
+
+  * Bildquelle Acetylen-Schild: [[wpde>Datei:Acetylen.png]], vom Benutzer [[wpde>Benutzer:Philip1307]] als gemeinfrei veröffentlicht
+  * Bildquelle A-Schild: [[wpde>Datei:LKW_Schild_Abfalltransport.svg]], vom Benutzer [[wpde>Benutzer:Chris828]] als gemeinfrei veröffentlicht
+  * Bildquelle Gefahrzettel und GHS-Symbol: [[http://www.unece.org/trans/danger/publi/ghs/pictograms.html|United Nations]], als gemeinfrei veröffentlicht
+  * Bildquelle Gasflaschenkennzeichnung: Faltblatt [[http://www.linde-gas.de/internet.lg.lg.deu/de/images/Flaschenkennzeichnung_Gasflaschen_Flyer565_71523.pdf?v=4.0|Informationen zur Euro-Norm DIN EN 1089-3. Farbkennzeichnung von Gasflaschen in Deutschland]] der Firma Linde
+  * Bildquelle Warnzeichen: Wikipedia-User [[https://commons.wikimedia.org/wiki/User:DrTorstenHenning|Thorsten Henning]], als gemeinfrei veröffentlicht
+  * Bildquelle Gefahrendiamant: [[http://commons.wikimedia.org/wiki/File:NFPA_704_ex.svg]], vom Benutzer [[wpde>Benutzer:Kaneiderdaniel]] als gemeinfrei veröffentlicht

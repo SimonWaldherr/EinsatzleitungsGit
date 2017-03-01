@@ -1,0 +1,21 @@
+====== Temperaturklasse ======
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+Geräte für den Betrieb in explosionsgefährdeten Atmosphären sind in verschiedene Temperaturklassen eingeteilt, die die zulässigen Oberflächentemperaturen des Geräts angeben. **Ein Gerät darf nur eingesetzt werden, wenn die der Temperaturklasse zugeordnete Temperatur höher als die [[cbrn:allgemein:cbrn-lexikon:zuendtemperatur|Zündtemperatur]] des Stoffes ist.**
+
+^ Temperaturklasse ^ Temperatur ^
+| T1 | 450 °C |
+| T2 | 300 °C |
+| T3 | 200 °C |
+| T4 | 135 °C |
+| T5 | 100 °C |
+| T6 | 85 °C |
+
+99% aller Dämpfe werden durch die Klasse T4 abgedeckt.
+
+===== Quellenangabe =====
+
+  * Lehrgangsunterlagen ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+
+===== Stichwörter =====

@@ -1,0 +1,62 @@
+====== CHLORITE, ANORGANISCHE, N.A.G. - UN 1462 - Gefahrnr. 50 - ERICard-Nr. 5-01 - UN1462 ======
+|Stoff | CHLORITE, ANORGANISCHE, N.A.G.   |
+|UN-Nummer | 1462   |
+|[[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Gefahrnummer]] | 50   |
+|ADR-Gefahrzettel |  {{cbrn:5-1.png?nolink&100}}    |
+|ADR-Klasse | 5.1   |
+|Klassifizierungscode | O2   |
+|[[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]] | II   |
+|ERI-Card | 5-01   |
+
+==== Unfall-Hilfeleistung ====
+===== Brandfördernder fester Stoff =====
+==== 1. Eigenschaften. ====
+  * Brandfördernd
+  * Starke Erwärmung oder mechanische Erschütterung kann zu einer Zersetzung führen, mit der Folge einer Explosion oder heftigen Reaktion.
+==== 2. Gefahren. ====
+  * Entwickelt giftige und reizende Dämpfe bei starker Erwärmung oder Brand.
+  * Erwärmung von Behältern kann zum Druckanstieg und Bersten führen.
+  * Kontakt mit brennbaren Stoffen kann einen Brand oder eine Explosion verursachen.
+  * Die mit dem Stoff verschmutzte Kleidung kann in Brand geraten, besonders wenn diese trocken wird.
+==== 3. Persönlicher Schutz. ====
+  * Umluftunabhängiger Atemschutz
+  * Chemikalienbeständige Kleidung bei Kontaminationsgefahr.
+==== 4. Einsatz-Massnahmen. ====
+=== 4.1 Allgemeine Massnahmen. ===
+  * Mit dem Wind vorgehen. Schutzausrüstung bereits vor dem Betreten des [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]]s anlegen.
+  * Zahl der Einsatzkräfte im [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] beschränken.
+  * Den Kontakt mit brennbaren Stoffen (z.B. Benzin) vermeiden.
+=== 4.2 Massnahmen bei Stoffaustritt. ===
+  * Lecks wenn möglich schließen.
+  * Ausgetretenes Produkt mit allen verfügbaren Mitteln auffangen.
+  * Stoff nicht mit Sägemehl oder anderen brennbaren Materialien aufnehmen oder abdecken.
+  * Zur Leckabdichtung keine Stopfen/Keile aus organischem Material (z.B. Holz) verwenden.
+  * Falls der Stoff in offenes Gewässer oder Kanalisation gelangt, zuständige Behörde informieren.
+=== 4.3 Massnahmen bei Feuer (falls Stoff betroffen). ===
+  * Behälter mit Wasser kühlen.
+  * Mit Vollstrahl löschen.
+  * Brandgase wenn möglich mit Sprühstrahl niederschlagen.
+  * Aus Umweltschutzgründen [[brand:allgemein:loeschwasserrueckhaltung|Löschmittel zurückhalten]].
+==== 5. Erste Hilfe. ====
+  * Falls der Stoff in die Augen gelangt ist, mindestens 15 Minuten mit Wasser spülen und Personen sofort medizinischer Behandlung zuführen.
+  * Kontaminierte Kleidung sofort entfernen und betroffene Haut mit viel Wasser spülen.
+  * Personen, die mit dem Stoff in Berührung gekommen sind oder Dämpfe eingeatmet haben, sofort medizinischer Behandlung zuführen. Dabei alle verfügbaren Stoffinformationen mitgeben.
+==== 6. Besondere Vorsichtsmassnahmen bei der Bergung von Havariegut. ====
+  * Bergung des Produkts kann nicht mit Standardausrüstung durchgeführt werden! Sofort [[cbrn:allgemein:tuis|Fachberater hinzuziehen]].
+==== 7. Vorsichtsmassnahmen nach dem Hilfeleistung-Einsatz. ====
+=== 7.1 Ablegen der Schutzkleidung. ===
+  * Vor dem Ablegen von Maske und Schutzanzug kontaminierten Anzug und Atemschutzgerät mit Wasser abspülen.
+  * Beim Entkleiden von kontaminierten Einsatzkräften oder bei der Handhabung von kontaminiertem Gerät chemikalienbeständige Kleidung und umluftunabhängigen Atemschutz tragen.
+  * Kontaminierte Reinigungsflüssigkeit zurückhalten.
+=== 7.2 Reinigung der Ausrüstung. ===
+  * Vor Abtransport von der Einsatzstelle mit Wasser abspülen.
+  * Zum nächstmöglichen Zeitpunkt und vor Wiederverwendung [[cbrn:allgemein:tuis|Fachleute hinzuziehen]].
+===== Quelle und Copyright =====
+
+Bitte nehmen Sie die Verwendungshinweise zu den ERI-Cards auf der [[cbrn:ericards:start#allgemeine_hinweise|ERI-Card Übersichtsseite]] zur Kenntnis.
+
+Diese ERICard kann im Original unter folgendem Link aufgerufen werden: [[http://www.ericards.net/psp/ericards.psp_ericard?lang=3&subkey=14620718]]
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

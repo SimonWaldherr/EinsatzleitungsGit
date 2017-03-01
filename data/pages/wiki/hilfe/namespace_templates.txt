@@ -1,0 +1,88 @@
+====== Templates in Namensräumen (namespace templates)======
+
+Manchmal möchte man neuen Seiten in einem bestimmten Namensraum ein vorgegebenes Skelett geben.  
+
+Als Beispiel: Im lokalen Namensraum [[lokal:adressen:start|Adressen]] könnte man bei jeder neuen Seite eine vordefinierte Tabelle haben, welche nur noch mit Daten gefüllt werden muss.
+
+Dies kann ganz einfach mit sogenannten "namespace templates" erledigt werden. 
+
+Wenn eine neue Seite angelegt wird, schaut die [[wiki:hilfe:hintergrund_einsatzleiterwiki|zugrundeliegende DokuWiki-Software]], ob eine Template-Datei existiert, und zeigt das Gerüst für den neuen Artikel im Editor an. Die Template-Dateien sind in Wiki-Sprache verfasst (so wie der Text im [[wiki:hilfe:artikel_standardeditor|Standard-Editor]] angezeigt/bearbeitet wird) und als .txt Datei gespeichert.
+
+===== Template-Dateien =====
+
+Zwei Arten von Template-Dateien können benutzt werden:
+
+  * ''_template.txt'', diese wird nur in dem [[wiki:hilfe:namensraeume|Namensraum]] angewendet in dem sie sich befindet.
+  * ''%%__%%template.txt'' (zwei führende unterstriche), welche sowohl in dem Namensraum angewendet wird in dem sie sich befindet als auch in allen untergeordneten Namensräumen (Vererbung).
+
+Ein Weg um eine Template-Datei zu erstellen:
+
+  * Öffnen Sie eine normale Wikiseite im gewünschten Namespace und füge den Inhalt für das Template ein. 
+  * Öffnen Sie den Ordner lokal auf Ihrer Festplatte, mit FTP, WebDAV o.ä. und mache eine Kopie der Seite und benenne Sie wie oben beschrieben. 
+  * Benutzen Sie das Wiki, um den Template-Entwurf zu löschen.
+
+===== Syntax =====
+
+Der Inhalt der Datei ist normale Wiki-Sprache wie sie im [[wiki:hilfe:artikel_standardeditor|Standard-Editor]] verwendet wird.
+
+==== Ersetzungsmuster ====
+
+Innerhalb der Datei können auch einige Ersetzungsmuster benutzt werden, die das Template dynamischer gestalten und beim Anlegen einer Seite automatisch durch den entsprechenden Wert ersetzt werden.
+
+^ @ID@     | vollständige ID der Seite                                                              |
+^ @NS@     | Namensraum der Seite                                                                   |
+^ @PAGE@   | Seitenname (ID ohne Namensraum; Unterstriche werden durch Leerzeichen ersetzt)         |
+^ @!PAGE@  | Das gleiche wie oben, der erste Buchstabe des ersten Wortes ist großgeschrieben        |
+^ @!!PAGE@ | Das gleiche wie oben, der erste Buchstabe von jedem Wort ist großgeschrieben           |
+^ @!PAGE!@ | Das gleiche wie oben, alle Buchstabe sind großgeschrieben                              |
+^ @FILE@   | Seiten Name (ID ohne Namensraum, unterstriche bleiben erhalten)                        |
+^ @!FILE@  | Das gleiche wie oben, der erste Buchstabe des ersten Wortes ist großgeschrieben        |
+^ @!FILE!@ | Das gleiche wie oben, der erste Buchstabe von jedem Wort ist großgeschrieben           |
+^ @USER@   | Die ID des Benutzers der die Seite erstellt                                            |
+^ @NAME@   | Der Name des Benutzers, welcher die Seite erstellt                                     |
+^ @MAIL@   | Die E-Mail Adresse des Benutzers, welcher die Seite erstellt                           |
+^ @DATE@   | Datum und Uhrzeit der Erstelltung der neuen Seite                                      |
+
+Es ist auch möglich [[phpfn>strftime]] als Platzhalter zu verwenden, um die Zeit der Seitenerstelltung in einem anderen Format einzufügen. Um das Zeichen ''%'' im Template zu benutzen, muss es doppelt notiert werden. 
+
+===== Template Bearbeitung =====
+
+Die Datei ''_template.txt'' kann nicht aus DokuWiki heraus editiert werden -- nur jemand mit Schreibrechten innerhalb der DokuWiki Ordnern (für gewöhnlich ein Administrator) kann die Templates ändern. Es gibt die Möglichkeit durch einen Trick die Vorlage auch direkt aus DokuWiki heraus zu bearbeiten, dieser ist in der offiziellen Dokumentation unter dem Punkt [[doku>namespace_templates#template_bearbeitung|Template Bearbeitung]] zu finden.
+
+===== Artikelvorlage im Einsatzleiterwiki =====
+
+Im Einsatzleiterwiki wird in allen Bereichen folgendes ''namespace template'' verwendet. Sie finden es ausgehend von Ihrem Wiki-Installationsverzeichnis im Unterordner ''data/pages/_template.txt'', falls Sie es bearbeiten möchten. Falls Sie auf einem Windows-System in den vorgeschlagenen Standard-Ordner installiert haben, finden Sie die Datei unter dem Pfad ''C:\Programme\Einsatzleiterwiki\xampp\htdocs\einsatzleiterwiki\data\pages''. Ggf. lautet der Name des Programmordners statt ''Programme'' auch ''Programme (x86)'', ''Program Files'' oder ''Program Files (x86)''. Falls Sie den Pfad bei der Installation geändert haben, finden Sie die Datei unter Ihrem entsprechenden Installationsort in den Unterordnern ''\xampp\htdocs\einsatzleiterwiki\data\pages''.
+
+<code>
+====== @!PAGE@ ======
+
+Dies ist eine automatisiert erstellte Vorlage für das Anlegen neuer Inhalte. Nicht benötigte Abschnitte können gelöscht werden, bitte behalten Sie aber generell die Reihenfolge bei um einen einheitlichen Aufbau der Artikel zu gewährleisten. Sehen Sie sich im Zweifel einfach einige schon bestehende Artikel an.
+
+===== zu treffende Maßnahmen =====
+
+stichpunktförmige Auflistung der wichtigsten Schritte
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+z.B. generelle Informationen, Verlinkungen relevanter und zugehöriger Artikel, Auflistung von zugeordneten Dateien, ...
+
+===== Weblinks =====
+
+zu weiterführenden Inhalten, Online-Recherche-Angeboten u.ä.
+
+===== Kontaktdaten/Ansprechpartner =====
+
+z.B. Notrufnummern
+
+===== Quellenangabe =====
+
+Geben Sie falls möglich bitte immer Ihre Quellen an, um im Zweifel die Überprüfung einfacher zu gestalten. Außerdem kann so bei sich öfters ändernden Inhalten überprüft werden, ob die Daten noch aktuell sind.
+
+===== Stichwörter =====
+
+Hier können durch Komma getrennte Stichwörter, beispielsweise Synonyme, zum Thema eingetragen werden. Dadurch werden bei der Suchfunktion bessere Ergebnisse erzielt und ein Artikel könnte auf bei unklaren Suchbegriffen gefunden werden.
+</code>
+
+===== Quellenangabe =====
+
+  * [[doku>namespace_templates]], veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

@@ -1,0 +1,59 @@
+====== Erkundung im Brandeinsatz ======
+
+===== zu treffende Maßnahmen =====
+
+==== Frontalansicht ====
+
+  * Brandausbreitung über Fassade beachten
+  * Viele Satellitenschüsseln → Wahrscheinlich Verständigungsschwierigkeiten!
+  * Anzahl der Geschosse? → Abschätzung der Einsatzmöglichkeiten von  [[:allgemein:geraete:leitern|tragbaren Leitern]] und [[:allgemein:drehleiter|Drehleiter]]
+      * Neubauten: ca. 3m Höhe pro Geschoss
+      * Altbauten: ca. 4m Höhe pro Geschoss
+
+==== Befragung ====
+
+  * Sind noch Menschen im Gebäude?
+  * Ermittlung des Brandgeschoßes ggf. über [[:brand:bma|BMA]]/Hausmeister/Pförtner/Mitarbeiter etc. → ggf. aufzeichnen lassen
+  * Sind besondere Gefahren vorhanden? (ABC, Elektro, …)
+  * Zugänge/Schlüssel vorhanden?
+  * befragte Person ggf. nicht gehen lassen (aber Verhältnismäßigkeit der Mittel beachten), zum Warten an RTW oder Löschfahrzeug oder zur Polizei schicken
+
+==== Zugänglichkeiten ====
+
+  * Klingeltableau:
+      * Wenn möglich nur beim Meldenden klingeln (sonst vielleicht Rauchausbreitung vom Treppenhaus in Wohnungen wenn alle Türen geöffnet werden)
+      * Viele ausländisch klingende Namen → wahrscheinlich Verständigungsschwierigkeiten
+      * Pro Wohnung mit 3 Personen rechnen die sich im Haus befinden
+      * Nicht alle Klingeln gleichzeitig betätigen: Klingeltableau kann sich zum "Klingelstreich-Schutz" sperren und funktioniert dann erstmal nicht mehr
+
+==== Rundum-Ansicht ====
+
+  * Außen- und Innenerkundung → **Wohnungen, Technikraum, Keller**
+  * Rückansicht ggf. von einem weiteren Fahrzeugführer erkunden lassen
+  * nach Möglichkeit eine nicht benötigte Einsatzkraft zur dauerhaften Kontrolle der Rückseite abstellen (zu rettende Menschen zeigen sich evtl. erst während des Einsatzes an einem Fenster auf der Rückseite)
+
+==== sonstiges ====
+
+  * Sicherheitstreppenraum vorhanden?
+  * Aufzüge kontrollieren und stillsetzen, [[:brand:allgemein:feuerwehraufzug|Feuerwehraufzug]] vorhanden?
+  * Ausfall der Haustechnik prüfen
+  * [[:brand:allgemein:steigleitung|Steigleitung]] / [[:brand:allgemein:wandhydrant|Wandhydranten]] vorhanden? nass/trocken – Einspeisungs- bzw. Anschlussmöglichkeiten
+  * [[:brand:allgemein:loeschanlagen|Löschanlage]] vorhanden?
+  * Überblick über die örtlichen Gegebenheiten durch Begehen eines anderen Regelgeschosses verschaffen
+  * Feuerwehr-/Objektpläne nutzen falls vorhanden
+  * Wetter beachten:
+      * [[allgemein:wetter:windstaerke|Wind]]?
+        * Abtreiben von Brandrauch
+        * eingeschränkte Nutzbarkeit der [[:allgemein:drehleiter|Drehleiter]]
+      * Kalte Temperaturen?
+        * Löschwasser gefriert
+        * Aufenthaltsmöglichkeit für gerettete unverletzte Personen
+  * Örtliche Gegebenheiten:
+      * Gaslaternen auf der Straße: Indiz für mögliche Gasversorgung des Gebäudes
+      * Bäume? Behinderungen bei möglichem [[:allgemein:drehleiter|Drehleitereinsatz]]
+      * Hydranten für [[:brand:allgemein:loeschwasserversorgung|Löschwasserversorgung]]
+  * Gefahren nach [[:allgemein:gefahrenmatrix|Gefahrenmatrix]] überprüfen
+
+===== Quellenangabe =====
+
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie

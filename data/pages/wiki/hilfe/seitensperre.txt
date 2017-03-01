@@ -1,0 +1,16 @@
+====== Seiten - Sperren (Locking) ======
+
+Die [[wiki:hilfe:hintergrund_einsatzleiterwiki|zugrundeliegende DokuWiki-Software]] sperrt Seiten während diese von einem Benutzer bearbeitet werden. Damit sollten Konflikte komplett vermieden werden (sie werden trotzdem noch überprüft).
+
+  * Die Seitensperr-Dateien (Lockfiles) enthalten die IP-Adresse (oder den Benutzername wenn verfügbar) desjenigen, der die Seite bearbeitet. Das bedeutet, Benutzer können die Seite nicht durch sich selber sperren.
+  * Die Seitensperr-Dateien werden entfernt wenn
+    * sie älter als eine bestimmte Zeitspanne werden (default 15 Minuten, siehe [[doku>config:locktime]])
+    * der editierende Benutzer die Seite speichert
+    * der editierende Benutzer das Editieren abbricht indem er den ''Abbrechen'' Knopf drückt
+  * Wenn der ''Vorschau'' Knopf gedrückt wird, wird das Alter der Seitensperr-Datei zurückgesetzt - damit ist ein Editieren über eine Zeitspanne von 15 Minuten hinaus gut möglich (nur bei der Benutzung des [[wiki:hilfe:artikel_standardeditor|Standard-Editors]])
+  * Eine JavaScript - Meldung informiert den Benutzer eine Minute vor Ablauf der Seitensperre über deren bevorstehendes Auslaufen.
+  * Wenn JavaScript aktiviert ist, erneuert DokuWiki die Seitensperre im Hintergrund während des Editierens
+
+===== Quellenangabe =====
+
+  * [[doku>de:locking]], veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

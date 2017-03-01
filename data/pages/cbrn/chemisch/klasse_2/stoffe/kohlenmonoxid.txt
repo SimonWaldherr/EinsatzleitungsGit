@@ -1,0 +1,223 @@
+====== Kohlenmonoxid ======
+
+===== zu treffende Maßnahmen =====
+
+  * **Gefahr durch CO oft nicht direkt erkennbar!**
+  * Geräte für die Brandbekämpfung bereit halten
+  * Erkundung durch Fenster wenn möglich; direkte Indizien: bewusstlose/tote Person(en) oder Haustiere oder Holzkohlegrill im Raum, abgeklebte Türen, Fenster und Lüftungsöffnungen, Abschiedsbriefe und Warnungen
+  * Erkundung im Gebäude unter umluftunabhängigem Atemschutz solange keine verlässlichen Messwerte bekannt \\ [[cbrn:geraete:atemfilter|Geeignete Filter]] sind nicht weit verbreitet.
+  * EX-Schutz-Maßnahmen einhalten (nur EX-geschützte Geräte im verwenden, keine Handys, Pieper, etc.)
+  * frühzeitig messen, da CO mit Sinnesorganen nicht wahrnehmbar. Ab 30 ppm den betroffenen [[allgemein:raeumung|Bereich räumen]].
+  * Patienten außerhalb der CO-Atmosphäre behandeln
+    * Rettung wenn möglich mit Haube die permanent mit Luft gespült wird
+    * mit Sauerstoff behandeln
+    * ärztlicher Behandlung zuführen, ggf. Behandlung in [[allgemein:druckkammern|Druckkammer]]
+
+==== Verhaltensweisen je nach CO-Konzentration ====
+
+Entnommen aus Unfallkasse Baden-Würrtemberg, Infoblatt Nr. 07 des Sachgebietes "Feuerwehren und Hilfeleistungsorganisationen", //Einsatz von Kohlenmonoxidwarngeräten bei Feuerwehren und Hilfeleistungsorganisationen//
+
+<WRAP round important>
+Für die folgenden Einsatzhinweise wird eine maximale Aufenthaltsdauer von 30 Minuten angenommen.
+
+Lokale Festlegungen, soweit für Ihre Feuerwehr vorhanden, haben selbstverständlich Vorrang!
+</WRAP>
+
+<WRAP caution>
+=== Konzentration > 30 ppm ===
+
+**Achtung: CO vorhanden!**
+
+  * Fenster und Türen öffnen
+  * Einsatztätigkeit ohne Unterbrechung durchführen\\ → schonende Rettung
+  * CO-Quelle identifizieren und weitere Freisetzung unterbinden, falls das ohne Eigengefährdung möglich ist.
+  * Wenn Quelle nicht zu ermitteln bzw. abzustellen ist, Fachkräfte (je nach Lage z. B. Feuerwehr, Störungsdienst, Schornsteinfeger) informieren.
+</WRAP>
+
+<WRAP warning>
+=== Konzentration > 60 ppm ===
+
+**Achtung: CO in erhöhter Konzentration vorhanden!**
+
+  * Zuerst Maßnahmen zur Belüftung des Raums ergreifen!
+  * Wenn effektive Belüftung nicht möglich ist, Patient aus dem Gefahrenbereich bringen (dabei Aufenthaltsdauer im Gefahrenbereich minimieren, Richtwert: unter 15 min)\\ → schnelle Rettung unter Beachtung des Eigenschutzes.
+  * Erst danach medizinische Versorgung durchführen
+  * Feuerwehr alarmieren (falls noch nicht initial geschehen)
+</WRAP>
+
+<WRAP danger>
+=== Konzentration > 200 ppm ===
+
+**Achtung: CO in gefährlicher Konzentration vorhanden!**
+
+  * Feuerwehr alarmieren (falls noch nicht initial geschehen)
+  * Betroffenen Bereich räumen und für ein Absenken der CO-Konzentration sorgen (z. B. großflächiges Querlüften)\\ → sofortige Rettung unter Beachtung des Eigenschutzes.
+  * Weitere Maßnahmen danach unter umluftunabhängigem Atemschutz bzw. geignetem CO-Filtergerät durchführen.
+  * Messwertanzeige des CO-Warngeräts laufend beobachten und Lage ständig neu bewerten.
+
+</WRAP>
+
+<WRAP danger>
+=== Konzentration > 500 ppm ===
+
+**Achtung: Akute Gefährdung durch CO!**
+
+Alle Maßnahmen nur unter umluftunabhängigem Atemschutz durchführen.
+</WRAP>
+
+==== Messen der Konzentration ====
+
+[[cbrn:allgemein:begriffsklaerungen#etw-wert|ETW-Wert]] 33 ppm, [[cbrn:chemisch:grenzwerte#agw|AGW-Wert]] 30 ppm.
+
+  * Messungen am Boden und an der Decke durchführen, die Aussage "geringfügig leichter als Luft" besitzt in der Praxis keine Relevanz. Dabei permanent das Messgerät beachten, da sich CO nicht gleichmäßig im Raum verteilt, sondern sich einzelne Bereiche mit hoher Konzentration ausbilden. Die Austrittsstelle muss nicht unbedingt im Raum mit der höchsten Konzentration liegen!
+  * Neben CO- auch [[cbrn:geraete:ex-messgeraet|EX-Messungen]] vornehmen - bei Anwesenheit von CO alleine ist das Erreichen der UEG von 10,9 Vol.-% (109.000 ppm) aber eher unwahrscheinlich
+  * Querempfindlichkeiten der Messgeräte beachten - diese können beispielsweise auch auf Wasserstoff reagieren.
+  * CO-Warner der Feuerwehr sind keine amtlichen Messgeräte und dürfen daher nicht verwendet werden um Räumlichkeiten freizumessen!
+
+==== Folgemaßnahmen ====
+
+  * gründlich und ausgiebig Lüften, da CO noch über lange Zeit aus Gegenständen ausdiffundiert. Beachten wohin das CO beim Lüften getrieben wird.
+  * Benachbarte Wohnung auf der gleichen Etage und im Stockwerk darüber und darunter kontrollieren, auch wenn diese in Nachbarhäusern liegen! Verteilung durch Lüftungsanlagen beachten!
+  * CO-Hb-Wert der Kollegen messen lassen die ungeschützt vorgegangen sind, beispielsweise Mitarbeiter des Rettungsdienstes bevor die CO-Ansammlung bemerkt wurde
+  * Polizei (bei privat) bzw. Gewerbeaufsicht (bei Firmen) hinzuziehen.
+  * Bei Verdacht auf technischen Defekt das Gerät außer Betrieb nehmen.
+  * Betreiber darauf hinweisen dass das defekte Gerät von einem Fachmann überprüft/repariert werden muss bevor es wieder in Betrieb genommen wird.
+
+==== besondere Gefahren ====
+
+  * entsteht bei fast jeder Verbrennung, vor allem bei unvollständiger von kohlenstoffhaltigen Stoffen
+  * hohe Diffusionsfähigkeit (Durchmischungsfähigkeit mit anderen Stoffen; kann u.U. Wände durchdringen, **auch Brandwände!**)
+  * schon kleine Menge CO in der Atemluft kann zu Vergiftung führen
+  * Verbrennungsmotorbetriebene [[brand:allgemein:belueftung|Drucklüfter]] können durch die eigenen Abgase die ins Gebäude geblasen werden dort CO-Konzentrationen erzeugen die deutlich über dem ETW-Wert liegen. Wenn möglich Abgasschlauch, elektrische oder wasserbetriebene Lüfter nutzen.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+[[cbrn:ericards:klasse_2:10160379|ERICard für UN 1016 - Gefahrnr. 263 - KOHLENMONOXID, VERDICHTET]] (beim Austritt größerer Mengen)
+
+==== Vergleich von Vorgehensempfehlungen ====
+
+Derzeit gilt für die Feuerwehren in Deutschland allgemein der ETW von 33 ppm als Grenzwert zum Tragen von umluftunabhängigem Atemschutz. Neben den oben genannten abgestuften Grenzwerten der Unfallkasse Baden-Württemberg haben weitere Organisationen Empfehlungen für Grenzwerte veröffentlicht:
+
+^ CO-\\ Konzentration ^  Deutscher Feuerwehrverband  ^  Niederösterreichischer Landesfeuerwehrverband  ^  Giftinformationszentrum Nord\\ (Anweisungen speziell für Rettungsdienst)  ^ CO-\\ Konzentration ^
+^  > 30 ppm  | Tragen von umluftunabhänigem Atemschutz. | Tragen von umluftunabhängigem Atemschutz, außerdem betroffenen Bereich im Gebäude räumen. | Fenster öffnen, wenn Austrittsursache nicht festgestellt oder beseitigt werden kann Feuerwehr nachalarmieren, ansonsten normale Behandlung (kein Atemschutz!). ^  > 30 ppm  ^
+^  > 60 ppm  | ::: | Nicht nur betroffenen Bereich, sondern ganzes Gebäude räumen.\\ Bei Beschwerden von Zivilpersonen oder Einsatzkräften ganzes Gebäude räumen (auch wenn Messwert < 30 ppm). | ::: ^  > 60 ppm  ^
+^  > 200 ppm  | ::: | ::: | Wenn nicht gelüftet werden kann, Person aus dem Gefahrenbereich bringen (kein Atemschutz!). ^  > 200 ppm  ^
+^  > 500 ppm  | ::: | ::: | Personenrettung unter umluftunabhängigem Atemschutz (durch Feuerwehr). ^  > 500 ppm  ^
+
+[[cbrn:chemisch:grenzwerte#aegl|AEGL-Werte]] (nur für AEGL-2 und 3 verfügbar):
+
+^        ^  10 min     ^  30 min   ^  60 min   ^  4 h      ^  8 h      ^
+^ AEGL-2 |  420 ppm    |  150 ppm  |  83 ppm   |  33 ppm   |  27 ppm   |
+^ AEGL-3 |  1.700 ppm  |  600 ppm  |  330 ppm  |  150 ppm  |  130 ppm  |
+
+==== Einsatzbeispiele ====
+
+  * typisches Einsatzszenario: [[:allgemeine_hilfe:tueroeffnung|Notfalltüröffnung]], aufgrund von Unwissenheit über die Gefahren von CO oder Suizidversuch.
+  * Suizidversuch i.d.R. über zwei verschiedene Wege möglich:
+      * meistens: Holzkohlegrill(s) in Wohnung
+      * weniger oft: Mischung von Ameisensäure und Schwefelsäure. Vorsicht: Diese Flüssigkeiten sind auf den ersten Blick nicht von Wasser zu unterscheiden
+  * (Gas-)Heizungen/Heizstrahler, Gasboiler, Kaminöfen (auch Ethanol-Öfen!), verstopfter oder undichter Schornstein des (Nachbar-)Gebäudes
+  * Holzpellet-Lagerräume
+  * Nutzung von Geräten mit Verbrennungsmotoren ohne ausreichende Lüftung (auch im Freien möglich, z.B. in engen Durchgängen oder Höfen); Kettensägen, Motortrennschleifer, Estrichmaschinen, …
+  * Abgase eines Grills ziehen in die Wohnung, Shisha
+  * Eine Vielzahl von Personen aus einem Gebäude mit diesen Symptomen spricht für eine CO-Ansammlung im ganzen Haus.
+  * Kabelbrand in einer Muffe des Erdkabels in einer Straße führte zur Ausbreitung von CO in den Hausanschlussraum eines angrenzenden Kellers mit Konzentrationen von ca. 100 ppm. Neben Brandgeruch und einem Stromausfall im Gebäude waren keine weiteren Indizien zu erkennen.
+
+
+==== medizinische Wirkung ====
+
+  * Blockierung des Sauerstofftransportes im Blut. CO bindet sich an die roten Blutkörperchen, sodass diese nicht mehr für den Sauerstofftransport zur Verfügung stehen. Der Anteil der roten Blutkörperchen die mit CO besetzt sind wird als CO-Hb (//Carboxyhämoglobin//) bezeichnet und in % angegeben.
+  * Symptome:
+    * erste Anzeichen: Kopfschmerzen, Sehstörungen, Schwindel
+    * mit steigendem CO-Gehalt im Blut Verwirrtheit, Bewusstlosigkeit, Herzrythmusstörungen und Tod
+  * "kirschrote Haut" ist ebenso wenig aussagekräftig wie andere Faktoren die mit dem CO-Hb-Wert verknüpft werden. Dieser wird von den Menschen verschieden stark toleriert, ebenso wie manche Alkohol besser vertragen als andere.
+
+Bei der medizinischen Behandlung ist durch einen Arzt zu entscheiden, ob die Indikation zu einer [[allgemein:druckkammern|hyperbaren Sauerstofftherapie in einer Druckkammer (Adressen im Artikel)]] vorliegt. Indikationen für eine Druckkammerbehandlung bzw. Risikogruppen sind im Allgemeinen:
+
+  * Menschen die älter als 36 Jahre sind
+  * Schwangere
+  * Menschen auf die CO länger als 24 Stunden eingewirkt hat
+  * Bewusstlose
+  * gemessener CO-Hb-Wert > 25%
+
+Die Behandlung in einer Druckkammer sollte idealerweise innerhalb von vier Stunden beginnen (danach verschlechtert sich die Prognose). Bis dahin sollte der Patient 100 Prozent Sauerstoff atmen beziehungsweise damit beatmet werden.
+
+==== Stoffdaten ====
+
+^ Identifikation ^^
+^ Alternative Namen                            | Kohlenoxid, Kohlenstoffmonoxid |
+^ CAS-Nr.                                      | 630-08-0 |
+^ Gefahrgutbezeichnung                         | Kohlenmonoxid, verdichtet |
+^ [[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Nummer zur Kennzeichnung der Gefahr]] | {{cbrn:chemisch:klasse_2:stoffe:263-1016_kohlenmonoxid.png?nolink&100|Gefahrentafel Kohlenmonoxid}} |
+^ UN-Nr.                                       |  :::  |
+^ Gefahrzettel                                 | {{cbrn:2-3.png?nolink&100 |2.3}} {{cbrn:2-1.png?nolink&100 |2.1}} |
+^ ADR-Klasse                                   | [[cbrn:chemisch:klasse_2:start]] |
+^ [[cbrn:allgemein:kennzeichnung:gasflaschenkennzeichnung|Gasflaschenkennzeichnung]] | {{cbrn:allgemein:gasflasche_giftig_aetzend.png?nolink&100|gelb}} \\ giftige und/oder ätzende Gase |
+^ ERICard                                      | [[cbrn:ericards:klasse_2:10160379|2-13]] |
+^ Summenformel                                 | CO |
+^ [[cbrn:allgemein:begriffsklaerungen#molare_masse|molare Masse]] | 28,01 g/mol |
+^ Charakterisierung ^^
+^ Aggregatszustand                             | gasförmig |
+^ Farbe                                        | farblos |
+^ Geruch                                       | geruchlos |
+^ Brennbarkeit                                 | Extrem entzündbares Gas. Verbrennt mit blauer Flamme zu [[cbrn:chemisch:klasse_2:stoffe:kohlendioxid|Kohlendioxid]]. Bildet mit Luft explosive Gemische. |
+^ Verhalten an Luft                            | geringfügig leichter als Luft |
+^ physikalisch-chemische Eigenschaften ^^
+^ Schmelzpunkt                                 | -205,07 °C |
+^ Siedepunkt                                   | -191,5 °C |
+^ Dichte                                       | 1,2506 kg/m³ bei 0 °C und 1013 mbar |
+^ [[cbrn:allgemein:begriffsklaerungen#flammpunkt|Flammpunkt]] | -191,6 °C |
+^ Zersetzungsprodukte                          | [[cbrn:chemisch:klasse_2:stoffe:kohlendioxid|Kohlendioxid]] |
+^ [[cbrn:allgemein:begriffsklaerungen#zuendtemperatur|Zündtemperatur]] | 605 °C |
+^ [[cbrn:chemisch:temperaturklasse|Temperaturklasse]] | T1 |
+^ [[cbrn:allgemein:begriffsklaerungen#explosionsgrenzen|Explosionsgrenzen]] | UEG: 10,9 Vol.-%,\\ OEG: 76 Vol.-% |
+^ [[cbrn:allgemein:begriffsklaerungen#relative_dichte_zu_luft|Relative Gasdichte]] (zu Luft) | 0,97 |
+^ [[cbrn:allgemein:begriffsklaerungen#wasserloeslichkeit|Wasserlöslichkeit]] | 30 mg/l bzw. 23 ml/l bei 20 °C |
+^ [[cbrn:allgemein:begriffsklaerungen#wassergefaehrdungsklasse|Wassergefährdungsklasse]] | 1 |
+^ Explosionsgefahr bei Reaktion mit            | starken Oxidationsmitteln\\ Natrium (Hitze); Kalium;\\ Metalloxide;\\ Aluminium (Staub);\\ Lithium + Wasser |
+^ gefährliche Reaktion mit                     | [[cbrn:chemisch:klasse_2:stoffe:acetylen|Acetylen]] (selten);\\ Aminen; \\ [[cbrn:chemisch:klasse_2:stoffe:chlor|Chlor]] -> [[cbrn:chemisch:klasse_2:stoffe:phosgen|Phosgen]];\\ [[cbrn:chemisch:klasse_2:stoffe:wasserstoff|Wasserstoff]] (selten); |
+^ Maßnahmen bei Bränden ^^
+^ [[brand:allgemein:brandklassen|Brandklasse]] | {{:brand:allgemein:brandklasse_c.png?nolink&100|C}} |
+^ geeignete Löschmittel                        | [[brand:allgemein:pulver|Pulver]], [[brand:allgemein:co2|Kohlendioxid-Löscher]] mit Gasdüse |
+^ Grenzwerte ^^
+^ [[cbrn:allgemein:begriffsklaerungen#etw-wert|ETW-Wert]] | 33 ppm |
+^ [[cbrn:allgemein:begriffsklaerungen#agw-wert|AGW-Wert]] | 30 ppm |
+^ Nach mehreren Stunden leichte Kopfschmerzen | 100 ppm |
+^ Nach mehreren Stunden heftige Kopfschmerzen, Schläfrigkeit, Übelkeit, Erbrechen, Schwindel, Störungen des Bewusstseins bis zur Bewusstlosigkeit | 500 ppm |
+^ Tod (nach Gestis Gefahrstoffdatenbank) | 1500 ppm (0,15 Vol.-%) für 60 min\\ 3000 ppm (0,3 Vol.-%) für 30 min\\ 8000 ppm (0,8 Vol.-%) für 10 min\\ 16000 ppm (1,6 Vol.-%) für 5 min\\ 40000 ppm (4 Vol.-%) für 2 min |
+^ [[cbrn:allgemein:kennzeichnung:ghs|GHS-Einstufung und Kennzeichnung]] ^^
+^ [[cbrn:allgemein:kennzeichnung:ghs#piktogramme|GHS-Piktogramm(e)]] | {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_skull.png?nolink&100 |giftig}} {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_flamme.png?nolink&100 |hochentzündlich}} {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_silhouete.png?nolink&100 |Gesundheitsgefahr}} {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_bottle.png?nolink&100 |verdichtetes Gas}} |
+^ GHS-Signalwort                               | Gefahr |
+^ [[cbrn:allgemein:kennzeichnung:ghs#gefahrenhinweise_h-saetze|GHS-Gefahrenhinweise (H-Sätze)]] | H331: Giftig bei Einatmen.\\ H220: Extrem entzündbares Gas.\\ H360D: Kann das Kind im Mutterleib schädigen.\\ H372: Schädigt die Organe bei längerer oder wiederholter Exposition.\\ H280: Enthält Gas unter Druck; kann bei Erwärmung explodieren. |
+^ [[cbrn:allgemein:kennzeichnung:ghs#sicherheitshinweise_p-saetze|GHS-Sicherheitshinweise (P-Sätze)]] | P260: Gas/Dampf nicht einatmen.\\ P210: Von Hitze, heißen Oberflächen, Funken, offenen Flammen und anderen Zündquellen fernhalten. Nicht rauchen.\\ P202: Vor Gebrauch alle Sicherheitshinweise lesen und verstehen.\\ P304+P340: BEI EINATMEN: An die frische Luft bringen und in einer Position ruhigstellen, die das Atmen erleichtert.\\ P308+P313: BEI Exposition oder falls betroffen: Ärztlichen Rat einholen/ärztliche Hilfe hinzuziehen.\\ P377: Brand von ausströmendem Gas: Nicht löschen, bis Undichtigkeit gefahrlos beseitigt werden kann.\\ P381: Alle Zündquellen entfernen, wenn gefahrlos möglich.\\ P405: Unter Verschluss aufbewahren.\\ P403: An einem gut belüfteten Ort aufbewahren. |
+^ [[cbrn:allgemein:kennzeichnung:gefahrensymbole|Einstufung nach Stoffrichtlinie]] (R- und S-Sätze) ^^
+^ [[cbrn:allgemein:kennzeichnung:gefahrensymbole|Piktogramm]] | {{cbrn:allgemein:kennzeichnung:gefahr_f.png?nolink&100|F+ Hochentzündlich}}\\ F+ Hochentzündlich\\ {{cbrn:allgemein:kennzeichnung:gefahr_t.png?nolink&100|T Giftig}}\\ T Giftig |
+^ Risiko-Sätze (R-Sätze)                       | R 61: Kann das Kind im Mutterleib schädigen\\ R 12: Hochentzündlich\\ R 23: Auch giftig beim Einatmen\\ R 48/23: Auch giftig: Gefahr ernster Gesundheitsschäden bei längerer Exposition durch Einatmen |
+^ Sicherheitssätze (S-Sätze)                   | S 53: Exposition vermeiden - vor Gebrauch besondere Anweisungen einholen. - Nur für den berufsmäßigen Verwender -\\ S 45: Bei Unfall oder Unwohlsein sofort Arzt hinzuziehen (wenn möglich, dieses Etikett vorzeigen) |
+^ [[cbrn:allgemein:kennzeichnung:warnzeichen|Warnzeichen]] ^^
+| {{cbrn:allgemein:kennzeichnung:warnung_vor_giftigen_stoffen.png?nolink&100 |Warnung vor giftigen Stoffen}} | Warnung vor giftigen Stoffen |
+| {{cbrn:allgemein:kennzeichnung:warnung_vor_gasflaschen.png?nolink&100 |Warnung vor Gasflaschen}} | Warnung vor Gasflaschen |
+| {{cbrn:allgemein:kennzeichnung:warnung_vor_explosionsfaehiger_atmosphaere.png?nolink&100 |Warnung vor explosionsfähiger Atmosphäre}} | Warnung vor explosionsfähiger Atmosphäre |
+
+**Lizenzhinweis**: Die Daten aus dem Bereich "Stoffdaten" stammen zu großen Teilen aus der GESTIS-Stoffdatenbank und dürfen daher ausschließlich für nichtkommerzielle Zwecke des Arbeitssschutzes verwendet werden.
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Einsatz__Loeschmittel_und_Umweltschutz/DFV-Fachempfehlung_Einsatzstrategien_CO-Notfall.pdf|DFV: Rahmenempfehlung zu Einsätzen bei Verdacht auf einen CO-Notfall innerhalb von Räumlichkeiten]]
+  * [[http://www.dguv.de/medien/inhalt/praevention/fachbereiche/fb-fhb/documents/infoblatt_07.pdf|Infoblatt Nr. 07 des Sachgebietes "Feuerwehren und Hilfeleistungsorganisationen", Einsatz von Kohlenmonoxidwarngeräten bei Feuerwehren und Hilfeleistungsorganisationen]], Unfallkasse Baden-Würrtemberg
+  * [[http://www.draeger.de/sites/assets/PublishingImages/Segments/Feuerwehr/Grafiken/Feuerwehr/Fachwissen/handout-pyrek-co-intox-2012.pdf|Vortrag "CO – Vergiftungen"]] von Richard Pyrek, BF Wien
+  * [[http://www.bfkdo-wiener-neustadt.at/component/option,com_docman/task,doc_details/gid,302/Itemid,63/|Checkliste Kohlenmonoxid (CO)]] des Niederösterreichischen Landesfeuerwehrverbands
+  * [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/001110.xml?f=templates&fn=default.htm|Kohlenmonoxid in der GESTIS Stoffdatenbank]]
+  * [[http://www.vdf-nrw.de/index.php?page=_xmlreq&xml=gallery&qry[action]=inline&qry[id]=Dateien/Fachempfehlungen/2012-04-02FachempfehlungCO-Feuerwehr.pdf|Merkblatt zur Gefährdung durch Kohlenstoffmonoxid]], Verband der Feuerwehren in NRW
+  * [[http://www.giz-nord.de/cms/images/stories/Science/PCYAN/CO-Gaswarner_RD_130219.pdf|Hinweise und Empfehlungen zur Handhabung von Kohlenstoffmonoxidwarngeräten im Rettungsdienst]], Giftinformationszentrum-Nord und Universitätsmedizin Göttingen
+  * [[http://www.abc-gefahren.de/blog/2013/02/20/kohlenmonoxid-im-einsatz-ein-aktuelles-thema/|Kohlenmonoxid im Einsatz – ein aktuelles Thema?!]], abc-gefahren.de
+  * Fortbildungsveranstaltung "Kohlenmonoxid", Berliner Feuerwehr und DRK Kliniken Berlin - Westend, Referenten:
+    * Mag. Franz Petter, Feuerwehr Hamburg
+    * Michael Termeer, Berliner Feuerwehr
+    * Dr. Rolf Erbe, Berliner Feuerwehr
+    * Dr. Oliver Müller, Leiter Bereich Tauch- und Hyperbarmedizin, Berliner Zentrum für hyperbare Sauerstofftherapie und Tauchmedizin
+
+===== Stichwörter =====
+
+UN 1016, UN1016, Gefahrnummer 263, Kohlenstoffmonoxid, Kohlenstoffmonooxid, Kohlenmonoxyd, Kohlenoxyd, Kohlenoxid, CO
+

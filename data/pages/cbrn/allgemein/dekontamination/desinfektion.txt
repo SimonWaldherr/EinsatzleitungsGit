@@ -1,0 +1,76 @@
+~~NOCACHE~~
+
+====== Desinfektion (B-Dekon) ======
+
+Alle Personen, Einsatzkräfte und Gerätschaften, die sich in Bereichen der biologischen [[cbrn:allgemein:gefahrengruppen|Gefahrengruppe]] II B und III B aufgehalten bzw. eingesetzt worden sind, gelten als kontaminiert, solange nicht entsprechend desinfiziert wurde oder eine fachkundige Person eine Kontamination mit B-Gefahrstoffen mit Sicherheit ausschließen kann.
+
+===== zu treffende Maßnahmen =====
+
+siehe [[cbrn:allgemein:dekontamination:start|Dekontamination]] für die Dekontamination und den Dekon-Platz allgemein
+
+  * Ausrüstung der Einsatzkräfte am Desinfektionsplatz in [[cbrn:allgemein:koerperschutzformen|Körperschutzform 2]]
+  * Mannschaft darauf hinweisen dass Verletzungen sofort zu melden sind, auch wenn es sich nur um kleine Bagatellverletzungen handelt
+  * Desinfektionslösung drucklos aufbringen (z.B. mit Drucksprühgeräten, nicht aber mit Hochdruckreiniger!)
+  * bei Scheuer- und Wischdesinfektion weiche Bürste verwenden (Desinfektionslösung kann sonst herumspritzen)\\ Besser: Schaumdesinfektion
+  * Desinfektionsmittel zusammen mit dem Gesundheitsamt oder einer fachkundigen Person auswählen
+    * In stationären Anlagen (Laboren) wird geeignetes Desinfektionsmittel für die Feuerwehr vorgehalten
+    * ausgebildeten Desinfektor (z.B. aus Rettungsdienst) als Fachberater nachfordern
+    * Bei unklarer Infektionsgefahr oder [[cbrn:biologisch:biologische_kampfstoffe|biologischen Kampfstoffen]] Peressigsäure-Lösung (Konzentrationen siehe unten) verwenden
+    * Bei Hautdesinfektion ist eine Arzneimittelzulassung erforderlich!
+    * Beim Ansetzen und Gebrauch der Desinfektionslösung die erforderliche Schutzkleidung tragen (mindestens Schutzbrille, lange Handschuhe)
+  * Gebrauchte Desinfektionsflüssigkeit auffangen, Entsorgung in Absprache mit unterer Wasserbehörde
+
+==== Kontaminationsverdacht bei Personen ====
+
+  * Nach Grob-Dekon Kleidung am Dekon-Platz ablegen:
+    * Bei Gefahrengruppe II Schutzkleidung und Ausrüstung
+    * Bei Gefahrengruppe III die komplette Kleidung
+  * Hände, Gesicht und Haare und benetzte Körperstellen reinigen und desinfizieren, auch wenn nur ein Verdacht besteht. Gegebenenfalls lauwarm abduschen (nicht heiß, Öffnung der Poren in der Haut!)
+    * Desinfektionslösung drucklos auf die komplette Schutzkleidung bzw. Haut auftragen, ggf. Tücher/Schwämme verwenden\\ Peressigsäure-Lösung darf keinesfalls gesprüht werden wenn nicht alle Beteiligten Atemschutz tragen!
+    * Auf kritische Stellen wie Falten oder Stiefel achten.
+  * Person isolieren und mit zuständigem Amtsarzt weiteres Vorgehen besprechen
+  * Transporte auf Mindestmaß reduzieren
+  * Bei Übergabe an RD auf Verdacht hinweisen
+  * Hergang der Kontamination rekonstruieren und dokumentieren
+
+==== Bei Gegenständen ([Schutz-] Bekleidung, Ausstattung und Sonstigem) ====
+
+  * Im Schwarz-Bereich des Desinfektions-Platzes sammeln
+  * Dicht in Foliensäcke verpacken und beschriften
+  * Weiteres Verfahren mit dem Gesundheitsamt absprechen und organisieren
+  * Flächendesinfektion wenn möglich von Fachfirmen durchführen lassen, da Feuerwehren i.d.R. nicht nach dem Stand der Technik arbeiten können
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Hinweise zur Handhabung von Peressigsäure ====
+
+  * PES nur mit destilliertem Wasser mischen. Schon kleinste gelöste Metallteile aus Wasserrohren können zu heftigen Reaktionen mit der PES führen
+  * PES in bereitgestelltes Wasser geben, auf keinen Fall umgekehrt!
+  * Anmischung der PES-Lösung nur mit Schutzbrille und Handschuhen
+  * PES fällt ab einer Behältergröße von 250 ml unter Gefahrgutrecht (Transport mehrerer Behälter mit jeweils 250 ml aber zulässig)
+
+==== Berechnung der erforderlichen Desinfektionsmittel-Konzentration ====
+
+~~INCLFORM=desinfektion~~
+
+==== Desinfektion bei verschiedenen Anwendungen nach vfdb-Richtlinie 10/04 ====
+
+^  Kontamination  ^  Haut  ^  andere Oberflächen  ^
+^ __Bekannte__ biologische bzw. infektiöse Agenzien | entsprechend geeignetes Haut-Desinfektionsmittel (z.B. in Laboren) | entsprechend geeignetes Flächen-Desinfektionsmittel |
+^ __Unbekannte__ biologische Agenzien | Peressigsäure (PES), 0.2%\\ \\ Einwirkzeit: 2 mal 1 Minute | Peressigsäure (PES), 1 %\\ \\ Einwirkzeit: 5 Minuten |
+^ Blut und andere Körperflüssigkeiten | Handelsübliche Haut- oder Handdesinfektionsmittel auf alkoholischer Basis | - kleine Fläche (<0,5m2):\\ handelsübliche Flächendesinfektionsmittel auf alkoholischer Basis als Spray\\ \\ - größere Flächen:\\ Peressigsäure 1%, 5 min. |
+
+===== Weblinks =====
+
+  * Hinweise des Bundesamts für Bevölkerungsschutz und Katastrophenhilfe (BBK) zum Thema [[http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Downloads/ABC-Schutz/KFZdesinf_EinsaK.pdf?__blob=publicationFile|Fahrzeugdesinfektion]]
+
+===== Quellenangabe =====
+
+  * [[http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/PublikationenForschung/BioGef-I_3Auflage.pdf?__blob=publicationFile|Biologische Gefahren I: Handbuch zum Bevölkerungsschutz]], 3. Auflage, Bundesamt für Bevölkerungsschutz und Katastrophenhilfe, Bonn 2007
+  * Gefahrstoffkonzept Kaiserslautern, Feuerwehr Kaiserslautern
+  * vfdb-Richtlinie 10/04, Vereinigung zur Förderung des Deutschen Brandschutzes e.V
+  * [[http://www.vfdb.de/download/MB_Tierseuchen_Ref10_201203.pdf|Merkblatt Empfehlung für den Feuerwehreinsatz bei Tierseuchen]], Vereinigung zur Förderung des Deutschen Brandschutzes e.V., Altenberge 2012
+
+===== Stichwörter =====
+
+Peressigsäure, PES

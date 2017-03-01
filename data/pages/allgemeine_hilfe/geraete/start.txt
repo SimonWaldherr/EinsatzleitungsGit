@@ -1,0 +1,3 @@
+====== Geräte für Hilfeleistungen ======
+
+{{simplenavi>allgemeine_hilfe:geraete}}

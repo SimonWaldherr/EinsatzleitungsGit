@@ -1,0 +1,32 @@
+====== Gefahrguttransport durch Einsatzkräfte ======
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+Gefahrgüter dürfen im Einsatzfall durch Einsatzkräfte transportiert werden, beispielsweise auch wenn der Maschinist keinen Gefahrgutführerschein besitzt oder die Transportbehälter entsprechend gekennzeichnet sind.
+
+Der Transport bis zum nächsten sicheren Ort kann auch z.B. auch durch einen Dritten geschehen, wenn die Einsatzkräfte den Transport begleiten.
+
+Für den sicheren Transport ist die Einsatzleitung verantwortlich. Ggf. ist dafür die Evakuierung oder Sperrung von Verkehrswegen erforderlich.
+
+==== Entsprechende Textstelle im ADR ====
+
+<WRAP center round box 100%>
+**Kapitel 1.1.3.1: Freistellungen in Zusammenhang mit der Art der Beförderungsdurchführung**
+
+Die Vorschriften des ADR gelten nicht für:
+
+[...]
+
+d) Beförderungen, die von den für Notfallmassnahmen zuständigen Behörden oder unter deren Überwachung durchgeführt werden, soweit diese im Zusammenhang mit Notfallmassnahmen erforderlich sind, insbesondere
+  * Beförderungen mit Abschleppfahrzeugen, die Unfall- oder Pannenfahrzeuge mit gefährlichen Gütern befördern, oder
+  * Beförderungen, die durchgeführt werden, um die bei einem Zwischenfall oder Unfall betroffenen gefährlichen Güter einzudämmen, aufzunehmen und zum nächstgelegenen geeigneten sicheren Ort zu verbringen;
+
+e) Notfallbeförderungen zur Rettung menschlichen Lebens oder zum Schutz der Umwelt, vorausgesetzt,
+es werden alle Massnahmen zur völlig sicheren Durchführung dieser Beförderungen getroffen;
+</WRAP>
+
+
+===== Quellenangabe =====
+
+  * [[cbrn:allgemein:adr|ADR]]
+  * Polizei Berlin, Direktion Zentrale Aufgaben, Zentraler Verkehrsdienst 22

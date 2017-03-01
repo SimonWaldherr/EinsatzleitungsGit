@@ -1,0 +1,20 @@
+====== Druckkammern ======
+
+Druckkammern werden benutzt, um beispielsweise nach Tauchunfällen, [[cbrn:chemisch:klasse_2:stoffe:kohlenmonoxid|Kohlenstoffmonoxidvergiftungen]] oder Unfällen auf [[allgemein:druckluftbaustellen|Druckluftbaustellen]] die Folgen für die Betroffenen so gering wie möglich zu halten.
+
+HBOT: Hyperbare Sauerstoff-Therapie
+
+===== Kontaktdaten/Ansprechpartner =====
+
+  * Auflistung der Druckkammern, geführt von der Gesellschaft von Tauch- und Überdruckmedizin, sortiert nach Dienstbereitschaft
+    * [[http://www.gtuem.org/content/1240/127/|Liste 1: Deutsche Notfallzentren für Tauchunfälle und andere (Notfall-) Indikationen für die HBOT gemäß Qualitätskriterien des Aktionsbündnis Tauchunfall mit gesicherter 24-Stunden-Dienstbereitschaft]]
+    * [[http://www.gtuem.org/content/1240/120/|Liste 2: Deutsche Druckkammern mit 24-Stunden-Dienstbereitschaft für die HBOT einschließlich Intensivmedizin in der Druckkammer und Zugriff auf klinische Intensivbetten]]
+    * [[http://www.gtuem.org/content/1240/121/|Liste 3: Deutsche Druckkammern mit 24-Stunden-Dienstbereitschaft für die HBOT]]
+    * [[http://www.gtuem.org/content/1240/122/|Liste 4: Deutsche Druckkammern mit eingeschränkter Dienstbereitschaft für die HBOT]]
+    * [[http://www.gtuem.org/34|Druckkammern in Österreich]]
+    * [[http://www.gtuem.org/35|Druckkammern in der Schweiz]]
+  * [[http://www.hbo-vdd.de/hbo-druckkammer/mitglieder|Mitgliederliste des Verbands Deutscher Druckkammerzentren e.V.]] mit Kontaktdaten (Nahezu identisch mit der Auflistung der Gesellschaft für Tauch- und Überdruckmedizin, allerdings nicht nach Bereitschaft sortiert. Link als Rückfallebene.)
+
+===== Stichwörter =====
+
+Dekompressionskammer

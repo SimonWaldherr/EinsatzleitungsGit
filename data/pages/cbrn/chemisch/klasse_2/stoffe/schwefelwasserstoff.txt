@@ -1,0 +1,19 @@
+====== Schwefelwasserstoff ======
+
+===== zu treffende Maßnahmen =====
+
+[[cbrn:ericards:klasse_2:10530405|ERICard für Schwefelwasserstoff]]
+
+==== besondere Gefahren ====
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+===== Weblinks =====
+
+[[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/001130.xml?f=templates&fn=default.htm|Eintrag für Schwefelwasserstoff in der GESTIS-Gefahrstoffdatenbank]]
+
+===== Quellenangabe =====
+
+===== Stichwörter =====
+
+H2S

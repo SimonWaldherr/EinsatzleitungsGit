@@ -1,0 +1,48 @@
+====== Klasse 4.1: Entzündbare feste Stoffe, selbstzersetzliche Stoffe und desensibilisierte explosive feste Stoffe ======
+
+<WRAP center round info 100%>
+siehe auch: [[brand:silo|Silobrand]]
+</WRAP>
+
+
+===== zu treffende Maßnahmen =====
+
+[[cbrn:ericards:klasse_4-1:start]]
+
+  * Staubaufwirbelungen unbedingt vermeiden
+  * kein Lüftereinsatz
+  * nicht querlüften
+  * Brandbekämpfung mit Wasser (evtl. Netzmittel verwenden), mit Sprühstrahl löschen / kein Vollstrahl in den Stoff
+  * Stäube mit Wasser niederschlagen
+  * Zündquellen beseitigen
+
+==== besondere Gefahren ====
+
+  * explosionsfähige Staub-Luft-Gemische
+  * Hohe Abbrandgeschwindigkeit (große Oberfläche)
+  * hohe Temperaturen beim Transport als Schmelze
+  * Bei Brand: Bildung meist reizender und giftiger Gase
+  * Selbstzersetzung möglich (Temperatur laufend kontrollieren)
+  * wassergefährdend
+
+Beachte: bei Stäuben kann sich die Situation durch Absetzen oder Aufwirbeln sehr schnell ändern! Bei brennbaren Stäuben ist deshalb immer von einer Explosionsgefahr auszugehen.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Der Stoff kann auch als heiße Schmelze oder als Flüssigkeit in Lösung transportiert werden
+  * Bei einem [[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|X vor der Gefahrnummer]] die Berührung des Stoffs mit Wasser verhindern!
+  * Bei Ausfall der Temperaturkontrolle besondere Sicherungsmaßnahmen ergreifen (siehe Sicherheitsdatenblatt)
+
+==== besondere Stoffe der Klasse 4.1 ====
+
+{{simplenavi>cbrn:chemisch:klasse_4:klasse_4-1:stoffe}}
+
+===== Weblinks =====
+
+  * [[http://staubex.ifa.dguv.de/|GESTIS-STAUB-EX: Datenbank Brenn- und Explosionskenngrößen von Stäuben]]
+
+===== Quellenangabe =====
+
+  * Lehrgangsunterlagen ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+  * FwDV 500 Stand 2012
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr

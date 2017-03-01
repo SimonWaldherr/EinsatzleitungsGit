@@ -1,0 +1,19 @@
+====== Ex-Zonen ======
+
+===== Gase, Dämpfe und Nebel =====
+
+  * **Zone 0**: EX-Atmosphäre, die mehr als die Hälfte der Betriebsdauer einer Anlage vorhanden ist (z.B. in Rohren und Behältern).
+  * **Zone 1**: EX-Atmosphäre im Normalbetrieb
+    * für mehr als 30 min pro Jahr oder
+    * täglich, aber weniger als 50% der Betriebsdauer
+  * **Zone 2**: EX-Atmosphäre jeweils nur sehr kurz bzw. im Normalbetrieb gar nicht, allerdings nicht ganz auszuschließen.
+
+===== Stäube =====
+
+  * **Zone 20**: EX-Atmosphäre ständig, über lange Zeiträume oder häufig vorhanden.
+  * **Zone 21**: EX-Atmosphäre im Normalbetrieb gelegentlich vorhanden.
+  * **Zone 22**: EX-Atmosphäre nur kurzzeitig oder im Normalbetrieb gar nicht, allerdings nicht ganz auszuschließen.
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

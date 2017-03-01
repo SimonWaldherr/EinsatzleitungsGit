@@ -1,0 +1,24 @@
+====== Tabun ======
+
+Nervenkampfstoff, siehe [[cbrn:chemisch:chemische_kampfstoffe|Chemische Kampfstoffe]]
+
+===== zu treffende Maßnahmen =====
+
+Zu finden auf der {{cbrn:chemisch:klasse_6-1:stoffe:lfs_bw_kampfstoffe_tabun.pdf|Einsatzleiterkarte Tabun}} der Landesfeuerwehrschule Baden-Württemberg.
+
+==== besondere Gefahren ====
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+===== Weblinks =====
+
+  * [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/490089.xml?f=templates&fn=default.htm|Tabun in der Gestis-Gefahrstoffdatenbank]]
+  * [[wpde>Tabun|Wikipedia: Tabun]]
+
+===== Quellenangabe =====
+
+  * {{cbrn:allgemein:hinweise_abc_kampfstoffe.pdf|Einsatzleiterkarten für den Einsatz mit ABC-Kampfstoffen, Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2011}}. Nutzung mit freundlicher Genehmigung.
+
+===== Stichwörter =====
+
+GA, Dimethylaminocyanophosphorsäureethylester

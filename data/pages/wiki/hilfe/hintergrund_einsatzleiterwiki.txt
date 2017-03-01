@@ -1,0 +1,11 @@
+====== Hintergrundinformationen zum Einsatzleiterwiki ======
+
+Das Einsatzleiterwiki besteht im Wesentlichen aus zwei Teilen: den feuerwehrtechnischen Inhalten und der eigentlichen Software. Letztere basiert, mit einigen Anpassungen in verschiedenen Bereichen, auf der Wiki-Software DokuWiki.
+
+[[doku>de:dokuwiki|{{wiki:dokuwiki-128.png }}]] [[doku>de:dokuwiki|DokuWiki]] ist ein standardkonformes, einfach zu benutzendes [[wpde>Wiki]] und zielt hauptsächlich auf die Erstellung von Dokumentationen aller Art ab.
+
+Es richtet sich an Entwicklerteams, Arbeitsgruppen und kleine Unternehmen. Seine einfache, aber mächtige [[wiki:hilfe:artikel_standardeditor|Syntax]] gewährleistet, dass die Daten auch außerhalb des Wikis lesbar bleiben und vereinfacht die Erstellung strukturierter Texte. Alle Daten werden in Textdateien gespeichert -- es wird **keine** Datenbank benötigt.
+
+===== Quellenangabe =====
+
+  * [[doku>de:dokuwiki]], veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

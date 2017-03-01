@@ -1,0 +1,53 @@
+====== Sprachdateien anpassen ======
+
+In der dem Einsatzleiterwiki zugrundeliegende DokuWiki-Software sind alle Systemnachrichten lokalisiert. Auf diese Weise ist es möglich, DokuWiki per Klick von einer auf eine andere Sprache umzustellen. Die Sprachdateien können allerdings auch an den eigenen Bedarf angepasst werden. Auf dieser Seite wird beschrieben, wie das Vorgehen dafür ist.
+
+Sowohl längere Textabschnitte, die z.B. per Email an einen neu registrierten Benutzer geschickt werden, als auch ganz kurze, nur aus einem Wort bestehende Lokalisationen können angepasst werden. Die gewünschten Änderungen werden in eine eigene Datei geschrieben - auf diesem Weg werden sie bei Aktualisierungen der Wiki-Software nicht überschrieben.
+
+Das Vorgehen zur Erstellung einer eigenen, angepassten Lokalisierung ist folgender:
+
+  - Vom Wiki-Hauptverzeichnis den Ordner ''inc'', darin den Ordner ''lang'', und in diesem den Ordner ''de'' öffnen. Längere Texte werden hier in einer eigenen Datei gespeichert, kurze Texte die nur wenige Worte umfassen, sind zentral in der Datei lang.php abgelegt.
+  - Ist die Datei gefunden die den Text beinhaltet der geändert werden soll, muss diese Datei aus dem eben beschriebenen Verzeichnis in folgenden Ordner kopiert werden (ebenfalls wieder ausgehend vom Wiki-Hauptverzeichnis): Ordner ''conf'' öffnen. In diesem einen Ordner ''lang'' anlegen, sofern er noch nicht existiert. In diesem neu angelegten Ordner einen weiteren Ordner ''de'' anlegen. In diesen Ordner ''de'' die kopierte Datei einfügen.
+  - Für den Fall dass die Datei lang.php zur Bearbeitung kopiert wurde, sollten alle Bezeichnungen, die nicht verändert werden sollen, aus der neu eingefügten Datei gelöscht werden. Diese werden dann aus der originalen Datei lang.php verwendet.
+
+Noch einmal zur Übersicht:
+
+Sprachdatei
+  * von ''inc/lang/de/''
+  * nach ''**conf/lang/**de/''
+kopieren und die neu angelegte Datei bearbeiten.
+
+Falls die Bezeichnungen die angepasst werden sollen aus einem Plugin oder Template stammen, müssen dementsprechend folgende Ordner/Dateien kopiert werden: 
+
+Bei Plugins:
+
+  * von ''lib/plugins/<Plugin-Name>/lang/de/''
+  * nach ''**conf/plugin_lang/**<Plugin-Name>/de/''
+
+Bei Templates
+
+  * von ''lib/tpl/<Template-Name>/lang/de/''
+  * nach ''**conf/template_lang/**<Template-Name>/de/''
+
+Auch hier sollten alle Bezeichnungen, die nicht verändert werden sollen, aus der neu eingefügten Datei gelöscht werden.
+
+txt-Dateien zu übersetzen ist seit der Version "Rincewind" 2011-04-22 möglich. Einzelne Bezeichnungen aus der Datei ''lang.php'' zu übersetzen ist seit der Version 2014-09-29 "Hrun" möglich.
+
+===== Beispiel =====
+
+Sie sehen hier eine angepasste Sprachdatei. In dieser wird die Bezeichnung //Medien-Manager// rechts oben unter dem Suchfeld durch die Bezeichnung //Datei-Manager// ersetzt.
+
+<code php conf/lang/de/lang.php>
+<?php
+/**
+ * Angepasste deutsche Sprachdatei
+ * Fügen Sie hier nur die Bezeichnungen ein, die Sie auch verändern möchten
+ */
+
+$lang['btn_media']             = 'Datei-Manager';
+
+</code>
+
+===== Quellenangabe =====
+
+  * [[https://www.dokuwiki.org/localization]] (englisch, übersetzt)

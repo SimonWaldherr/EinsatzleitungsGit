@@ -1,0 +1,13 @@
+====== Molare Masse ======
+
+Mithilfe eines Periodensystem der Elemente oder der [[cbrn:allgemein:periodensystem|Stoffliste]] kann die molare Masse M eines Stoffs ermittelt werden. Dafür muss die Summenformel bekannt sein. Aus den Bestandteilen der Summenformel kann dann die molare Masse des Stoffs errechnet werden. Dafür muss für jedes Atom in der Summenformel die Atommasse aus der Stoffliste herausgesucht werden. Kommt ein Atom mehrfach vor muss die molare Masse mit der Anzahl der von diesem Stoff vorhandenen Atome multipliziert werden. Beispiele:
+
+  * H<sub>2</sub>O (Wasser) besteht aus 2 H-Atomen und einem O-Atom. Dementsprechend muss gerechnet werden: 2 · M<sub>H</sub> + 1 · M<sub>O</sub> = 2 · 1 g/mol + 1 · 16 g/mol = 18 g/mol
+  * CH<sub>4</sub> (Methan): 1 · M<sub>C</sub> + 4 · M<sub>H</sub> = 12 g/mol + 4 · 1 g/mol = 16 g/mol
+  * C<sub>2</sub>H<sub>5</sub>OH (Ethanol): 2 · 12 g/mol + 6 · 1 g/mol + 1 · 16 g/mol = 46 g/mol
+
+Zur einfacheren Berechnung können molare Massen gerundet werden, wenn sie nahe an einer ganzen Zahl liegen.
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

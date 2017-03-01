@@ -1,0 +1,56 @@
+====== Person droht mit Sprung ======
+
+<WRAP center round important 60%>
+**G E D U L D !**
+</WRAP>
+
+===== zu treffende Maßnahmen =====
+
+==== Anfahrt ====
+
+  * Anfahrt ohne Sondersignal
+  * Einweisung der Einsatzkräfte:
+    * Jeder soll Person ständig beobachten, um nicht von ihr getroffen zu werden wenn sie wirklich springt
+    * Wenn die Person definitiv auf den blanken Boden (und nicht etwa in ein Sprungrettungsgerät) springt, dann Augen schließen und Ohren zuhalten
+
+==== Eintreffen ====
+
+  * Fahrzeugaufstellung möglichst außerhalb des Sichtbereichs der Person. DLK-Einsatz genau abwägen!
+  * Gefahrenbereich räumen/absperren
+  * ggf. Nachalarmierung Höhenrettung?
+  * Zugang zur Person über Gebäude, [[allgemein:drehleiter|Drehleiter]], etc. ?\\ durch Einsatzkräfte (Fw/Pol) gegen Fremdzutritt und Flucht sichern
+  * [[allgemein:geraete:sprungpolster|Sprungpolster]]-Bereitschaft herstellen, wenn möglich außerhalb des Sichtbereichs der Person
+
+==== Kontaktaufnahme zur Person ====
+
+  * möglichst kein Megaphon verwenden
+  * Ansprechen der Person
+    * durch Fachberater (Arzt, (Polizei-)Psychologen, Geistlicher)
+    * aushilfsweise Rettungsassistent (diese werden für diesen Einsatzfall geschult)
+  * Vorsichtige und vertrauliche Gesprächsaufnahme, Person erzählen lassen, darauf eingehen
+  * Versuchen entspannte Atmosphäre herzustellen
+    * Vertrauten Mensch der gefährdeten Person zur E-Stelle holen (aktiv fragen: soll jemand bestimmtes kommen?)
+    * Personen fernhalten die die Lage eskalieren lassen könnten
+    * Zigaretten und alkoholfreie Getränke anbieten
+    * nichts versprechen was nicht eingehalten werden kann
+
+==== Zugriff ====
+ 
+  * Zugriff nicht ohne Grund und nur wenn Gespräche keinen Erfolg zeigen
+  * nur truppweise vorgehen, ggf. das zweite Truppmitglied an nicht von der Person einsehbaren Stelle warten lassen
+  * günstigen Moment abwarten, <wrap important>Zugriff nur wenn Erfolg sicher ist!</wrap>
+
+==== besondere Gefahren ====
+
+    * [[allgemein:absturzsicherung|Absturzsicherung]] anlegen
+    * Vorsicht vor Waffengebrauch, Wurfgeschossen, Brandschätzen, etc.
+    * Sprungrettungsgeräte ohne Haltemannschaft nutzen
+
+===== Quellenangabe =====
+
+  * Einsatzleiterhandbuch BF Kaiserslautern
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+
+===== Stichwörter =====
+
+Suizid, Selbstmord, Person droht zu springen

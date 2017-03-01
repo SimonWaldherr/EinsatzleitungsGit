@@ -1,0 +1,36 @@
+~~NOCACHE~~
+
+====== Ex-Messgeräte ======
+
+===== zu treffende Maßnahmen =====
+
+  * Entscheidung oben/unten messen (Recherche der [[cbrn:allgemein:cbrn-lexikon:luftvergleichszahl|Luftvergleichszahl]] in Gefahrstoffdatenbank), Messung auf Brusthöhe meist sinnlos
+  * Gerät vor Betreten des Gefahrenbereichs einschalten
+  * [[cbrn:allgemein:gefahrenbereich|Einrichtung des Gefahrenbereichs]] je nach örtlicher Regelung (z.B. bei Erreichen von 20% UEG)
+  * Querempfindlichkeiten beachten
+  * Totzeit bis Stoff den Sensor erreicht beachten (ohne Elektropumpe bis zu 30 Sekunden)
+  * teils erhebliche Messungenauigkeiten!
+  * Ist das Messgerät nicht auf den zu messenden Stoff kalibriert, muss eine Umrechnung erfolgen um die realen Werte abzuschätzen (siehe unten)
+  * Windverhältnisse beachten
+  * Gerät nach jeder Benutzung prüfen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== mögliche Messfehler ====
+
+  * Sauerstoffmangel, z.B. in Schächten oder Tanks oder wenn die EX-Atmosphäre bereits über der OEG liegt
+  * bei Anwesenheit von Katalysatorgiften Vorfilter verwenden: Stoffe die Blei (Schwermetalle), Schwefel, Halogene (Fluor, Chlor, Brom, Iod), Silizium oder Silikon enthalten\\ z.B. Benzin, Diesel, Heizöl
+  * ein Sensor der aufgrund von Katalysatorgiften zerstört wurde wird vom Gerät nicht als defekt erkannt!
+
+==== Abschätzung der realen Konzentration ====
+
+~~INCLFORM=emg_umrechnung~~
+
+===== Quellenangabe =====
+
+  * Lehrgangsunterlagen ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * [[http://abc-gefahren.de/dateien/einsatz/anzeige_exmessgeraeten.pdf|Arbeitskarte: Anzeige von Ex-Messgeräten]], Markus Held, Fachbereich Gefahrgut, KFV Landkreis Amberg-Sulzbach
+  * {{cbrn:geraete:information_neue_untere_explosionsgrenzwerte.pdf|Neue untere Explosionsgrenzwerte (UEG) für brennbare Gase und Dämpfe in Luft}}, Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2007.
+
+===== Stichwörter =====

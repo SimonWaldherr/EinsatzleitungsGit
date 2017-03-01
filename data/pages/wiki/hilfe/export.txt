@@ -1,0 +1,45 @@
+====== Export einzelner Seiten ======
+
+Einzelne Seiten können über die ''export''-[[doku>devel:action_modes|Action]] in verschiedene Formate exportiert werden. 
+
+===== Voreinstellungen =====
+
+Die folgenden Voreinstellungen sind standardmäßig verfügbar:
+
+  * ''export_raw''
+    * Gibt die Seite als ''text/plain'' (Wiki-Quelltext) aus
+    * Beispiel: http://wiki.einsatzleiterwiki.de/doku.php?id=brand:windenergieanlagen&do=export_raw
+    * Wenn DokuWiki mit diesem Link auf eine neue Seite ''brand:windenergieanlagen_do_export_raw'' verweist, ändern Sie im Konfigurationsbereich die Einstellung für ''URL rewriting'' auf ''DokuWiki''.
+  * ''export_xhtml''
+    * Gibt die Seite als [[wpde>Xhtml|XHTML-Seite]] ohne Navigationselemente aus
+    * Beispiel: http://wiki.einsatzleiterwiki.de/doku.php?id=brand:windenergieanlagen&do=export_xhtml
+  * ''export_xhtmlbody''
+    * gibt nur das vom Parser erzeugte XHTML für den Seiteninhalt aus
+    * Es werden keine head- und body-Tags eingefügt. Es werden keine contenttype-Header übermittelt.
+    * Nützlich, wenn das Ergebnis in eine andere Seite integriert werden soll
+    * Beispiel: http://wiki.einsatzleiterwiki.de/doku.php?id=brand:windenergieanlagen&do=export_xhtmlbody
+
+===== Andere Exportformate =====
+
+Durch [[doku>plugins|Plugins]] können andere Exportformate gewählt werden. Auch in den [[doku>tips|Tipps]] werden Hinweise zu weiteren Exportformaten gegeben.
+
+  * [[wiki:hilfe:plugins:dw2pdf|dw2pdf - Export von Seiten in das PDF-Format]]. Dieses Plugin ist in der Online-Version des Einsatzleiterwikis installiert und wird demnächst auch in der zum Download erhältlichen Version integriert sein. 
+
+:!: **erweiterte Einstellungsmöglichkeiten - diese können Sie in Ihrem eigenen Wiki vornehmen** :!:
+
+  * [[doku>plugin:nsexport|nsexport - Exportiert Seiten/Namensräume in eine ZIP-Archiv]]
+  * [[doku>plugin:odt|odt - Export von Seiten in das ODT-Format (OpenOffice)]]
+
+:!: **Ende erweiterte Einstellungsmöglichkeiten** :!:
+
+===== Einstellungen =====
+
+:!: **erweiterte Einstellungsmöglichkeiten - diese können Sie in Ihrem eigenen Wiki vornehmen** :!:
+
+  * Damit der Export funktioniert darf er nicht über den Konfigurationsparameter [[doku>config:disableactions|disableactions (englische Seite)]] deaktiviert sein.
+
+:!: **Ende erweiterte Einstellungsmöglichkeiten** :!:
+
+===== Quellenangabe =====
+
+  * [[doku>de:export]], veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

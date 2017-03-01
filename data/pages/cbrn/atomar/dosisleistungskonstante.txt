@@ -1,0 +1,135 @@
+====== Dosisleistungskonstante ======
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+Gamma-Dosisleistungskonstanten können verwendet werden um die Äquivalentdosisleistung bei bekannter Aktivität des Strahlers in einer bestimmten Entfernung zu berechnen. Das Formelzeichen ist Γ<sub>H</sub>.
+
+Mit folgender Formel kann die Äquivalentdosisleistung in µSv/h berechnet werden:
+
+{{cbrn:atomar:formel_aequivalentdosisleistung.png?nolink|Formel zur Berechnung der Äquivalentdosisleistung}}
+
+  * A: Aktivität in Gigabecquerel ([[cbrn:atomar:strahlenschutzberechnungen#umrechnung_der_aktivitaet|Umrechnung]])
+  * r: Abstand von der Strahlenquelle in Metern
+
+Für die Berechnung wird vorausgesetzt, dass es sich zumindest annähernd um einen Punktstrahler handelt. Es ist zu beachten, dass durch die Gamma-Dosisleistungskonstanten nur die Anteile der Gamma-Strahlung abgedeckt werden, eventuelle weitere auftretende Strahlungsarten werden nicht berücksichtigt. Bei der zusätzlichen Emission von Beta-Strahlung kann diese bei geringer Entfernung zur Strahlungsquelle bis zu 200-fach höher sein als die Gamma-Strahlung.
+
+==== Gamma-Dosisleistungskonstanten wichtiger Nuklide ====
+
+^  Radionuklid  ^  HWZ           ^  Gamma-Dosisleistungskonstante\\ Einheit: (μSv·m²)/(h·GBq)  ^
+|  Be-7         |  53,29 d       |  7,768   |
+|  Na-22        |  2,603 a       |  322,1   |
+|  Na-24        |  14,96 h       |  491,2   |
+|  Mg-28        |  20,90 h       |  206,3   |
+|  Ar-41        |  1,83 h        |  178,1   |
+|  Kr-42        |  12,36 h       |  36,86   |
+|  Sc-46        |  83,82 d       |  292,9   |
+|  Ca-47        |  4,54 d        |  148,7   |
+|  V-48         |  15,97 d       |  420,6   |
+|  Cr-51        |  27,7 d        |  4,79    |
+|  Fe-52        |  8,27 h        |  467,9   |
+|  Mn-52        |  5,60 d        |  497,3   |
+|  Mn-54        |  312,20 d      |  125,4   |
+|  Mn-56        |  2,58 h        |  231,3   |
+|  Co-56        |  77,26 d       |  482,8   |
+|  Co-57        |  271,79 d      |  15,21   |
+|  Co-58        |  70,86         |  148     |
+|  Fe-59        |  44,503 d      |  168     |
+|  Co-60        |  5,272 a       |  351,1   |
+|  Cu-64        |  12,70 h       |  29,42   |
+|  Ni-65        |  2,52 h        |  75,18   | 
+|  Zn-65        |  244,30 d      |  83,21   |
+|  Ga-66        |  9,40 h        |  311,8   |
+|  Ga-67        |  78,30 h       |  20,81   |
+|  Ga-68        |  67,63 min     |  147,7   |
+|  Ge-68        |  270,82 d      |  147,7   |
+|  Ga-72        |  14,10 h       |  360,2   |
+|  As-74        |  17,77 d       |  117,5   |
+|  Se-75        |  119,64 d      |  55,46   |
+|  As-76        |  26,40 h       |  63,4    |
+|  Rb-81        |  4,58 h        |  92,2    |
+|  Kr-81 m      |  13,10 s       |  17,86   |
+|  Br-82        |  35,34 h       |  393     |
+|  Kr-85        |  10,76 a       |  0,354   |
+|  Sr-85        |  64,89 d       |  78,94   |
+|  Rb-86        |  18,70 d       |  13,71   |
+|  Sr-87 m      |  2,81 h        |  49,37   | 
+|  Y-88         |  106,60 d      |  357,6   |
+|  Y-91         |  58,50 d       |  509     |
+|  Zr-95        |  64,00 d       |  111,8   |
+|  Nb-95        |  34,97 d       |  116,1   |
+|  Mo-99        |  66,00 h       |  39,2    |
+|  Tc-99 m      |  6,00 h        |  16,16   |
+|  Ru-103       |  39,35 d       |  77,42   |
+|  Rh-105       |  35,40 h       |  11,74   |
+|  Pd-109       |  13,43 h       |  15,39   |
+|  Cd-109       |  462,60 d      |  43,47   |
+|  Ag-110 m     |  249,90 d      |  408,4   |
+|  Ag-111       |  7,45 d        |  4       |
+|  In-111       |  2,81 d        |  86,36   |
+|  In-113 m     |  99,49 min     |  47,91   |
+|  In-114 m     |  49,50 d       |  26,3    |
+|  Sn-113       |  115,10 d      |  74,27   |
+|  Cd-115 m     |  44,80 d       |  4,58    |
+|  Sb-122       |  2,70 d        |  68,77   |
+|  I-123        |  13,20 h       |  43,18   |
+|  Sb-124       |  60,30 d       |  260     |
+|  Sb-125       |  2,77 a        |  77,72   |
+|  J-125        |  59,41 d       |  38,8    |
+|  J-131        |  8,02 d        |  59,34   |
+|  Ba-131       |  11,50 d       |  85,1    |
+|  Te-132       |  3,024 d       |  391,2   |
+|  I-132        |  2,30 h        |  344     |
+|  Xe-133       |  5,20 d        |  13,88   |
+|  Ba-133       |  10,50 a       |  80,23   |
+|  Cs-134       |  2,06 a        |  237,2   |  
+|  Cs-137       |  30,17 a       |  87,98   |
+|  Ce-139       |  137,60 d      |  32,94   |
+|  Ba-140       |  12,75 d       |  395,6   |
+|  La-140       |  40,272 h      |  316,8   |
+|  Ce-141       |  32,50 d       |  11,98   |
+|  Ce-144       |  284,80 d      |  7,34    |
+|  Nd-147       |  10,98 d       |  24,38   |
+|  Eu-152       |  13,33 a       |  172,9   |
+|  Gd-153       |  239,47 d      |  23,25   |
+|  Eu-154       |  8,80 a        |  178,1   |
+|  Eu-155       |  4,761 a       |  9,25    |
+|  Yb-169       |  32,00 d       |  49,39   |
+|  Tm-170       |  128,60 d      |  0,7886  |
+|  Yb-175       |  4,20 d        |  6,027   |
+|  Hf-175       |  70,00 d       |  56,37   |
+|  Lu-177       |  6,71 d        |  7,483   |
+|  Hf-181       |  42,39 d       |  84,47   |  
+|  Ta-182       |  114,43 d      |  185     |
+|  Re-186       |  89,25 h       |  2,64    |
+|  W-187        |  23,72 h       |  72,84   |
+|  Os-191       |  15,40 d       |  12,94   |
+|  Ir-192       |  73,83 d       |  124,9   |
+|  Au-195 m     |  30,50 s       |  29,12   |
+|  Hg-195 m     |  40,00 h       |  40,91   |
+|  Pt-197       |  18,30 h       |  2,72    |
+|  Hg-197       |  64,10 h       |  8,701   |
+|  Au-198       |  2,6943 d      |  62,7    |
+|  Au-199       |  3,139 d       |  11,81   |
+|  Tl-201       |  73,10 h       |  11,86   |
+|  Hg-203       |  46,59 d       |  35,13   |
+|  Pb-210       |  22,30 d       |  0,47    |
+|  Ra-224       |  3,66 d        |  1,42    |
+|  Ra-226       |  1600 a        |  225     |
+|  Ac-227       |  21,773 a      |  58,9    |
+|  Ra-228       |  5,75 a        |  308     |
+|  Th-228       |  1,913 a       |  0,22    |
+|  Th-232       |  1,405x10¹⁰ a  |  298,4   |
+|  U-234        |  2,455x10⁵ a   |  0,02    |
+|  Am-241       |  432,2 a       |  6,594   |
+
+Nuklide, denen ein **m** (für //metastabil//) nachgestellt ist, befinden sich nicht im Grundzustand sondern sind Kernisomere.
+
+Viele weitere Informationen zu Nukliden sind auf der Seite [[cbrn:atomar:nuklidkarte|Nuklidkarte]] zu finden.
+
+===== Quellenangabe =====
+
+  * [[http://webuser.hs-furtwangen.de/~neutron/download/lehre/ssb/Strahlenschutzkursskript_18_09_13.pdf|Lehrunterlage "Grundkurs im Strahlenschutz"]], Studiengang Security & Safety Engineering (Bachelor), Hochschule Furtwangen
+  * [[wpde>Dosisleistungskonstante|Eintrag für Dosisleistungskonstante]] bei Wikipedia
+  * [[wpde>Isomer_(Kernphysik)|Eintrag für Kernisomer]] bei Wikipedia
+
+===== Stichwörter =====

@@ -1,0 +1,38 @@
+====== Stabsarbeit ======
+
+In den entsprechenden Artikeln ist beschrieben, welche Aufgaben von den jeweiligen Stabsfunktionen S1 bis S6 durchgeführt werden müssen. Diese können ggf. wie folgt zusammengefasst werden:
+
+  * S4 mit S1
+  * S2 mit S3
+  * S5 zu S2
+  * S6 zu S3
+
+<WRAP group>
+<WRAP column>
+===== Stabsarbeit =====
+{{simplenavi>allgemein:stabsarbeit}}
+</WRAP>
+
+<WRAP column>
+===== ggf. thematisch passend =====
+
+  * [[allgemein:bereitstellungsraum]]
+  * [[allgemein:evakuierung]]
+  * [[allgemein:karten]]
+  * [[allgemein:kraftstoffverbrauch]]
+  * [[allgemein:pressearbeit]]
+  * [[allgemein:taktische_zeichen]]
+  * [[allgemein:thw]]
+  * [[allgemein:warnung_bevoelkerung]]
+</WRAP>
+</WRAP>
+
+<WRAP clear/>
+
+===== Quellenangabe =====
+
+  * [[http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext_Fw_Dv/SKK_Dv_100.pdf?__blob=publicationFile|Führung und Leitung im Einsatz : Führungssystem ; Vorschlag einer Dienstvorschrift DV 100]], Ständige Konferenz für Katastrophenvorsorge und Katastrophenschutz
+
+===== Stichwörter =====
+
+Führungsstab, TEL, Technische Einsatzleitung

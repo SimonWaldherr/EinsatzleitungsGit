@@ -1,0 +1,43 @@
+====== Kraftstoffverbrauch ======
+
+Alle angegebenen Werte sind ca.-Angaben. Genauere Werte sind in den Bedienungsanleitungen der Geräte zu finden. Neuere Geräte verbrauchen i.d.R. weniger Kraftstoff als alte.
+
+==== Fahrzeuge ====
+
+^  Fahrzeugtyp  ^  Verbrauch \\ l/100 km  ^  Verbrauch im Stand \\ im Leerlauf  |
+|PKW  |  7 (Diesel) \\ 10 (Benzin)  |  1  |
+|PKW 3,5 t (z.B. ELW, MTF)  |  10 - 15  |  1,5  |
+|LKW 7,5 t (z.B. MLF)  |  15 - 25  |  2  |
+|LKW ca. 14 t (z.B. (H)LF)  |  25 - 40  |  3  |
+|schwerere LKW  |  bis zu 50  |  -  |
+
+Der Verbrauch auf 100 km ist für die Fahrt auf der Straße angegeben. Im Gelände ist dieser deutlich höher!
+
+==== Geräte ====
+
+^  Gerät  ^  Verbrauch \\ l/h  |
+|Kettensäge  |  5 + 0,25 l Öl  |
+|Drucklüfter  |  2  |
+|PFPN 10-1000 \\ (TS 8/8)|  10 - 15 \\ abhängig von Alter und Bauform  |
+|Schmutzwasserpumpe \\ 5.000 l/min (z.B. THW)  |  7  |
+|Schmutzwasserpumpe \\ 15.000 l/min (z.B. THW)|  10 - 11  |
+|Bagger / Radlader  |  15  |
+
+==== Stromerzeuger ====
+
+^  Leistung in kVA  ^  Verbrauch \\ l/h  |
+|  5 - 8  |  5  |
+|  30 - 50  |  15 - 25  |
+|  175 - 200  |  25 - 50  |
+
+Der Kraftstoffverbrauch von Stromerzeugern ist sehr stark davon abhängig, unter welcher Last diese betrieben werden.
+
+===== Quellenangabe =====
+
+  * [[http://www.thw-mak.de/file/4121_kenndaten_stromerzeuger.pdf|Taschenkarte Stromerzeuger]], Jürgen Kardel, THW OV Bremen-Süd
+  * [[http://www.thw-mak.de/file/4105_logistik_betriebsstoffverbrauch.pdf|Taschenkarte Logistik - Betriebsstoffverbrauch]], Jürgen Kardel, THW OV Bremen-Süd
+  * [[http://www.kfv-online.de/einheiten/ug-oel/dokumente/09_Betriebsmittelverbrauch.xls|Betriebsmittelverbrauch]], Unterstützungsgruppe Örtliche Einsatzleitung – Lkr. Nürnberger Land
+
+===== Stichwörter =====
+
+Spritverbrauch, Benzinverbrauch, Dieselverbrauch, Betriebsmittelverbrauch, Betriebsstoffverbrauch

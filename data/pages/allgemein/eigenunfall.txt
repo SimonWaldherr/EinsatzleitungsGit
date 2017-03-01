@@ -1,0 +1,34 @@
+====== Eigenunfall ======
+
+===== zu treffende Maßnahmen =====
+
+  * Sofort anhalten und Unfallstelle absichern
+  * Feststellen ob Personen verletzt wurden
+  * [[erste_hilfe:start|Erste Hilfe]] leisten
+  * Leitstelle informieren (Neubeschickung der eigentlichen Einsatzstelle sowie Beschickung des Eigenunfalls)
+  * Auf jeden Fall Polizei zur Unfallaufnahme anfordern
+  * Vorgehen wie bei [[allgemeine_hilfe:verkehrsunfall:start|Verkehrsunfällen]] üblich.
+  * Unfall dokumentieren
+    * Fotos machen, Skizzen erstellen, Unfallbeschreibung anfertigen
+    * Unfalldatenschreiber im Einsatzfahrzeug vorhanden?
+    * Daten des Unfallgegners notieren (Kennzeichen, Personalien) und diesem die eigenen Daten zur Verfügung stellen
+    * Keine Auskünfte zum Unfallhergang/Schuldeingeständnis gegenüber dem Unfallgegner
+    * Personalien von Unfallzeugen notieren
+    * Unfallspuren nicht beseitigen (für Ermittlungen der Polizei)
+  * bei Schwerverletzten und Toten [[allgemein:psnv:start|PSNV anfordern]]
+  * Information von übergeordneten Führungskräften.
+
+===== Allgemeine (Vorgehens-) Hinweise =====
+
+Bei Alarmfahrten muss der Fahrzeugführer bzw. Einsatzleiter, evtl. in Abstimmung mit der Leitstelle, entscheiden, ob bei Sachschäden die Einsatzfahrt ggf. fortgesetzt wird wenn keine anderen Einsatzkräfte zeitnah zur Verfügung stehen. Dies sollte dem Unfallgegner kurz dargelegt werden. Evtl. dann eine Einsatzkraft an der Einsatzstelle zurücklassen die mit dem Unfallgegener zusammen das Eintreffen weiterer Kräfte bzw. der Polizei abwartet. Der Polizei muss dann unverzüglich die Feststellung der entsprechenden Daten (Wer war Fahrer des Einsatzfahrzeugs etc.) ermöglicht werden. Einfach weiterzufahren ist Fahrerflucht!
+
+Bei Personenschäden sollte die Einsatzstelle nicht verlassen werden!
+
+===== Quellenangabe =====
+
+  * [[http://internet.lfks-rlp.de/fileadmin/user_upload/Redakteur/kreisausbildung/maschinist/Teilnehmerheft_Maschinist_13.09.13.pdf|Teilnehmerheft Maschinist]], Feuerwehr- und Katastrophenschutzschule Rheinland-Pfalz, 2013
+  * [[http://www.asb-rettungswache.de/PDF-Dateien/Unfall%20mit%20Einsatzfahrzeugen.pdf|Vorgehenshinweise nach einem Unfall mit Einsatzfahrzeugen]], Denis Boger, DRK KV
+
+===== Stichwörter =====
+
+VU Feuerwehr

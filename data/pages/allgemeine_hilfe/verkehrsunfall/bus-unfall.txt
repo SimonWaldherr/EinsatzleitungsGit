@@ -1,0 +1,53 @@
+====== Bus-Unfall ======
+
+===== zu treffende Maßnahmen =====
+
+siehe auch [[allgemeine_hilfe:verkehrsunfall:start|Verkehrsunfall allgemein]]
+
+  * sehr wahrscheinlich [[allgemein:manv|MANV]]
+    * Verletztenablage nicht direkt am Bus einrichten, um sich nicht selbst bei der Arbeit zu behindern
+  * [[allgemein:bereitstellungsraum|Bereitstellungsraum]], An- und Abfahrt für Rettungsdienst festlegen
+    * auf Autobahn Komplettsperrung beider Fahrtrichtungen
+  * schnelle Brandausbreitung - dreifachen Brandschutz aufbauen
+  * [[allgemeine_hilfe:verkehrsunfall:erkennung_alternativer_fahrzeugantriebe|Antriebsart feststellen]] - insbesondere Stadtbusse verwenden alternative Antriebe!
+
+==== bei Reisebussen ====
+
+  * Toilette und Schlafkabine, erkennbar an kleinem Bullaugen-Fenster, kontrollieren. Zugang meist über seitlichen Eingang am normalen Einstieg. \\ Teilweise sind auch "selbstgebaute" Schlafkabinen im Gepäckraum anzutreffen, deshalb auch diesen kontrollieren!
+
+==== bei Linienbussen ====
+
+  * Kontrolle ob die Feststellbremse oder Haltestellenbremse betätigt ist. Die Haltestellenbremse wirkt nur mit geringfügiger Bremskraft und das Ventil wird elektronisch angesteuert. Nach Abklemmen der Fahrzeugbatterie ist die Haltestellenbremse wirkungslos.
+
+
+==== besondere Gefahren ====
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Frontscheibe bis zu 150 kg schwer
+  * bei Doppeldeckerbussen können die unteren Scheiben tragende Funktion haben und dürfen deshalb nicht alle entfernt werden!
+  * auf dem Dach liegende Busse sind sehr instabil
+  * ggf. Not-Aus-Schalter für den Motor im Motorraum vorhanden
+
+==== Öffnungen schaffen ====
+
+  * Haltestangen u.ä. bis hin zu ganzen Sitzreihen mit Rettungsschere entfernen um Rettung zu vereinfachen
+  * Fenster oder Dach-Notausstiege für leichteren Zugang mit Rettungsschere, Säbelsäge, etc. vergrößern
+
+==== medizinische Rettung ====
+
+  * Treppen in Doppelstockbussen sind zu schmal um Tragen zu benutzen
+  * Spineboards passen auch in enge Gänge
+
+==== Stadtbusse ====
+
+  * Bei Gelenkbusse mehrere Tanks im Fahrzeug, meist unter Radkästen
+
+===== Quellenangabe =====
+
+  * "Technische Rettung Busunfälle"; Rüdiger Knoll, Jörg Heck
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+
+===== Stichwörter =====
+
+Omnibus

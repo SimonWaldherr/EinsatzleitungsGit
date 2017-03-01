@@ -1,0 +1,53 @@
+====== Jedermannsrechte ======
+
+===== Vorläufige Festnahme =====
+
+Eine vorläufige Festnahme durch jedermann ist zulässig, wenn folgende Bedingungen erfüllt sind:
+
+  * auf frischer Tat ertappt:\\ Die Person wurde bei einer Straftat überrascht die mit eigenen Augen gesehen wurde.
+  * der Flucht verdächtigt:\\ Die Person will nicht bis zum Eintreffen der Polizei am Tatort bleiben.
+  * Identität nicht sofort feststellbar:\\ Die Person kann bzw. will sich nicht ausweisen
+
+Alle 3 Bedingungen müssen gleichzeitig erfüllt sein. Das //oder//, welches im Gesetzestext (s.u.) zwischen den Bedingungen im Gesetzestext steht, ist als //und// zu verstehen.
+
+===== Notwehr / Nothilfe (§ 32 StGB / § 227 BGB) =====
+
+Die Notwehr setzt sich aus folgenden Bestandteilen zusammen:
+
+  * Verteidigung (Abwehr, kein eigener Angriff!)
+  * erforderlich (die Gegenwehr darf nur so stark sein, dass ein sofortiges Ende des Angriffs zu erwarten ist)
+  * gegenwärtig (der Angriff dauert an oder steht unmittelbar bevor; Angreifer kürzer als eine Armlänge entfernt)
+  * rechtswidrig (der Angriff muss eine Straftat sein)
+
+Alle 4 Bedingungen müssen gleichzeitig erfüllt sein um in Notwehr handeln zu können.
+
+Verteidigt man eine andere Person als sich selbst, so spricht man von Nothilfe. Dieser Begriff ist im Gesetz allerdings nicht definiert.
+
+===== Gesetzestexte =====
+
+==== § 127 StPO ====
+
+(1) Wird jemand auf frischer Tat betroffen oder verfolgt, so ist, wenn er der Flucht verdächtig ist oder seine Identität nicht sofort festgestellt werden kann, jedermann befugt, ihn auch ohne richterliche Anordnung vorläufig festzunehmen. […]
+
+==== § 32 StGB Notwehr (fast identisch zu § 227 BGB) ====
+
+(1) Wer eine Tat begeht, die durch Notwehr geboten ist, handelt nicht rechtswidrig.
+
+(2) Notwehr ist die Verteidigung, die erforderlich ist, um einen gegenwärtigen rechtswidrigen Angriff von sich oder einem anderen abzuwenden.
+
+==== § 34 Rechtfertigender Notstand ====
+
+Wer in einer gegenwärtigen, nicht anders abwendbaren Gefahr für Leben, Leib, Freiheit, Ehre, Eigentum oder ein anderes Rechtsgut eine Tat begeht, um die Gefahr von sich oder einem anderen abzuwenden, handelt nicht rechtswidrig, wenn bei Abwägung der widerstreitenden Interessen, namentlich der betroffenen Rechtsgüter und des Grades der ihnen drohenden Gefahren, das geschützte Interesse das beeinträchtigte wesentlich überwiegt. Dies gilt jedoch nur, soweit die Tat ein angemessenes Mittel ist, die Gefahr abzuwenden.
+
+===== Weblinks =====
+
+  * [[wpde>Rechtfertigender_Notstand|Rechtfertigender Notstand bei Wikipedia]]
+
+===== Quellenangabe =====
+
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * [[http://www.gesetze-im-internet.de/stgb/|Strafgesetzbuch]]
+  * [[http://www.gesetze-im-internet.de/bgb/|Bürgerliches Gesetzbuch]]
+  * [[http://www.gesetze-im-internet.de/stpo/|Strafprozeßordnung]]
+
+===== Stichwörter =====

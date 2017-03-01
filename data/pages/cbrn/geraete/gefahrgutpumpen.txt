@@ -1,0 +1,30 @@
+====== Gefahrgutpumpen ======
+
+===== zu treffende Maßnahmen =====
+
+  * Beim **Umpumpen von brennbaren Flüssigkeiten**
+    * unbedingt alle Teile der Leitung erden!
+    * [[cbrn:chemisch:temperaturklasse|Temperaturklasse]] beachten!
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+^  Pumpe                               ^  Einsetzbar in [[cbrn:allgemein:cbrn-lexikon:ex-zonen|Ex-Zone]]  ^  [[cbrn:chemisch:temperaturklasse|Temperaturklasse]]                        ^  max. Förderstrom                          ^  max. Förderdruck                        ^
+| Handmembranpumpe                     |  Zone 0, 1, 2             |  nicht erforderlich                      |  3,5 l/Hub                                 |  ca. 0,6 bar                             |
+| Fasspumpe mit Edelstahl-Pumpwerk     |  Zone 0, 1, 2             |  T6                                      |  ca. 100 - 200 l/min\\ herstellerabhängig  |  ca. 0,9 - 1,6 bar\\ herstellerabhängig  |
+| Fasspumpe mit Kunststoff-Pumpwerk    |  **nein**                 |  **nicht für brennbare Flüssigkeiten **  |  :::                                       |  :::                                     |
+| Gefahrgut-Umfüllpumpe (GUP)          |  Zone 1, 2                |  T3                                      |  ca. 600 l/min                             |  2 bar                                   |
+| Gefahrgut-Schlauchpumpe (ELRO-Pumpe) |  Zone 1, 2                |  T3                                      |  300 l/min                                 |  2 bar                                   |
+| Gefahrgut-Tauchpumpe                 |  Zone 1, 2                |  **nicht für brennbare Flüssigkeiten **  |  400 l/min                                 |  1,5 bar                                 |
+
+<WRAP center round important 100%>
+ACHTUNG: Die hier genannten Werte sind nur als grobe Anhaltspunkte zu verstehen. Die Leistungsfähigkeit und Einsatzgrenzen der örtlich vorgehaltenen Geräte können abweichen.\\
+Der maximale Förderstrom und -druck ist jeweils für den Idealfall Förderhöhe = 0 Meter angegeben.
+</WRAP>
+
+===== Quellenangabe =====
+
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+
+===== Stichwörter =====
+
+Gefahrgutpumpe, Gefahrstoffpumpe, Gefahrstoffpumpen

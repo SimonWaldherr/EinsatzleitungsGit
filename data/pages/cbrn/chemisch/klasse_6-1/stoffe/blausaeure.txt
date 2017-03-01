@@ -1,0 +1,32 @@
+====== Blausäure ======
+
+===== zu treffende Maßnahmen =====
+
+[[cbrn:ericards:klasse_6-1:16130832|ERICard für Blausäure (Cyanwasserstoff) in Lösung mit maximal 20% Blausäure-Anteil]]
+
+==== besondere Gefahren ====
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:blausaeure_brom_n-butan_1-3-butadien.pdf|chemisch-physikalische Daten zu Blausäure}}
+
+==== Messung mit Prüfröhrchen ====
+
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:blausaeure_2a.pdf|Dräger-Röhrchen Blausäure 2/a}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:blausaeure_20a-d.pdf|Dräger-Röhrchen Blausäure 20/a-D (direktanzeigendes Diffusionsröhrchen}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:blausaeure_0-5_10mg-l.pdf|Dräger-Röhrchen Blausäure (Cyanid) 0,5 bis 10 mg/L (Messung in flüssigen Proben)}}
+
+==== Messung mit Chip-Mess-System ====
+
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_benzol_10_250ppm_blausaeure_2_50ppm.pdf|Dräger-CMS-Chip Blausäure 2 - 50 ppm}}
+
+===== Weblinks =====
+
+  * [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/012450.xml?f=templates&fn=default.htm|Blausäure (Cyanwasserstoff) in der GESTIS-Gefahrstoffdatenbank]]
+  * [[wpde>Cyanwasserstoff|Blausäure (Cyanwasserstoff) in der Wikipedia]]
+
+===== Quellenangabe =====
+
+===== Stichwörter =====
+
+Cyanwasserstoff, HCN

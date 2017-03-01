@@ -1,0 +1,134 @@
+====== Drehleiter-/Hubrettungsgeräteeinsatz ======
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+**HAUS**-Regel beachten!
+
+  * **H**indernisse
+  * **A**bstände
+  * **U**ntergrund
+  * **S**icherheit
+
+==== H - Hindernisse ====
+
+  * Hindernisse bei der Aufstellung der Drehleiter und beim Anleitern vermeiden
+  * Drehleiter in enge Straßen oder Sackgassen zuerst einfahren lassen.
+  * Hubarbeitsbühnen benötigen besonders viel Platz für die Aufstellung.
+  * Bei Einsätzen in geringer Höhe möglichst über das Heck anleitern.
+  * [[allgemein:elektrische_anlagen#einzuhaltende_abstaende|Sicherheitsabstände zu elektrischen Leitungen]] einhalten - Leitungen im Bewegungsbereich des Auslegers abschalten und erden!
+
+**Merke für Hindernisse: Hochschauen – nach hinten schauen!**
+
+==== A - Abstände ====
+
+  * Abstände einhalten um das Potential der Drehleiter voll ausschöpfen zu können.
+  * Oft dreht auch der hintere Teil des Auslegers über die Fahrzeugkontur bzw. die Abstützung heraus.
+  * Aufbau nicht im Trümmerschatten - im Winter auf herabrutschenden Schnee/Eis achten!
+
+**Merke für Abstände: abmessen – abschreiten!**
+
+Die nachfolgenden Richtwerte müssen für die eigene Drehleiter individuell ermittelt werden und genaue Werte zu erhalten!
+
+=== Richtwerte der Abstände für Drehleitern der Leiterklasse 30 Meter ===
+
+  * **1,50 Meter** Abstand von der **Fahrzeugkante** für die volle Abstützbreite
+  * **2 Meter** Abstand von der **Fahrzeugkante** für den drehenden Hubrettungssatz auf der unbelasteten Seite
+  * **7 Meter** Abstand vom Objekt zur Position der **Drehkranzmitte** abschreiten für die maximale Rettungshöhe
+  * **9 Meter** Abstand vom Objekt/Hindernis zur Position der **Drehkranzmitte** abschreiten für ein Anleitern in geringer Rettungshöhe/für das Durchleitern von Toreinfahrten
+  * **10 Meter** Freiraum hinter dem Hubrettungsfahrzeug sind grundsätzlich freizuhalten
+
+=== Richtwerte der Abstände für Hubarbeitsbühnen entsprechend der Leiterklasse 30 Meter ===
+
+  * **2 Meter** Abstand von der **Fahrzeugkante** für die volle Abstützbreite
+  * **5 Meter** Abstand vom Objekt zur Position der **Drehkranzmitte** abschreiten für die maximale Rettungshöhe
+  * **6 Meter** Abstand vom Objekt zur Positionierung der **Drehkranzmitte** für ein Anleitern in geringer Rettungshöhe
+  * **14 Meter** Abstand vom Objekt/Hindernis zur Position der **Drehkranzmitte** abschreiten für das Durchleitern von Toreinfahrten
+  * **10 Meter** Freiraum hinter dem Hubrettungsfahrzeug sind grundsätzlich freizuhalten
+
+==== U - Untergrund ====
+
+  * Öffentliche Verkehrsfläche für KFZ-Verkehr sind i.d.R. ausreichend befestigt.
+  * Aufstellflächen für die Feuerwehr sind für 10t Achslast und 16t Gesamtgewicht ausgelegt.
+  * Unbefestigten Untergrund sorgfältig prüfen.
+  * Nicht auf Gehwegen abstützen.
+  * Zur Vergrößerung der Auflagefläche nur mitgelieferte Klötze bzw. Platten verwenden - diese im Winter auf die //Winterseite// legen (evtl. bei Hubarbeitsbühnen vorhanden)
+  * Kippgefahr auf weichem und nachgiebigem Untergrund, besonders bei feuchtem. Bodenaufweichung bei Löschwassereinsatz!
+  * halben Meter Abstand zu Sielen, Gullys, Schachabdeckungen, Grabenverrohrungen halten
+  * 2 Meter Abstand zu Böschungskanten halten - Unterlegklötze verwenden
+  * Seitwärts am Berg Stützen auf Bergseite ggf. nicht voll ausfahren
+  * Im Winter Untergrund von Eis und Schnee befreien um den Untergrund untersuchen zu können - ggf. //Eisschuhe// verwenden.
+
+**Merke für Untergrund: nach unten schauen – untersuchen!**
+
+=== Einsatz von Unterlegklötzen ===
+
+^  Hersteller  ^  Fahrzeugtyp  ^  Vergrößerung der\\ Fläche unter den\\ Stütztellern  ^  Bodenpressung mit\\ Unterlegklötzen  ^
+^  Metz Aerials  |  DLA (K) 23/12 – L32  |  63 %  |  37 N/cm²  |
+^  Iveco Magirus  |  DLA (K) 23/12 CS  |  55 %  |  51 N/cm²  |
+^  Iveco Magirus  |  DLK 23-12 CC  |  40 %  |  57 N/cm²  |
+
+Quelle: Hersteller
+
+==== S - Sicherheit ====
+
+  * Bewegungsbereich ausreichend absperren - Absperrung gilt auch für Einsatzkräfte!
+  * zu rettende Personen von der Seite anfahren
+  * Vor Besteigen Sprossengleichheit herstellen und Motor abschalten.
+  * Kein Einsatz bei Gewitter
+  * [[allgemein:elektrische_anlagen#einzuhaltende_abstaende|Sicherheitsabstände zu elektrischen Leitungen]] einhalten - Leitungen im Bewegungsbereich des Auslegers abschalten und erden!
+  * technischen Anlagen:
+    * 0,5 m Abstand zu [[allgemein:funksendeanlagen|Mobilfunkanlagen]] halten
+    * Abstand zu [[allgemein:funksendeanlagen|Radio- und TV-Sendeanlagen]] beim Betreiber erfragen
+    * [[brand:allgemein:photovoltaik|Photovoltaikanlagen]]
+    * bis 140°C heißes Wasser in Sonnenkollektoren
+    * Absturzgefahr von beschädigten Solarmodulen
+  * bei Einsätzen im Wasserbereich
+    * Besatzung gegen Ertrinken schützen
+    * zur Menschenrettung Korbleiter ausklappen
+    * Korb nicht in Wasser eintauchen - mögl. Lastzunahme durch gerettete Person und Instabilität durch Strömung!
+  * Bei Temperaturen unterhalb des Gefrierpunkts:
+    * Direkt nach dem Eintreffen an der Einsatzstelle den Nebenantrieb einschalten um das Hydrauliköl auf Temperatur zu halten. Andernfalls kann der Leitersatz ins Ruckeln geraten.
+    * gefrierendes Löschwasser kann zur Fehlfunktion von Sensoren bis hin zum Ausfall der DL führen und Podium und Leiter sehr rutschig machen
+
+**Merke für Sicherheit: sorgfältig arbeiten – Sinne einschalten!**
+
+=== Einschränkungen bei Wind ===
+
+In 20 Metern Höhe kann die [[allgemein:wetter:windstaerke|Windstärke]] um bis zu 2 Stufen Beaufort höher sein als am Boden!
+
+^  Windstärke\\ in Beaufort   ^  Windgeschwindigkeit  ^^ Maßnahme ^
+^ ::: ^  in km/h  ^  in m/s    ^ :::      ^
+|  5            |  40       |  ca. 10    |Herstellerangaben beachten, z.B. Einsatz von Halteleinen erforderlich|
+|  8            |  75       |  ca. 20    |Einsatz sollte nur noch zur Menschenrettung erfolgen|
+|  10           |  100      |  ca. 30    |Betrieb grundsätzlich einstellen|
+
+=== Kontakt mit Freileitung ===
+
+  * Maschinist und Einsatzkraft im Korb verbleiben ruhig an ihrer Position und berühren keine Teile in ihrer Umgebung.
+  * Keine „Rettungsversuche“ durch andere Einsatzkräfte – 20 Meter Abstand halten!
+  * Umgehende Freischaltung und Erdung der berührten Spannungsquelle veranlassen.
+  * Erst Absteigen, wenn sichergestellt ist, dass die berührte Leitung stromlos ist.
+  * Wenn es zu einem Technikausfall gekommen ist, kann die Rettung der Personen im Korb mithilfe eines anderen Hubrettungsfahrzeugs sinnvoll sein.
+
+==== Wenderohr-/Werfereinsatz ====
+
+  * <wrap safety>Abstand zum Objekt: 1,5 x Gebäudehöhe</wrap> (Trümmerschatten), ggf. auch mehr, da die Wärmestrahlung bei einer Brandausbreitung stark zunehmen kann
+  * Drehleiter vor den Ecken von Gebäuden aufstellen, da dort der größte Schutz vor nach außen fallenden Wänden gegeben ist (siehe Grafik)
+  * Fahrerhaus sollte Richtung Brandobjekt zeigen, da
+    * einfachere Schlauchführung über das Heck der Drehleiter
+    * schnellerer Rückzug möglich
+  * Korbbesatzung trägt umluftunabhängigen Atemschutz!
+  * Leitersatz max. 70° aufrichten und nicht weiter ausziehen als unbedingt nötig bzw. die Bedienungsanleitung erlaubt!
+
+{{:allgemein:drehleiter_halle_beschreibung.png?direct|Fahrzeugaufstellung bei Werfereinsatz}}
+
+===== Quellenangabe =====
+
+  * [[http://www.drehleiter.info/DLI/?wpdmdl=3181|HAUS-Regel Version 6]], [[http://www.drehleiter.info|drehleiter.info]]
+  * [[http://www.drehleiter.info/DLI/?wpdmdl=3196|Fachinformation: Winterbetrieb 2014.04]], [[http://www.drehleiter.info|drehleiter.info]]
+  * [[http://www.drehleiter.info/DLI/?wpdmdl=3195|Fachinformation: Wenderohreinsatz 2014.04]], [[http://www.drehleiter.info|drehleiter.info]]
+  * Lehrgang "Maschinist für Hubrettungsfahrzeuge" bei der BF Kaiserslautern (2010)
+
+===== Stichwörter =====
+
+DL, Leiter, Hubrettungsfahrzeug, Hubrettungsfahrzeug, Hubarbeitsbühne, HAB, Gelenkmast, GM, Teleskopgelenkmast, TGM

@@ -1,0 +1,73 @@
+====== Physikalische Grundlagen ======
+
+===== Hebelgesetz =====
+
+{{:allgemein:hebel.png?nolink&400 |Hebel}}
+
+Der Hebel befindet sich im Gleichgewicht, wenn gilt:
+
+F<sub>L</sub> · l<sub>L</sub> = F<sub>K</sub> · l<sub>K</sub>
+
+oder
+
+M<sub>L</sub> = M<sub>K</sub>
+
+===== SI-Basiseinheiten =====
+
+^  Größe  ^  Formelzeichen  ^  Basiseinheit  ^  Einheitenzeichen  ^
+|  Länge  |  l  |  Meter  |  m  |
+|  Masse  |  m  |  Kilogramm  |  kg  |
+|  Zeit  |  t  |  Sekunde  |  s  |
+|  elektrische Stromstärke  |  I  |  Ampere  |  A  |
+|  absolute Temperatur  |  T  |  Kelvin  |  K  |
+|  Stoffmenge  |  n  |  Mol  |  mol  |
+|  Lichtstärke  |  I<sub>V</sub>  |  Candela  |  cd  |
+
+==== ausgewählte abgeleitete SI-Einheiten ====
+
+^  Größe  ^  Einheit  ^  Einheiten-\\ zeichen  ^  In anderen\\ SI-Einheiten\\ ausgedrückt  ^  In\\ SI-Basiseinheiten\\ ausgedrückt  ^  Alternative\\ Einheiten  ^
+|  Frequenz  |  Hertz  |  Hz  |    |  s<sup>−1</sup>  |    |
+|  Kraft  |  Newton  |  N  |  J/m  |  m·kg·s<sup>−2</sup>  |    |
+|  Druck  |  Pascal  |  Pa  |  N/m<sup>2</sup>  |  m<sup>−1</sup>·kg·s<sup>−2</sup>  |  100 000 Pa = 1 bar  |
+|  Energie\\ Arbeit\\ Wärmemenge  |  Joule  |  J  |  N·m\\ W·s  |  m<sup>2</sup>·kg·s<sup>−2</sup>  |    |
+|  Leistung  |  Watt  |  W  |  J/s\\ V·A  |  m<sup>2</sup>·kg·s<sup>−3</sup>  |    |
+|  elektrische Ladung  |  Coulomb  |  C  |    |  A·s  |    |
+|  elektrische Spannung  |  Volt  |  V  |  W/A\\ J/C  |  m<sup>2</sup>·kg·s<sup>−3</sup>·A<sup>−1</sup>  |    |
+|  elektrischer Widerstand  |  Ohm  |  Ω  |  V/A  |  m<sup>2</sup>·kg·s<sup>−3</sup>·A<sup>−2</sup>  |    |
+|  Celsius-Temperatur  |  Grad Celsius  |  °C  |    |  K  |  0°C = 273,15 K  |
+|  Radioaktivität  |  Becquerel  |  Bq  |    |  s<sup>−1</sup>  |    |
+|  [[cbrn:allgemein:cbrn-lexikon:dosis#energiedosis|Energiedosis]]  |  Gray  |  Gy  |  J/kg  |  m<sup>2</sup>·s<sup>−2</sup>  |    |
+|  [[cbrn:allgemein:cbrn-lexikon:dosis#aequivalentdosis|Äquivalentdosis]]  |  Sievert  |  Sv  |  J/kg  |  m<sup>2</sup>·s<sup>−2</sup>  |    |
+
+===== Größenordnungen =====
+
+^  Faktor  ^  Symbol  ^  Name  ^  Dezimalzahl  ^  Zahlwort  ^
+|  10<sup>24</sup>  |  Y  |  Yotta  |  1 000 000 000 000 000 000 000 000  |  Quadrillion  |
+|  10<sup>21</sup>  |  Z  |  Zetta  |  1 000 000 000 000 000 000 000  |  Trilliarde  |
+|  10<sup>18</sup>  |  E  |  Exa  |  1 000 000 000 000 000 000  |  Trillion  |
+|  10<sup>15</sup>  |  P  |  Peta  |  1 000 000 000 000 000  |  Billiarde  |
+|  10<sup>12</sup>  |  T  |  Tera  |  1 000 000 000 000  |  Billion  |
+|  10<sup>9</sup>  |  G  |  Giga  |  1 000 000 000  |  Milliarde  |
+|  10<sup>6</sup>  |  M  |  Mega  |  1 000 000  |  Million  |
+|  10<sup>3</sup>  |  k  |  Kilo  |  1 000  |  Tausend  |
+|  10<sup>2</sup>  |  h  |  Hekto  |  100  |  Hundert  |
+|  10<sup>1</sup>  |  da  |  Deka  |  10  |  Zehn  |
+|  10<sup>0</sup>  |  -  |  -  |  1  |  Eins  |
+|  10<sup>-1</sup>  |  d  |  Dezi  |  0,1  |  Zehntel  |
+|  10<sup>-2</sup>  |  c  |  Centi  |  0,01  |  Hundertstel  |
+|  10<sup>-3</sup>  |  m  |  Milli  |  0,001  |  Tausendstel  |
+|  10<sup>-6</sup>  |  µ  |  Mikro  |  0,000 001  |  Millionstel  |
+|  10<sup>-9</sup>  |  n  |  Nano  |  0,000 000 001  |  Milliardstel  |
+|  10<sup>-12</sup>  |  p  |  Pico  |  0,000 000 000 001  |  Billionstel  |
+|  10<sup>-15</sup>  |  f  |  Femto  |  0,000 000 000 000 001  |  Billiardstel  |
+|  10<sup>-18</sup>  |  a  |  Atto  |  0,000 000 000 000 000 001  |  Trillionstel  |
+|  10<sup>-21</sup>  |  z  |  Zepto  |  0,000 000 000 000 000 000 001  |  Trilliardstel  |
+|  10<sup>-24</sup>  |  y  |  Yokto  |  0,000 000 000 000 000 000 000 001  |  Quadrillionstel  |
+
+===== Quellenangabe =====
+
+  * [[wpde>Internationales_Einheitensystem]]
+  * [[wpde>Liste_physikalischer_Größen]]
+  * [[wpde>Wissenschaftliche_Notation]]
+  * [[wpde>Vorsätze_für_Maßeinheiten]]
+  * Grafik Hebelgesetz: [[wpde>Datei:Hebel3.png]], veröffentlicht vom Wikipedia-User [[wpde>Benutzer:Studi111|Studi111]] als gemeinfrei

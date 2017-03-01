@@ -1,0 +1,64 @@
+====== Funksendeanlagen ======
+
+Durch den stark wachsenden Aufbau von Mobilfunknetzen sind Sendeanlagen, die elektromagnetische Felder abstrahlen, immer häufiger anzutreffen. Durch die Felder können Gefahren für Einsatzkräfte entstehen
+
+===== zu treffende Maßnahmen =====
+
+    * Erkundung
+      * Bei Einsätzen im Bereich von Dächern, Masten, Brücken, Türmen etc. auf das Vorhandensein von Antennenanlagen achten ([[allgemein:absturzsicherung|Absturzsicherungs]]- bzw. Höhenrettereinsatz, [[allgemein:drehleiter|Einsatz der DLK]])
+      * In Tunnelanlagen auf Richtfunkstrecken achten
+    * ggf. Anlage abschalten lassen
+    * Schutzabstand einhalten
+    * Einsatz bzw. im entsprechenden Bereich eingesetzte Einsatzkräfte dokumentieren
+
+==== besondere Gefahren ====
+
+    * Elektromagnetische Felder verursachen Wechselwirkungen mit dem menschlichen Körper
+    * Hochfrequente elektromagnetische Felder erzeugen mit zunehmender Stärke des Feldes im menschlichen Körper Wärme
+    * Die Wirkung nimmt mit zunehmender Entfernung von der Quelle rasch ab ("quadratisches Abstandsgesetz")
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Sicherheitsabstände Mobilfunkanlagen ====
+
+<WRAP group>
+<WRAP half round box column>
+keine Kennzeichung oder Schild ohne Angaben zum Sicherheitsabstand: 
+
+  * vorne (Hauptstrahlrichtung): 0,5 m
+  * seitlich, oben, unten: 0,25 m
+  * hinter der Antenne: 0,0 m
+
+{{ cbrn:allgemein:kennzeichnung:warnung_vor_nicht_ionisierender_elektromagnetischer_strahlung.png?100&nolink |Warnschild Funksendeanlage}}
+</WRAP>
+
+<WRAP half round box column>
+Ist der Sicherheitsabstand größer als 0,5 m wird er auf einem gesonderten Hinweisschild unter dem Warnzeichen angegeben.
+
+{{ :allgemein:warnung_funkanlage_schild.jpg?nolink |Warnschild Funksendeanlage mit Hinweisschild zu Abständen}}
+</WRAP>
+</WRAP>
+
+==== Sicherheitsabstände Rundfunk- und Fernsehsender ====
+
+<WRAP group>
+<WRAP half round box column>
+keine Kennzeichung oder Schild ohne Angaben zum Sicherheitsabstand: Sicherheitsabstände beim Betreiber der Anlage erfragen
+
+{{ cbrn:allgemein:kennzeichnung:warnung_vor_nicht_ionisierender_elektromagnetischer_strahlung.png?100&nolink |Warnschild Funksendeanlage}}
+</WRAP>
+
+<WRAP half round box column>
+Sicherheitsabstände gemäß Hinweisschild, falls vorhanden
+
+{{ :allgemein:warnung_funkanlage_schild.jpg?nolink |Warnschild Funksendeanlage mit Hinweisschild zu Abständen}}
+</WRAP>
+</WRAP>
+===== Quellenangabe =====
+
+  * [[https://www.vfdb.de/fileadmin/abdownloads/MerkblattFunksendeanlagen.pdf|vfdb Merkblatt "Empfehlung für den Feuerwehreinsatz in der Nähe von Funksendeanlagen" 2007]]
+  * Piktogramm [[https://commons.wikimedia.org/wiki/File:ISO_7010_W005.svg|Warnung vor nicht ionisierender Strahlung]]: veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:Maxxl2|Maxxl2]] unter Public-Domain-Lizenz.
+
+===== Stichwörter =====
+
+Funkmast, Sendeanlagen, Handymast

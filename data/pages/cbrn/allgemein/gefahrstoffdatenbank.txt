@@ -1,0 +1,78 @@
+====== Gefahrstoffdatenbanken ======
+
+Nutzen Sie die Datenbanken zu Übungen und ähnlichen Anlässen, um die Systeme im Ernstfall sicher bedienen zu können!
+
+===== Weblinks =====
+
+==== CEFIC-ERI-CARD-Datenbank ====
+
+Die CEFIC-"Emergency Response Intervention Cards" (ERI-Cards) geben der Feuerwehr Hinweise über erste Einsatzmaßnahmen, wenn Sie beim Eintreffen am Ereignisort eines Gefahrgutunfalls keine zuverlässigen stoffspezifischen Informationen zur Verfügung haben.
+
+Die ERICards sind seit März 2012 in das Einsatzleiterwiki integriert und auf folgender Seite zu finden: [[cbrn:ericards:start]]
+
+==== Einsatztoleranzwerte (ETW) nach vfdb-Richtlinie 10/01 ====
+
+Eine Tabelle mit den Einsatztoleranzwerten befindet sich auf der Seite [[cbrn:chemisch:grenzwerte#etw|Störfallbeurteilungswerte]].
+
+==== Environmental Protection Agency - AEGL-Werte ====
+
+Die US Environmental Protection Agency veröffentlicht [[cbrn:chemisch:grenzwerte#aegl|AEGL-Werte]]-Werte in einer PDF-Datei, diese ist auch hier hinterlegt: {{ :cbrn:allgemein:compiled_aegls_update_27jul2018.pdf |AEGL-Werte (Stand 07/2018)}}
+
+Die Stoffe werden mit dem englischen Stoffnamen und der CAS-Nummer aufgeführt. Nutzen Sie am besten die Suchfunktion Ihres PDF-Programms (meist auch über Tastenkombination STRG + F erreichbar), um den gesuchten Stoff zu finden.
+
+Auf der Seite [[http://www2.epa.gov/aegl/access-acute-exposure-guideline-levels-aegls-values]], aus der die PDF-Datei entnommen wurde, ist auch eine Online-Suche in den aktuellen AEGL-Werten möglich (ebenfalls englischsprachig).
+
+==== GDL Online-Stoffdatenbank ====
+
+Die Gefahrstoffdatenbank der Länder ist die gemeinsame Gefahrstoffdatenbank der für die staatliche Überwachung des Gefahrstoffrechts im Bereich Arbeitsschutz zuständigen Stellen aller Bundesländer.
+
+[[http://www.gefahrstoff-info.de/igs/index.html]]
+
+  * die Suche kann über den Reiter //Freie Suche// sehr flexibel gestaltet werden
+
+Das System enthält viele Inhalte, diese sind jedoch auf mehrere Unterseiten verteilt die einzeln angeklickt werden müssen. Die Reiter //HTML-Druck// und //PDF-Druck// ermöglichen aber eine ganzseitige Ausgabe.
+
+==== GESTIS Online-Stoffdatenbank ====
+
+Die GESTIS-Stoffdatenbank ist das Gefahrstoffinformationssystem der Deutschen Gesetzlichen Unfallversicherung.
+
+Das System enthält viele Inhalte, die Bedienung ist etwas gewöhnungsbedürftig. Am unteren Ende jeder Seite befindet sich eine Auflistung der Hauptkapitel, die per Klick aufgerufen werden können.\\
+Zu manchen Hauptkapiteln liegen Unterkapitel als Links vor, diese sind dann am oberen Ende der Seite zu finden.
+
+=== GESTIS-Datenbank für chemische Gefahrstoffe ===
+
+[[http://gestis.itrust.de/nxt/gateway.dll?f=id$t=default.htm$vid=gestisdeu:sdbdeu$id=000000]]
+
+Suche u.a. über Stoffname, Stoffnummer (UN-Nummer), CAS-Nummer, EG-Nummer, Index-Nummer und im Volltext
+
+=== GESTIS-Datenbank für biologische Arbeitsstoffe ===
+
+[[http://gestisbio.itrust.de/nxt/gateway.dll?f=templates&fn=default.htm&vid=gestisbiodeu:biosdbdeu]]
+
+<wrap info>Die Suche in der Bio-Datenbank sollte über die lateinische Bezeichnung des Stoffs erfolgen, deutsche bzw. umgangssprachliche Begriffe erzielen ggf. keine Treffer!</wrap>
+
+==== GisChem Online-Stoffdatenbank ====
+
+Das GisChem Gefahrstoff-Informationssystem ist ein Angebot der Berufsgenossenschaft Rohstoffe und chemische Industrie.
+ 
+[[http://www.gischem.de/e1_suche/suchname.htm]]
+
+Das System ist eher für den Arbeitsschutz ausgerichtet. Eine Suche ist nur nach Name oder CAS-Nummer möglich. Die Informationen sind in größeren Teilen im Fließtext geschrieben.
+
+==== Webwiser Online-Gefahrstoffdatenbank ====
+
+Die Wiser Gefahrstoffdatenbank ist ein Angebot der Amerikanischen Nationalbibliothek für Medizin.
+
+[[http://webwiser.nlm.nih.gov/knownSubstanceSearch.do?method=searchBy&currentSearchText=&currentSearchBy=Name&currentGoToItem=1&currentPageSize=20&appMode=3&searchBy=UN_NA&searchText=&goToItem=1&pageSize=20]]
+
+  * englischsprachig
+  * Suche über englischen Stoffnamen, Stoffnummer (UN-Nummer), STCC-Nummer oder CAS-Nummer
+  * enthält aktuelle Einsatzgrenzwerte
+
+Beim Aufruf des angegebenen Links kann in das Suchfeld auf der linken Seite die Stoffnummer (UN-Nummer) eingegeben werden. Nach einem Klick auf **Search** erscheinen die Suchergebnisse, welche ebenfalls per Klick geöffnet werden können.
+
+Daraufhin erscheint ein Inhaltsverzeichnis der zum Stoff hinterlegten Daten auf der linken Seite. Die [[cbrn:chemisch:grenzwerte#aegl|AEGL-Werte]] können nach einem Klick auf **Medical**, und danach auf **AEGL** abegrufen werden. Beachten Sie, dass sich nicht alle Stoffe in dieser Datenbank befinden und auch nicht zu allen Stoffen Einsatzgrenzwerte gegeben sind. Testweise können Sie beispielsweise Chlor mit der Stoffnummer 1017 abrufen.
+
+==== Meditox – Medizinisch-Toxikologische Informationszentrale für Gefahrgutunfälle ====
+
+Meditox (ein Gemeinschaftsprojekt der Deutschen Rettungsflugwacht (DRF) und dem Land Baden-Württemberg) wurde 2013 eingestellt und ist nicht mehr verfügbar.

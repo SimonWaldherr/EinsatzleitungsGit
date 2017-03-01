@@ -1,0 +1,186 @@
+====== BMA (Brandmeldeanlage) ======
+
+===== zu treffende Maßnahmen =====
+
+==== beim Ausrücken/auf der Anfahrt ====
+
+  * Feuerwehrplan und Schlüssel für BMZ und FSD mitnehmen
+  * Angriffstrupp mit PA ausrüsten lassen (Lungenautomat nicht anschließen)
+  * Feuerwehrplan und weitere Objektunterlagen auf der Anfahrt überprüfen auf:
+      * Anfahrtsweg, Haltepunkte, [[:allgemein:bereitstellungsraum|Bereitstellungsräume]]
+      * Zugänge/Zufahrten?
+      * besondere Gefahren?
+      * Standort Brandmelderzentrale (BMZ)?
+      * [[:brand:allgemein:loeschanlagen|Löschanlagen]]/Rauch- und Wärmeabzuganlagen (RWA) vorhanden?
+      * besondere taktische oder technische Vorgaben (z.B. Brandfallsteuerungen, Steuerung der akustischen Alarme, [[:allgemein:gebaeudefunkanlage|Gebäudefunkanlagen]])?
+
+==== Eintreffen an der Einsatzstelle ====
+
+  * Polizei nachfordern falls kein Brand auffindbar und kein Verantwortlicher für das Objekt vor Ort ist
+  * bei Vorhandensein eines FSD 3 immer den Objektschlüssel entnehmen, auch "wenn der Hausmeister alle dabei hat". Nach Entnahme die innere Tür wieder verschließen, Schlüssel abziehen und auch äußere Klappe schließen
+  * Der Einsatzleiter geht nach Möglichkeit persönlich zur BMZ. Wird eine andere Einsatzkraft an der BMZ abgestellt, muss sich diese mit der Bedienung einer BMZ auskennen.
+  * Ausgelöste Meldergruppe und ggf. Meldernummer als Lagemeldung absetzen und für Erkundungszwecke notieren falls selbst erkundet wird. Auch in diesem Fall einen Sachkundigen an der BMZ abstellen. \\ Sind mehrere Melder eingelaufen bzw. laufen nach Eintreffen weitere Melder ein, so ist die Wahrscheinlichkeit hoch dass es sich tatsächlich um einen Brand handelt!
+
+==== Erkundung ====
+
+  * Um welche Art von Brandmelder handelt es sich (Handfeuermelder? [[#automatische_melder|Automatischer Melder -> welche Bauform]]?)
+  * zur Erkundung mitnehmen:
+      * Feuerwehr-Laufkarte des ausgelösten Melders / Objektpläne
+      * Objektschlüssel aus dem FSD 3
+      * Schlüssel um das Gehäuse eines Handfeuermelders zu öffnen und damit zurückzusetzen falls ein solcher ausgelöst wurde
+
+=== bei automatischen Meldern ===
+
+Nach dem Auffinden des ausgelösten Melders immer auch den Bereich kontrollieren in dem sich weitere Melder der gleichen Meldergruppe befinden, da eine Rauchwolke quer durch den Bereich gezogen sein könnte (z.B. durch Wind) und nicht den nächstgelegenen Melder ausgelöst hat.
+
+=== bei Handfeuermeldern ===
+
+Es muss immer das komplette Gebäude kontrolliert werden, da ein Flüchtender evtl. erst nach einem längerem Weg an einem Handfeuermelder vorbeigekommen ist und diesen betätigt hat. Wird nur der Bereich um den Handfeuermelder herum erkundet, würde dieses Feuer nicht auffallen.
+
+==== bei Entdeckung eines Realbrandes ====
+
+  * Verfahren wie bei [[:brand:gebaeudebrand|Gebäudebrand]]
+  * Nachalarmierung auf entsprechendes Stichwort
+  * BMA weiterhin besetzt halten
+  * Information aller Einsatzkräfte
+
+==== wenn BMA durch Betreiber vor Eintreffen der Feuerwehr zurückgesetzt wurde ====
+
+  * neuere Anlagen haben eine Historie-Funktion, mit der ausgelöste Melder auch nach dem Zurücksetzen noch angezeigt werden können (siehe dazu den Abschnitt [[#fat_feuerwehr-anzeigetableau|FAT (Feuerwehr-Anzeigetableau)]])
+  * der Betreiber sollte angewiesen werden, dies künftig zu unterlassen. {{ :brand:f_rueckstellen_einer_brandmeldeanlage.pdf |Eine ausführliche Beschreibung der Gründe hat die Berliner Feuerwehr in einem Merkblatt zusammengestellt.}}
+
+==== Einsatzabschluss bei Fehlalarm ====
+
+  * Niemals eine(n) Melder(gruppe) selbst außer Betrieb nehmen (z.B. wenn der gleiche Melder innerhalb von 24h dreimal ohne Grund ausgelöst hat). Der Objektbetreiber muss dies selbst tun. Er ist darauf hinzuweisen dass er Ersatzmaßnahmen treffen muss. Dies geschieht am Besten unter Zeugen oder in schriftlicher Form, bei der der Betreiber die Belehrung gegenüber der Feuerwehr unterschreibt und diese das Schriftstück mitnimmt.
+  * Der Bereich des ausgelösten Melders wird immer von einer Führungskraft kontrolliert
+  * Lagemeldung mit Meldergruppe, Melder und Auslösegrund
+  * Laufkarten zurücklegen nicht vergessen
+  * ggf. ausgelösten Handfeuermelder zurücksetzen; entweder reicht ein Öffnen und Schließen des Gehäuses oder aber es muss ein kleiner Hebel im Gehäuse betätigt werden. Daraufhin erlischt die rote LED am Handfeuermelder und der Druckknopf springt wieder heraus.
+  * BMZ zurückstellen. FAT und FBF in Ausgangszustand zurückversetzen. Von der Feuerwehr gedrückte Tasten leuchten gelb und erlöschen wenn sie erneut gedrückt werden und sich dann wieder im Ausgangszustand befinden. Beim Verlassen darf nur die grüne LED **Betrieb**  am FAT und FBF leuchten (und am Hauptmelder, soweit vorhanden).
+  * Objekt so verlassen wie es vorgefunden wurde (beim Eintreffen abgeschlossene Türen die zwischenzeitlich geöffnet wurden wieder abschließen usw.)
+  * Objektschlüssel wieder in das FSD 3 einschließen (detailliertere Erläuterung siehe unten). Lässt sich dieses auch nach mehrmaligem Neuauslösen der BMA mittels FSE nicht verschließen, muss der Schlüssel persönlich dem Betreiber übergeben werden.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+BMA-Bestandteile bzw. Abkürzungen:
+
+  * BMZ: Brandmelderzentrale
+  * FAT: Feuerwehr-Anzeigetableau
+  * FBF: Feuerwehr-Bedienfeld
+  * FIBS: Feuerwehr- Informations- und Bediensystem
+  * FIZ: Feuerwehr-Informationszentrale
+  * FSD: Feuerwehr-Schlüsseldepot
+  * FSE: Freischaltelement
+  * RWA: Rauch-und Wärmeabzuganlage
+
+==== FAT (Feuerwehr-Anzeigetableau) ====
+
+{{:brand:bma:fat_500px.jpg?nolink&300  |FAT}}
+
+  * Leuchtet eine der LEDs bei **Alarm**, **Störung**  oder **Abschaltung**, so ist ein entsprechendes Ereignis vorhanden und wird im Display angezeigt. Blinkt eine der LEDs, so liegt ein entsprechendes Ereignis an aber wird derzeit nicht im Display angezeigt. Dieses kann durch Drücken der Taste **Anzeigeebene**  sichtbar gemacht werden.
+  * Mit den beiden Pfeiltasten links kann durch die aufgelaufenen Meldungen geblättert werden. Blinken die Tasten, so sind weitere aktuelle Meldungen vorhanden.
+  * Mit Drücken der Taste **Anzeigeebene**  kann zwischen der Anzeige von Alarmen, Störungen und Abschaltungen gewechselt werden. \\ Bei neueren Anlagen ist hier zusätzlich eine **History**-Funktion hinterlegt; beim Drücken der Taste für länger als 5 Sekunden wird der vorherige Alarm angezeigt. Somit ist es möglich, einen bereits vom Objektbetreiber unbefugt zurückgesetzten Alarm wieder anzuzeigen und den ausgelösten Melder festzustellen.
+  * Die Taste **Summer ab**  schaltet den Piepton der BMA ab. Die weiteren akustischen Signale (Alarm im Gebäude, Durchsagen, …) sind trotzdem weiter in Betrieb, diese werden am FBF deaktiviert. Wird die Taste länger als 5 Sekunden gedrückt, so wird die Anzeige und Akustik getestet.
+
+==== FBF (Feuerwehr-Bedienfeld) ====
+
+{{:brand:bma:fbf_500px.jpg?nolink&300  |FBF}}Betätigte Tasten leuchten gelb. Vor Einsatzende sind betätigte Tasten wieder in den Ausgangszustand zurückzusetzen, sodass diese nicht leuchten.
+
+  * Die LED **ÜE ausgelöst**  leuchtet, wenn ein Alarm ansteht. Leuchtet diese LED nicht obwohl die BMA aufgelaufen ist, wurde die Anlage entweder vor Eintreffen zurückgestellt, oder der Alarm kann durch Betätigung des [[#hauptmelder|Hauptmelders]] ausgelöst worden sein (dies ist nicht bei allen Anlagen so).
+  * Mit dem Taster **Brandfallsteuerungen ab**  kann die Brandfallsteuerung von Aufzügen, Rauchabzügen, etc. unabhängig vom Alarmzustand der BMA aufgehoben werden
+  * Die Taste **akustische Signale ab**  schaltet Hupen, Räumungsdurchsagen u.ä. ab.
+  * Die Taste **ÜE ab**  nimmt die Brandmeldeanlage komplett vom Netz; dies bleibt auch so wenn danach die BMA zurückgestellt wird! Neue Alarme laufen somit nicht mehr in der Leitstelle bzw. beim Sicherheitsunternehmen ein! An dieser Stelle soll noch einmal erwähnt werden dass die Feuerwehr die Anlage nicht vom Netz nimmt, sondern dies seitens des Betreibers unter Vornahme von Ersatzmaßnahmen geschehen muss!
+  * Mit der Taste **ÜE prüfen**  kann eine Signalisierung der BMA in der Leitstelle erfolgen, ohne dass Alarm ausgelöst wird.
+  * Mit der Taste BMZ rückstellen kann die Rückstellung in den Normalzustand erfolgen, wenn alle Kriterien dafür erfüllt sind. Dies funktioniert z.B. nicht, wenn ein Handfeuermelder noch nicht zurückgestellt wurde oder sich der Zylinder des FSE nicht in diesem befindet. \\ Bei neueren Anlagen leuchtet die LED neben der Taste für 15 Minuten nach Alarmauslösung, auch wenn der Betreiber verbotenerweise an der BMA selbst (nicht am FBF) den Alarm zurückgestellt hat. Diese erlischt während dieses Zeitraums erst, wenn die Anlage am FBF rückgestellt wird.
+
+==== FSD ====
+
+Das Feuerwehrschlüsseldepot dient der Feuerwehr, um mittels eines von der Feuerwehr mitgeführten Schlüssels Zufahrt/Zutritt zum Einsatzobjekt zu gelangen. Es existieren folgende Bauformen nach DIN 14 675:
+
+=== FSD 1 ===
+
+Das FSD 1 ist eine einfach Bauform des Feuerwehr-Schlüsseldepots. Es wird nicht elektronisch überwacht und ist nicht mit in die BMA einbezogen, kann also jederzeit entnommen werden ohne dass dies eine Aktion nach sich zieht oder der Betreiber darüber informiert wird. Aufgrund dieser niedrigen Schutzstufe darf im FSD 1 kein Schlüssel hinterlegt werden der Zutritt zu sensiblen Bereichen ermöglicht (wie beispielsweise der Generalschlüssel eines Objekts). Typische Einsatzbeispiele für FSD 1 sind Schranken, Tore sowie Flure, an die sich weitere, abgeschlossene Nutzungseinheiten (z.B. Wohnungen, Büros) anschließen.
+
+=== FSD 2 ===
+
+Das FSD 2 entspricht im Wesentlichen dem FSD 3, allerdings gibt es beim FSD 2 keine Schlüssel- bzw. Sabotage-Überwachung und es entspricht daher anders als das FSD 3 nicht den VdS-Richtlinien. Daher wird der Einbau eines FSD 2 vielerorts auch nicht mehr genehmigt. Es darf kein General-, sondern nur Schlüssel mit Einzelschließung eingelegt werden.
+
+=== FSD 3 ===
+
+{{:brand:bma:fsd_fse_saeule.jpg?nolink&200  |Freistehende Säule mit FSD 3 und FSE}}Ein FSD 3 dient als Ersatz für eine nicht ständig besetzte Empfangsstelle und ermöglicht der Feuerwehr den Zutritt zu allen Bereichen des Objekts die durch die BMA überwacht werden, oftmals handelt es sich um einen Generalschlüssel der Schließanlage. Aufgrund des Sicherheitsrisikos welches vom Verlust des eingelagerten Schlüssels ausgeht wird das FSD 3 durch die BMA auf Vorhandensein des Schlüssels und gegen Sabotage überwacht. Desweiteren werden alle Aktionen protokolliert, beispielsweise auch die rechtmäßige Entnahme des Schlüssels im Alarmfall. Um ein einfaches Auffinden zu ermöglichen, befindet sich in der Nähe des FSD 3 eine Blitzleuchte.
+
+Das FSD 3 besteht aus zwei Türen; die äußere Tür wird bei der Auslösung der BMA entriegelt. Die Feuerwehr kann nun mit einem mitgeführten Schlüssel die innere Tür öffnen und den Objektschlüssel entnehmen. Bevor zur Erkundung vorgegangen wird, muss die innere Tür wieder verschlossen und der Schlüssel abgezogen und eingesteckt werden (da sonst die Feuerwehrschließung gestohlen oder andere Manipulationen vorgenommen werden könnten), ebenso die äußere Tür (Verletzungsgefahr bei Unachtsamkeit).
+
+Beim Zurückstecken muss der Schlüssel wieder bis zum Anschlag auf die //Sichern//-Position gedreht werden und darf sich danach nicht mehr bewegen, da sich ansonsten
+
+  * Die äußere Tür nicht verriegeln lässt oder
+  * zu einem späteren Zeitpunkt Sabotagealarm ausgelöst wird.
+
+== Zurückstecken des Schlüssels ==
+
+{{:brand:bma:fsd_3_zurueckstecken_500px.jpg?nolink&200  |FSD 3-Schlüssel zurückstecken}}Um die Auslösung eines Sabotage-Alarms zu verhindern, sollte bei Schlüsseln die sich waagerecht in der //Sichern//-Position befinden folgendes beachtet werden:
+
+Die weiteren am Schlüsselbund befindlichen Schlüssel und Schlüsselanhänger sollten auf die Seite gelegt werden, auf die der Schlüssel in die //Sichern//-Position gedreht wird (im bildlichen Beispiel wird der Schlüssel senkrecht eingesteckt und um 90° nach links gedreht). Vorfälle aus der Praxis zeigen, dass sich sonst nach einiger Zeit, beispielsweise aufgrund von Vibrationen durch vorbeifahrende LKWs, der Schlüssel selbsttätig wieder aus der //Sichern//-Position herausdrehen kann und dann den Sabotage-Alarm auslöst.
+
+==== FSE (Freischaltelement) ====
+
+Das Freischaltelement dient zum Zweck der manuellen Alarmauslösung von außen ohne dass die BMA einen Brand erkannt hat. Dies ermöglicht der Feuerwehr einen Zutritt zum Gebäude, da durch die Auslösung auch das FSD 3 entriegelt. Vor dem Ziehen des FSE ist die Leitstelle über die Maßnahme zu unterrichten.
+
+Zum Auslösen des FSE wird mittels einem eigenen Schlüssels das FSE aufgeschlossen und aus der Röhre herausgezogen. Hierbei ist anzumerken, dass durch die Auslösung der BMA auf diese Weise nicht die Brandfallsteuerungen (Aufzüge fahren ins Erdgeschoss, Entrauchungseinrichtungen werden geöffnet, …) aktiviert werden.
+
+Der entnommene Zylinder sollte nach dem Ziehen direkt wieder zurückgesteckt und abgeschlossen werden anstatt ihn etwa einzustecken und mit zur Erkundung zu nehmen. Der Alarm wird dadurch nicht zurückgesetzt. Befindet sich der FSE-Zylinder nicht im Rohr, lässt sich die BMA nicht zurückstellen!
+
+=== Bauform sabotagesicheres FSE ===
+
+Um eine Beschädigung des FSE-Schlosses, z.B. das Verkleben mit Kaugummi, zu verhindern, kann auch ein sabotagesicheres FSE eingesetzt werden. Dabei befindet sich ein Metallstift zwischen Deckel und FSE, der erst mittels eines Magneten herausgezogen werden muss um den Deckel zur Seite schwenken zu können.
+
+{{:brand:bma:fse_geschlossen_500px.jpg?nolink&200  |FSE geschlossen}}{{:brand:bma:fse_entriegeln_500px.jpg?nolink&200  |Metallstift mit Magnet herausziehen}}{{:brand:bma:fse_offen_500px.jpg?nolink&200  |geöffneter Deckel des FSE}}
+
+==== Hauptmelder ====
+
+{{:brand:bma:hauptmelder_500px.jpg?nolink&300  |Hauptmelder}}Der Hauptmelder befindet sich meist in der Nähe der BMZ. Er stellt die Übertragungseinrichtung zur Feuerwehr dar, funktioniert also auch wenn die BMA abgeschaltet oder ausgefallen ist.
+
+Da der Hauptmelder nicht Teil der eigentlichen Brandmeldeanlage ist, wird dieser bei einer Auslösung nicht als Klartext im Display des FAT angezeigt. Befindet sich im Gehäuse des Hauptmelders keine LED die die Auslösung anzeigt, so ist der Alarm über den Hauptmelder nur an der zerbrochenen Scheibe zu erkennen.
+
+==== Handfeuermelder ====
+
+{{:brand:bma:handfeuermelder_500px.jpg?nolink&300  |Handfeuermelder}}Ist ein Handfeuermelder (früher: Druckknopfmelder) betätigt worden, so muss dieser zurückgestellt werden bevor die BMA zurückgestellt werden kann. Je nach Modell des Handfeuermelders kann dies auf verschiedenen Wegen geschehen:
+
+  * Drehen eines Schlüssels in einem Schloss am Handfeuermelder, ohne dass das Gehäuse dabei geöffnet wird (bei neueren Bauarten). Schlüssel dabei nicht überdrehen!
+  * Öffnen und Schließen der Tür des Gehäuses.
+  * Öffnen des Gehäuses und Betätigung eines Hebels im Inneren des Melders.
+
+Ist der Melder zurückgestellt, so springt der Knopf wieder heraus und die rote LED erlischt. \\ (Je nach Brandmeldesystem kann die LED auch weiterhin aktiv sein oder blinken, bis die Zentrale zurückgesetzt wurde.)
+
+Beim Zurückstellen des Handfeuermelders sollte vorsichtig gearbeitet werden, da die Bauteile aus Plastik nach einigen Jahren leicht kaputt gehen und dann der Melder ggf. nicht zurückgestellt werden kann.
+
+
+==== automatische Melder ====
+
+Um Fehlalarme zu vermeiden löst eine Brandmeldeanlage je nach Konzeption ggf. erst aus, wenn mehrere Brandmelder des gleichen Messprinzips oder mehrere Melder mit unterschiedlichen Messprinzipien gleichzeitig auflaufen. Evtl. sind auch mehrere Sensoren in einem Melder verbaut, die dann als **Multikriterienmelder**  bezeichnet werden.
+
+Ggf. sind die Melder nicht direkt zu sehen, sondern befinden sich in Zwischendecken, Zwischenböden, Computerschränken, etc.
+
+=== Rauchmelder ===
+
+  * **punktförmige Rauchmelder** \\ Dies sind die typischen Rauchmelder, die auf Rauchpartikel in der Umgebungsluft reagieren.
+  * **linienförmige Rauchmelder** \\ Diese funktionieren nach dem Prinzip einer Lichtschranke. Wird der Lichtstrahl unterbrochen bzw. abgeschwächt, wird Alarm ausgelöst.
+  * **Rauchansaugsystem/Ansaugrauchmelder** \\ Durch den zu überwachenden Bereich werden Rohre verlegt; dieser Bereich kann sehr groß sein. An einer zentralen Stelle wird die durch die Rohre angesaugte Luft auch Rauch überprüft. <wrap important>Aufgrund der speziellen Bauform kann von der Auswerteeinheit evtl. nicht eindeutig angezeigt werden, von wo genau der Rauch angesaugt wurde</wrap>.
+=== Wärmemelder ===
+
+  * **punktförmige Wärmemelder** \\ Diese lösen aus, wenn am Melder eine bestimmte Temperaturdifferenz zur üblichen Temperatur überschritten wird.
+  * **linienförmige Wärmemelder** \\ Diese können als Kabel über weite Strecken (z.B. Verkehrstunnel) verlegt werden. Ändert sich aufgrund der Hitzeeinwirkung der Widerstand im Kabel, so wird Alarm ausgelöst.
+=== Flammenmelder ===
+
+Flammenmelder reagieren auf ultraviolettes/infrarotes Licht in Kombination mit einer bestimmten Flackerfrequenz welche von Flammen typischerweise ausgestrahlt wird.
+
+=== Rauchgasmelder ===
+
+Rauchgasmelder/Brandgasmelder reagieren auf Gase, die typischerweise bei einem Verbrennungsvorgang entstehen.
+
+===== Quellenangabe =====
+
+  * {{:brand:bma:hinweise_brandmeldeanlagen.pdf|Hinweise zum Vorgehen bei Auslösen von Brandmeldeanlagen. Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2012.}}
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * [[http://www.kfv-regen.de/Download/Daten/WISSEN/BMAWissen.pdf|Brandmeldeanlagen (BMA) - Wissenswertes für die Feuerwehrführungskräfte]], Kreisfeuerwehrverband Regen
+

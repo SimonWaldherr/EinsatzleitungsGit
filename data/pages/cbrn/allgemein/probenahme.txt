@@ -1,0 +1,87 @@
+====== Probenahme ======
+
+===== zu treffende Maßnahmen =====
+
+  * Vor Beginn der Probenahme Erreichbarkeit/Einsatzbereitschaft des Labors und Transport dorthin abklären. Anforderungen des Labors an die Probe vorab klären.
+  * Weg des Probenahmeteams festlegen, ggf. Lageplan anfertigen
+  * ggf. Hinzuziehen von [[cbrn:allgemein:atf|ATF]] / [[cbrn:allgemein:tuis|TUIS]]
+  * ggf. Strafverfolgungsbehörden die Beweissicherung ermöglichen
+  * Art der Probenahme festlegen
+    * Austretende/s unbekannte/s Gefahrgut/-stoffe grundsätzlich beproben
+    * bei sichtbarer Kontamination Probenahme der verdächtigen Substanz möglichst ohne Beimischung von sonstigem am Probenahmeort vorkommenden Material
+  * Durchführung der Probenahme:
+    - Erkundung des Probenahmeortes
+    - Ausbringung von Kennzeichnungsziffern an den Probenahmestellen, Fotos der nummerierten Probenahmestellen anfertigen
+    - Priorisierung der Probenahmestellen, möglichst zusammen mit Fachberater. Wenn vorhanden, Ausbreitungsmodell beachten.
+    - Vorbereitung der Materialien zur Durchführung der Probenahme
+    - Durchführen der Probenahme gemäß jeweiliger Kurzanleitung
+      * ggf. Rückstellproben nehmen (weitere Proben des Materials für spätere Untersuchungen)
+      * wenn möglich, Kontrollproben aus nicht kontaminiertem Bereich nehmen
+    - Dekontamination und Ausschleusen der Probe
+  * Während der Probenahme direktanzeigende Messgeräte mitführen, um gefährliche Bereiche zu erkennen 
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+Details zu den einzelnen Probenahmetechniken sowie Hinweise zu Dekontamination, Verpackung und Versand sind im Buch {{ cbrn:allgemein:probenahme:fib_band5_2teauflage.pdf |Empfehlungen für die Probenahme zur Gefahrenabwehr im Bevölkerungsschutz}} zu finden.
+
+==== C-Probenahme ====
+
+  * {{ cbrn:allgemein:probenahme:c01_feststoffprobe_pulver_granulat.pdf |Kurzanleitung C01 - Feststoffprobe Pulver/Granulat}}
+  * {{ cbrn:allgemein:probenahme:c02_pasten.pdf |Kurzanleitung C02 - Pasten}}
+  * {{ cbrn:allgemein:probenahme:c03_boden_schneeprobe.pdf |Kurzanleitung C03 - Boden- und Schneeprobe}}
+  * {{ cbrn:allgemein:probenahme:c04_bewuchsprobe.pdf |Kurzanleitung C04 - Bewuchsprobe (Vegetation)}}
+  * {{ cbrn:allgemein:probenahme:c05_wischprobe.pdf |Kurzanleitung C05 - Wischprobe}}
+  * {{ cbrn:allgemein:probenahme:c06_wasserprobe.pdf |Kurzanleitung C06 - Wasserprobe}}
+  * {{ cbrn:allgemein:probenahme:c07_wasserprobe_tiefenbestimmt.pdf |Kurzanleitung C07 - Wasserprobe (tiefenbestimmt)}}
+  * {{ cbrn:allgemein:probenahme:c08_fluessigkeitsproben_belaege_lachen.pdf |Kurzanleitung C08 - Flüssigkeitsproben, Beläge oder Lachen}}
+  * {{ cbrn:allgemein:probenahme:c09_luftprobe_silikagel.pdf |Kurzanleitung C09 - Luftprobe Silikagel}} (siehe auch [[cbrn:geraete:pruefroehrchen|Prüfröhrchen]])
+  * {{ cbrn:allgemein:probenahme:c10_luftprobe_tenax.pdf |Kurzanleitung C10 - Luftprobe Tenax}}
+
+==== B-Probenahme ====
+
+  * {{ cbrn:allgemein:probenahme:b01_feststoffprobe_pulver_granulat.pdf |Kurzanleitung B01 - Feststoffprobenahme Pulver/Granulat}}
+  * {{ cbrn:allgemein:probenahme:b02_pasten.pdf |Kurzanleitung B02 - Feststoffprobenahme Pasten}}
+  * {{ cbrn:allgemein:probenahme:b03_bodenprobe.pdf |Kurzanleitung B03 - Bodenprobe}}
+  * {{ cbrn:allgemein:probenahme:b04_bewuchsprobe.pdf |Kurzanleitung B04 - Bewuchsprobe}}
+  * {{ cbrn:allgemein:probenahme:b05_wischprobe_tupfer.pdf |Kurzanleitung B05 - Wischprobe Tupfer}}
+  * {{ cbrn:allgemein:probenahme:b06_wischprobe_kompresse.pdf |Kurzanleitung B06 - Wischprobe Kompresse}}
+  * {{ cbrn:allgemein:probenahme:b07_wasserprobe_oberflaeche.pdf |Kurzanleitung B07 - Wasserprobe (Oberfläche)}}
+  * {{ cbrn:allgemein:probenahme:b08_fluessigkeiten_kleine_mengen.pdf |Kurzanleitung B08 - Flüssigkeiten, kleine Mengen}}
+  * {{ cbrn:allgemein:probenahme:b09_fluessigkeiten_belaege_pfuetzen.pdf |Kurzanleitung B09 - Flüssigkeiten Beläge/Pfützen}}
+
+==== RN-Probenahme ====
+
+  * {{ cbrn:allgemein:probenahme:rn01_bewuchsprobe.pdf |Kurzanleitung RN01 - Bewuchsprobe}}
+  * {{ cbrn:allgemein:probenahme:rn02_wischproben.pdf |Kurzanleitung RN02 - Wischproben}}
+  * {{ cbrn:allgemein:probenahme:rn03_fluessigprobe.pdf |Kurzanleitung RN03 - Flüssigprobe}}
+
+==== weitere Dokumente ====
+
+  * {{ cbrn:allgemein:probenahme:ablaufschema_cbrn-probenahme.pdf |Ablaufschema der CBRN-Probenahme}}
+  * {{ cbrn:allgemein:probenahme:begleitzettel_transport_kategorie-a-erreger.pdf |Begleitzettel für den Transport von Kategorie-A-Erregern}}
+  * {{ cbrn:allgemein:probenahme:checkliste_einsatzort.pdf |Checkliste für den Einsatzort}}
+  * {{ cbrn:allgemein:probenahme:probenahmeprotokoll.pdf |Probenahmeprotokoll}}
+  * {{ cbrn:allgemein:probenahme:probenbegleitschein.pdf |Probenbegleitschein}}
+  * {{ cbrn:allgemein:probenahme:probenlaufkarte.pdf |Probenlaufkarte}}
+  * {{ cbrn:allgemein:probenahme:probenuebersicht.pdf |Probenübersicht}}
+
+==== Hilfsmittel für die Dokumentation (nicht vom BBK) ====
+
+  * {{ cbrn:allgemein:probenahme:probenahme-ziffern.doc |Ziffern für die Dokumentation von Probenahmestellen}} (für die Etiketten von Avery Zweckform No. 3661 angepasst, alternativ ausdrucken und ausschneiden und ggf. einlaminieren)
+  * {{ cbrn:allgemein:probenahme:probenahme-lineal.pdf |Einweg-Lineal zum Ausdrucken}}. Bitte bei den Druckoptionen überprüfen ob "keine Skalierung" bzw. "Druckgröße: 100 %" ausgewählt ist - im Zweifel vor der Benutzung nachmessen.
+
+===== Kontaktdaten/Ansprechpartner =====
+
+  * {{ cbrn:allgemein:probenahme:liste_untersuchungslaboratorien_b.pdf |Labore für biologische Proben}}
+  * {{ cbrn:allgemein:probenahme:liste_untersuchungslaboratorien_c.pdf |Labore für chemische Proben}}
+  * {{ cbrn:allgemein:probenahme:liste_untersuchungslaboratorien_rn.pdf |Labore für RN-Proben}}
+
+===== Quellenangabe =====
+
+  * {{ cbrn:allgemein:probenahme:fib_band5_2teauflage.pdf |Empfehlungen für die Probenahme zur Gefahrenabwehr im Bevölkerungsschutz (Forschung im Bevölkerungsschutz Band 5)}}, Udo Bachmann, Nahid Derakshani, Matthias Drobig, Mario König, Joachim Mentfewitz, Hartmut Prast, Gerhard Uelpenich, Marc Vidmayer, Stefan Wilbert, Manfred Wolf. Bundesamt für Bevölkerungsschutz und Katastrophenhilfe, Bonn 2016
+  * Ziffern für die Dokumentation: [[http://www.abc-gefahren.de/blog/2015/01/13/hilfsmittel-fuer-die-probenahme-ziffern/]]
+  * Einweg-Lineal: [[http://www.abc-gefahren.de/blog/2013/11/21/probenahme-massstab-zur-fotodokumentation/]] bzw. [[http://www.destinysagent.com/docs/Destinys_Agent_Forensic_Rulers_NO_BRAND.pdf]]
+
+===== Stichwörter =====
+
+Notfallprobenahme

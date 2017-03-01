@@ -1,0 +1,50 @@
+====== Personenbrand ======
+
+===== zu treffende Maßnahmen =====
+
+  * Eigenschutz beachten
+  * schnellstmöglich löschen
+  * irrationales Verhalten möglich (Flucht)
+  * Löschmöglichkeiten:
+    - Wasser
+    - Decken, Jacken, etc.
+    - Feuerlöscher
+    - auf dem Boden wälzen
+  * nach dem Löschen lebensrettende Sofortmaßnahmen einleiten
+  * Rettungsdienst und Notarzt anfordern
+  * betroffene Körperstellen kurz mit Wasser kühlen 
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Löschen mit Wasser ====
+
+  * Bestes Löschmittel
+  * kein Trinkwasser erforderlich
+  * kühlt gleichzeitig, aber nicht zu lange kühlen um Unterkühlung zu vermeiden
+
+==== Löschen mit Decken, Jacken und anderem dichten Gewebe ====
+
+  * Hautbereich mit Gewebe abdecken und glattstreichen
+  * kein besonderes Material wie Löschdecken erforderlich
+  * vor allem für kleinere Brände auf z.B. Armen und Beinen geeignet
+  * das Gewebe kann heiß werden und mit der Körperoberfläche verkleben
+
+==== Löschen mit Feuerlöschern ====
+
+  * vom Kopf ab herunter mit kurzen Stößen löschen
+  * nicht länger löschen als notwendig, vor allem im Gesicht!
+  * Löschmittel
+    * ideal ist [[brand:allgemein:loeschmittel_wasser|Wasser]]löscher
+    * Achtung bei [[brand:allgemein:co2|CO2]]: Erfrierungsgefahr des Gewebes und Erstickungsgefahr in Räumen
+    * [[brand:allgemein:pulver|Pulver]] kann bei Inhalation die Lunge schädigen
+
+==== Löschen durch Wälzen auf dem Boden ====
+
+  * Erstickende Löschwirkung
+  * brennende Person lässt sich häufig nicht anfassen und versucht zu fliehen\\ -> ggf. zu Fall bringen
+
+===== Quellenangabe =====
+
+{{:brand:fachempfehlung_massnahmen_bei_personenbraenden.pdf|Fachempfehlung "Maßnahmen bei Personenbränden"}} des [[http://www.dfv.org/fachempfehlungen.html|Deutschen Feuerwehrverbands]]
+
+===== Stichwörter =====

@@ -1,0 +1,45 @@
+====== Warnzeichen ======
+
+Warnzeichen werden zur Kennzeichnung von Gefahren an Arbeitsplätzen verwendet.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+^  Piktogramm  ^  Bedeutung  ^
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_einer_gefahrenstelle.png?nolink&100|Warnung vor einer Gefahrenstelle}}|Warnung vor einer Gefahrenstelle|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_feuergefaehrlichen_stoffen.png?nolink&100|Warnung vor feuergefährlichen Stoffen}}|Warnung vor feuergefährlichen Stoffen|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_explosionsgefaehrlichen_stoffen.png?nolink&100|Warnung vor explosionsgefährlichen Stoffen}}|Warnung vor [[cbrn:chemisch:klasse_1:start|explosionsgefährlichen Stoffen]]|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_giftigen_stoffen.png?nolink&100|Warnung vor giftigen Stoffen}}|Warnung vor [[cbrn:chemisch:klasse_6-1:start|giftigen Stoffen]]|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_aetzenden_stoffen.png?nolink&100|Warnung vor ätzenden Stoffen}}|Warnung vor [[cbrn:chemisch:klasse_8:start|ätzenden Stoffen]]|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_radioaktiven_stoffen_oder_ionisierenden_strahlen.png?nolink&100|Warnung vor radioaktiven Stoffen oder ionisierenden Strahlen}}|Warnung vor [[cbrn:atomar:start|radioaktiven Stoffen oder ionisierenden Strahlen]]|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_schwebender_last.png?nolink&100|Warnung vor schwebender Last}}|Warnung vor schwebender Last|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_flurfoerderzeugen.png?nolink&100|Warnung vor Flurförderzeugen}}|Warnung vor Flurförderzeugen|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_gef_el_spannung.png?nolink&100|Warnung vor gefährlicher elektrischer Spannung}}|Warnung vor [[allgemein:elektrische_anlagen|gefährlicher elektrischer Spannung]]|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_optischer_strahlung.png?nolink&100|Warnung vor gefährlicher optischer Strahlung}}|Warnung vor gefährlicher optischer Strahlung|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_laserstrahl.png?nolink&100|Warnung vor Laserstrahl}}|Warnung vor Laserstrahl|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_brandfoerdernden_stoffen.png?nolink&100|Warnung vor brandfördernden Stoffen}}|Warnung vor [[cbrn:chemisch:klasse_5-1:start|brandfördernden Stoffen]]|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_nicht_ionisierender_elektromagnetischer_strahlung.png?nolink&100|Warnung vor nicht ionisierender elektromagnetischer Strahlung}}|Warnung vor [[allgemein:funksendeanlagen|nicht ionisierender elektromagnetischer Strahlung]]|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_magnetischem_feld.png?nolink&100|Warnung vor magnetischem Feld}}|Warnung vor magnetischem Feld|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_stolpergefahr.png?nolink&100|Warnung vor Stolpergefahr}}|Warnung vor Stolpergefahr|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_absturzgefahr.png?nolink&100|Warnung vor Absturzgefahr}}|Warnung vor Absturzgefahr|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_biogefaehrdung.png?nolink&100|Warnung vor Biogefährdung}}|Warnung vor [[cbrn:biologisch:start|Biogefährdung]]|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_kaelte.png?nolink&100|Warnung vor Kälte}}|Warnung vor Kälte|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_gesundheitsschaedlichen_oder_reizenden_stoffen.png?nolink&100|Warnung vor gesundheitsschädlichen oder reizenden Stoffen}}|Warnung vor gesundheitsschädlichen oder reizenden Stoffen|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_gasflaschen.png?nolink&100|Warnung vor Gasflaschen}}|Warnung vor [[cbrn:chemisch:klasse_2:start|Gasflaschen]]|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_gefahren_durch_batterien.png?nolink&100|Warnung vor Gefahren durch Batterien}}|Warnung vor Gefahren durch Batterien|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_explosionsfaehiger_atmosphaere.png?nolink&100|Warnung vor explosionsfähiger Atmosphäre}}|Warnung vor explosionsfähiger Atmosphäre|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_quetschgefahr.png?nolink&100|Warnung vor Quetschgefahr}}|Warnung vor Quetschgefahr|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_kippgefahr_beim_walzen.png?nolink&100|Warnung vor Kippgefahr beim Walzen}}|Warnung vor Kippgefahr beim Walzen|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_automatischem_anlauf.png?nolink&100|Warnung vor automatischem Anlauf}}|Warnung vor automatischem Anlauf|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_heisser_oberflaeche.png?nolink&100|Warnung vor heißer Oberfläche}}|Warnung vor heißer Oberfläche|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_handverletzungen.png?nolink&100|Warnung vor Handverletzungen}}|Warnung vor Handverletzungen|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_rutschgefahr.png?nolink&100|Warnung vor Rutschgefahr}}|Warnung vor Rutschgefahr|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_gefahren_durch_eine_foerderanlage_im_gleis.png?nolink&100|Warnung vor Gefahren durch eine Förderanlage im Gleis}}|Warnung vor Gefahren durch eine Förderanlage im Gleis|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_einzugsgefahr.png?nolink&100|Warnung vor Einzugsgefahr}}|Warnung vor Einzugsgefahr|
+
+===== Quellenangabe =====
+
+  * [[wpde>Warnzeichen|Wikipedia: Warnzeichen]]
+  * Piktogramme mit Ausnahme "Warnung vor Gefahren durch eine Förderanlage im Gleis" und "Warnung vor Einzugsgefahr": veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:DrTorstenHenning|Thorsten Henning]] unter Public-Domain-Lizenz.
+  * Piktogramme "Warnung vor Gefahren durch eine Förderanlage im Gleis" und "Warnung vor Einzugsgefahr": veröffentlicht vom Wikipedia-User [[wpde>User:ChristianBier|ChristianBier]] unter Public-Domain-Lizenz.
+
+===== Stichwörter =====

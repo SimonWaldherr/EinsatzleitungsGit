@@ -1,0 +1,49 @@
+====== Leitern (tragbar) ======
+
+siehe auch [[allgemein:drehleiter]]
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== allgemein ====
+
+[[allgemein:elektrische_anlagen#einzuhaltende_abstaende|Abstände]] zu spannungsführenden Teilen halten!
+
+==== Steckleiter (nach DIN 14 711) ====
+
+^  Anzahl\\ Leiterteile  ^  Rettungshöhe  ^  Leiterlänge           ^  Masse (max.)  ^^
+^  :::                   ^  :::           ^  :::                   ^  Holz   ^  Aluminium  ^
+^  1                     |  2,10 m        |  2,70 m                |  14 kg  |  10 kg  |
+^  2                     |  3,70 m        |  4,60 m                |  28 kg  |  20 kg  |
+^  3                     |  5,00 m        |  6,50 m                |  42 kg  |  30 kg  |
+^  4                     |  7,20 m        |  8,40 m\\ (ca. 2. OG)  |  56 kg  |  40 kg  |
+
+==== 3-teilige Schiebleiter (nach DIN 14 715) ====
+
+^ Rettungshöhe || 12,20 m (3. OG) |
+^ Leiterlänge  || 14,00 m         |
+^ Masse\\ (max.) ^ Holz | 100 kg |
+^ :::           ^ Aluminium | 75 kg |
+
+Im Freistand darf die Leiter nur bis zur Höhe der Stützen bestiegen werden!
+
+==== Klappleiter (nach DIN 14 713) ====
+
+^ Rettungshöhe | 2,20 m |
+^ Leiterlänge  | 3,00 m |
+^ Masse (max.) | 10 kg  |
+
+Klappleitern dürfen nicht als Hebel oder Rammbock verwendet werden!
+
+==== Hakenleiter (nach DIN 14 710) ====
+
+^ Leiterlänge  | 4,40 m |
+^ Masse (max.) | 12 kg |
+
+===== Quellenangabe =====
+
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * Hamilton. Handbuch für den Feuerwehrmann. Ulrich Kortt et al. Richard Boorberg Verlag. 2004
+
+===== Stichwörter =====
+
+tragbare Leitern

@@ -1,0 +1,23 @@
+====== Steigleitung/Wandhydranten ======
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Steigleitung ====
+
+  * ggf. Trupp entsenden, der in den nicht betroffenen Geschossen überprüft ob die Entnahmestellen geschlossen sind (insbesondere bei Steigleitungen mit fest montierten Handrädern
+  * Der Einsatz von Druckluftschaum kann dazu führen dass an der Entlüftungseinrichtung das Ventil nicht schließt und der Schaum dort austritt
+
+==== Wandhydrant ====
+
+  * Wandhydranten Typ S (Selbsthilfe)\\ Anforderung: Entnahmemenge 24 Liter/Minute bei 2 bar, an zwei Wandhydranten gleichzeitig
+  * Wandhydranten Typ F (Selbsthilfe und Feuerwehr)\\ Anforderung: Entnahmemenge 100 Liter/Minute bei 3 bar, an drei Wandhydranten gleichzeitig
+
+Daten nach DIN 14 461
+
+===== Quellenangabe =====
+
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+
+===== Stichwörter =====
+
+Löschwassereinspeisung, Einspeisung

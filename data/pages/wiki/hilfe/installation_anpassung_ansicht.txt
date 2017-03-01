@@ -1,0 +1,19 @@
+====== Anpassung der Ansicht ======
+
+===== Änderung der Anzeigegröße =====
+
+Die Schriftgröße des Einsatzleiterwikis lässt sich stufenlos einstellen. In den Artikeln enthaltene Bilder werden im gleichen Verhältnis ebenfalls vergrößert.
+
+Um die Anzeigegröße anzupassen, öffnen Sie den Ordner in dem sich Ihr Einsatzleiterwiki befindet. Öffnen Sie nun den Ordner ''lib'', darin den Ordner ''tpl'', darin den Ordner ''vector'' und dann den Ordner ''user''.
+
+Öffnen Sie nun die Datei ''screen.css''. Falls Sie **unter Windows** arbeiten, öffnen Sie die Datei bitte mit **Notepad** und nicht dem Texteditor oder Word, da die Datei sonst sehr wahrscheinlich unbrauchbar wird. In der Datei finden Sie ca. in der 10. Zeile folgenden Eintrag:
+
+<code>
+body { 
+	font-size: 130%;
+	}
+</code>
+
+Sie können den Wert der Prozent-Zahl nun nach Belieben ändern. Je höher der Wert, desto größer die Schrift. Der Standard-Startwert von 130% hat sich als guter Kompromiss zwischen Lesbarkeit und Platzverbrauch des Texts auf eher kleinen Laptop-Bildschirmen herausgestellt.
+
+Speichern Sie danach die Datei, und rufen Sie das Einsatzleiterwiki auf. Falls nicht sofort eine Änderung zu sehen ist, dann laden Sie die Seite neu, manchmal müssen Sie dies auch 2 bis 3 mal tun bis sich das Ergebnis zeigt. Dies liegt an der Vorliebe von Internetanzeigeprogrammen, die Daten nicht bei jedem Mal von der Datenquelle direkt zu holen sondern lieber auf zwischengespeicherte Daten zurückzugreifen.

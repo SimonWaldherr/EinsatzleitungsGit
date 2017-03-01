@@ -1,0 +1,41 @@
+====== Giftnotrufzentralen ======
+
+siehe auch: [[:erste_hilfe:vergiftung|Vergiftung]]
+
+===== zu treffende Maßnahmen =====
+
+Vor dem Anruf sollten folgende Punkt abgeklärt werden soweit möglich:
+
+  * Wer ist betroffen (Alter und Gewicht des Geschädigten)?
+  * Was wurde eingenommen (genauer Name des Giftstoffes bzw. Produkts)?
+  * Wann genau wurde das Gift eingenommen?
+  * Welche Menge wurde eingenommen? Falls nicht bekannt: was ist die maximale mögliche Menge (z.B. welchen Inhalt hat die Verpackung)?
+  * Welche Maßnahmen wurden bisher getroffen?
+  * Wie geht es dem Betroffenen derzeit?
+  * Wie ist der Anrufer für Rückfragen/Informationen erreichbar?
+
+===== Kontaktdaten/Ansprechpartner =====
+
+^Standort^Einrichtung^Telefonnummer|
+^**Deutschland** ^ ^ |
+|Berlin|Giftnotruf der Charite/Giftnotruf Berlin \\ Internet: [[http://giftnotruf.charite.de/|http://giftnotruf.charite.de/]]|030 - 19 24 0|
+|Bonn|Informationszentrale gegen Vergiftungen des Landes Nordrhein-Westfalen \\ Zentrum für Kinderheilkunde Universitätsklinikum Bonn \\ Internet: [[http://www.gizbonn.de/|http://www.gizbonn.de/]]|0228 - 19 24 0|
+|Erfurt|Gemeinsames Giftinformationszentrum (GGIZ Erfurt) der Länder Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen \\ Internet: [[http://www.ggiz-erfurt.de/|http://www.ggiz-erfurt.de/]]|0361 - 73 07 30|
+|Freiburg|Vergiftungs-Informations-Zentrale Freiburg (VIZ) \\ Universitätsklinikum Freiburg \\ Internet: [[http://www.giftberatung.de/|http://www.giftberatung.de/]]|0761 - 19 24 0|
+|Göttingen|Giftinformationszentrum-Nord (GIZ-Nord) der Länder Bremen, Hamburg, Niedersachsen und Schleswig-Holstein \\ Internet: [[http://www.giz-nord.de/|http://www.giz-nord.de/]]|0551 - 19 24 0|
+|Homburg/Saar|Informations- und Behandlungszentrum für Vergiftungen des Saarlandes \\ Universitätsklinikum des Saarlandes und Medizinische Fakultät der Universität des Saarlandes \\ Internet: [[http://www.uniklinikum-saarland.de/giftzentrale|http://www.uniklinikum-saarland.de/giftzentrale]]|06841 - 19 24 0|
+|Mainz|Giftinformationszentrum der Länder Rheinland-Pfalz und Hessen \\ Klinische Toxikologie, Universitätsmedizin Mainz \\ Internet: [[http://www.giftinfo.uni-mainz.de/|http://www.giftinfo.uni-mainz.de/]]|06131 - 19 24 0|
+|München|Giftnotruf München - Abteilung für Klinische Toxikologie Klinikikum rechts der Isar -Technische Universität München \\ Internet: [[http://www.toxinfo.med.tum.de/|http://www.toxinfo.med.tum.de/]]|089 - 19 24 0|
+|Nürnberg|Giftnotrufzentrale Nürnberg \\ Klinik für Intensiv- und Notfallmedizin, Klinikum Nürnberg|0911 - 39 82 45 1|
+^**Österreich** ^ ^ |
+|Wien|Vergiftungsinformationszentrale (VIZ) \\ Gesundheit Österreich GmbH \\ Internet: [[http://www.goeg.at/de/VIZ|http://www.goeg.at/de/VIZ]]|+43-1-4 06 43 43|
+^**Schweiz** ^ ^ |
+|Zürich|Schweizerisches Toxikologisches Informationszentrum \\ Internet: [[http://www.toxi.ch/|http://www.toxi.ch/]]|145 (in der Schweiz) \\ von Deutschland aus: \\ +41-44-2 51 51 51|
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_Vergiftung.pdf|Erste-Hilfe kompakt - Notfallstichwort Vergiftung]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband
+  * [[http://www.kindergesundheit-info.de/fuer-eltern/kindersicherheit/kindersicherheit06/giftnotruf2/|Giftinformationszentralen (Giftnotruf) - Informationsseite der Bundeszentrale für gesundheitliche Aufklärung, abgerufen 22.12.2013]]
+
+\\
+

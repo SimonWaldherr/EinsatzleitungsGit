@@ -1,0 +1,23 @@
+====== Sachgebiet S3 - Einsatz ======
+
+  * Beurteilen der Lage
+  * Fassen des Entschlusses über die Einsatzdurchführung, zum Beispiel festlegen von Einsatzschwerpunkten, bestimmen erforderlicher Einsatzkräfte, Einsatzmittel und Reserven, festlegen der Befehlsstelle
+  * Bestimmen und einweisen von Führungskräften, zum Beispiel Einsatzabschnittsleiterinnen oder Einsatzabschnittsleiter
+  * Ordnen des Schadengebietes, zum Beispiel
+    * Festlegen der Führungsorganisation
+    * Festlegen der Befehlsstelle
+    * Festlegen von [[allgemein:bereitstellungsraum|Bereitstellungsräumen]]
+    * Einrichten von Sammelstellen, zum Beispiel [[allgemein:manv|Verletztensammelstelle]],
+    * Leichensammelstelle
+  * Anordnen von Absperrmaßnahmen
+  * Festlegen und freihalten von An- und Abmarschwegen
+  * Zusammenarbeiten mit anderen Ämtern, Behörden und Organisationen
+  * Durchführen von Lagebesprechungen
+  * Erteilen der Befehle
+  * Beaufsichtigen und kontrollieren der Einsatzdurchführung
+  * Veranlassen von Sofortmaßnahmen für gefährdete Bevölkerung, zum Beispiel [[allgemein:warnung_bevoelkerung|Warnung]], Unterbringung, [[allgemein:raeumung|Räumung]] und [[allgemein:evakuierung|Evakuierung]], Versorgung, Transport und Instandsetzung
+  * Mithilfe bei der Sicherung geborgener Sachwerte, beim Ermitteln der Schadenursache und der Täter, bei der Zeugenfeststellung und bei der Beweismittelsicherung
+
+===== Quellenangabe =====
+
+  * [[http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext_Fw_Dv/SKK_Dv_100.pdf?__blob=publicationFile|Führung und Leitung im Einsatz : Führungssystem ; Vorschlag einer Dienstvorschrift DV 100]], Ständige Konferenz für Katastrophenvorsorge und Katastrophenschutz

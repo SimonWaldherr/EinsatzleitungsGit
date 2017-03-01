@@ -1,0 +1,36 @@
+====== Herzinfarkt (Myokardinfarkt) ======
+
+===== zu treffende Maßnahmen =====
+
+  * Rettungsdienst und Notarzt (nach-) alarmieren, explizit auf Herzinfarkt-Verdacht hinweisen
+  * Permanent Vitalfunktionen prüfen, nicht alleine lassen.
+  * köperliche Anstrengung (z.B. Umherlaufen) des Patienten vermeiden
+  * für Ruhe sorgen, ggf. von aufgeregten Angehörigen abschirmen
+  * Patient mit erhöhtem Oberkörper für ihn bequem auf den Boden setzen
+  * Enge Kleidung öffnen
+  * Für frische Luft sorgen (Fenster öffnen)
+  * Leidet der Patient bereits an Angina Pectoris, so soll er seine Medikamente selbstständig einnehmen
+
+Bei Bewusstlosigkeit:
+
+  * in stabile Seitenlage bringen
+  * bei Atemstillstand direkt mit [[erste_hilfe:wiederbelebung|Wiederbelebung]] beginnen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Symptome ====
+
+Die Symptome können alleine oder in Verbindung miteinander auftreten.
+
+  * plötzliche, starke Schmerzen mit Engegefühl im Brustbereich; die in den linken Arm, Rücken und Schultern ausstrahlen können, bei Frauen auch in den Oberbauch
+  * Übelkeit
+  * Luftnot
+  * Schweißausbrüche
+  * innere Unruhe
+  * Erbrechen
+  * fahle Gesichtsfarbe
+  * Todesangst
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_Herzinfarkt.pdf|Erste-Hilfe kompakt - Notfallstichwort Herzinfarkt]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband

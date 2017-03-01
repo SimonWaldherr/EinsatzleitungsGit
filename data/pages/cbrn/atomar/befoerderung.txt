@@ -1,0 +1,44 @@
+====== Beförderung radioaktiver Stoffe ======
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Transportkategorie ====
+
+<WRAP center round important 100%>
+Die Transportkategorien dürfen nicht mit den [[cbrn:allgemein:gefahrengruppen|Gefahrengruppen]] verwechselt werden!
+</WRAP>
+
+^ |  {{ cbrn:7-1.png?nolink&100 |Kategorie 1}} Kategorie 1  |  {{ cbrn:7-2.png?nolink&100 |Kategorie 2}} Kategorie 2  |  {{ cbrn:7-3.png?nolink&100 |Kategorie 3}} Kategorie 3  |  {{ cbrn:7-3.png?nolink&100 |Kategorie 3}} Kategorie 3 "unter ausschließlicher Verwendung"  |
+^ Dosisleistung an Außenfläche |  ≤ 0,005 mSv/h (5 μSv/h)  |  ≤ 0,5 mSv/h (500 μSv/h)  |  ≤ 2 mSv/h (2.000 μSv/h)    |  ≤ 10 mSv/h     |
+^ Dosisleistung in 1 m Abstand |  ---                      |  ≤ 10 μSv/h               |  ≤ 100 μSv/h  |  > 100 µSv/h  |
+^ Transportkennzahl            |  0 (≤ 0,05)               |  ≤ 1                      |  ≤ 10         |  > 10         |
+
+"Unter ausschließlicher Verwendung" bedeutet, dass das Fahrzeug direkt vom Absender zu einem einzelnen Empfänger fährt und keine weiteren Halte zum Be- oder Entladen tätigt.
+
+=== Transportkennzahl (TKZ) ===
+
+Multipliziert man die Transportkennzahl mit 10, so erhält man die maximal zulässige Dosisleistung in µSv/h in einem Meter Entfernung zum Versandstück. Bei einem Versandstück der Kategorie 2 darf die Dosisleistung somit in einem Meter Abstand nicht mehr als 10 µSv/h betragen.
+
+Ist auf einem Versandstück der Kategorie 2 oder 3 eine Transportkennzahl von 0 angegeben, so handelt es sich um einen reinen Alpha-/Beta-Strahler.
+
+Wird nach einem Unfall eine Dosisleistung gemessen die über der mittels der Transportkennzahl angegebenen liegt, so gibt es zwei Möglichkeiten:
+
+  * Das Versandstück ist beschädigt bzw. die Abschirmung nicht mehr intakt.
+  * Befinden sich mehrere Versandstücke direkt nebeneinander, so addiert sich die Dosisleistung die mit dem Messgerät erfasst wird. Befinden sich 5 Versandstücke der Transportkategorie 2 nebeneinander und in einem Meter wird eine Dosisleistung von 30 µSv/h gemessen, so muss daraus nicht zwangsläufig auf eine Beschädigung eines Versandstücks rückgeschlossen werden.
+
+== Berechnung der erlaubten Dosisleistung aus der Transportkennziffer ==
+
+~~INCLFORM=transportindex~~
+
+=== Kritikalitätssicherheitskennzahl ===
+
+{{cbrn:7-4.png?nolink&100 |Spaltbare Stoffe}} Bei Stoffen mit nebenstehender Kennzeichnung handelt es sich um spaltbares Material. Auf der Kennzeichnung ist die Kritkalitätssicherheitskennzahl CSI (Criticality Safety Index) angegeben, die besagt wie weit der transportierte Stoff von der kritischen Masse entfernt ist. Der maximale CSI beträgt 50; je kleiner der CSI desto ungefährlicher.
+
+===== Quellenangabe =====
+
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * FwDV 500 Stand 2012
+
+===== Stichwörter =====
+
+Transport radioaktiver Stoffe, Transportkategorien, Beförderungskategorie, Beförderungskategorien, TI

@@ -1,0 +1,24 @@
+====== Prüfröhrchen ======
+
+Beachten Sie: Prüfröhrchen können nicht zur genauen Feststellung von Schadstoff-Konzentrationen genutzt werden, sondern bieten nur einen ungefähren Anhaltspunkt für weitere Messungen und/oder Maßnahmen.
+
+Konkrete Messwerte grundsätzlich nur intern verwenden und nicht an die Öffentlichkeit weitergeben.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * vor der Messung ungeöffnetes Prüfröhrchen in die Pumpe stecken und diese Betätigen um Pumpe auf Dichtheit zu prüfen
+  * Durchflussrichtung auf dem Prüfröhrchen beachten (Pfeil muss in Richtung Pumpe zeigen)
+  * Anzahl der Pumpenhübe und Dauer der Messung aus Beipackzettel ermitteln (meist auch auf dem Röhrchen selbst aufgedruckt), teilweise sind zur Messung breiterer Konzentrationsbereiche auch zwei Skalen mit unterschiedlichen Hubzahlen vorhanden
+  * nach Öffnung des Röhrchens zügig mit der Messung beginnen um Ergebnis nicht zu verfälschen
+  * nach Ende der Messung sofort das Ergebnis ablesen und schriftlich festhalten, ggf. auch mit Permanent-Marker direkt auf dem Röhrchen markieren (Röhrchen kann nach Ende der Messung weiter reagieren). Zur einfacheren Erkennung ein ungeöffnetes Röhrchen als Vergleich neben das benutzte Röhrchen halten.
+  * Beipackzettel nicht nur auf Hubanzahl und Messdauer durchsuchen sondern komplett lesen, um auch Hinweise auf Querempfindlichkeiten und Besonderheiten zu erhalten
+
+Informationen zu Dräger-Prüfröhrchen sind im [[cbrn:allgemein:draeger_roehrchenhandbuch|Dräger-Röhrchen & CMS-Handbuch]] zu finden.
+
+===== Quellenangabe =====
+
+  * Ausbildungsunterlagen Lehrgang ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+
+===== Stichwörter =====
+
+Simultantest

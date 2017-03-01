@@ -1,0 +1,102 @@
+====== Tierrettung ======
+
+<WRAP round info>Die Zuständigkeit der Feuerwehr liegt beim Retten von Tieren aus Notlagen und bei Gefahren für die öffentliche Sicherheit, **nicht aber beim Einfangen** von Tieren!
+
+Eigentümer von Tieren sind verpflichtet, Gefahren die für oder durch ihr Tier entstehen, selbst zu beseitigen. Nur wenn der Eigentümer dies nicht selbst schafft wird die Feuerweht tätig.</WRAP>
+
+Siehe auch:
+
+  * [[cbrn:biologisch:tierseuchen|Tierseuchen]]
+  * [[allgemeine_hilfe:insekten|Insekten]]
+  * [[allgemeine_hilfe:eichenprozessionsspinner|Eichenprozessionsspinner]]
+
+Hinweise zu den jeweiligen Tierarten sind in den einzelnen Artikeln zu finden:
+
+{{simplenavi>allgemeine_hilfe:tierrettung}}
+
+===== zu treffende Maßnahmen =====
+
+  * Wenn keine Gefahr durch das Tier an sich ausgeht, dürfen in der Regel keine Sonderrechte bei der Fahrt zur Einsatzstelle in Anspruch genommen werden.\\ Erfolgt die Anfahrt mit Sondersignal, so sollte dies schon in einigem Abstand zur Einsatzstelle ausgeschaltet werden um das Tier nicht weiter zu belasten
+  * Nachalarmierung Polizei wenn noch nicht alarmiert um ggf. Verstöße gegen das Tierschutzgesetz zu ahnden. Je nach Landesgesetzgebung ist die Polizei sowieso für Einsätze mit Tieren zuständig.
+  * **Vollständige Schutzausrüstung tragen** um einen besseren Schutz gegen Bisse, Krallen, etc. zu haben (Stiefel, Feuerschutzkleidung, Handschuhe, Helm mit Visier)
+  * Tierhalter darauf hinweisen, dass der Einsatz evtl. kostenpflichtig werden kann
+  * Tierarzt hinzuziehen (ggf. Gabe von Beruhigungsmitteln, Begutachtung verletzter Tiere). Möglichst frühzeitig verständigen, da oft lange Anfahrtszeiten.
+  * Vertraute Person des Tieres mit in die Arbeit einbinden / Ratschläge einholen. Gibt es Feuerwehrmitglieder (auch bei benachbarten Einheiten), die sich mit der Tierart auskennen und als "Fachberater" vermitteln können?
+  * Werden Tiere aus dem Stall getrieben, für sichere Unterbringung sorgen (z.B. Koppel). Tiere versuchen zurück in den Stall zu laufen!
+  * Federvieh wird von Licht/Feuer angezogen!
+  * Wird das Tier vermutlich unter Qualen sterben, so ist es durch den (Amts-) Tierarzt, Forstbeamten oder einen anderen Berechtigten, notfalls auch durch die Polizei, zu töten.\\ Das <wrap important>Töten durch Feuerwehrangehörige ist untersagt</wrap>, da diese nicht mit den notwendigen Techniken vertraut sind.
+  * Nach Einsatzende (Hände-) Desinfektion, ggf. weitere [[cbrn:allgemein:dekontamination:desinfektion|Desinfektionsmaßnahmen]]
+
+==== Haus- und Nutztiere ====
+
+  * Nach der Befreiung Übergabe an den Eigentümer falls anwesend, ansonsten an zuständige Tiersammelstelle (z.B. Tierheim)
+  * ggf. kann der Besitzer durch Kennzeichnungen wie z.B. die Hundemarke ausfindig gemacht werden
+
+==== Wildtiere ====
+
+  * Die Ursache für verletzte Wildtiere liegt meist in der Natur selbst, in die natürlichen Kreisläufe sollte bzw. braucht in diesen Fällen nicht eingegriffen werden. Ansonsten sind folgende Hinweise zu beachten: 
+  * Zuständigkeit: je nach Fundort:
+    * im Forst (Wald): Zuständigkeit beim Forstamt
+    * außerhalb des Forstes: Zuständigkeit bei Polizei und Feuerwehr
+  * Kann sich das verletzte Wildtier (nach evtl. Befreiung) selbst in Sicherheit bringen, so ist eine Verfolgung des Tieres verboten!
+  * Besteht der Verdacht auf Krankheiten wie z.B. Tollwut, ist der Amtstierarzt (Veterinäramt) zu verständigen!
+    * Bei Füchsen, verletzten oder toten Tieren in tollwutgefährdeten Gebieten ist der Amtstierarzt grundsätzlich zu verständigen!
+    * Sind Menschen in Kontakt mit tollwütigen Tieren gekommen, sollten sich diese in einer entsprechenden Klinik für Infektionskrankheiten vorstellen
+
+==== exotische Tiere ====
+
+z.B. Echsen, Schlangen, Lurche, Spinnen, Schildkröten, etc.
+
+  * bei Verdacht auf Verstoß gegen Tierschutzgesetzte auf jeden Fall Polizei nachfordern!
+  * ggf. Anforderung von fachkundigem Personal zum Einfangen des Tieres
+  * Nach Befreiung / Einfangen Übergabe an Tierheim oder Zoo, davor sinnvollerweise mit diesen Rücksprache halten
+
+==== besondere Gefahren ====
+
+  * Nicht nur Wild-, sondern auch Haus- und Nutztiere sind in einer Notlage unberechenbar, selbst wenn der Eigentümer anwesend ist! Besondere Gefahr/Aggresivität besteht bei:
+    * wenn sich Tiere in der Paarungszeit befinden (insbesondere die männlichen)
+    * Herdentiere (z.B. Pferde, Rinder) sehen in Fremden einen Eindringling
+    * Muttertieren, wenn man den Jungen zu nahe kommt
+  * Übertragen von Krankheiten (z.B. Tollwut - hier insbesondere Vorsicht bei sehr zutraulichen Tieren!)
+  * gefährliche Körperteile von Tieren:
+    * Raubtiere: Gebiss, Pranken
+    * Schweine: Gebiss
+    * Huftiere: Hufe, Gebiss, Schlagen mit dem Kopf
+    * Vögel: Schnabel, Krallen
+    * Schlangen: Giftzähne
+    * Insekten: Stachel
+  * Kosten für hinzugezogene Fachleute müssen von der Feuerwehr übernommen werden wenn kein Eigentümer ausfindig gemacht werden kann!
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * für den improvisierten Tiertransport eignet sich z.B. ein (Umzugs-) Karton
+  * Tierrettungseinsätze sind in der Regel für den Eigentümer kostenpflichtig. Daher sollten die Personalien des Tierhalters aufgenommen werden.
+
+==== allgemeines Verhalten gegenüber Tieren ====
+
+Der Feuerwehreinsatz bedeutet für das Tier Stress!
+
+  * i.d.R. von vorne annähern
+  * Tier beruhigen
+  * mit heller, freundlicher Stimme sprechen
+  * Laute, knallende Geräusche und Gebrüll vermeiden
+  * Hektische Bewegung vermeiden
+  * Beim "Zugriff" darauf achten Tiere nicht zu verletzen (insb. Vögel)
+  * 
+
+==== Exotische Haustiere ====
+
+  * mit Besen o.ä. versuchen in Transportbehälter zu treiben
+  * alternativ mit Kescher fangen
+  * Schlangen fliehen vor Alkohol
+
+===== Quellenangabe =====
+
+  * Abschnittsarbeit //Einsatzgrundlagen zu „Tier in Notlage“//, HBM Andreas Heinrich, Berliner Feuerwehr, 2006
+  * Abschnittsarbeit //Einsatz der Berliner Feuerwehr bei Notlagen von Tieren//, BOI-A Martin Kröber, Berliner Feuerwehr, 2006
+  * Dirk Schneider: //Chemnitz: Pferderettung im Moor//. In: Brandschutz 04/2018, Verlag W. Kohlhammer, Stuttgart, S. 296 ff.
+  * [[http://www.kfv-hassberge.de/fileadmin/downloads/MTA/MTA_11_-_Hilfeleistungseisatz/11.4/MTA_11-4_Text.pdf|Modulare Truppausbildung: Einheiten im Hilfeleistungseinsatz]], Staatliche Feuerwehrschule Würzburg
+
+===== Stichwörter =====
+
+Tierrettung, Tier in Notlage, Gefahr für Tiere, Gefahr durch Tiere

@@ -1,0 +1,93 @@
+====== Sauerstoff ======
+
+===== zu treffende Maßnahmen =====
+
+  * Armaturen etc. die mit Sauerstoff in Berührung kommen dürfen nicht mit Öl und Fett in Kontakt kommen (explosionsartige Verbrennung). Dies betrifft auch Salben, Gels, Desinfektionsmittel, etc. aus dem Rettungsdienstbereich.
+  * absolutes Rauchverbot, keinesfalls Zündquellen und offene Flammen an der Einsatzstelle
+  * getragene Kleidung ausgiebig lüften (Sauerstoff haftet sehr gut in der Kleidung und sammelt sich in dieser an)
+
+==== Sauerstoffaustritt Heimsauerstoffgerät ====
+
+Sauerstoffgeräte sind bei heimbeatmeten Patienten bzw. in [[allgemein:beatmete_patienten|Beatmeten-WGs]] auch außerhalb von Kliniken und Heimen anzutreffen!
+
+{{ cbrn:chemisch:klasse_2:stoffe:sauerstoff_heimgeraet.jpg?nolink&300|Sauerstoffaustritt Heimsauerstoffgerät}}
+
+  * Rettungsdienst zur Versorgung des Patienten mit Sauerstoff nachalarmieren
+  * Behälter immer senkrecht halten, umgekippte Behälter schnell wieder senkrecht hinstellen
+  * keine kalten/vereisten Teile berühren (Temperatur von flüssigem Sauerstoff -183°C )
+  * undichtes Ventil (siehe Bild) mit heißem Wasser übergießen damit es sich evtl. wieder schließt
+  * kein heißes Wasser in flüssig austretenden Sauerstoff geben
+  * Behälter nach draußen bringen
+  * Räume gründlich lüften
+  * Bewohner darauf hinweisen vorerst das Rauchen zu unterlassen
+
+Bei Undichtigkeiten an Klinkanlagen ggf. Versorgungsschwierigkeiten der angeschlossenen Patienten!
+
+==== besondere Gefahren ====
+
+  * austretender Sauerstoff an sich stellt keine Gefahr da, so lange keine brennbaren bzw. brennenden Stoffe vorhanden sind\\ -> brandfördernde Wirkung
+    * Stoffe brennen schneller und heftiger (heißer), selbst schwer entflammbare oder unter Normalbedingungen nicht brennbare Stoffe können brennen (fast alle Stoffe außer Edelmetallen und Metalloxiden)
+    * Verringerung der Zündtemperatur
+    * explosionsartige Reaktion mit organischen Stoffen möglich
+  * Erfrierungsgefahr am kalten Ventil sowie weitere Gefahren die beim [[cbrn:chemisch:klasse_2:start#tiefkalt_verfluessigtkryogene_gase|Austritt von tiefkalt verflüssigten Gasen]] auftreten
+  * tiefkalt austretender Sauerstoff vermischt sich nicht mit der Umgebungsluft, sondern sammelt sich am Boden (Achtung bei Senken, Gräben, Kellern, etc.)
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * 1 Liter Flüssigsauerstoff ergibt ca. 850 Liter gasförmigen Sauerstoff
+  * Sauerstoffkonzentrationen bis zu einem Wert von 50% bis 60% sind für erwachsene Personen bei Normaldruck ungefährlich
+
+==== Stoffdaten ====
+
+^ Identifikation ^^
+^ Alternative Namen                            | Oxygen |
+^ CAS-Nr.                                      | 7782-44-7 |
+^ Gefahrgutbezeichnung                         | Sauerstoff, verdichtet //oder// Sauerstoff, tiefgekühlt, flüssig |
+^ [[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Nummer zur Kennzeichnung der Gefahr]] | {{cbrn:chemisch:klasse_2:stoffe:25-1072_sauerstoff_verdichtet.png?nolink&100|Sauerstoff, verdichtet}}\\ Sauerstoff, verdichtet  |
+^ UN-Nr.                                       |  :::  |
+^ [[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Nummer zur Kennzeichnung der Gefahr]] | {{cbrn:chemisch:klasse_2:stoffe:225-1073_sauerstoff_verfluessigt.png?nolink&100|Sauerstoff, tiefgekühlt, flüssig}}\\ Sauerstoff, tiefgekühlt, flüssig  |
+^ UN-Nr.                                       |  :::  |
+^ Gefahrzettel                                 | {{cbrn:2-2.png?nolink&100 |Placard 2.2}} {{cbrn:5-1.png?nolink&100 |Placard 5.1}} |
+^ ADR-Klasse                                   | [[cbrn:chemisch:klasse_2:start|Klasse 2: Nicht entzündbare, nicht toxische Gase]] |
+^ [[cbrn:allgemein:kennzeichnung:gasflaschenkennzeichnung|Gasflaschenkennzeichnung]] | {{cbrn:allgemein:gasflasche_sauerstoff.png?nolink&100|weiß: Sauerstoff}} \\ weiß: Sauerstoff\\ Kennzeichnung medizinischer Sauerstoffgemische auf der Seite [[cbrn:allgemein:kennzeichnung:gasflaschenkennzeichnung|Gasflaschenkennzeichnung]]  |
+^ ERICard                                      | [[cbrn:ericards:klasse_2:10720419|Sauerstoff, verdichtet - UN 1072 - Gefahrnr. 25 - ERICard-Nr. 2-27]]\\ [[cbrn:ericards:klasse_2:10730420|Sauerstoff, tiefgekühlt, flüssig - UN 1073 - Gefahrnr. 225 - ERICard-Nr. 2-43]] |
+^ Summenformel                                 | O₂ |
+^ [[cbrn:allgemein:begriffsklaerungen#molare_masse|molare Masse]] | 32,00 g/mol |
+^ Charakterisierung ^^
+^ Aggregatszustand                             | gasförmig |
+^ Farbe                                        | farblos |
+^ Geruch                                       | geruchslos |
+^ Brennbarkeit                                 | selbst nicht brennbar, aber brandfördernd |
+^ Verhalten an Luft                            | schwerer als Luft, vermischt sich jedoch bei gleicher Temperatur wie die der Umgebungsluft mit dieser |
+^ physikalisch-chemische Eigenschaften ^^
+^ Schmelzpunkt                                 | -219 °C |
+^ Siedepunkt                                   | -183 °C |
+^ Dichte                                       | 1,429 kg/m³ bei 0 °C und 1013 mbar |
+^ [[cbrn:allgemein:begriffsklaerungen#relative_dichte_zu_luft|Relative Gasdichte]] (zu Luft) | 1,1052 |
+^ [[cbrn:allgemein:begriffsklaerungen#wasserloeslichkeit|Wasserlöslichkeit]] | 39 mg/l (geringfügig) |
+^ [[cbrn:allgemein:begriffsklaerungen#wassergefaehrdungsklasse|Wassergefährdungsklasse]] | Nicht wassergefährdender Stoff |
+^ Explosionsgefahr von __gasförmigem und flüssigem__ Sauerstoff bei Reaktion mit            | Alkalimetallen; [[cbrn:chemisch:klasse_2:stoffe:ammoniak|Ammoniak]]; brennbaren Stoffen; Fluor; organischen Stoffen; Reduktionsmitteln; Aceton; sek. Alkohole; Alkylaluminiumhydrid; Aluminiumborhydrid; Barium; Bromtrifluorethen; Butadien; Buten-3-in; Chlortrifluorethen; Cyanwasserstoff; Dekaboran (Wärme); Deuterium; Diboran (Wärme); Dibortetrafluorid; Dicyan; Dioxan; Diphenylethen; Ethen; Ethenoxid; Ethern; Fasern; Fette/Öle; Furan; Hydrazin; Katalysatoren; Kohlenwasserstoffe; Metallpulvern; Nickelcarbonyl; Pentaboran; peroxidbildende Flüssigkeiten; Phosphortriiodid; Phosphortrioxid; Phosphin; porösen Stoffen; Schwefelkohlenstoff; Schwefelwasserstoff; Stickstoffoxiden; Sulfide; Synthesegas (schwefelwasserstoffhaltig); Tetrachlorethen/Alkali; Tetrachlormethan/Alkali; Tetrahydrofuran; Textilien/Zündquellen; Thiophosphorylchlorid; Trichlorethen; Trichlormethan/Alkali; Verunreinigungen; Wasserstoff  |
+^ Explosionsgefahr von __flüssigem__ Sauerstoff bei Reaktion mit            | [[cbrn:chemisch:klasse_2:stoffe:acetylen|Acetylen]]; Asphalt/Schlag; Flüssiggas; brennbare Gase; Glycerin; poröser Gummi; Halogenkohlenwasserstoffe; Kohle (Pulver); Kohlenmonoxid; Lithiumhydrid; Methan; poröse Stoffe; Rost; Tetrafluorethen (flüssig); Trioxan; Alkoholen; Aluminium (Pulver)  |
+^ gefährliche Reaktion mit                     | Aluminium (Pulver); Phosphor; Acetaldehyd (Hitze); Acetylen/Funke; Alkohole/Wärme; Aluminiumalkylaten; Arsentribromid; Benzoesäure (Pulver); Caesium; Calcium; Dimethylsilan; Dimethylsulfid; Germanium (Wärme); Glycerin/Verunreinigungen; Gummi/porös; Hydride; brennbare Kunststoffe; Methylsilan; Natriumsulfid (wasserfrei); Öle/große Oberflächen; [[cbrn:chemisch:klasse_2:stoffe:phosgen|Phosgen]]; Propenoxid; pyrophore Stoffe; Selen; Silan; Styrol; Teflon/Hitze; Tetraboran; Titan; Trimethylsilan;  |
+^ [[cbrn:allgemein:kennzeichnung:ghs|GHS-Einstufung und Kennzeichnung]] ^^
+^ [[cbrn:allgemein:kennzeichnung:ghs#piktogramme|GHS-Piktogramm(e)]] | {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_rondflam.png?nolink&100 |brandfördernd}} {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_bottle.png?nolink&100 |Gasflasche}} |
+^ GHS-Signalwort                               | Gefahr |
+^ [[cbrn:allgemein:kennzeichnung:ghs#gefahrenhinweise_h-saetze|GHS-Gefahrenhinweise (H-Sätze)]] | H270: Kann Brand verursachen oder verstärken; Oxidationsmittel.\\ H280: Enthält Gas unter Druck; kann bei Erwärmung explodieren. |
+^ [[cbrn:allgemein:kennzeichnung:ghs#sicherheitshinweise_p-saetze|GHS-Sicherheitshinweise (P-Sätze)]] | P244: Druckminderer frei von Fett und Öl halten.\\ P220: Von brennbaren Materialien entfernt aufbewahren.\\ P370+P376: Bei Brand: Undichtigkeit beseitigen, wenn gefahrlos möglich.\\ P403: An einem gut belüfteten Ort aufbewahren. |
+^ [[cbrn:allgemein:kennzeichnung:gefahrensymbole|Einstufung nach Stoffrichtlinie]] (R- und S-Sätze) ^^
+^ [[cbrn:allgemein:kennzeichnung:gefahrensymbole|Piktogramm]] | {{cbrn:allgemein:kennzeichnung:gefahr_o.png?nolink&100|O Brandfördernd}}\\ O Brandfördernd |
+^ Risiko-Sätze (R-Sätze)                       | R 8: Feuergefahr bei Berührung mit brennbaren Stoffen |
+^ [[cbrn:allgemein:kennzeichnung:warnzeichen|Warnzeichen]] ^^
+^ {{cbrn:allgemein:kennzeichnung:warnung_vor_brandfoerdernden_stoffen.png?nolink&100|Warnung vor brandfördernden Stoffen}} | Warnung vor brandfördernden Stoffen |
+^ {{cbrn:allgemein:kennzeichnung:warnung_vor_gasflaschen.png?nolink&100|Warnung vor Gasflaschen}} | Warnung vor Gasflaschen |
+
+**Lizenzhinweis**: Die Daten aus dem Bereich "Stoffdaten" stammen zu großen Teilen aus der GESTIS-Stoffdatenbank und dürfen daher ausschließlich für nichtkommerzielle Zwecke des Arbeitssschutzes verwendet werden.
+
+===== Quellenangabe =====
+
+  * [[http://www.carbagas.ch/file/otherelement/pj/ec/c7/40/7c/mu_de6177548646634248631.pdf|Bedienungsanleitung Heimsauerstoffgerät Freelox]]
+  * telefonische Auskunft der Fa. Linde
+  * {{:allgemein:kleine_merkhilfe_fuer_den_feuerwehreinsatz_1.03.pdf|Kleine Merkhilfe für den Feuerwehreinsatz: Zusammenstellung für Führungskräfte der Feuerwehr}}, Florian Pernpeintner
+  * [[http://www.industriegaseverband.de/igv/sicherheitshinweise/SHW-Sauerstoffanreicherung-11-09.pdf|Sicherheitsinformation zum Umgang mit Sauerstoff]], Industriegaseverband e.V.
+  * [[http://www.industriegaseverband.de/igv/sicherheitshinweise/O2med-02-10.pdf|Umgang mit Sauerstoff im medizinischen Bereich]], Industriegaseverband e.V.
+  * [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/007080.xml?f=templates&fn=default.htm|Eintrag für Sauerstoff]] in der GESTIS-Gefahrstoffdatenbank

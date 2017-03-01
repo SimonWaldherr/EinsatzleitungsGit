@@ -1,0 +1,224 @@
+====== Klassifizierungscode ======
+
+<WRAP center round important 100%> Zuerst zur zugehörigen ADR-Klasse gehen, dann den entsprechenden Klassifizierungscode heraussuchen (die Klassifizierungscodes kommen in den ADR-Klassen teilweise mehrfach vor). </WRAP>
+
+^  Klasse  ^  Klassifi-\\ zierungscode  ^  Beschreibung  ^
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.1A**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 1, Verträglichkeitsgruppe A|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.1B**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 1, Verträglichkeitsgruppe B|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.1C**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 1, Verträglichkeitsgruppe C|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.1D**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 1, Verträglichkeitsgruppe D|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.1E**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 1, Verträglichkeitsgruppe E|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.1F**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 1, Verträglichkeitsgruppe F|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.1G**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 1, Verträglichkeitsgruppe G|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.1J**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 1, Verträglichkeitsgruppe J|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.1L**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 1, Verträglichkeitsgruppe L|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.2B**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 2, Verträglichkeitsgruppe B|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.2C**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 2, Verträglichkeitsgruppe C|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.2D**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 2, Verträglichkeitsgruppe D|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.2E**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 2, Verträglichkeitsgruppe E|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.2F**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 2, Verträglichkeitsgruppe F|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.2G**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 2, Verträglichkeitsgruppe G|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.2H**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 2, Verträglichkeitsgruppe H|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.2J**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 2, Verträglichkeitsgruppe J|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.2K**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 2, Verträglichkeitsgruppe K|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.2L**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 2, Verträglichkeitsgruppe L|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.3C**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 3, Verträglichkeitsgruppe C|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.3G**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 3, Verträglichkeitsgruppe G|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.3H**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 3, Verträglichkeitsgruppe H|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.3J**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 3, Verträglichkeitsgruppe J|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.3K**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 3, Verträglichkeitsgruppe K|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.3L**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 3, Verträglichkeitsgruppe L|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.4B**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 4, Verträglichkeitsgruppe B|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.4C**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 4, Verträglichkeitsgruppe C|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.4D**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 4, Verträglichkeitsgruppe D|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.4E**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 4, Verträglichkeitsgruppe E|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.4F**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 4, Verträglichkeitsgruppe F|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.4G**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 4, Verträglichkeitsgruppe G|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.4S**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 4, Verträglichkeitsgruppe S|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.5D**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 5, Verträglichkeitsgruppe D|
+|  [[cbrn:chemisch:klasse_1:start|1]]  |  **1.6N**  |Explosive Stoffe und Gegenstände mit Explosivstoff, Unterklasse 6, Verträglichkeitsgruppe N|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **1A**  |Verdichtetes Gas, erstickend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **1F**  |Verdichtetes Gas, entzündbar|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **1O**  |Verdichtetes Gas, oxidierend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **1T**  |Verdichtetes Gas, giftig|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **1TC**  |Verdichtetes Gas, giftig, ätzend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **1TF**  |Verdichtetes Gas, giftig, entzündbar|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **1TFC**  |Verdichtetes Gas, giftig, entzündbar, ätzend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **1TO**  |Verdichtetes Gas, giftig, oxidierend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **1TOC**  |Verdichtetes Gas, giftig, oxidierend, ätzend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **2A**  |Verflüssigtes Gas, erstickend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **2F**  |Verflüssigtes Gas, entzündbar|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **2O**  |Verflüssigtes Gas, oxidierend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **2T**  |Verflüssigtes Gas, giftig|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **2TC**  |Verflüssigtes Gas, giftig, ätzend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **2TF**  |Verflüssigtes Gas, giftig, entzündbar|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **2TFC**  |Verflüssigtes Gas, giftig, entzündbar, ätzend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **2TO**  |Verflüssigtes Gas, giftig, oxidierend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **2TOC**  |Verflüssigtes Gas, giftig, oxidierend, ätzend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **3A**  |Tiefgekühlt verflüssigtes Gas, erstickend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **3F**  |Tiefgekühlt verflüssigtes Gas, entzündbar|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **3O**  |Tiefgekühlt verflüssigtes Gas, oxidierend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **3TC**  |Tiefgekühlt verflüssigtes Gas, giftig, ätzend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **4A**  |Gelöstes Gas, erstickend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **4F**  |Gelöstes Gas, entzündbar|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **4TC**  |Gelöstes Gas, giftig, ätzend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **5A**  |Druckgaspackungen oder Gefäße, klein, mit Gas (Gaspatronen), erstickend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **5C**  |Druckgaspackungen oder Gefäße, klein, mit Gas (Gaspatronen), ätzend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **5CO**  |Druckgaspackungen oder Gefäße, klein, Gas (Gaspatronen), ätzend, oxidierend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **5F**  |Druckgaspackungen oder Gefäße, klein, mit Gas (Gaspatronen), entzündbar|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **5FC**  |Druckgaspackungen oder Gefäße, klein, mit Gas (Gaspatronen), entzündbar, ätzend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **5O**  |Druckgaspackungen oder Gefäße, klein, mit Gas (Gaspatronen), oxidierend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **5T**  |Druckgaspackungen oder Gefäße, klein, mit Gas (Gaspatronen), giftig|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **5TC**  |Druckgaspackungen oder Gefäße, klein, mit Gas (Gaspatronen), giftig, ätzend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **5TF**  |Druckgaspackungen oder Gefäße, klein, mit Gas (Gaspatronen), giftig, entzündbar|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **5TFC**  |Druckgaspackungen oder Gefäße, klein, mit Gas (Gaspatronen), giftig, entzündbar, ätzend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **5TO**  |Druckgaspackungen oder Gefäße, klein, mit Gas (Gaspatronen), giftig, oxidierend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **5TOC**  |Druckgaspackungen oder Gefäße, klein, mit Gas (Gaspatronen), giftig, oxidierend, ätzend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **6A**  |Andere Gegenstände, die erstickende Gase unter Druck enthalten|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **6F**  |Andere Gegenstände, die entzündbare Gase unter Druck enthalten|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **7F**  |Nicht unter Druck stehende entzündbare Gase, die besonderen Vorschriften unterliegen (Gasproben)|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **7T**  |Nicht unter Druck stehende giftige Gase, die besonderen Vorschriften unterliegen (Gasproben)|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **7TF**  |Nicht unter Druck stehende giftige und entzündbare Gase, die besonderen Vorschriften unterliegen (Gasproben)|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **8A**  |8 = Chemikalien unter Druck: flüssige, pastöse oder pulverförmige Stoffe, die mit einem Treibmittel unter Druck gesetzt werden, das der Begriffsbestimmung für verdichtetes oder verflüssigtes Gas entspricht, und Gemische dieser Stoffe; A = erstickend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **8C**  |8 = Chemikalien unter Druck: flüssige, pastöse oder pulverförmige Stoffe, die mit einem Treibmittel unter Druck gesetzt werden, das der Begriffsbestimmung für verdichtetes oder verflüssigtes Gas entspricht, und Gemische dieser Stoffe; C = ätzend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **8F**  |8 = Chemikalien unter Druck: flüssige, pastöse oder pulverförmige Stoffe, die mit einem Treibmittel unter Druck gesetzt werden, das der Begriffsbestimmung für verdichtetes oder verflüssigtes Gas entspricht, und Gemische dieser Stoffe; F = entzündbar|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **8FC**  |8 = Chemikalien unter Druck: flüssige, pastöse oder pulverförmige Stoffe, die mit einem Treibmittel unter Druck gesetzt werden, das der Begriffsbestimmung für verdichtetes oder verflüssigtes Gas entspricht, und Gemische dieser Stoffe; FC = entzündbar, ätzend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **8T**  |8 = Chemikalien unter Druck: flüssige, pastöse oder pulverförmige Stoffe, die mit einem Treibmittel unter Druck gesetzt werden, das der Begriffsbestimmung für verdichtetes oder verflüssigtes Gas entspricht, und Gemische dieser Stoffe; T = giftig|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **8TF**  |8 = Chemikalien unter Druck: flüssige, pastöse oder pulverförmige Stoffe, die mit einem Treibmittel unter Druck gesetzt werden, das der Begriffsbestimmung für verdichtetes oder verflüssigtes Gas entspricht, und Gemische dieser Stoffe; TF = giftig, entzündbar|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **9A**  |9 = Adsorbierte Gase; A = erstickend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **9F**  |9 = Adsorbierte Gase; F = entzündbar|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **9O**  |9 = Adsorbierte Gase; O = oxidierend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **9T**  |9 = Adsorbierte Gase; T = giftig|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **9TC**  |9 = Adsorbierte Gase; TC = giftig, ätzend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **9TF**  |9 = Adsorbierte Gase; TF = giftig, entzündbar|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **9TFC**  |9 = Adsorbierte Gase; TFC = giftig, entzündbar, ätzend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **9TO**  |9 = Adsorbierte Gase; TO = giftig, oxidierend|
+|  [[cbrn:chemisch:klasse_2:start|2]]  |  **9TOC**  |9 = Adsorbierte Gase; TOC = giftig, oxidierend, ätzend|
+|  [[cbrn:chemisch:klasse_3:start|3]]  |  **D**  |Desensibilisierte explosive flüssige Stoffe|
+|  [[cbrn:chemisch:klasse_3:start|3]]  |  **FC**  |Entzündbare flüssige Stoffe, ätzend|
+|  [[cbrn:chemisch:klasse_3:start|3]]  |  **FTC**  |Entzündbare flüssige Stoffe, giftig, ätzend|
+|  [[cbrn:chemisch:klasse_3:start|3]]  |  **FT1**  |Entzündbare flüssige Stoffe, giftig|
+|  [[cbrn:chemisch:klasse_3:start|3]]  |  **FT2**  |Entzündbare flüssige Stoffe, giftig - Mittel zur Schädlingsbekämpfung (Pestizide)|
+|  [[cbrn:chemisch:klasse_3:start|3]]  |  **F1**  |Entzündbare flüssige Stoffe ohne Nebengefahr und mit einem Flammpunkt von höchstens 60 °C|
+|  [[cbrn:chemisch:klasse_3:start|3]]  |  **F2**  |Entzündbare flüssige Stoffe ohne Nebengefahr und mit einem Flammpunkt über 60 °C, die auf oder über ihrem Flammpunkt erwärmt zur Beförderung aufgegeben oder befördert werden (erwärmte Stoffe)|
+|  [[cbrn:chemisch:klasse_3:start|3]]  |  **F3**  |Gegenstände, die entzündbare flüssige Stoffe enthalten|
+|  [[cbrn:chemisch:klasse_3:start|3]]  |  **F4**  |Stoffe mit einem Flammpunkt über 60 °C, die in einem Grenzbereich von 15 K unterhalb des Flammpunktes erwärmt zur Beförderung aufgegeben oder befördert werden|
+|  [[cbrn:chemisch:klasse_3:start|3]]  |  **F5**  |Stoffe mit einer Zündtemperatur <= 200 °C und nicht anderweitig aufgeführt|
+|  [[cbrn:chemisch:klasse_4-1:start|4.1]]  |  **D**  |Desensibilisierte explosive feste Stoffe ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_4-1:start|4.1]]  |  **DT**  |Desensibilisierte explosive feste Stoffe, giftig|
+|  [[cbrn:chemisch:klasse_4-1:start|4.1]]  |  **FC1**  |Entzündbare feste, organische Stoffe, ätzend|
+|  [[cbrn:chemisch:klasse_4-1:start|4.1]]  |  **FC2**  |Entzündbare feste, anorganische Stoffe, ätzend|
+|  [[cbrn:chemisch:klasse_4-1:start|4.1]]  |  **FO**  |Entzündbare feste Stoffe, entzündend (oxidierend) wirkend|
+|  [[cbrn:chemisch:klasse_4-1:start|4.1]]  |  **FT1**  |Entzündbare feste, organische Stoffe, giftig|
+|  [[cbrn:chemisch:klasse_4-1:start|4.1]]  |  **FT2**  |Entzündbare feste, anorganische Stoffe, giftig|
+|  [[cbrn:chemisch:klasse_4-1:start|4.1]]  |  **F1**  |Entzündbare feste, organische Stoffe, ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_4-1:start|4.1]]  |  **F2**  |Entzündbare feste, organische Stoffe, ohne Nebengefahr, geschmolzen|
+|  [[cbrn:chemisch:klasse_4-1:start|4.1]]  |  **F3**  |Entzündbare feste, anorganische Stoffe, ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_4-1:start|4.1]]  |  **SR1**  |Selbstzersetzliche Stoffe, für die keine Temperaturkontrolle erforderlich ist|
+|  [[cbrn:chemisch:klasse_4-1:start|4.1]]  |  **SR2**  |Selbstzersetzliche Stoffe, für die eine Temperaturkontrolle erforderlich ist|
+|  [[cbrn:chemisch:klasse_4-2:start|4.2]]  |  **SC1**  |Selbstentzündliche organische ätzende flüssige Stoffe|
+|  [[cbrn:chemisch:klasse_4-2:start|4.2]]  |  **SC2**  |Selbstentzündliche organische ätzende feste Stoffe|
+|  [[cbrn:chemisch:klasse_4-2:start|4.2]]  |  **SC3**  |Selbstentzündliche anorganische ätzende flüssige Stoffe|
+|  [[cbrn:chemisch:klasse_4-2:start|4.2]]  |  **SC4**  |Selbstentzündliche anorganische ätzende feste Stoffe|
+|  [[cbrn:chemisch:klasse_4-2:start|4.2]]  |  **SO**  |Selbstentzündliche oxidierende Stoffe|
+|  [[cbrn:chemisch:klasse_4-2:start|4.2]]  |  **ST1**  |Selbstentzündliche organische giftige flüssige Stoffe|
+|  [[cbrn:chemisch:klasse_4-2:start|4.2]]  |  **ST2**  |Selbstentzündliche organische giftige feste Stoffe|
+|  [[cbrn:chemisch:klasse_4-2:start|4.2]]  |  **ST3**  |Selbstentzündliche anorganische giftige flüssige Stoffe|
+|  [[cbrn:chemisch:klasse_4-2:start|4.2]]  |  **ST4**  |Selbstentzündliche anorganische giftige feste Stoffe|
+|  [[cbrn:chemisch:klasse_4-2:start|4.2]]  |  **SW**  |Selbstentzündliche Stoffe, die in Berührung mit Wasser entzündbare Gase entwickeln|
+|  [[cbrn:chemisch:klasse_4-2:start|4.2]]  |  **S1**  |Selbstentzündliche organische flüssige Stoffe ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_4-2:start|4.2]]  |  **S2**  |Selbstentzündliche organische feste Stoffe ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_4-2:start|4.2]]  |  **S3**  |Selbstentzündliche anorganische flüssige Stoffe ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_4-2:start|4.2]]  |  **S4**  |Selbstentzündliche anorganische feste Stoffe ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_4-2:start|4.2]]  |  **S5**  |Selbstentzündliche metallorganische Stoffe ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_4-3:start|4.3]]  |  **WC1**  |Flüssige ätzende Stoffe, die in Berührung mit Wasser entzündbare Gase entwickeln|
+|  [[cbrn:chemisch:klasse_4-3:start|4.3]]  |  **WC2**  |Feste ätzende Stoffe, die in Berührung mit Wasser entzündbare Gase entwickeln|
+|  [[cbrn:chemisch:klasse_4-3:start|4.3]]  |  **WFC**  |Stoffe, die in Berührung mit Wasser entzündbare Gase entwickeln, ätzend|
+|  [[cbrn:chemisch:klasse_4-3:start|4.3]]  |  **WF1**  |Stoffe, die in Berührung mit Wasser entzündbare Gase entwickeln, entzündbar, flüssig|
+|  [[cbrn:chemisch:klasse_4-3:start|4.3]]  |  **WF2**  |Stoffe, die in Berührung mit Wasser entzündbare Gase entwickeln, entzündbar, fest|
+|  [[cbrn:chemisch:klasse_4-3:start|4.3]]  |  **WO**  |Stoffe, die in Berührung mit Wasser entzündbare Gase entwickeln, entzündend (oxidierend) wirkend, fest|
+|  [[cbrn:chemisch:klasse_4-3:start|4.3]]  |  **WS**  |Stoffe, die in Berührung mit Wasser entzündbare Gase entwickeln, selbsterhitzungsfähig, fest|
+|  [[cbrn:chemisch:klasse_4-3:start|4.3]]  |  **WT1**  |Stoffe, die in Berührung mit Wasser entzündbare Gase entwickeln, giftig, flüssig|
+|  [[cbrn:chemisch:klasse_4-3:start|4.3]]  |  **WT2**  |Stoffe, die in Berührung mit Wasser entzündbare Gase entwickeln, giftig, fest|
+|  [[cbrn:chemisch:klasse_4-3:start|4.3]]  |  **W1**  |Stoffe, die in Berührung mit Wasser entzündbare Gase entwickeln, ohne Nebengefahr, flüssig|
+|  [[cbrn:chemisch:klasse_4-3:start|4.3]]  |  **W2**  |Stoffe, die in Berührung mit Wasser entzündbare Gase entwickeln, ohne Nebengefahr, fest|
+|  [[cbrn:chemisch:klasse_4-3:start|4.3]]  |  **W3**  |Gegenstände, die Stoffe enthalten, die in Berührung mit Wasser entzündbare Gase entwickeln, ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_5-1:start|5.1]]  |  **OC1**  |Entzündend (oxidierend) wirkende flüssige Stoffe, ätzend|
+|  [[cbrn:chemisch:klasse_5-1:start|5.1]]  |  **OC2**  |Entzündend (oxidierend) wirkende feste Stoffe, ätzend|
+|  [[cbrn:chemisch:klasse_5-1:start|5.1]]  |  **OF**  |Entzündend (oxidierend) wirkende feste Stoffe, entzündbar|
+|  [[cbrn:chemisch:klasse_5-1:start|5.1]]  |  **OS**  |Entzündend (oxidierend) wirkende feste Stoffe, selbsterhitzungsfähig|
+|  [[cbrn:chemisch:klasse_5-1:start|5.1]]  |  **OTC**  |Entzündend (oxidierend) wirkende Stoffe, giftig, ätzend|
+|  [[cbrn:chemisch:klasse_5-1:start|5.1]]  |  **OT1**  |Entzündend (oxidierend) wirkende flüssige Stoffe, giftig|
+|  [[cbrn:chemisch:klasse_5-1:start|5.1]]  |  **OT2**  |Entzündend (oxidierend) wirkende feste Stoffe, giftig|
+|  [[cbrn:chemisch:klasse_5-1:start|5.1]]  |  **OW**  |Entzündend (oxidierend) wirkende feste Stoffe, die in Berührung mit Wasser entzündbare Gase entwickeln|
+|  [[cbrn:chemisch:klasse_5-1:start|5.1]]  |  **O1**  |Entzündend (oxidierend) wirkende flüssige Stoffe, ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_5-1:start|5.1]]  |  **O2**  |Entzündend (oxidierend) wirkende feste Stoffe, ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_5-1:start|5.1]]  |  **O3**  |Gegenstände, die entzündend (oxidierend) wirkende feste Stoffe, ohne Nebengefahr enthalten|
+|  [[cbrn:chemisch:klasse_5-2:start|5.2]]  |  **P1**  |Organische Peroxide, für die keine Temperaturkontrolle erforderlich ist|
+|  [[cbrn:chemisch:klasse_5-2:start|5.2]]  |  **P2**  |Organische Peroxide, für die eine Temperaturkontrolle erforderlich ist|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **T1**  |Giftige organische flüssige Stoffe ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **T2**  |Giftige organische feste Stoffe ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **T3**  |Giftige metallorganische Stoffe ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **T4**  |Giftige anorganische flüssige Stoffe ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **T5**  |Giftige anorganische feste Stoffe ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **T6**  |Giftige flüssige Stoffe ohne Nebengefahr - Mittel zur Schädlingsbekämpfung (Pestizide)|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **T7**  |Giftige feste Stoffe ohne Nebengefahr - Mittel zur Schädlingsbekämpfung (Pestizide)|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **T8**  |Giftige feste Stoffe ohne Nebengefahr - Proben|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **T9**  |Sonstige giftige Stoffe ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **TC1**  |Giftige ätzende organische flüssige Stoffe|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **TC2**  |Giftige ätzende organische feste Stoffe|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **TC3**  |Giftige ätzende anorganische flüssige Stoffe|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **TC4**  |Giftige ätzende anorganische feste Stoffe|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **TFC**  |Giftige entzündbare ätzende Stoffe|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **TFW**  |Giftige entzündbare Stoffe, die in Berührung mit Wasser entzündbare Gase bilden|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **TF1**  |Giftige entzündbare flüssige Stoffe|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **TF2**  |Giftige entzündbare flüssige Stoffe, die als Mittel zur Schädlingsbekämpfung (Pestizide) verwendet werden|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **TF3**  |Giftige entzündbare fest Stoffe|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **TO1**  |Giftige entzündend (oxidierend) wirkende flüssige Stoffe|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **TO2**  |Giftige entzündend (oxidierend) wirkende feste Stoffe|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **TS**  |Giftige selbsterhitzungsfähige feste Stoffe|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **TW1**  |Giftige flüssige Stoffe, die in Berührung mit Wasser entzündbare Gase entwickeln|
+|  [[cbrn:chemisch:klasse_6-1:start|6.1]]  |  **TW2**  |Giftige feste Stoffe, die in Berührung mit Wasser entzündbare Gase entwickeln|
+|  [[cbrn:biologisch:start|6.2]]  |  **I1**  |Ansteckungsgefährliche Stoffe, gefährlich für Menschen|
+|  [[cbrn:biologisch:start|6.2]]  |  **I2**  |Ansteckungsgefährliche Stoffe, gefährlich nur für Tiere|
+|  [[cbrn:biologisch:start|6.2]]  |  **I3**  |Klinische Abfälle|
+|  [[cbrn:biologisch:start|6.2]]  |  **I4**  |Diagnostische Proben|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **C1**  |Ätzende anorganische flüssige Stoffe sauren Charakters ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **C2**  |Ätzende anorganische feste Stoffe sauren Charakters ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **C3**  |Ätzende organische flüssige Stoffe sauren Charakters ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **C4**  |Ätzende organische feste Stoffe sauren Charakters ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **C5**  |Ätzende anorganische flüssige Stoffe basischen Charakters ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **C6**  |Ätzende anorganische feste Stoffe basischen Charakters ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **C7**  |Ätzende organische flüssige Stoffe basischen Charakters ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **C8**  |Ätzende organische feste Stoffe basischen Charakters ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **C9**  |Sonstige ätzende flüssige Stoffe ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **C10**  |Sonstige ätzende feste Stoffe ohne Nebengefahr|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **C11**  |Gegenstände, die ätzende Stoffe ohne Nebengefahr enthalten|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **CFT**  |Ätzende entzündbare giftige flüssige Stoffe|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **CF1**  |Ätzende entzündbare flüssige Stoffe|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **CF2**  |Ätzende entzündbare feste Stoffe|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **COT**  |Ätzende entzündend (oxidierend) wirkende giftige Stoffe|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **CO1**  |Ätzende entzündend (oxidierend) wirkende flüssige Stoffe|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **CO2**  |Ätzende entzündend (oxidierend) wirkende feste Stoffe|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **CS1**  |Ätzende selbsterhitzungsfähige flüssige Stoffe|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **CS2**  |Ätzende selbsterhitzungsfähige feste Stoffe|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **CT1**  |Ätzende giftige flüssige Stoffe|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **CT2**  |Ätzende giftige feste Stoffe|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **CT3**  |Gegenstände, die ätzende giftige Stoffe enthalten|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **CW1**  |Ätzende flüssige Stoffe, die in Berührung mit Wasser entzündbare Gase entwickeln|
+|  [[cbrn:chemisch:klasse_8:start|8]]  |  **CW2**  |Ätzende feste Stoffe, die in Berührung mit Wasser entzündbare Gase entwickeln|
+|  [[cbrn:chemisch:klasse_9:start|9]]  |  **M1**  |Stoffe, die beim Einatmen als Feinstaub die Gesundheit gefährden können|
+|  [[cbrn:chemisch:klasse_9:start|9]]  |  **M2**  |Stoffe und Geräte, die im Brandfall Dioxine bilden können|
+|  [[cbrn:chemisch:klasse_9:start|9]]  |  **M3**  |Stoffe, die entzündbare Dämpfe abgeben|
+|  [[cbrn:chemisch:klasse_9:start|9]]  |  **M4**  |[[cbrn:chemisch:klasse_9:stoffe:lithium-ionen-akkumulatoren|Lithiumbatterien]]|
+|  [[cbrn:chemisch:klasse_9:start|9]]  |  **M5**  |Rettungsmittel|
+|  [[cbrn:chemisch:klasse_9:start|9]]  |  **M6**  |Umweltgefährdende Stoffe - wasserverunreinigende flüssige Stoffe|
+|  [[cbrn:chemisch:klasse_9:start|9]]  |  **M7**  |Umweltgefährdende Stoffe - wasserverunreinigende feste Stoffe|
+|  [[cbrn:chemisch:klasse_9:start|9]]  |  **M8**  |Umweltgefährdende Stoffe - Genetisch veränderte Mikroorganismen und Organismen|
+|  [[cbrn:chemisch:klasse_9:start|9]]  |  **M9**  |Erwärmte flüssige Stoffe|
+|  [[cbrn:chemisch:klasse_9:start|9]]  |  **M10**  |Erwärmte feste Stoffe|
+|  [[cbrn:chemisch:klasse_9:start|9]]  |  **M11**  |Andere Stoffe, die während der Beförderung eine Gefahr darstellen und nicht unter die Definition einer anderen Klasse fallen|
+
+===== Quellenangabe =====
+
+  * [[https://www.dgg.bam.de/quickinfo/de/help/classificationcode|Bundesanstalt für Materialforschung und -prüfung: Gefahrgut-Schnellinfo - Hilfe: Klassifizierungscode]]

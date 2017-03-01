@@ -1,0 +1,50 @@
+====== Atemfilter ======
+
+===== zu treffende Maßnahmen =====
+
+==== besondere Einsatzgrundsätze zum Tragen von Filtergeräten ====
+
+  * Sauerstoffkonzentration in der Umgebungsluft mindestens 17% (19% bei CO-Filtern und in speziellen Bereichen, z.B. bei unterirdischen Arbeiten)
+  * kein Einsatz von Filtern wenn
+    * Arten und Eigenschaften der Atemgifte unbekannt sind
+    * Filter gegen Art oder Höhe der Konzentration nicht schützt
+    * starke Flocken- und Staubbildung
+  * Einsatzgrenzen der Filter beachten. Im Zweifel Isoliergeräte verwenden.
+  * Bei einer gleichzeitigen Gefährdung durch Gas und Partikel ist schärfere für den Kombinationsfilter gültige Grenzwert anzuwenden!
+  * nur gegen bei Filterdurchbruch riech- oder schmeckbare Schadstoffe einsetzen. Möglichkeit der Beeinträchtigung des Geruchssinns beachten. Herstellerangaben beachten.
+  * auf Funkenflug und Feuer achten
+  * in Behältern und engen Räumen, z.B. Bunkern, Kesselwagen, Rohrleitungen, Gruben oder Kanälen, dürfen (Gas-)Filter nicht eingesetzt werden
+  * Haltbarkeitsdatum des Filters beachten!
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+Der bei der Feuerwehr typischerweise verwendete Kombinationsfilter trägt die Bezeichnung ABEK2 Hg und entspricht der Partikelfilterklasse 3.
+
+==== Kennbuchstaben, Kennfarben und Leistungsfähigkeiten ====
+
+^ Kennbuch-\\ stabe(n) ^ Kennfarbe ^ Schadstoffe ^ Leistungsfähigkeit ^
+| A              |  {{:allgemein:farben:braun_ral_8002.jpg?nolink&100|braun}}\\ braun        | Organische Dämpfe | Klasse 1: 0,1 Vol.-% (1.000 ppm)\\ Klasse 2: 0,5 Vol.-% (5.000 ppm)\\ Klasse 3: 1,0 Vol.-% (10.000 ppm) |
+| B              |  {{:allgemein:farben:grau_ral_7004.jpg?nolink&100|grau}}\\ grau           | Anorganische Gase und Dämpfe | ::: |
+| E              |  {{:allgemein:farben:gelb-ocker_ffcc00.jpg?nolink&100|gelb}}\\ gelb       | Schwefeldioxid, Hydrogenchlorid (auch bekannt als Chlorwasserstoff oder Salzsäure) | ::: |
+| K              |  {{:allgemein:farben:gruen_ral_6032.jpg?nolink&100|grün}}\\ grün          | [[cbrn:chemisch:klasse_2:stoffe:ammoniak|Ammoniak]] | ::: |
+| Hg             |  {{:allgemein:farben:rot_ff0000.jpg?nolink&100|rot}}\\ rot                | Quecksilberdampf | max. 50 Stunden |
+| AX             |  {{:allgemein:farben:braun_ral_8002.jpg?nolink&100|braun}}\\ braun        | Dämpfe organischer Verbindungen mit Siedepunkt < 65 °C | Einteilung der jeweiligen Dämpfe in verschiedene Gruppen für die verschiedene Maximaleinsatzzeiten gelten |
+| CO             |  {{:allgemein:farben:schwarz_ral_9004.jpg?nolink&100|schwarz}}\\ schwarz  | [[cbrn:chemisch:klasse_2:stoffe:kohlenmonoxid|Kohlenstoffmonoxid]] | 20, 60 oder 180 Minuten (je nach Kennzeichnung) |
+| NO             |  {{:allgemein:farben:blau_ral_5005.jpg?nolink&100|blau}}\\ blau           | Nitrose Gase  | max. 20 Minuten |
+| SX             |  {{:allgemein:farben:violett_ral_4008.jpg?nolink&100|violett}}\\ violett  | Spezialfilter, nach Angabe des Herstellers ||
+| Reaktor        |  {{:allgemein:farben:orange_ral_2010.jpg?nolink&100|orange}}\\ orange     | radioaktives Jod und Jodmethan |
+
+^ Partikelfilter ^ Rückhaltevermögen           ^ zulässige Schadstoffkonzentration\\ (Filter in Kombination mit einer Vollmaske) ^
+| P 1            | feste Partikel              | 4-faches des Grenzwerts |
+| P 2            | feste und flüssige Partikel | 15-faches des Grenzwerts |
+| P 3            | feste und flüssige Partikel | 400-faches des Grenzwerts |
+
+Als Grenzwerte sind solche aus dem Bereich des Arbeitsschutzes zu verstehen (z.B. [[cbrn:chemisch:grenzwerte#agw|AGW]]).
+
+===== Quellenangabe =====
+
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * FwDV 7
+  * [[http://publikationen.dguv.de/dguv/pdf/10002/r-190.pdf|BGR/GUV-R 190 (Ausgabe 12/2011)]], Deutsche gesetzliche Unfallversicherung
+
+===== Stichwörter =====

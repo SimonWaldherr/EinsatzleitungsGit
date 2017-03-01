@@ -1,0 +1,65 @@
+====== Hinweis auf nicht überprüfte Inhalte ======
+
+Insbesondere bei großen Feuerwehren ist es vorgesehen, dass Einsatzhinweise durch die Abteilung Einsatzvorbereitung oder eine ähnliche Institution kontrolliert werden, bevor diese für eine Verwendung durch Einsatzkräfte freigegeben werden.
+
+Diese Überprüfung ist aufgrund des Umfangs des Einsatzleiterwikis und der teilweise häufigen Änderungen aber auch für hauptamtliche Kräfte nur schwer durchführbar.
+
+Eine Alternative, um das Einsatzleiterwiki mit allen Inhalten trotzdem einsetzen zu können, ist eine Kennzeichnung auf den Seiten, die nicht im lokalen Bereich liegen. Diese kann etwa so aussehen:
+
+{{:wiki:hilfe:administration:hinweis_nicht_ueberpruefte_inhalte_banner.png?direct|Banner für nicht überprüfte Inhalte}}
+
+Um diesen Hinweis auch bei Ihnen einsetzen zu können, müssen Sie eine der Systemdateien des Einsatzleiterwikis bearbeiten. Derzeit ist diese Funktion leider (noch) nicht als Plugin verfügbar. Vor Beginn der Anleitung noch ein Hinweis:
+
+<WRAP center round important 100%>Bitte notieren Sie sich den für Sie angepassten Programmcode auch an anderer Stelle. Da es sich um eine Systemdatei handelt, die bei einem Update überschrieben wird, müssen Sie diese Änderung nach jedem Update der Wiki-Software (etwa einmal jährlich) erneut vornehmen. Dies gilt natürlich nicht für die Aktualisierung von Inhalten.</WRAP>
+
+===== Anpassung des Programmcodes =====
+
+Öffnen Sie, ausgehend vom Wiki-Hauptverzeichnis, den Ordner ''lib'', darin den Ordner ''tpl'', und in diesem den Ordner ''dokuwiki''. In diesem befindet sich die Datei ''main.php'', welche Sie jetzt mit einem Texteditor öffnen. Falls Sie unter **Windows** arbeiten, öffnen Sie die Datei bitte mit **Notepad** und nicht dem Texteditor oder Word, da die Datei sonst sehr wahrscheinlich unbrauchbar wird.
+
+Suchen Sie die Stelle im Code, an der steht:
+
+<code>
+<!-- wikipage start -->
+<?php tpl_content() ?>
+<!-- wikipage stop -->
+</code>
+
+Ersetzen Sie diese drei Zeilen durch folgenden Code und speichern Sie danach die Datei:
+
+<code>
+<!-- wikipage start -->
+<?php // Anfang der Überprüfung, ob Seiteninhalt in einem Namensraum der Feuerwehr Musterstadt liegt
+$nsvergleich = strtok ( $INFO["namespace"] , (':') );
+if(($nsvergleich != 'lokal') AND ($nsvergleich != '')) {
+echo '<div class="wrap_round wrap_info plugin_wrap" style="width: 100%;">';
+echo '<p> Diese Seite ist Bestandteil des Einsatzleiterwiki-Projekts. Die genannten Einsatzhinweise wurden nicht durch die Feuerwehr Musterstadt überprüft bzw. auf die Anwendbarkeit in Musterstadt kontrolliert. Sie sind für die Verwendung von Feuerwehren in ganz Deutschland ausgelegt. </p></div>';
+} // Ende der Überprüfung, ob Seiteninhalt in einem Namensraum der Feuerwehr Musterstadt liegt ?>
+<?php tpl_content() ?>
+<!-- wikipage stop -->
+</code>
+
+Den Text in der Zeile ''Diese Seite ist Bestandteil des Einsatzleiterwiki-Projekts. Die genannten Einsatzhinweise wurden nicht durch die Feuerwehr Musterstadt überprüft bzw. auf die Anwendbarkeit in Musterstadt kontrolliert. Sie sind für die Verwendung von Feuerwehren in ganz Deutschland ausgelegt.'' können Sie selbstverständlich frei an Ihre Wünsche anpassen.
+
+Mit diesem Code wird der Hinweis auf allen Seiten eingeblendet die sich nicht im Namensraum ''lokal'' befinden. Auf der Startseite wird dieser Hinweis ebenfalls nicht eingeblendet
+
+===== technischer Hintergrund und "Freischaltung" weitere Namensräume =====
+
+Technisch gesehen wird bei jedem Aufruf einer Seite geprüft, ob diese **nicht** im Namensraum ''lokal'' und nicht in der obersten Ebene liegt (in der obersten Ebene befindet sich standardmäßig nur die Startseite). Befindet sich die Seite im Namensraum ''lokal'', so wird die Anweisung welche den Hinweis-Kasten erstellt einfach übersprungen. Befindet sich die Seite jedoch in einem anderen Namensraum, so ist die Bedingung erfüllt und der Hinweis wird angezeigt.
+
+Sollten Sie in Ihrem Einsatzleiterwiki nun weitere Namensräume für lokale Daten nutzen, so können Sie diese Abfrage einfach erweitern. Im folgenden Beispiel werden zusätzlich die Namensräume  ''fahrzeuge'' und ''feuerwehrplaene'' genutzt:
+
+{{:wiki:hilfe:administration:hinweis_nicht_ueberpruefte_inhalte_ns-uebersicht.png?direct|Zusätzliche Namensräume in der Übersicht}}
+
+Mit dem oben genannten Programmcode würde der Hinweis auch in den Namensräumen ''fahrzeuge'' und ''feuerwehrplaene'' angezeigt, obwohl dies falsch wäre. Um auch diese beiden Namensräume "freizuschalten", ändern Sie den Code in der Zeile
+
+<code>
+if(($nsvergleich != 'lokal') AND ($nsvergleich != '')) {
+</code>
+
+auf
+
+<code>
+if(($nsvergleich != 'lokal') AND ($nsvergleich != 'fahrzeuge') AND ($nsvergleich != 'feuerwehrplaene') AND ($nsvergleich != '')) {
+</code>
+
+<WRAP center round info 100%>Da nur der "oberste" Namensraum für die Prüfung abgefragt wird, ist das Definieren von Unternamensräumen für die Freischaltung leider nicht möglich. Wenn Sie also z.B. im Namensraum ''brand'' einen Unternamensraum ''bma'' erstellt haben, in dem alle Brandmeldeanlagen aufgeführt werden, so kann nach dem derzeitigem Stand in diesem der Hinweis-Banner dann leider nicht ausgeblendet werden.</WRAP>

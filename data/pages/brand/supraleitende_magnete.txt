@@ -1,0 +1,52 @@
+====== Supraleitende Magnete ======
+
+Supraleitende Magnete werden in Krankenhäusern (MRT), der Industrie und Forschung genutzt. Bestimmte elektrische Leiter besitzen unterhalb einer Temperatur von -269°C keinen elektrischen Widerstand mehr und ermöglichen damit den Aufbau starker Magnetfelder. Üblicherweise wird als Kühlmittel das Edelgas Helium eingesetzt. Nach Ablassen des Kühlmittels bricht das Magnetfeld innerhalb von Sekunden zusammen.
+
+===== zu treffende Maßnahmen =====
+
+Allgemeine Maßnahmen für [[brand:gebaeudebrand|Gebäudebrände]] beachten!
+
+  * Löschen mit den dort vorgehaltenen nichtmagnetischen Feuerlöschern
+  * Kein Mitführen von magnetischen Werkzeugen, persönlicher Ausstattung, etc. in den Untersuchungsraum, solange das Magnetfeld besteht. Keine PA mit Stahlflaschen einsetzen.
+  * Ablassen des Kühlmittels nur bei akuter Gefahr im Bereich (dadurch hoher Sachschaden). Es kann danach mehrere Minuten dauern, bis das Magnetfeld zusammengebrochen ist.\\ Beim Ablassen ("Quenchen") müssen i.d.R. folgende Schritte durchgeführt werden:
+    - Austrittsöffnung der Quench-Leitung absperren
+    - Betätigung Not-Aus-Schalter (für die elektrische Anlage)
+    - Ablassen des Kühlmittels (Quenchen), was zu einer großen weißen Wolke an der Austrittsstelle führt
+    - Räume kontrollieren, die sich oberhalb und um die Austrittsstelle des Quench-Rohrs herum befinden
+  * Mitarbeiter der Einrichtung hinzuziehen
+
+==== besondere Gefahren ====
+
+  * starkes, normalerweise niemals abgeschaltetes Magnetfeld zieht alle magnetischen Gegenstände an (PA-Flaschen aus Stahl, Feuerwehraxt, handelsübliche Feuerlöscher, ...)
+  * Gerät ist aufgrund von Verrauchung möglicherweise nicht als solches erkennbar
+  * Erstickungsgefahr beim Austritt von Helium im Gebäude
+  * An der Austrittsöffnung der Quench-Rohrs (meist auf Dach oder an der Hauswand), aus der das Helium abgelassen wird, besteht Erfrierungsgefahr.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * ggf. funktionieren Funkgeräte und andere Kommunikationsmittel aufgrund des starken Magnetfelds nicht
+  * Beim Ablassen des Kühlmittels (Quenchen) entsteht durch das Abblasen des Kühlmittels ein Sachschaden der im 5-stelligen Bereich liegt. Die Notwendigkeit dieser Maßnahme sollte daher genau überprüft werden.
+  * i.d.R. gibt es separate Schalter für das Quenchen und einen Not-Aus für die elektrische Anlage. Ggf. existieren noch weitere Not-Aus-Schalter, beispielsweise um die Bewegung der Patientenliege zu stoppen.
+
+==== Typische Anwendungen ====
+
+  * Magnetresonanztomographen (MRT), umgangssprachlich Kernspintomographen
+  * zerstörungsfreie Werkstoffprüfung
+  * Teilchenbeschleuniger
+
+===== Weblinks =====
+
+  * [[wpde>Supraleiter|Supraleiter bei Wikipedia]]
+  * [[wpde>Magnetresonanztomographie|Magnetresonanztomographie bei Wikipedia]]
+
+===== Quellenangabe =====
+
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * Gefahren und Umgang im Einsatz mit Magnetresonanztomographen (MRT) in medizinischen Einrichtungen, Abschnittsarbeit, Tobias Riedel, Berliner Feuerwehr
+  * [[wpde>Supraleiter|Supraleiter bei Wikipedia]]
+  * [[https://www.muenchen.de/rathaus/dam/jcr:7018b1aa-c4ac-4606-bc65-2c461bf22853/MRT_20160525.pdf|Infoblatt supraleitende Magneten]]
+  * [[http://feuerwehr-mechernich.de/index.php?id=48|Freiwillige Feuerwehr Mechernich: "Spezielle Gefahren in unserem Einsatzgebiet"]] (nicht mehr erreichbar)
+
+===== Stichwörter =====
+
+Krankenhaus, Klinik

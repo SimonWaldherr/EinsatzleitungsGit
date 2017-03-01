@@ -1,0 +1,35 @@
+====== Straßenbahnbrand ======
+
+<WRAP center round important 100%>
+Die Aussagen auf dieser Seite sind sehr allgemein gehalten, da das Vorgehen stark von den örtlichen Regelungen abhängig sein kann!
+</WRAP>
+
+Siehe auch [[allgemeine_hilfe:strassenbahn]] für weitere Informationen
+
+===== zu treffende Maßnahmen =====
+
+  * Fahrbetrieb über Verkehrsunternehmen (Notfallmanager) einstellen lassen
+  * **Kühlen des Fahrdrahts** bei Wärmebeaufschlagung mittels Sprühstrahl. Unterschiedliche Abstände je nach Löschmittel beachten! -> Siehe [[allgemein:elektrische_anlagen|elektrische Anlagen]]
+  * Mindestabstand zum Fahrdraht einhalten (1 m bei bis zu 1.500 V Gleichspannung), nicht vor Erdung auf das Dach steigen
+  * Stromabnehmer absenken (lassen), soweit noch möglich
+  * [[allgemein:absicherung_einsatzstelle|Absicherung der Einsatzstelle]]; Gleise und Straße
+  * Trennschalter an den Stromversorgungsmasten betätigen und Fahrdraht erden (<wrap important>Diese Maßnahmen dürfen je nach örtlicher Regelung ggf. nur durch das Verkehrsunternehmen durchgeführt werden</wrap>)
+
+==== besondere Gefahren ====
+
+  * je nach Witterung langer Bremsweg
+  * kaum hörbare Fahrgeräusche
+  * Fahrspannung meist zwischen 500 und 750 Volt Gleichspannung (abhängig von Betreiber)
+  * Große Anzahl an Fahrgästen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * auf [[allgemein:pressearbeit|Presseanfragen]] vorbereiten
+
+===== Quellenangabe =====
+
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr
+
+===== Stichwörter =====
+
+Trambahn, Tramway, Tram

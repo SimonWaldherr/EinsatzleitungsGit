@@ -1,0 +1,34 @@
+====== Badeunfall / Beinahe-Ertrinken ======
+
+===== zu treffende Maßnahmen =====
+
+<wrap important>Bei jedem (Beinah-) Ertrinkungsunfall Rettungsdienst verständigen und Patient ins Krankenhaus bringen lassen!</wrap>
+
+==== Rettung ====
+
+  * Eigensicherung beachten
+  * wenn möglich Rettung von festem Standplatz aus durchführen, wenn das nicht möglich:
+  * am Besten mit großem schwimmendem Gegenstand annähern (z.B. Surfbrett, Rettungsboje, evtl. Spineboard, ...)
+
+==== Behandlung an Land ====
+
+  * Permanent Vitalfunktionen prüfen, nicht alleine lassen.
+  * Zudecken um [[erste_hilfe:unterkuehlung|Unterkühlung]] zu vermeiden, wenn möglich nicht in die direkte Sonne legen.
+  * Wenn Wirbelsäule geschädigt sein kann (z.B. Kopfsprung ins Wasser), dies bei der Lagerung beachten (vorsichtig umlagern).
+  * Sauerstoff geben wenn vorhanden.
+  * Blutzucker messen wenn möglich um Zuckerentgleisung auszuschließen.
+
+Bei Bewusstlosigkeit:
+
+  * in stabile Seitenlage bringen
+  * bei Atemstillstand direkt mit [[erste_hilfe:wiederbelebung|Wiederbelebung]] beginnen
+
+<wrap important>Auf keinen Fall versuchen, das Wasser durch Kompressionen, auf den Kopf stellen, o.ä. aus dem Körper des Patienten entfernen zu wollen. Dies ist nicht möglich und behindert andere, viel wichtigere Maßnahmen!</wrap>
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_Badeunfaelle.pdf|Erste-Hilfe kompakt - Notfallstichwort Badeunfälle und Beinahe-Ertrinken]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband
+
+===== Stichwörter =====
+
+Wasserunfall

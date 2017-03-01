@@ -1,0 +1,11 @@
+====== ADR ======
+
+Info-Seite über das //Europäisches Übereinkommen über die internationale Beförderung gefährlicher Güter auf der Straße//, abgekürzt ADR (//Accord européen relatif au transport international des marchandises Dangereuses par Route//).
+
+Zur Kennzeichnung nach ADR-Vorschriften siehe [[cbrn:allgemein:kennzeichnung:adr|ADR-Kennzeichnung]].
+
+===== Weblinks =====
+
+  * [[https://www.astra.admin.ch/astra/de/home/fachleute/fahrzeuge/gefaehrliche-gueter/recht-international/adr2017.html|ADR 2017 in deutscher Fassung]]
+  * [[wpde>Europäisches_Übereinkommen_über_die_internationale_Beförderung_gefährlicher_Güter_auf_der_Straße|ADR bei Wikipedia]]
+  * [[http://www.tes.bam.de/de/regelwerke/gefahrgutvorschriften|Gefahrgutvorschriften bei der Bundesanstalt für Materialforschung und -prüfung]]

@@ -1,0 +1,46 @@
+====== Schornsteinbrand ======
+
+===== zu treffende Maßnahmen =====
+
+Allgemeine Maßnahmen für [[brand:gebaeudebrand|Gebäudebrände]] beachten!
+
+    * Bei Gefahr der Schornsteinverschließung mittels [[brand:allgemein:pulver|ABC-Pulverlöscher]] löschen. **Kein Wasser verwenden!**
+    * Schornsteinfeger alarmieren
+    * Schornstein mittels Kehrwerkzeugs offen halten. Auf keinen Fall Gegenstände von oben in den Kamin werfen oder diesen öffnen. Am unteren Ende des Schornsteins Trupp mit Strahlrohr, Schuttmulde und Metallgefäß mit Wasser zum  Kühlen des Kehrgerätes bereitstellen (Temperaturen > 1.000°C möglich)
+    * Kontrolle des Schornsteininneren mit Spiegel; Kontrolle angrenzende Bereiche mit [[:allgemein:geraete:waermebildkamera|Wärmebildkamera]] 
+    * Ausräumen des Brandgutes aus untere Putztüre – Brandgut im Freien ablöschen
+    * Verlauf des Schornsteins im Gebäude erkunden
+    * Schornstein in allen Geschossen über die Einsatzdauer kontrollieren, auf Risse achten. Insbesondere auf Bauteildurchführungen achten. Kontrolle auf Brandgase - Messungen durchführen.
+    * Energieversorger verständigen, wenn [[allgemein:elektrische_anlagen|Stromleitungen]] betroffen sind
+
+==== besondere Gefahren ====
+
+    * Ruß im Schornstein kann bis auf das 7-fache Aufquellen und den Schornstein verschließen.
+    * Atemgifte können durch Risse im Schornstein in das Gebäude gelangen
+    * Funken und Flammen können sich im ungünstigen Fall durch Risse in das Gebäude ausbreiten oder durch Strahlungswärme einen Brand verursachen
+    * Standfestigkeit des Schornsteins kann gefährdet sein, unter anderem beim Einsatz des falschen Löschmittels. Verkleidungsteile des Schornsteins können abfallen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+    * Anfahrt: Aufstellfläche für [[:allgemein:drehleiter|Drehleiter]] 
+    * Erkundung: Feuerungsanlagen abschalten bzw. Feuer in den Feuerstellen löschen
+    * Brandausbreitung durch Funkenflug bzw. Wärmeausbreitung beachten
+
+{{:brand:hinweise_schornsteinbraende.pdf|ausführliche Vorgehenshinweise der Landesfeuerwehrschule Baden-Württemberg (siehe Quellenangabe)}}
+
+==== Einsatz von Wasser ====
+
+Wird entgegen der Empfehlung Wasser als Löschmittel eingesetzt, so können zwei Gefahren auftreten:
+
+  * durch das schlagartige Verdampfen des Wassers bzw. die damit einhergehende Volumenvergrößerung kann der Schornstein auseinandergesprengt werden
+  * die starke Abkühlung des Schornsteins kann dazu führen, dass der Schornstein durch Temperaturspannungen aufreißt
+
+===== Quellenangabe =====
+
+    * {{:brand:hinweise_schornsteinbraende.pdf|Schornsteinbrände - Hinweise für den Einsatzleiter. Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2008.}} 
+    * Einsatzleiterhandbuch BF Kaiserslautern.
+    * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+
+===== Stichwörter =====
+
+Kaminbrand

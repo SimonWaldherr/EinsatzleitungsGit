@@ -1,0 +1,162 @@
+====== Pressearbeit ======
+
+===== zu treffende Maßnahmen =====
+
+{{ :allgemein:presseausweis_2013.jpg?nolink|Presseausweis}}
+
+  * Informationen an Pressevertreter geben die an der Einsatzstelle erscheinen, da diese sonst ggf. Spekulationen anstellen könnten die nicht der Wahrheit entsprechen
+    * Laut den Landespressegesetzen sind Behörden zur Auskunft gegenüber der Presse verpflichtet, wenn sich diese mittels Presseausweis legitimiert
+    * Nach dem Informationsfreiheitsgesetz hat jeder Bürger ein Recht auf wahrheitsgemäße Auskunft wenn er sich darauf beruft
+    * genaue Informationen erleichtern ggf. die Arbeit - z.B. Entlastung der Notrufleitungen von Bürgern die Nachfragen stellen
+  * keine Zensur der Presse (Kamera zuhalten o.ä.)\\ -> Verstoß gegen [[allgemein:pressearbeit#auszug_aus_artikel_5_grundgesetz|Art. 5 Grundgesetz]]
+    * Schutz von Menschenrechten ist Aufgabe der Polizei (Würde des Menschen, Entfaltung der Persönlichkeit, etc.)
+    * der Journalist darf alles fotografieren/filmen, die Redaktion entscheidet über Veröffentlichung
+  * ggf. zwei Absperrgrenzen einrichten; eine für die Presse, eine für die normale Bevölkerung. Beiden müssen außerhalb des [[cbrn:allgemein:gefahrenbereich|Gefahrenbereichs]] liegen!
+  * kooperative und vertrauliche Zusammenarbeit mit den Medien anstreben
+  * frühzeitig Informationen zusammenstellen und Struktur für Pressearbeit aufbauen
+  * ggf. geführte Pressetouren über die Einsatzstelle anbieten, da sich Fotografen/Filmteams ihr Material sonst ihr Material auf anderen Wegen, für die Feuerwehr ungünstigeren Wegen besorgen.
+  * einen einzigen Ansprechpartner für Presse bestimmen
+
+**Auf eigentliche Arbeit konzentrieren und ruhig bleiben!**
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Statement abgeben ====
+
+Ein Statement ist eine kurze Information der Medien über die wichtigsten Fakten, es ist kein Interview. Es bietet sich insbesondere an, wenn noch keine detaillierteren Auskünfte gegeben werden können.
+
+Sobald mit der Presse kommuniziert wird, muss immer davon ausgegangen werden, dass eine Kamera mitläuft (und wenn sie nur den Ton aufzeichnet) -> Keine Aussagen wie //unter uns gesagt...// tätigen!
+
+Darauf achten was im Hintergrund geschieht, als Hintergrund kann zur Sicherheit z.B. ein Einsatzfahrzeug gewählt werden, da so ein Bezug zum Thema hergestellt wird und die Tätigkeiten arbeitender Einsatzkräfte im Hintergrund nicht zu Ungereimtheiten u.ä. führen können.
+
+Das Statement:
+
+  * genügt der Informationspflicht
+  * lässt keine Rückfragen der Pressevertreter zu
+  * um letzteres durchzusetzen den Ort der Stellungnahme nach deren Ende umgehend verlassen
+
+vor dem Statement:
+
+  * persönliches Aussehen von Kollegen überprüfen lassen (korrekter Sitz der Einsatzkleidung etc.)
+  * bisherige eigene Informationen mit den Erkenntnissen der eingesetzten Trupps abgleichen
+  * Länge des Statements auf einer Dauer von ca. 30 Sekunden planen - dies entspricht der Sendezeit, ggf. wird sonst in der Redaktion das Statement deutlich eingekürzt und elementare Teile fallen weg!
+
+während des Statements:
+
+  * Als Einleitung "Die Feuerwehr wurde ..." verwenden ermöglicht sicheren Start und flüssigen Übergang zum restlichen Text
+  * nicht in die Kamera schauen, sondern zum Reporter/Kameramann, ggf. Fixpunkt in der Nähe
+  * keine //ja, aber...// oder //nein, aber...//-Formulierungen benutzen, da diese geschnitten werden könnten und somit der eigentliche Sinn entfällt. Am Besten gar nicht mit ja oder nein antworten sondern komplett anderen Text wählen.
+  * keine Alarmstichworte oder fachspezifische Abkürzungen oder Fachbegriffe verwenden (z.B. TLF)
+
+Welche Fakten der Presse mitgeteilt werden dürfen und welche nicht finden sich im Abschnitt [[allgemein:pressearbeit#aussagen_zum_einsatz_die_gegenueber_der_presse_getroffen_werden_duerfen_bzw_sollten|Aussagen zum Einsatz die gegenüber der Presse getroffen werden dürfen bzw. sollten]]
+
+==== Interview geben ====
+
+Aufbauend auf dem Statement können auch Fragen zugelassen werden. Dann handelt es sich um ein Interview.
+
+Zur Vorbereitung des Interviews gelten die gleichen Punkte wie für das Statement, zusätzlich jedoch:
+
+  * Gedanken darüber machen, welche Fragen gestellt werden könnten und Antworten darauf zurechtlegen
+  * dem Journalisten vor Beginn des Interviews ggf. einen Zettel mit allen relevanten Fakten geben. Wird beim Interview auf Seiten der Feuerwehr etwas "geplantes" vergessen, kann der Journalist so gezielt nachfragen.\\ Dabei besteht allerdings auch eine größere Gefahr mit kritischen Rückfragen konfrontiert zu werden
+  * Fragen die nicht beantwortet werden dürfen oder können, sollten beantwortet werden mit
+    * Kann ich nichts dazu sagen.
+    * Liegen mir keine Informationen vor.
+    * Kann ich keine Aussage dazu treffen.
+    * ...\\ Diese Linie sollte auch beibehalten werden, wenn mehrere Fragen hintereinander nicht beantwortet werden, weil sie z.B. gar nicht beantwortet werden dürfen!
+
+==== Aussagen zum Einsatz die gegenüber der Presse getroffen werden dürfen bzw. sollten ====
+
+  * Wann geschah das Unglück?
+  * Was ist passiert?
+  * Wo ist es passiert?
+  * Wie viele Tote/Verletzte gibt es?
+  * Welche Maßnahmen wurden von der Feuerwehr getroffen?
+  * Wie viele Einsatzkräfte und Fahrzeuge sind vor Ort?
+
+Deutliche Formulierungen verwenden: //verstorben// statt //ist von uns gegangen// oder //es kam jede Hilfe zu spät//.
+
+==== Aussagen zum Einsatz die gegenüber der Presse NICHT getroffen werden dürfen ====
+
+Es darf gegenüber der Presse keine Auskunft erfolgen zu
+
+  * Ursachen
+  * selbst aufgestellten Spekulationen
+  * schwebenden Verfahren (polizeiliche Ermittlungen, z.B. Brandstftung)
+  * Geheimhaltungsvorschriften (z.B. bei Einsätzen in Botschaften)
+  * wenn öffentliches oder schutzwürdiges privates Interesse höher wiegt\\ -> Entscheidung schwierig, am Besten an Polizei verweisen
+  * persönlichen Daten von Patienten / Betroffenen
+  * genaue Angaben über Verletzungen
+  * Maßnahmen anderer Organisationen
+
+==== was die Feuerwehr nicht darf ====
+
+  * Fotografieren/Filmaufnahmen behindern - müssen jedoch die Öffentlichkeit und die restlichen Einsatzkräfte z.B. vor dem Anblick eines Schwerverletzten geschützt werden damit dieser nicht zu einer Gefahr für die psychische Verfassung der Genannten wird ist es legitim eine Decke zu halten.
+  * Unwahre Mitteilungen herausgeben - es muss jedoch nicht alles weitergegeben werden was zum aktuellen Zeitpunkt bekannt ist
+
+==== was Journalisten nicht dürfen ====
+
+  * privates Gelände betreten
+  * Rettungsarbeiten behindern
+  * Gefahrenbereich betreten
+
+==== Anfertigung von Einsatzbildern durch Journalisten ====
+
+Feuerwehrangehörige **im Einsatz** sind **Personen des öffentlichen Lebens** und dürfen unverpixelt gezeigt werden → kein Recht am eigenen Bild, Einsatzkräfte können also nicht verbieten dass sie fotografiert werden
+
+Im Gegensatz dazu: von Portrait-Fotos in **Nicht-Einsatz-Situationen** gibt es ein Recht am eigenen Bild, das heißt der Veröffentlichung muss zugestimmt werden
+
+
+==== Anfertigung von Einsatzbildern durch die Feuerwehr ====
+
+  * Fotografieren nur von durch den Einsatzleiter bestimmten Personen
+  * Bilder dürfen nur von Standpunkten aus gemacht werden die öffentlich zugänglich sind (also z.B. öffentliche Straße, nicht aber Innenaufnahmen in Gebäuden), es sei denn der Eigentümer hat sein Einverständnis erklärt (am Besten schriftlich)\\ Ausnahme: Einsatzdokumentation (z.B. Brandschutzmängel), diese Bilder müssen aber unter Verschluss gespeichert und dürfen nicht veröffentlicht werden (auch nicht intern)!
+
+=== Veröffentlichung von durch die Feuerwehr aufgenommenen Bildern ===
+
+  * **nicht**, wenn auf den Bildern Opfer und Betroffene und deren Angehörige oder Täter zu sehen sind
+  * Zustimmung des/der Fotografierten erforderlich, wenn nicht mehr als 5 Personen auf dem Bild zu sehen sind oder diese Person deutlich im Vordergrund steht
+  * Zustimmung nicht erforderlich, wenn es sich um mehr als 5 Personen handelt oder die Person(en) nur Beiwerk sind, z.B. als Schaulustige am Rand des Einsatzgeschehens stehen und so nur zufällig auf das Bild kommen
+  * Zustimmung nicht erforderlich bei Personen der Zeitgeschichte, z.B. Bürgermeister, Einsatzkräften von Feuerwehr, Polizei, etc. oder Mitarbeitern von am Einsatz beteiligten Unternehmen
+
+==== Auszüge aus dem Pressekodex ====
+
+Der Pressekodex beinhaltet unter anderem folgende Themen:
+
+  * Wahrhaftigkeit (Wahrheit) und Achtung der Menschenwürde
+  * Sorgfalt (zum Wahrheitsgehalt)
+  * Grenzen der Recherche (keine Anwendung unlauterer Methoden)
+  * Schutz der Persönlichkeit (solange das Informationsinteresse der Öffentlichkeit nicht überwiegt)
+  * Schutz der Ehre
+  * Sensationsberichterstattung (angemessene Darstellung von Gewalt, Brutalität und Leid), Jugendschutz
+
+==== Einschränkung der Pressefreiheit nach Artikel 5 Grundgesetz ====
+
+  * Gesetze zum Schutz der Jugend (z.B. blutige Bilder usw.)
+  * Recht der persönlichen Ehre
+
+Werden unrechtmäßig Bilder von Personen veröffentlicht, müssen diese selbst gegen den Fotografen bzw. die entsprechende Redaktion vorgehen. Dies ist nicht Aufgabe der Feuerwehr!
+
+==== Auszug aus Artikel 5 Grundgesetz ====
+
+(1) Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten und sich aus allgemein zugänglichen Quellen ungehindert zu unterrichten. Die Pressefreiheit und die Freiheit der Berichterstattung durch Rundfunk und Film werden gewährleistet. Eine Zensur findet nicht statt.
+
+(2) Diese Rechte finden ihre Schranken in den Vorschriften der allgemeinen Gesetze, den gesetzlichen Bestimmungen zum Schutze der Jugend und in dem Recht der persönlichen Ehre.
+
+===== Weblinks =====
+
+  * [[http://presserecht.de/index.php?option=com_content&task=category&sectionid=4&id=14&Itemid=27|Pressegesetze aller Bundesländer]]
+
+===== Quellenangabe =====
+
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie (Pressestelle Berliner Feuerwehr)
+  * Fotografieren im Einsatz: Was jeder wissen muss, Rainer Kersten, veröffentlicht in: Feuerwehr-Magazin 6/2011, Ebner Verlag Bremen
+  * [[http://www.presserat.info/inhalt/der-pressekodex/pressekodex.html|Pressekodex]] auf der Seite des deutschen Presserates
+  * [[wpde>Informationsfreiheitsgesetz|Wikipedia: Informationsfreiheitsgesetz]]
+  * [[wpde>Landespressegesetz|Wikipedia: Landespressegesetz]]
+  * [[wpde>Recht_am_eigenen_Bild|Wikipedia: Recht am eigenen Bild]]
+  * [[wpde>Presseausweis|Wikipedia: Presseausweis]]
+  * Bild Presseausweis: [[wpde>Datei:Presseausweis_%282013%29.jpg]], veröffentlicht vom Wikipedia-User [[wpde>Benutzer:Inforadio|Inforadio]] unter [[http://creativecommons.org/licenses/by-sa/3.0/de/legalcode|CC-by-sa 3.0-Lizenz]]
+
+===== Stichwörter =====
+
+Film, Fernsehen, TV, Radio, Rundfunk

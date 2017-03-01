@@ -1,0 +1,79 @@
+====== Seiten und Seitennamen ======
+
+Jede Seite des Wikis hat einen eindeutigen Namen. Für diese Seitennamen gelten gewisse Vorgaben und Regeln:
+
+Die [[wiki:hilfe:hintergrund_einsatzleiterwiki|zugrundeliegende DokuWiki-Software]] wandelt Seitennamen (engl. Pagenames) automatisch in kleingeschriebene (engl. lowercase) Namen um. An Sonderzeichen sind nur ''.'', ''-'' und ''_'' erlaubt, alle anderen Sonderzeichen werden zu Unterstrichen umgewandelt. Doppelpunkte ('':'') werden zum Erzeugen von [[wiki:hilfe:namensraeume|Namensräumen (Namespaces)]] verwendet.
+
+Bei Verlinkungen zu anderen Wikis unter Verwendung von [[wiki:hilfe:interwiki|InterWiki]]-Links gelten die Bezeichnungsvorgaben für Seitennamen dieser Wikis.
+
+===== Seitennamen und Namensräume =====
+
+Man kann sich Namensräume als Ordner und Seiten mit Seitennamen als Dateien darin vorstellen.
+
+So kann man sich die Seite mit dem Seitennamen ''a:b:c'' vorstellen:
+
+<file>
+
+    Haupt-Namensraum (immer vorhanden, hat keinen eigenen Namen, im Einsatzleiterwiki befindet sich nur die Startseite darin)
+     |
+     +-- 'a' Namensraum
+           |
+           +-- 'b' Namensraum
+                 |
+                 +-- 'c' Seite
+
+</file>
+
+Es ist erlaubt, dass ein Namensraum und eine Seite die gleiche Bezeichnung haben. Den Seitennamen ''b:b'' kann man also folgendermaßen auflösen: 
+
+<file>
+
+   root Namensraum (immer vorhanden)
+     |
+     +-- 'b' Namensraum
+           |
+           +-- 'b' Seite (auch die Seite ist mit 'b' benannt)
+
+</file>
+
+Gleiche Bezeichnungen von Seiten und Namensräumen führen also nicht zu Konflikten, da DokuWiki den letzten Teil des gesamten Namens (jenen nach dem letzten Doppelpunkt) als Seitennamen nimmt, alle anderen Teile aber als Namensräume interpretiert.
+
+  * In ''a:b:c'' sind ''a'' und ''b'' die Namensräume, die Seite selbst heißt ''c''.
+  * In ''a:b'' ist ''a'' der Namensraum und ''b'' der Seitenname.
+
+Mehr dazu steht auf der Seite mit der Erklärung zu [[wiki:hilfe:namensraeume|Namensräumen]].
+
+
+===== Seiten anlegen =====
+
+Wird eine Seite aufgerufen, die noch nicht existiert, so wird Dokuwiki (vorausgesetzt, man hat die notwendigen Rechte dazu) anbieten, diese Seite neu anzulegen. Beim Erstellen eines neuen Artikels muss unbedingt die Struktur eingehalten werden, da ansonsten Funktionen wie die automatisierte Erstellung von Inhaltsverzeichnissen nicht mehr korrekt funktionieren.
+
+Um eine neue Seite zu erzeugen, müssen wir also eine noch nicht bestehende Seite aufrufen. Dazu gibt es zwei Möglichkeiten.
+
+  * Auf einer bestehenden Seite wird ein Link angelegt, der auf die neu anzulegende Seite verweist. Folgt man diesem Link, so kann die neue Seite erstellt und bearbeitet werden.
+
+  * In der Adresszeile des Browsers wird die URL angezeigt, die u.a. auch den Seitennamen enthält. Ändert man die URL so ab, dass eine noch nicht bestehende Seite aufgerufen wird, so kann sie ebenfalls erstellt werden. 
+
+Enthält dabei der Seitenname einen Namensraum, der noch nicht besteht, so wird dieser ebenfalls angelegt.
+
+**Beispiel:**
+%%http://127.0.0.1:8080/einsatzleiterwiki/doku.php?id=gefaehrliche_stoffe_gueter:allgemein:kennzeichnung:ghs%%
+\\
+Namensraum oberste Ebene: gefaehrliche_stoffe_gueter\\
+Namensraum 1 Unterebene: allgemein\\
+Namensraum 2 Unterebene: kennzeichnung\\
+Seite in 2-ter Unterebene: ghs\\
+
+===== Seiten löschen =====
+
+Wird eine Seite bearbeitet und dabei der gesamte Seiteninhalt entfernt, so löscht DokuWiki die Seite und den Seitennamen. Die älteren Versionen der Seite bleiben aber im [[wiki:hilfe:aeltere_versionen|attic]] bestehen.
+
+===== Seiten umbenennen =====
+
+Eine eigene Funktion zum Umbenennen von Seiten, die bereits in die DokuWiki-Software integriert ist, gibt es nicht.
+
+Zum Verschieben von Seiten oder gar ganzen Namensräumen wird das [[wiki:hilfe:plugins:move|Move-Plugin]] empfohlen.
+
+===== Quellenangabe =====
+
+  * [[doku>de:pagename]], veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

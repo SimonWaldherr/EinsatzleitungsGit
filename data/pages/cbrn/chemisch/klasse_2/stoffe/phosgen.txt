@@ -1,0 +1,38 @@
+====== Phosgen ======
+
+Lungenkampfstoff, siehe [[cbrn:chemisch:chemische_kampfstoffe|Chemische Kampfstoffe]]
+
+===== zu treffende Maßnahmen =====
+
+Zu finden auf der {{cbrn:chemisch:klasse_2:stoffe:lfs_bw_kampfstoffe_phosgen.pdf|Einsatzleiterkarte Phosgen}} der Landesfeuerwehrschule Baden-Württemberg.
+
+[[cbrn:ericards:klasse_2:10760422|ERICard für Phosgen]]
+
+==== besondere Gefahren ====
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:perchlorethylen_phenol_phosgen_phosphorwasserstoff.pdf|chemisch-physikalische Daten zu Phosgen}}
+
+==== Messung mit Prüfröhrchen ====
+
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:phosgen_0-02a.pdf|Dräger-Röhrchen Phosgen 0,02/a}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:phosgen_0-05a.pdf|Dräger-Röhrchen Phosgen 0,05/a}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:phosgen_0-25c.pdf|Dräger-Röhrchen Phosgen 0,25/c}}
+
+==== Messung mit Chip-Mess-System ====
+
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_phosgen_0-05_2ppm_phosphorwasserstoff_0-1_2-5ppm.pdf|Dräger CMS-Chip Phosgen 0,05 - 2 ppm}}
+
+===== Weblinks =====
+
+  * [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/001340.xml?f=templates&fn=default.htm|Phosgen in der GESTIS-Gefahrstoffdatenbank]]
+  * [[wpde>Phosgen|Wikipedia: Phosgen]]
+
+===== Quellenangabe =====
+
+  * {{cbrn:allgemein:hinweise_abc_kampfstoffe.pdf|Einsatzleiterkarten für den Einsatz mit ABC-Kampfstoffen, Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2011}}. Nutzung mit freundlicher Genehmigung.
+
+===== Stichwörter =====
+
+CG, Carbonylchlorid, Kohlenoxidchlorid

@@ -1,0 +1,40 @@
+====== Hebekissen ======
+
+===== zu treffende Maßnahmen =====
+
+  * Zur korrekten Auswahl des zu nutzenden Hebekissens abschätzen:
+    * Schwerpunkt der Last (-> wird diese instabil?)
+    * Gewicht der zu hebenden Last
+    * Hubhöhe der zu hebenden Last (-> reichen ein/zwei Hebekissen aus?)
+  * Gesichtsschutz (Visier) herunterklappen
+  * Last gegen Wegrutschen sichern
+  * Hebekissen möglichst ganz, aber mindestens zu 3/4 unter die Last schieben
+  * möglichst zwei Hebekissen nebeneinander verwenden um die Stabilität während des Hebens zu erhöhen
+  * max. zwei Hebekissen übereinander verwenden und auf deren Stabilität achten, dann das kleinere nach oben legen und zuerst das untere (größere) befüllen
+  * Während des Hebens die Last permanent und so dicht wie möglich unterbauen
+  * Während des Hebens nicht in dem Bereich aufhalten, in den das Hebekissen evtl. herausrutschen bzw. "herausschießen" kann
+  * Steuerteil außerhalb des Gefahrenbereichs betreiben
+  * Einsatzkraft in einiger Entfernung zum anzuhebenden Objekt positionieren die beobachtet ob dieses anfängt zu rutschen, kippen, gleichmäßig angehoben wird, etc.
+
+==== besondere Gefahren ====
+
+  * platzendes Hebekissen
+  * herausrutschendes Hebekissen
+  * Last kippt um oder rutscht weg
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Mit zunehmender Hubhöhe nimmt die Hubkraft ab
+  * Fallen von Lasten auf gefüllte Hebekissen vermeiden
+  * Befestigungsschlaufen/-ösen, etc. dienen nur zum Positionieren und Befestigen der Hebekissen
+  * Hebekissen nicht an spitzen, scharfen, aggressiven oder heißen Objekten einsetzen oder nur punktuell belasten (ggf. geeigenetes Material zwischenlegen)
+  * nicht unter angehobene, aber nicht gesicherte Lasten treten
+
+===== Quellenangabe =====
+
+  * FwDV 1, Ausgabe 2007
+  * GUV-I 8651, Ausgabe Januar 2006 mit aktualisierter Fassung von Juli 2011
+
+===== Stichwörter =====
+
+Luftheber, Druckkissen

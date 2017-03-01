@@ -1,0 +1,35 @@
+====== Tankbrand ======
+
+Diese Seite behandelt Brände von Flüssigkeit-Tanks, für Gastanks siehe [[cbrn:chemisch:klasse_2:start]]
+
+===== zu treffende Maßnahmen =====
+
+  * Ausreichenden Abstand halten!\\ Im unmittelbaren Gefahrenbereich (Radius 100 Meter um den Tank) nur mit Hitzeschutzkleidung vorgehen!
+  * Stationäre Feuerlösch- und Berieselungsanlagen der gefährdeten Tanks sofort in Betrieb nehmen sofern noch nutzbar, parallel Brandbekämpfungs- und Kühlmaßnahmen mit eigenen Mitteln vorbereiten. Mit der Brandbekämpfung erst beginnen, wenn ausreichen Schaummittel vor Ort ist.
+  * Zeitgleicher Einsatz von mehreren Schaumrohren. Stationäre Löschgeräte einsetzen (Wasser/Schaum-Werfer) und die Kräfte aus dem unmittelbaren Gefahrenbereich zurückzuziehen
+  * Nachalarmierung Schaummittel und leistungsfähige Werfer (z.B. über [[cbrn:allgemein:tuis|TUIS]])
+  * Großflächige Kühlung des betroffenen Tanks sowie benachbarter Objekte
+  * großer Wasserbedarf -> Aufbau einer leistungsfähigen [[brand:allgemein:loeschwasserversorgung|Löschwasserversorgung]]
+  * Bei Gefahr der Brandausbreitung auf umliegende Tanks, sind die Auffangwannen der Tanks vorsorglich zu beschäumen
+  * [[allgemein:bereitstellungsraum|Bereitstellungsraum]] einrichten, Zufahrtswege für Schaummittel-Versorgung freihalten
+  * [[brand:allgemein:loeschwasserrueckhaltung|Löschwasserrückhaltung]]
+
+==== besondere Gefahren ====
+
+  * Wärmestrahlung -> Übergreifen auf Nachbartanks
+  * [[cbrn:allgemein:cbrn-lexikon:boil-over|Boil-Over]]
+  * Ausbreitung durch Zerstörung des Tanks
+
+===== Allgemeine (Vorgehens-) Hinweise =====
+
+  * Der Löschschaum wird  durch längere thermische Beaufschlagung zunehmend zerstört (hohe Abbrandrate), daraus ergibt sich ein wesentlich höherer Schaumbedarf.
+  * auf [[allgemein:pressearbeit|Presseanfragen]] vorbereiten
+  * Verpflegung/Ablösung der Einsatzkräfte
+
+===== Quellenangabe =====
+
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr
+
+===== Stichwörter =====
+
+Öltank

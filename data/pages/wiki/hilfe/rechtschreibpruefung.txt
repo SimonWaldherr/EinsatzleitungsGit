@@ -1,0 +1,9 @@
+====== Rechtschreibprüfung ======
+
+Eine Rechtschreibprüfung ist in Dokuwiki-Software nicht vorgesehen. Jedoch ist sie leicht im Firefox-Browser nachzurüsten.
+
+[[https://www.erweiterungen.de/installieren/DeutschesWoerterbuch_1.0.1_fx+tb+sm_de-DE.xpi|Installation der dt. Rechtschreibprüfung für Mozilla-Projekte]]
+
+===== Quellenangabe =====
+
+  * [[doku>de:spell_checker]], veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

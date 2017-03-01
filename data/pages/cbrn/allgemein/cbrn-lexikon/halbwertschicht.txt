@@ -1,0 +1,13 @@
+====== Halbwertschicht ======
+
+Die Halbwertschicht, auch Halbwertdicke, gibt an welche Schichtdicke ein Material besitzen muss, um die Intensität eines radioaktiven Stoffes um die Hälfte zu verringern.
+
+Weitere Informationen sind im Artikel [[cbrn:atomar:physikalische_grundlagen#abschirmung|physikalische Grundlagen Strahlenschutz]] zu finden.
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].
+
+===== Stichwörter =====
+
+Halbwertsschicht, Halbwertschichtdicke, Halbwertsschichtdicke

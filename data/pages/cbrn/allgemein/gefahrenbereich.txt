@@ -1,0 +1,27 @@
+====== Gefahren- und Absperrbereich ======
+
+{{ cbrn:allgemein:gefahrenbereich.png?nolink&400|Gefahren- und Absperrbereich}}
+
+Bei allen ABC-Einsätzen Gefahren- und Absperrbereich bilden.
+
+===== zu treffende Maßnahmen =====
+
+  * Bei unbekanntem Stoff vorerst folgene Abstände festlegen: Anpassung, sobald nähere Informationen zum Stoff vorliegen.
+    * Gefahrenbereich: 50 Metern Radius. Bei Einsatzstellen in Gebäuden ohne Gefährdung der Umgebung endet der Gefahrenbereich 5 Meter vor dem Gebäude.
+    * Absperrbereich: 100 Metern Radius.
+    * Anpassungen durch Meteorologische (Wind, Regen, ...) und Topographische (Geländeoberfläche, ...) Einflüsse vornehmen
+    * Bei Verdacht auf Kontamination weiterer Bereiche Gefahrenbereich entsprechend ausdehnen.
+    * Bei Explosions- oder Zerknallgefahr ist der Gefahren- und Absperrbereich erheblich zu vergrößern.
+  * Gefahrenbereich:
+    * Zutritt nur für Einsatzkräfte unter [[cbrn:allgemein:koerperschutzformen|persönlicher Sonderausrüstung]]
+    * Festlegen, Markieren und Sichern ist Aufgabe der Feuerwehr
+    * Essen, Trinken und Rauchen ist im Gefahrenbereich untersagt
+  * Absperrbereich:
+    * Zutritt nur für die erforderlichen Einsatz- und Unterstützungskräfte.
+    * Markieren und Sichern im Regelfall durch die Polizei.
+
+===== Quellenangabe =====
+
+  * FwDV 500, Version 2012
+
+===== Stichwörter =====

@@ -1,0 +1,6 @@
+====== Ölschadenbekämpfung ======
+
+siehe:
+
+  * [[cbrn:chemisch:klasse_3:oelspur|Ölspur (auf Verkehrsfläche)]]
+  * [[cbrn:chemisch:klasse_3:oel_auf_gewaesser]]

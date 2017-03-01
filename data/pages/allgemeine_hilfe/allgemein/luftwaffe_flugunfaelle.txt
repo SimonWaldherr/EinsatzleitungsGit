@@ -1,0 +1,61 @@
+====== Hilfe bei Flugunfällen mit Luftfahrzeugen der Bundeswehr ======
+
+Im Folgenden finden Sie Vorgehenshinweise zu Luftfahrzeugen der Bundeswehr. Die Originaldatei wurde zur besseren Übersicht in die einzelnen Kapitel und Modelle aufgeteilt.
+
+===== Allgemeines =====
+
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_01_deckblatt-vorwort.pdf|Deckblatt und Vorwort}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_02_inhaltsverzeichnis.pdf|Inhaltsverzeichnis (entspricht den hier verlinkten Dateien)}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_03_persoenliche_sicherheit_und_gefahren.pdf|Persönliche Sicherheit und Gefahren}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_04_hydrazin.pdf|Treibstoff Hydrazin}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_05_betreten_der_unfallstelle.pdf|Betreten der Unfallstelle}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_06_sofortmassnahmen-hilfeleistungen.pdf|Sofortmaßnahmen/Hilfeleistungen}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_07_befreien_der_flugzeuginsassen.pdf|Befreien der Flugzeuginsassen}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_08_erste_hilfe.pdf|Erste Hilfe}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_09_flugdatenspeicher.pdf|Flugdatenspeicher}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_10_munition.pdf|Munition}}
+
+===== Strahlflugzeuge =====
+
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_11_strahlflugzeuge_eurofighter.pdf|Strahlflugzeuge - Eurofighter}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_12_strahlflugzeuge_pa_200_tornado.pdf|Strahlflugzeuge - PA 200 "Tornado"}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_13_strahlflugzeuge_f-4f_phantom.pdf|Strahlflugzeuge - F-4F "Phantom"}}
+
+===== Transportflugzeuge =====
+
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_14_transportflugzeuge_a_310_airbus.pdf|Transportflugzeuge - A 310 "Airbus"}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_15_transportflugzeuge_cl_601_challenger.pdf|Transportflugzeuge - CL 601 "Challenger"}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_16_transportflugzeuge_c-160_transall.pdf|Transportflugzeuge - C-160 "Transall"}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_17_transportflugzeuge_p-3c_orion.pdf|Transportflugzeuge - P-3C "Orion"}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_18_transportflugzeuge_do_228.pdf|Transportflugzeuge - DO 228}}
+
+===== Hubschrauber =====
+
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_19_hubschrauber_as_532_u2_cougar.pdf|Hubschrauber - AS 532 U2 "Cougar"}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_20_hubschrauber_ch-53.pdf|Hubschrauber - CH-53}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_21_hubschrauber_bell_uh-1d.pdf|Hubschrauber - Bell UH-1D}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_22_hubschrauber_sea_king.pdf|Hubschrauber - Sea King}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_23_hubschrauber_sea_lynx.pdf|Hubschrauber - Sea Lynx}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_24_hubschrauber_bo_105.pdf|Hubschrauber - Bo 105}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_25_hubschrauber_ec_135.pdf|Hubschrauber - EC 135}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_26_hubschrauber_nh_90.pdf|Hubschrauber - NH 90}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_27_hubschrauber_uh_tiger.pdf|Hubschrauber - UH TIGER}}
+
+===== Unbemannte Luftfahrzeuge =====
+
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_28_unbemannte_luftfahrzeuge_drohne_kzo.pdf|Unbemannte Luftfahrzeuge - Drohne KZO}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_29_unbemannte_luftfahrzeuge_drohne_luna_aladin.pdf|Unbemannte Luftfahrzeuge - Drohnen LUNA und ALADIN}}
+
+===== Sofortmaßnahmen =====
+
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_30_erstmassnahmen_bei_flugunfaellen.pdf|Erstmaßnahmen bei Flugunfällen}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_31_fragen_an_zeugen.pdf|Fragen an Zeugen}}\\
+{{:allgemeine_hilfe:luftwaffe_flugunfaelle:hilfe_bei_flugunfaellen_32_notrufnummern.pdf|Notrufnummern}}
+
+===== Kontaktdaten/Ansprechpartner =====
+
+  * SAR - Leitstelle Münster (Militärische Rettungsleistelle der Bundeswehr): 0251 / 13 57 57
+  * SAR - Leitstelle Glücksburg (im Bereich Schleswig-Holstein, Hamburg, Küste Niedersachsen, Mecklenburg-Vorpommern): 046 31 / 60 13
+  * Feldjägerdienstkommando: 0800 / 1 90 99 99
+  * Bundesstelle für Flugunfalluntersuchung (BFU, bei Flugunfällen mit zivilen Luftfahrzeugen): 0531 / 3 54 80
+

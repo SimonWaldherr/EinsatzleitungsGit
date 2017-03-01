@@ -1,0 +1,22 @@
+====== Schiffskennzeichnung ======
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Binnenschifffahrt ====
+
+^  Kennzeichnung Tag  ^  Kennzeichnung Nacht  ^  Bedeutung  ^
+| {{cbrn:allgemein:kennzeichnung:binnenschiff_1_tag.gif?nolink&150|}} | {{cbrn:allgemein:kennzeichnung:binnenschiff_1_nacht.gif?nolink&150|}} | Beförderung bestimmter entzündbarer Stoffe*|
+| {{cbrn:allgemein:kennzeichnung:binnenschiff_2_tag.gif?nolink&150|}} | {{cbrn:allgemein:kennzeichnung:binnenschiff_2_nacht.gif?nolink&150|}} | Beförderung bestimmter [[cbrn:chemisch:klasse_6-1:start|gesundheitsschädliche]] Stoffe*|
+| {{cbrn:allgemein:kennzeichnung:binnenschiff_3_tag.gif?nolink&150|}} | {{cbrn:allgemein:kennzeichnung:binnenschiff_3_nacht.gif?nolink&150|}} | Beförderung bestimmter [[cbrn:chemisch:klasse_1:start|explosive]] Stoffe*|
+ 
+* nach Kapitel 3.2 Tabelle A des Europäisches Übereinkommens vom 26. Mai 2000 über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen (ADN)
+
+==== Seeschifffahrt ====
+
+^  Kennzeichnung Tag  ^  Kennzeichnung Nacht  ^  Bedeutung  ^
+| {{cbrn:allgemein:kennzeichnung:seeschiff_tag.gif?nolink&150|}} | {{cbrn:allgemein:kennzeichnung:seeschiff_nacht.gif?nolink&150|}} | Beförderung bestimmter gefährlicher Güter|
+
+===== Quellenangabe =====
+
+  * [[https://www.elwis.de/Schifffahrtsrecht/Binnenschifffahrtsrecht/BinSchStrO/Anlagen/Anlage-3/index.html|Binnenschifffahrtsstraßen-Ordnung]]
+  * [[https://www.elwis.de/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-II/index.html|Seeschifffahrtsstraßen-Ordnung]]

@@ -1,0 +1,64 @@
+====== CBRN-Einsätze / ABC-Einsätze / GSG-Einsätze ======
+
+Zur Auswahl der Seite über die Kategorieauflistung siehe [[cbrn:start#auswahl_ueber_kategorien|Ende der Seite]]
+
+**[[cbrn:gefahrgut|Allgemeine Maßnahmen für alle ABC-Einsätze]]**
+
+===== Auswahl über Gefahrzettel =====
+
+^Gefahrzettel ^Gefahrgutklasse nach GGVSE/ADR / weitere Inhalte |
+|[[cbrn:chemisch:klasse_1:start|{{cbrn:1.png?100}}]]  [[cbrn:chemisch:klasse_1:start|{{cbrn:1-4.png?100}}]] [[cbrn:chemisch:klasse_1:start|{{cbrn:1-5.png?100}}]] [[cbrn:chemisch:klasse_1:start|{{cbrn:1-6.png?100}}]]  |Hauptseite: [[cbrn:chemisch:klasse_1:start|Klasse 1: Explosionsgefährliche Stoffe]] {{simplenavi>cbrn:chemisch:klasse_1:}} besondere Stoffe der Klasse 1: {{simplenavi>cbrn:chemisch:klasse_1:stoffe}}|
+|[[cbrn:chemisch:klasse_2:start|{{cbrn:2-1.png?100}}]]  [[cbrn:chemisch:klasse_2:start|{{cbrn:2-2.png?100}}]] [[cbrn:chemisch:klasse_2:start|{{cbrn:2-3.png?100}}]]  |Hauptseite: [[cbrn:chemisch:klasse_2:start|Klasse 2: gasförmige Stoffe]] {{simplenavi>cbrn:chemisch:klasse_2}} besondere Stoffe der Klasse 2: {{simplenavi>cbrn:chemisch:klasse_2:stoffe}} |
+|[[cbrn:chemisch:klasse_3:start|{{cbrn:3.png?100}}]]  |Hauptseite: [[cbrn:chemisch:klasse_3:start|Klasse 3: Entzündbare flüssige Stoffe]] {{simplenavi>cbrn:chemisch:klasse_3}} besondere Stoffe der Klasse 3: {{simplenavi>cbrn:chemisch:klasse_3:stoffe}}|
+|[[cbrn:chemisch:klasse_4-1:start|{{cbrn:4-1.png?100}}]] |Hauptseite: [[cbrn:chemisch:klasse_4-1:start]] {{simplenavi>cbrn:chemisch:klasse_4-1}} besondere Stoffe der Klasse 4.1: {{simplenavi>cbrn:chemisch:klasse_4-1:stoffe}}|
+|[[cbrn:chemisch:klasse_4-2:start|{{cbrn:4-2.png?100}}]] |Hauptseite: [[cbrn:chemisch:klasse_4-2:start]] {{simplenavi>cbrn:chemisch:klasse_4-2}} besondere Stoffe der Klasse 4.2: {{simplenavi>cbrn:chemisch:klasse_4-2:stoffe}}|
+|[[cbrn:chemisch:klasse_4-3:start|{{cbrn:4-3.png?100}}]] |Hauptseite: [[cbrn:chemisch:klasse_4-3:start]] {{simplenavi>cbrn:chemisch:klasse_4-3}} besondere Stoffe der Klasse 4.3: {{simplenavi>cbrn:chemisch:klasse_4-3:stoffe}}| 
+|[[cbrn:chemisch:klasse_5-1:start|{{cbrn:5-1.png?100}}]]  |Hauptseite: [[cbrn:chemisch:klasse_5-1:start]] {{simplenavi>cbrn:chemisch:klasse_5-1}} besondere Stoffe der Klasse 5.1: {{simplenavi>cbrn:chemisch:klasse_5-1:stoffe}}|
+|[[cbrn:chemisch:klasse_5-2:start|{{cbrn:5-2.png?100}}]]  |Hauptseite: [[cbrn:chemisch:klasse_5-2:start]] {{simplenavi>cbrn:chemisch:klasse_5-2}} besondere Stoffe der Klasse 5.2: {{simplenavi>cbrn:chemisch:klasse_5-2:stoffe}}|
+|[[cbrn:chemisch:klasse_6-1:start|{{cbrn:6-1.png?100}}]]    |Hauptseite: [[cbrn:chemisch:klasse_6-1:start]] {{simplenavi>cbrn:chemisch:klasse_6-1}} besondere Stoffe der Klasse 6.1: {{simplenavi>cbrn:chemisch:klasse_6-1:stoffe}}|
+|[[cbrn:biologisch:start|{{cbrn:6-2.png?100}}]]    |Hauptseite: [[cbrn:biologisch:start|Klasse 6.2: Ansteckungsgefährliche Stoffe / B-Einsatz]] {{simplenavi>cbrn:biologisch}} besondere biologische Stoffe: {{simplenavi>cbrn:biologisch:stoffe}}|
+|[[cbrn:atomar:start|{{cbrn:7-1.png?100}}]]  [[cbrn:atomar:start|{{cbrn:7-2.png?100}}]] [[cbrn:atomar:start|{{cbrn:7-3.png?100}}]] [[cbrn:atomar:start|{{cbrn:7-4.png?100}}]]  |Hauptseite: [[cbrn:atomar:start|Klasse 7: Radioaktive Stoffe]] {{simplenavi>cbrn:atomar}} |
+|[[cbrn:chemisch:klasse_8:start|{{cbrn:8.png?100}}]]  |Hauptseite: [[cbrn:chemisch:klasse_8:start|Klasse 8: Ätzende Stoffe]] {{simplenavi>cbrn:chemisch:klasse_8}} besondere Stoffe der Klasse 8: {{simplenavi>cbrn:chemisch:klasse_8:stoffe}}|
+|[[cbrn:chemisch:klasse_9:start|{{cbrn:9.png?100}}]]  |Hauptseite: [[cbrn:chemisch:klasse_9:start|Klasse 9: Verschiedene gefährliche Stoffe und Gegenstände]] {{simplenavi>cbrn:chemisch:klasse_9}} besondere Stoffe der Klasse 9: {{simplenavi>cbrn:chemisch:klasse_9:stoffe}} |
+|weitere Seiten im Bereich chemische Stoffe|{{simplenavi>cbrn:chemisch}}|
+
+===== Auswahl über Kategorien =====
+
+==== oberste Ebene ====
+
+{{simplenavi>cbrn}}
+
+==== Kategorie Allgemein ====
+
+Hauptseite: [[cbrn:allgemein:start]]
+
+{{simplenavi>cbrn:allgemein}}
+
+=== Unterkategorie Dekontamination ===
+
+Hauptseite: [[cbrn:allgemein:dekontamination:start]]
+
+{{simplenavi>cbrn:allgemein:dekontamination}}
+
+=== Unterkategorie Kennzeichnung ===
+
+Hauptseite: [[cbrn:allgemein:kennzeichnung:start]]
+
+{{simplenavi>cbrn:allgemein:kennzeichnung}}
+
+==== Kategorie Geräte ====
+
+Hauptseite: [[cbrn:geraete:start]]
+
+{{simplenavi>cbrn:geraete}}
+
+==== weitere Kategorien ====
+
+Für bestimmte Stoffe und Stoffkategorien siehe die obige nach ADR-Klassen sortierte Tabelle.
+
+===== Quellen =====
+
+  * FwDV 500
+  * Bildquelle Gefahrzettel:
+    * Klasse 1.1: https://commons.wikimedia.org/wiki/File:UN_transport_pictogram_-_1_%28asterisks%29.svg, veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:Wostr|Wostr]] unter Public-Domain-Lizenz
+    * restliche Gefahrzettel: http://www.unece.org/trans/danger/publi/ghs/pictograms.html, veröffentlicht von den United Nations unter Public-Domain-Lizenz

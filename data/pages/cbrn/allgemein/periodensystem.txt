@@ -1,0 +1,151 @@
+====== Periodensystem und Stoffliste ======
+
+An dieser Stelle finden Sie ein einfaches Periodensystem und darunter eine Liste mit den wichtigsten Eigenschaften der Elemente. Ein sehr viel ausführlicheres Periodensystem als externes Programm finden Sie auf der Seite [[cbrn:atomar:nuklidkarte|Nuklidkarte]].
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Periodensystem ====
+
+An dieser Stelle finden Sie ein einfaches Periodensystem, in welchem sich das Symbol des chemischen Elements sowie die Ordnungszahl befindet. Detaillierte Informationen zu den einzelnen Stoffen finden sich darunter in der Stoffliste.
+
+|  1  |  <sub>1</sub>H  | ||||||||||||||||  <sub>2</sub>He  |
+|  2  |  <sub>3</sub>Li  |  <sub>4</sub>Be  | ||||||||||  <sub>5</sub>B  |  <sub>6</sub>C  |  <sub>7</sub>N  |  <sub>8</sub>O  |  <sub>9</sub>F  |  <sub>10</sub>Ne  |
+|  3  |  <sub>11</sub>Na  |  <sub>12</sub>Mg  | ||||||||||  <sub>13</sub>Al  |  <sub>14</sub>Si  |  <sub>15</sub>P  |  <sub>16</sub>S  |  <sub>17</sub>Cl  |  <sub>18</sub>Ar  |
+|  4  |  <sub>19</sub>K  |  <sub>20</sub>Ca  |  <sub>21</sub>Sc  |  <sub>22</sub>Ti  |  <sub>23</sub>V  |  <sub>24</sub>Cr  |  <sub>25</sub>Mn  |  <sub>26</sub>Fe  |  <sub>27</sub>Co  |  <sub>28</sub>Ni  |  <sub>29</sub>Cu  |  <sub>30</sub>Zn  |  <sub>31</sub>Ga  |  <sub>32</sub>Ge  |  <sub>33</sub>As  |  <sub>34</sub>Se  |  <sub>35</sub>Br  |  <sub>36</sub>Kr  |
+|  5  |  <sub>37</sub>Rb  |  <sub>38</sub>Sr  |  <sub>39</sub>Y  |  <sub>40</sub>Zr  |  <sub>41</sub>Nb  |  <sub>42</sub>Mo  |  <sub>43</sub>Tc  |  <sub>44</sub>Ru  |  <sub>45</sub>Rh  |  <sub>46</sub>Pd  |  <sub>47</sub>Ag  |  <sub>48</sub>Cd  |  <sub>49</sub>In  |  <sub>50</sub>Sn  |  <sub>51</sub>Sb  |  <sub>52</sub>Te  |  <sub>53</sub>I  |  <sub>54</sub>Xe  |
+|  6  |  <sub>55</sub>Cs  |  <sub>56</sub>Ba  |  #  |  <sub>72</sub>Hf  |  <sub>73</sub>Ta  |  <sub>74</sub>W  |  <sub>75</sub>Re  |  <sub>76</sub>Os  |  <sub>77</sub>Ir  |  <sub>78</sub>Pt  |  <sub>79</sub>Au  |  <sub>80</sub>Hg  |  <sub>81</sub>Tl  |  <sub>82</sub>Pb  |  <sub>83</sub>Bi  |  <sub>84</sub>Po  |  <sub>85</sub>At  |  <sub>86</sub>Rn  |
+|  7  |  <sub>87</sub>Fr  |  <sub>88</sub>Ra  |  ##  |  <sub>104</sub>Rf  |  <sub>105</sub>Db  |  <sub>106</sub>Sg  |  <sub>107</sub>Bh  |  <sub>108</sub>Hs  |  <sub>109</sub>Mt  |  <sub>110</sub>Ds  |  <sub>111</sub>Rg  |  <sub>112</sub>Cn  |  <sub>113</sub>Uut  |  <sub>114</sub>Uuq  |  <sub>115</sub>Uup  |  <sub>116</sub>Uuh  |  <sub>117</sub>Uus  |  <sub>118</sub>Uuo  |
+| |||||||||||||||||||
+| # Lanthanoide |||  <sub>57</sub>La  |  <sub>58</sub>Ce  |  <sub>59</sub>Pr  |  <sub>60</sub>Nd  |  <sub>61</sub>Pm  |  <sub>62</sub>Sm  |  <sub>63</sub>Eu  |  <sub>64</sub>Gd  |  <sub>65</sub>Tb  |  <sub>66</sub>Dy  |  <sub>67</sub>Ho  |  <sub>68</sub>Er  |  <sub>69</sub>Tm  |  <sub>70</sub>Yb  |  <sub>71</sub>Lu  | |
+| ## Actinoide |||  <sub>89</sub>Ac  |  <sub>90</sub>Th  |  <sub>91</sub>Pa  |  <sub>92</sub>U  |  <sub>93</sub>Np  |  <sub>94</sub>Pu  |  <sub>95</sub>Am  |  <sub>96</sub>Cm  |  <sub>97</sub>Bk  |  <sub>98</sub>Cf  |  <sub>99</sub>Es  |  <sub>100</sub>Fm  |  <sub>101</sub>Md  |  <sub>102</sub>No  |  <sub>103</sub>Lr  | |
+
+==== Stoffliste ====
+
+In dieser Liste finden Sie alle chemischen Reinstoffe sowie weitere Informationen zu diesen. Sie sind nach der Ordnungszahl sortiert.
+
+^ Elementname \\ nach IUPAC  ^ Symbol  ^ Ordnungs-\\ zahl  ^ atomare\\ Masse (u)  ^ Dichte bei 20 °C  \\ (kg/m³)  ^ Schmelz-\\ punkt (°C)  ^ Siede-\\ punkt (°C)  ^
+|Wasserstoff  |  H  |  1  |  1,01  |  0,084  |  −259,1  |  −252,9  |
+|Helium  |  He  |  2  |  4  |  0,17  |  −272,2  |  −268,9  |
+|Lithium  |  Li  |  3  |  6,94  |  530  |  180,5  |  1317  |
+|Beryllium  |  Be  |  4  |  9,01  |  1850  |  1278  |  2970  |
+|Bor  |  B  |  5  |  10,81  |  2460  |  2300  |  2550  |
+|Kohlenstoff  |  C  |  6  |  12,01  |  3510  |  3550 (Sublimationspunkt)  ||
+|Stickstoff  |  N  |  7  |  14,01  |  1,17  |  −209,9  |  −195,8  |
+|Sauerstoff  |  O  |  8  |  16  |  1,33  |  −218,4  |  −182,9  |
+|Fluor  |  F  |  9  |  19  |  1,58  |  −219,6  |  −188,1  |
+|Neon  |  Ne  |  10  |  20,18  |  0,84  |  −248,7  |  −246,1  |
+|Natrium  |  Na  |  11  |  22,99  |  970  |  97,8  |  892  |
+|Magnesium  |  Mg  |  12  |  24,3  |  1740  |  648,8  |  1107  |
+|Aluminium  |  Al  |  13  |  26,98  |  2700  |  660,5  |  2467  |
+|Silicium  |  Si  |  14  |  28,09  |  2330  |  1410  |  2355  |
+|Phosphor \\ (Phosphor<sub>4</sub>)  |  P  |  15  |  30,97  |  1820  |  44  |  280  |
+|Schwefel  |  S  |  16  |  32,07  |  2060  |  113  |  444,7  |
+|Chlor  |  Cl  |  17  |  35,45  |  2,95  |  −101  |  −34,6  |
+|Argon  |  Ar  |  18  |  39,94  |  1,66  |  −189,4  |  −185,9  |
+|Kalium  |  K  |  19  |  39,1  |  860  |  63,7  |  774  |
+|Calcium  |  Ca  |  20  |  40,08  |  1540  |  839  |  1487  |
+|Scandium  |  Sc  |  21  |  44,96  |  2990  |  1539  |  2832  |
+|Titan  |  Ti  |  22  |  47,88  |  4510  |  1660  |  3260  |
+|Vanadium  |  V  |  23  |  50,94  |  6090  |  1890  |  3380  |
+|Chrom  |  Cr  |  24  |  52  |  7140  |  1857  |  2482  |
+|Mangan  |  Mn  |  25  |  54,9  |  7440  |  1244  |  2097  |
+|Eisen  |  Fe  |  26  |  55,85  |  7870  |  1535  |  2750  |
+|Cobalt  |  Co  |  27  |  58,93  |  8890  |  1495  |  2870  |
+|Nickel  |  Ni  |  28  |  58,69  |  8910  |  1453  |  2732  |
+|Kupfer  |  Cu  |  29  |  63,55  |  8920  |  1083,5  |  2595  |
+|Zink  |  Zn  |  30  |  65,39  |  7140  |  419,6  |  907  |
+|Gallium  |  Ga  |  31  |  69,72  |  5910  |  29,8  |  2403  |
+|Germanium  |  Ge  |  32  |  72,61  |  5320  |  937,4  |  2830  |
+|Arsen  |  As  |  33  |  74,92  |  5720  |  613 (Sublimationspunkt)  ||
+|Selen  |  Se  |  34  |  78,96  |  4820  |  217  |  685  |
+|Brom  |  Br  |  35  |  79,9  |  3140  |  −7,3  |  58,8  |
+|Krypton  |  Kr  |  36  |  83,8  |  3,48  |  −156,6  |  −152,3  |
+|Rubidium  |  Rb  |  37  |  85,45  |  1530  |  39  |  688  |
+|Strontium  |  Sr  |  38  |  87,62  |  2630  |  769  |  1384  |
+|Yttrium  |  Y  |  39  |  88,91  |  4470  |  1523  |  3337  |
+|Zirconium  |  Zr  |  40  |  91,22  |  6510  |  1852  |  4377  |
+|Niob  |  Nb  |  41  |  92,91  |  8580  |  2468  |  4927  |
+|Molybdän  |  Mo  |  42  |  95,94  |  10280  |  2617  |  5560  |
+|Technetium  |  Tc  |  43  |  98,91  |  11490  |  2172  |  5030  |
+|Ruthenium  |  Ru  |  44  |  101,07  |  12450  |  2310  |  3900  |
+|Rhodium  |  Rh  |  45  |  102,91  |  12410  |  1966  |  3727  |
+|Palladium  |  Pd  |  46  |  106,42  |  12020  |  1552  |  3140  |
+|Silber  |  Ag  |  47  |  107,87  |  10490  |  961,9  |  2212  |
+|Cadmium  |  Cd  |  48  |  112,41  |  8640  |  321  |  765  |
+|Indium  |  In  |  49  |  114,82  |  7310  |  156,2  |  2080  |
+|Zinn  |  Sn  |  50  |  118,71  |  7290  |  232  |  2270  |
+|Antimon  |  Sb  |  51  |  121,75  |  6690  |  630,7  |  1750  |
+|Tellur  |  Te  |  52  |  127,6  |  6250  |  449,6  |  990  |
+|Iod  |  I  |  53  |  126,9  |  4940  |  113,5  |  184,4  |
+|Xenon  |  Xe  |  54  |  131,29  |  4,49  |  −111,9  |  −107  |
+|Caesium  |  Cs  |  55  |  132,91  |  1900  |  28,4  |  690  |
+|Barium  |  Ba  |  56  |  137,33  |  3650  |  725  |  1640  |
+|Lanthan  |  La  |  57  |  138,9  |  6160  |  920  |  3454  |
+|Cer  |  Ce  |  58  |  140,11  |  6770  |  798  |  3257  |
+|Praseodym  |  Pr  |  59  |  140,91  |  6480  |  931  |  3212  |
+|Neodym  |  Nd  |  60  |  144,24  |  7000  |  1010  |  3127  |
+|Promethium  |  Pm  |  61  |  146,92  |  7220  |  1080  |  2730  |
+|Samarium  |  Sm  |  62  |  150,36  |  7540  |  1072  |  1778  |
+|Europium  |  Eu  |  63  |  151,96  |  5250  |  822  |  1597  |
+|Gadolinium  |  Gd  |  64  |  157,25  |  7890  |  1311  |  3233  |
+|Terbium  |  Tb  |  65  |  158,93  |  8250  |  1360  |  3041  |
+|Dysprosium  |  Dy  |  66  |  162,5  |  8560  |  1409  |  2335  |
+|Holmium  |  Ho  |  67  |  164,93  |  8780  |  1470  |  2720  |
+|Erbium  |  Er  |  68  |  167,26  |  9050  |  1522  |  2510  |
+|Thulium  |  Tm  |  69  |  168,93  |  9320  |  1545  |  1727  |
+|Ytterbium  |  Yb  |  70  |  173,04  |  6970  |  824  |  1193  |
+|Lutetium  |  Lu  |  71  |  174,97  |  9840  |  1656  |  3315  |
+|Hafnium  |  Hf  |  72  |  178,49  |  13310  |  2150  |  5400  |
+|Tantal  |  Ta  |  73  |  180,95  |  16680  |  2996  |  5425  |
+|Wolfram  |  W  |  74  |  183,85  |  19260  |  3407  |  5927  |
+|Rhenium  |  Re  |  75  |  186,21  |  21030  |  3180  |  5627  |
+|Osmium  |  Os  |  76  |  190,23  |  22590  |  3045  |  5027  |
+|Iridium  |  Ir  |  77  |  192,22  |  22560  |  2410  |  4130  |
+|Platin  |  Pt  |  78  |  195,08  |  21450  |  1772  |  3827  |
+|Gold  |  Au  |  79  |  196,97  |  19320  |  1064,4  |  2940  |
+|Quecksilber  |  Hg  |  80  |  200,59  |  13550  |  −38,9  |  356,6  |
+|Thallium  |  Tl  |  81  |  204,38  |  11850  |  303,6  |  1457  |
+|Blei  |  Pb  |  82  |  207,2  |  11340  |  327,5  |  1740  |
+|Bismut\\ (auch: Wismut)  |  Bi  |  83  |  208,98  |  9800  |  271,4  |  1560  |
+|Polonium  |  Po  |  84  |  208,98  |  9200  |  254  |  962  |
+|Astat  |  At  |  85  |  209,99  | |  302  |  337  |
+|Radon  |  Rn  |  86  |  222,02  |  9,23  |  −71  |  −61,8  |
+|Francium  |  Fr  |  87  |  223,02  | |  27  |  677  |
+|Radium  |  Ra  |  88  |  226,03  |  5500  |  700  |  1140  |
+|Actinium  |  Ac  |  89  |  227,03  |  10070  |  1047  |  3197  |
+|Thorium  |  Th  |  90  |  232,04  |  11720  |  1750  |  4787  |
+|Protactinium  |  Pa  |  91  |  231,04  |  15370  |  1554  |  4030  |
+|Uran  |  U  |  92  |  238,03  |  18970  |  1132,4  |  3818  |
+|Neptunium  |  Np  |  93  |  237,05  |  20480  |  640  |  3902  |
+|Plutonium  |  Pu  |  94  |  244,06  |  19740  |  641  |  3327  |
+|Americium  |  Am  |  95  |  243,06  |  13670  |  994  |  2607  |
+|Curium  |  Cm  |  96  |  247,07  |  13510  |  1340  |  3110  |
+|Berkelium  |  Bk  |  97  |  247,07  |  13250  |  986  | |
+|Californium  |  Cf  |  98  |  251,08  |  15100  |  900  | |
+|Einsteinium  |  Es  |  99  |  252,08  | |  860  | |
+|Fermium  |  Fm  |  100  |  257,1  | | | |
+|Mendelevium  |  Md  |  101  |  258  | | | |
+|Nobelium  |  No  |  102  |  259  | | | |
+|Lawrencium  |  Lr  |  103  |  260  | |  1627  | |
+|Rutherfordium  |  Rf  |  104  |  261,11  | | | |
+|Dubnium  |  Db  |  105  |  262,11  | | | |
+|Seaborgium  |  Sg  |  106  |  263,12  | | | |
+|Bohrium  |  Bh  |  107  |  262,12  | | | |
+|Hassium  |  Hs  |  108  |  265  | | | |
+|Meitnerium  |  Mt  |  109  |  266  | | | |
+|Darmstadtium  |  Ds  |  110  |  269  | | | |
+|Roentgenium  |  Rg  |  111  |  272  | | | |
+|Copernicium  |  Cn  |  112  |  277  | | | |
+|Ununtrium  |  Uut  |  113  |  287  | | | |
+|Ununquadium  |  Uuq  |  114  |  289  | | | |
+|Ununpentium  |  Uup  |  115  |  288  | | | |
+|Ununhexium  |  Uuh  |  116  |  289  | | | |
+|Ununseptium  |  Uus  |  117  | | | | |
+|Ununoctium  |  Uuo  |  118  |  293  | | | |
+
+===== Quellenangabe =====
+
+  * [[wpde>Periodensystem|Periodensystem]] in der Wikipedia, abgerufen am 13.04.2012
+  * [[wpde>Liste_der_Elemente|Liste der Elemente]] in der Wikipedia, abgerufen am 12.04.2012
+
+===== Stichwörter =====

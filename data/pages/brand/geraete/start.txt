@@ -1,0 +1,3 @@
+====== Geräte für den Brandeinsatz ======
+
+{{simplenavi>brand:geraete}}

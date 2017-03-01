@@ -1,0 +1,7 @@
+====== Impulse ======
+
+Impulse pro Sekunde ist die Maßeinheit für [[cbrn:atomar:strahlenschutzmessgeraete#kontaminationsnachweisgeraet|Kontaminationsnachweisgeräte]].
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

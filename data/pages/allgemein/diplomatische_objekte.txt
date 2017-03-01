@@ -1,0 +1,69 @@
+====== Diplomatische Objekte ======
+
+Deutsche Behörden haben in diplomatischen Missionen keinerlei Befugnisse, da diese besondere Vorrechte und Immunitäten genießen, d.h. sie sind unverletzlich und immun gegenüber Zwangs- und Eingriffsmaßnahmen.\\
+Hierzu zählen u.a. diplomatische Einrichtungen, Grundstücke, Räumlichkeiten und Fahrzeuge. 
+
+===== zu treffende Maßnahmen =====
+
+<WRAP center round important 100%>
+Eingriffe in Diplomatenrechte sowie das Betreten der Räumlichkeiten __nur bei konkreter Gefahr__ und auf das __unbedingt Erforderliche__ beschränken
+</WRAP>
+
+  * Bei gewalttätigen Übergriffen Eigenschutz beachten
+  * Kontaktaufnahme mit Personen- bzw. Objektschützern
+  * Abstimmung mit Polizei und bzw. Objektschützern 
+  * Gebäude, Grundstücke, Fahrzeuge etc. dürfen erst nach Genehmigung betreten werden.\\ Ist dieses aufgrund der gebotenen Dringlichkeit, wegen einer **Gefährdung von Menschenleben oder erheblicher Sachwerte** nicht möglich, so ist der Einsatzleiter nach pflichtgemäßem Ermessen berechtigt und verpflichtet anzuordnen, dass die Bereiche betreten werden können.
+    * <wrap important>Insbesondere Archive und persönliche Räume gelten als sensible Bereiche und somit sind die Maßnahmen auf das unbedingt Erforderliche zu beschränken.</wrap>
+    * <wrap important>Wenn der Zugang verwehrt wird, sind entsprechende Maßnahmen zu unterlassen und sich auf umfassenden Nachbarschaftsschutz zu beschränken!!!</wrap>
+  * In besonderen Fällen ist bei diplomatischen Bereichen das Auswärtige Amt zu informieren.
+  * Besondere Sicherungspflicht der Objekte bis zum Eintreffen der Polizei wahrnehmen
+  * Gepäckstücke ungeöffnet an berechtigten diplomatischen Vertreter übergeben
+
+==== besondere Gefahren ====
+
+  * Gefahr von gewalttätigen Übergriffen auf Diplomaten durch oppositionelle Kräfte (Bombenanschläge etc.)
+  * Bewaffnete Personen- bzw. Objektschützer mit „robustem“ Schutzauftrag (ggf. Eigensicherung beachten)
+  * Besonders [[allgemeine_hilfe:verkehrsunfall:gepanzerte_fahrzeuge|gepanzerte Fahrzeuge]]
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Kennzeichnung ====
+
+<WRAP group>
+<WRAP half centeralign column>
+=== Fahrzeuge ===
+
+Fahrzeuge von Diplomaten sind mit besonderen Kennzeichen ausgestattet und besitzen ggf. ein Zusatzschild mit der Beschriftung CD oder CC. Je nach Dienstort muss das Kennzeichen aber nicht zwangsläufig mit einer 0 beginnen, das Fahrzeug ist daher möglicherweise nicht direkt als Diplomatenfahrzeug zu erkennen.
+
+{{ :allgemein:diplomatische_objekte:diplomatenkennzeichen.jpg?direct&300 |Diplomatenkennzeichen}}
+
+{{:allgemein:diplomatische_objekte:cc-schild.png?direct&150|CC-Schild}} {{:allgemein:diplomatische_objekte:cd-schild.png?direct&150|CD-Schild}}
+</WRAP>
+
+<WRAP half centeralign column>
+=== Personen ===
+
+Diplomaten besitzen besondere Ausweise:
+
+{{ :allgemein:diplomatische_objekte:diplomatenausweis-d.jpg?direct&300 |Diplomatenausweis}}
+</WRAP>
+</WRAP>
+
+
+===== Weblinks =====
+
+  * [[wpde>Diplomatenstatus]]
+  * [[wpde>Diplomatenkennzeichen_(Deutschland)|Diplomatenkennzeichen]], mit Zuordnung welcher Code zu welchem Land gehört
+
+===== Quellenangabe =====
+
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr
+  * [[wpde>Diplomatenstatus]]
+  * Bild Diplomatenausweis: [[https://commons.wikimedia.org/wiki/File:Diplomatenausweis-D.JPG]] veröffentlicht im Gemeinsamen Ministerialblatt 2008 S. 1169
+  * Bild Diplomatenkennzeichen: [[https://commons.wikimedia.org/wiki/File:Deutsches_Diplomatenkennzeichen_%28Indonesien%29.jpg]], veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:ThorstenS|Thosten Schmidt]] unter [[http://creativecommons.org/licenses/by-sa/3.0/de/legalcode|CC-BY-SA 3.0-Lizenz]]
+  * Bild CD-Schild: [[https://commons.wikimedia.org/wiki/File:Corps_Diplomatique_international_vehicle_registration_oval.svg]], veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:DLiebisch|DLiebisch]] unter [[http://creativecommons.org/licenses/by-sa/3.0/de/legalcode|CC-BY-SA 3.0-Lizenz]]
+  * Bild CC-Schild: [[https://commons.wikimedia.org/wiki/File:Corps_Consulaire_international_vehicle_registration_oval.svg]], veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:Rdb|Rdb]] unter [[http://creativecommons.org/licenses/by-sa/3.0/de/legalcode|CC-BY-SA 3.0-Lizenz]]
+
+===== Stichwörter =====
+
+Auslandsvertretung, Auslandsvertretungen, Botschaft, Botschaften, Diplomat, Diplomaten, Diplomatische Missionen, Konsulat, Konsulate

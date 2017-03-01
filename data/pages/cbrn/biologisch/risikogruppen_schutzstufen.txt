@@ -1,0 +1,75 @@
+====== Risikogruppen/Schutzstufen ======
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Schild "Biogefährdung" ====
+
+{{cbrn:biologisch:warnung_vor_biogefaehrdung.png?nolink&200 |Warnung vor Biogefährdung}}
+
+Anlagen, Räume und Transportbehälter in denen sich B-Gefahrstoffe befinden oder die mit solchen Stoffen kontaminiert sind, müssen entsprechend den gesetzlichen Vorschriften durch ein Sicherheitszeichen nach BioStoffV mit Zusatz „Biogefährdung“ (links) gekennzeichnet sein.
+
+Eine Kennzeichnung mit dem Warnzeichen Biogefährdung ist von Bereichen
+
+  * der Sicherheits-/Schutzstufe 1 nicht,
+  * der Sicherheits-/Schutzstufe 2 nicht immer,
+  * der Sicherheits-/Schutzstufe 3 und 4 immer
+
+vorhanden.
+
+==== weitere Kennzeichnungen ====
+
+|{{cbrn:biologisch:s2-labor.png?nolink&200|S2-Labor}}|Zusätzlich können weitere Hinweise auf die Sicherheitsstufen S1 – S4, L1 – L4 oder P1 – P4 oder auch Beschriftungen wie „Gen-Laboratorium“, „Gentechnischer Arbeitsbereich“ o. ä. vorhanden sein. Diese Kennzeichnungen sind nicht so starr definiert wie beispielsweise die Gefahrengruppen-Schilder und können sich daher je nach Landesgesetzgebung und Forderungen der örtlichen Brandschutzdienststelle in genauer Form und Beschriftung unterscheiden.\\ \\ **Die Unterteilungen in Sicherheits-/ und Schutzstufen 1 bis 4 entspricht den nachfolgend aufgeführten Risikogruppen.**|
+|{{cbrn:biologisch:genlabor_s3.png?nolink&200|Genlabor S3}}| ::: |
+
+==== Risiko-Gruppen ====
+
+^ Risikogruppe ^  Definition  ^ entsprechende\\ [[cbrn:allgemein:gefahrengruppen|Gefahrengruppe]] ^
+^  1  |Biologische Arbeitsstoffe der Gruppe 1 sind Stoffe bei denen es unwahrscheinlich ist, dass sie beim Menschen eine Krankheit verursachen.\\ z.B.: Bäckerhefe, Joghurtkulturen|  {{ cbrn:biologisch:bio_i.png?nolink&200 |IB}}  |
+^  2  |Biologische Arbeitsstoffe der Gruppe 2 sind Stoffe, die eine Krankheit beim Menschen hervorrufen können und eine Gefahr für Arbeitnehmer darstellen könnten; eine Verbreitung des Stoffes in der Bevölkerung ist unwahrscheinlich; eine wirksame Vorbeugung oder Behandlung ist normalerweise möglich.\\ z.B.: Hepatitis-A-Virus, Poliovirus|  {{ cbrn:biologisch:bio_ii.png?nolink&200 |IIB}}  |
+^  3%%**%%  |Biologische Arbeitsstoffe der Risikogruppe 3%%**%% sind bestimmte biologische Arbeitsstoffe, die in Anhang III der Richtlinie 90/679/EWG in Risikogruppe 3 eingestuft, aber mit 2 Sternchen (%%**%%) versehen sind. Bei diesen biologischen Arbeitsstoffen ist das Infektionsrisiko begrenzt (geringer als bei Risikogruppe 3 ohne Doppelstern!), da eine Infizierung über den Luftweg normalerweise nicht erfolgen kann. Legaleinstufungen sind den Richtlinien der Europäischen Union zu entnehmen.|  :::  |
+^  3  |Biologische Arbeitsstoffe der Gruppe 3 sind Stoffe, die eine schwere Krankheit beim Menschen hervorrufen und eine ernste Gefahr für Arbeitnehmer darstellen können; die Gefahr einer Verbreitung in der Bevölkerung kann bestehen, doch ist normalerweise eine wirksame Vorbeugung oder Behandlung möglich.\\ z.B. HI-Virus, Gelbfiebervirus|  {{ cbrn:biologisch:bio_iii.png?nolink&200 |IIIB}}  |
+^  4  |Biologische Arbeitsstoffe der Gruppe 4 sind Stoffe, die eine schwere Krankheit beim Menschen hervorrufen und eine ernste Gefahr für Arbeitnehmer darstellen; die Gefahr einer Verbreitung in der Bevölkerung ist unter Umständen groß; normalerweise ist eine wirksame Vorbeugung oder Behandlung nicht möglich.\\ z.B.: Pocken, Lassafieber|  :::  |
+
+==== Schutzstufen ====
+
+Höhere Schutzstufen schließen die Anforderungen von niedrigeren mit ein!
+
+=== Besonderheiten in Arbeitsbereichen S 1 ===
+
+Keine außer den üblichen Hygienemaßnahmen.
+
+=== Besonderheiten in Arbeitsbereichen S 2 ===
+
+  * Zutrittsbeschränkungen
+  * Anwendung wirksamer Desinfektionsverfahren
+  * sichere Aufbewahrung der Arbeitsstoffe
+
+=== Besonderheiten in Arbeitsbereichen S 3 ===
+
+  * räumliche Abtrennung, bei luftübertragbaren Stoffen bauliche Abtrennung
+  * Fenster können nicht geöffnet werden
+  * Zugang nur über Schleuse
+  * Türen gegeneinander verriegelbar
+  * Beobachtungsfenster in den Türen
+  * unabhängige Lüftungsanlage mit ständigem Unterdruck
+  * Abluftreinigung über Hochleistungsschwebstofffilter oder Abluftverbrennung (Incinerator)
+  * automatische [[brand:allgemein:loeschanlagen|Löschanlage]] vorzugsweise mit Wassernebel (Auffangwanne erforderlich) oder Inertgas oder Nachweis, dass im Brandfall der Raumabschluss bestehen bleibt
+  * regelmäßige Überprüfung der Versuchstiere
+  * Vorhandensein eines Tierkörperverbrennungsofens
+
+=== Besonderheiten in Arbeitsbereichen S 4 ===
+
+  * baulich abgetrenntes Gebäude
+  * 3 Schleusen hintereinander
+  * hermetischer (gasdichter) Abschluss zur Desinfektion möglich
+  * Fenster bruchsicher
+  * chemische und thermische Inaktivierung der Abwässer
+
+Derzeit existieren in Deutschland nur 4 Bio-Labore der Schutzstufe 4 (bzw. befinden sich noch im Bau).
+
+===== Quellenangabe =====
+
+  * FwDV 500
+  * Ausbildungsunterlagen B-Einsatz, Feuerwehr Kaiserslautern
+  * Symbol "Warnung vor Bio-Gefahr": [[wpde>Datei:D-W016_Warnung_vor_Biogefaehrdung_ty.svg|Wikipedia]], User [[wp>User:DrTorstenHenning]], veröffentlicht als gemeinfrei
+  * [[wpde>Biologische_Schutzstufe|Wikipedia: Biologische Schutzstufe]]

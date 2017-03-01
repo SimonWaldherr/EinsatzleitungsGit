@@ -1,0 +1,57 @@
+====== Tierseuchen ======
+
+Die Zuständigkeit für einen Tierseucheneinsatz liegt bei der Veterinärbehörde. Die Feuerwehr wird hier nur ggf. in [[allgemein:recht:amtshilfe|Amtshilfe]] tätig!
+
+===== zu treffende Maßnahmen =====
+
+  * Bis zur genaueren Festlegung bildet das Gelände des verdächtigen Betriebs den [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]]
+  * [[allgemein:einsatzabschnitte|Einsatzabschnitte bilden]], Funkkanaltrennung, [[allgemein:bereitstellungsraum|Bereitstellungsraum]] einrichten
+  * Festlegung der nötigen Schutzkleidung in Zusammenarbeit mit der Veterinärbehörde
+  * So wenig Personal wie möglich in den Gefahrenbereich! Zugangs- und Ausgangsregelungen beachten.
+    * Nur im Notfall (z.B. Menschenrettung) und nach Erkundung mit Einsatzfahrzeugen in Gefahrenbereich fahren. Dann sofortige Information der Veterinärbehörde!
+    * Fahrzeuge und Geräte bleiben bis zu einer wirksam möglichen Desinfektion im Gefahrenbereich und gelten als kontaminiert
+  * [[cbrn:allgemein:dekontamination:desinfektion|(Not-) Desinfektion einrichten]]
+    * Abschließende Desinfektionsmaßnahmen (z.B. von Patieten) werden von der zuständigen Behörde festgelegt
+    * strikte Einsatzstellenhygiene (nicht Trinken, Rauchen, Essen, ...)
+  * Einsatzkräfte in Zusammenarbeit mit der Veterinärbehörde über Ansteckungsmaßnahmen, Eigenschutzmaßnahmen und die Wichtigkeit der Verhinderung einer Kontaminationsverschleppung aufklären
+  * Einsatzkräfte die in der Tierhaltung arbeiten oder mit gefährdeten (Haus-) Tieren in Kontakt kommen dürfen nicht im Gefahrenbereich eingesetzt werden
+  * Einsatzdokumentation (z.B. eingesetzte Fahrzeuge, [[allgemein:warnung_bevoelkerung|informierte Bevölkerung]], getroffene Maßnahmen, ...)
+  * [[allgemein:pressearbeit|Pressearbeit]] erfolgt durch Veterinärbehörde bzw. gemeinsame Einsatzleitung
+  * Verpflegung/Ablösung der Einsatzkräfte planen
+
+==== besondere Gefahren ====
+
+  * Übertragungswege teilweise ungeklärt
+  * je nach Krankheitserreger sehr leichte Kontaminationsverschleppung
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Desinfektionsschleusen für Fahrzeuge ====
+
+  * **vor der Einfahrt in den betroffenen Bereich**:
+    * Fahrzeuge waschen, um spätere Desinfektion zu vereinfachen\\ Dieses Waschwasser kann nach Rücksprache mit der unteren Wasserbehörde ggf. direkt in die Kanalisation
+    * Personen mit Einwegschutzkleidung ausstatten um spätere Desinfektion zu vereinfachen
+  * wenn nötig, noch im Gefahrenbereich Grobreinigung der Fahrzeuge um Desinfektionsschleuse nicht mehr als nötig zu belasten
+  * **Aufbau der Wanne**
+    * stabile Teich- oder Deponiefolie, Fixierung durch Sandsäcke.
+    * Durchfahrtsbreite nicht zu schmal festlegen!
+    * Ein- und Ausfahrtsbereich mit Schlauchbrücken realisieren, Folie mit Nägeln oder Schrauben gegen Verrutschen sichern.\\ Befahren muss ggf. auch mit tiefergelegten Fahrzeugen möglich sein!
+    * Folie vor Beschädigung schützen: vorher Untergrund säubern, Teppiche oder Platten zum Schutz einlegen. Die Einlage muss beständig gegenüber dem Desinfektionsmittel sein!
+  * Fahrzeuge nach Desinfektion ggf. nochmals waschen, um Folgeschäden durch Desinfektionsmittel (ätzende Wirkung) zu verhindern
+  * Dokumentation der desinfizierten Fahrzeuge
+  * Rückbau und Entsorgung von Bauteilen und Desinfektionsflüssigkeit in Absprache mit Veterinäramt und unterer Wasserbehörde
+
+===== Kontaktdaten/Ansprechpartner =====
+
+Wenn die zuständige Veterinärbehörde keine Auskünfte geben kann:
+
+  * Tierseuchen-Task-Forces der Länder
+  * Institut für Epidemiologie des Friedrich-Löffler-Instituts ([[http://www.fli.bund.de/]]), dabei insbesondere auch\\ [[https://tsis.fli.bund.de/default.aspx|Tierseuchen-Informations-System]]
+
+===== Quellenangabe =====
+
+  * [[http://www.vfdb.de/download/MB_Tierseuchen_Ref10_201203.pdf|Merkblatt Empfehlung für den Feuerwehreinsatz bei Tierseuchen]], Vereinigung zur Förderung des Deutschen Brandschutzes e.V., Altenberge 2012
+
+===== Stichwörter =====
+
+Influenza, Neue Grippe, Schweinegrippe, H1N1, Vogelgrippe, Geflügelpest, H5N1

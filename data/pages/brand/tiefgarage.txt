@@ -1,0 +1,47 @@
+====== Tiefgaragenbrand ======
+
+===== zu treffende Maßnahmen =====
+
+Allgemeine Maßnahmen für [[:brand:gebaeudebrand|Gebäudebrände]] beachten!
+
+  * Lage erkunden:
+      * [[:brand:allgemein:wandhydrant|Wandhydranten]]
+      * Zugänge
+      * Brandschutztore
+      * RWA
+      * Verbindungen zu Wohneinheiten
+      * Anzahl der Geschosse der Tiefgarage feststellen. \\ Pro Geschoss können 3 Meter Höhe angenommen werden.
+  * Absuchen der Tiefgarage
+      * massiver Personaleinsatz unter PA
+      * alle Zugänge nutzen (Treppenräume, Rampen, etc.)
+      * Brandschutztore schließen und geschlossen halten
+      * alle Parkdecks kontrollieren
+  * Alle Ein- und Ausgänge gegen das Betreten durch Zivilpersonen sichern (ggf. durch Polizei)
+  * Rauchausbreitung verhindern
+      * RWA auslösen (Rauchabzug oft maschinell)
+      * Treppenräume [[:brand:allgemein:belueftung|entrauchen und rauchfrei halten]]
+      * Türen zu Treppenräumen und anderen Gebäudeteilen schließen
+  * Lange Angriffswege
+
+==== Besondere Gefahren ====
+
+  * massive Verrauchungen
+  * PKW-Treibstoffe
+  * [[:allgemein:elektrische_anlagen|Stromversorgung]]
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Nachalarmierungen ====
+
+  * Atemschutzgeräteträger
+  * ortskundige Person (z.B. Hausmeister, Verwalter)
+  * ggf. übergeordneten Führungsdienst
+  * Atemschutz (GW-AS)
+  * E-Werke
+
+===== Quellenangabe =====
+
+  * Einsatzleiterhandbuch BF Kaiserslautern
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * {{:allgemein:kleine_merkhilfe_fuer_den_feuerwehreinsatz_1.03.pdf|Kleine Merkhilfe für den Feuerwehreinsatz: Zusammenstellung für Führungskräfte der Feuerwehr}}, Florian Pernpeintner
+

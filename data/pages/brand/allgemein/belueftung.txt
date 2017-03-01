@@ -1,0 +1,85 @@
+====== Belüftung (taktische Ventilation) ======
+
+Diese Seite beschäftigt sich vor allem mit der maschinellen Ventilation und teilweise mit der natürlichen Belüftung. Als weitere Möglichkeit besteht aber noch die **hydraulische Ventilation** mittels Hohlstrahlrohr aus einem Fenster heraus.
+
+===== zu treffende Maßnahmen =====
+
+  * Tritt nach Beginn der maschinellen Belüftung eine Verschlechterung der Situation ein, ist diese sofort abzubrechen!
+  * Belüftung nicht ohne Vorhandensein einer Abluftöffnung starten!
+  * Belüftung muss mit dem Trupp abgestimmt sein
+  * Kamineffekt und Windeinfluss bei Belüftung beachten
+  * Öffnungen möglichst zerstörungsfrei schaffen, damit sie im weiteren Einsatzverlauf zum Lenken der Luftströmung ggf. wieder verschlossen werden können
+
+==== Sicherung von Rettungswegen (Treppenräume und Flure) ====
+
+  * Abluftöffnung im Treppenhaus oberhalb der Brandetage schaffen (wenn möglich oberstes Fenster oder eingebauten Rauchabzug)\\ Dabei keinesfalls "am Feuer vorbeigehen" ohne dass weiterer Trupp mit der Brandbekämpfung beginnt!
+  * mobilen Rauchverschluss einsetzen soweit vorhanden, andernfalls im Brandraum so viele Abluftöffnungen schaffen wie möglich und Tür des Brandraums schließen.
+  * <wrap important>Wird kein mobiler Rauchverschluss verwendet oder die Brandraumtür nicht geschlossen, kann durch die Belüftung zusätzlich Rauch in den Treppenraum gesogen werden!</wrap> Tritt dieser Fall ein, dann muss die maschinelle Belüftung abgebrochen und natürlich belüftet werden!
+
+==== offensive Belüftung ====
+
+zur Sichtverbesserung vorgehender Trupps.
+
+Sollte bei vermissten Personen zur Anwendung kommen, sofern eine Abluftöffnung vorhanden ist.
+
+  * Befinden sich Personen an Fenstern oder auf Balkonen die verraucht sind oder werden Personen über Leitern gerettet, darf keine maschinelle Belüftung stattfinden bis diese gerettet sind!
+  * Lage von Brandherd und der Weg des Luftstroms müssen bekannt sein!
+  * Eine Abluftöffnung muss sich in der Nähe des Brandherds befinden (eindeutiger Fall: Flammen aus dem Fenster)!\\ Ist keine Abluftöffnung vorhanden, sollte diese zum Zweck der offensiven Belüftung nicht durch die Feuerwehr geschaffen werden (Ausnahme: Brand in Untergeschossen). Eine offensive Belüftung muss in diesem Fall unterbleiben.
+  * die offensive Belüftung kann den Brand stark anfachen
+    * <wrap danger>Gefahr einer Rauchgasdurchzündung!</wrap> ([[brand:allgemein:rauchgaslesen|Rauchgaslesen]])
+    * Öffnen von Türen und Fenstern beim Vorgehen, Bersten von Fenstern, Einfluss des Windes u.ä. kann die Dynamik des Brandes beeinflussen
+    * <wrap important>offensive Belüftung nicht bei Dachstühlen und Fachwerkhäusern anwenden</wrap> solange das Feuer nicht unter Kontrolle ist.
+    * Gefahr einer unkontrollierten Rauchausbreitung -> potentielle Schadensausweitung gegen den Nutzen abwägen!
+  * Tür zum Brandraum offenhalten (aufkeilen), sonstige Öffnungen (Türen, Fenster, ...) schließen
+  * mobilen Rauchverschluss einsetzen soweit vorhanden
+  * Angriff nur mit dem Luftstrom
+  * Lüfter erst nach Rücksprache mit dem vorgehenden Trupp starten
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Zuluftöffnung ====
+
+{{ :brand:allgemein:luefter_v-form.png?nolink&300|Mehrere Lüfter nicht hintereinander, sondern in V-Form aufstellen}}
+
+  * Verhältnis Zuluftöffnung zu Abluftöffnung möglichst 1:1, Abweichungen bis zum 1,5-fachen akzeptabel\\ -> Übliche Haustür entspricht zwei Einzelfenstern oder einem Doppelfenster
+  * Lüfter in der Entfernung zur Zuluftöffnung aufstellen wie diese hoch ist\\ Effizienzsteigerung: Höhe der Zuluftöffnung verringern, z.B. durch Einsetzen von mobilem Rauchverschluss. Somit wird die Zuluftfläche verringert, der Lüfter kann näher an die Öffnung gestellt und ein höherer Druck erreicht werden.
+  * bei großen Zuluftöffnungen mehrere Lüfter einsetzen. Diese nicht hintereinander, sondern in V-Form aufstellen
+
+==== Abluftöffnung ====
+
+  * Abluftöffnung und deren Umgebung vor Beginn der Belüftung auf gefährdete Personen oder Objekte kontrollieren.\\ Ggf. Trupp mit Rohr zur Sicherung abstellen
+  * Auf keinen Fall Objekt durch Abluftöffnung betreten!
+  * Nicht im Bereich zwischen Brandherd und Abluftöffnung aufhalten!
+  * Nicht in die Abluftöffnung hineinspritzen (Gegendruck durch entstehenden Wasserdampf)
+
+==== Wind ====
+
+  * Wenn möglich mit der Windrichtung belüften
+    * Windrichtung direkt an Zu- und Abluftöffnung muss nicht mit der allgemeinen Windrichtung übereinstimmen! Bei stärkerem Wind sollte die Windrichtung an diesen Stellen überprüft werden.
+  * Ab [[allgemein:wetter:windstaerke|Windstärke]] 4 (ca. 25 km/h) kann die Belüftung wirkungslos werden wenn der Wind auf der Abluftöffnung steht\\ Je kleiner die Abluftöffnung, desto höher ist der vom Drucklüfter an der Abluftöffnung erzeugte Druck!
+  * Stärkerer Einfluss des Winds bei freistehenden Gebäuden und in oberen Geschossen
+
+==== Entrauchung abgelöschter Bereiche ====
+
+  * Weiterhin Trupp mit Strahlrohr an der Brandstelle bereitstellen, solange diese nicht sicher gelöscht ist! (evtl. Wiederanfachen/Nachlöscharbeiten)
+    * auf Hohlräume, abgehängte Decken, Schächte, Kanäle etc. achten!
+  * Weg des Luftstroms planen, benachbarte Türen und Fenster schließen, Türen die offen bleiben sollen sichern (z.B. unterkeilen)
+    * auf Rauchausbreitung über Kanäle und Schächte achten!
+  * ggf. vorhandenen mobilen Rauchverschluss teilweise öffnen
+  * Bei mehreren verrauchten Räumen diese nacheinander lüften (höhere Effektivität)
+  * Bei mehreren betroffenen Geschossen von unten nach oben entrauchen. In nicht betroffenen Bereichen beginnen um diese weiter rauchfrei zu halten.
+
+==== Lüfter mit Verbrennungsmotor ====
+
+  * bei Lüftern mit Verbrennungsmotor grundsätzlich Abgasschlauch verwenden ([[cbrn:chemisch:klasse_2:stoffe:kohlenmonoxid|Kohlenmonoxid]]-Ansammlung)
+    * Bei Einsatzfahrzeugen im Ansaug-Bereich ebenfalls Abgasschlauch verwenden
+    * Lüfter mit Verbrennungsmotor nicht in Gebäuden einsetzen
+  * Lüfter mit Verbrennungsmotor können in bereits verrauchten Bereichen (z.B. Kellerschächten) evtl. nicht eingesetzt werden, da für den Betrieb des Motors einigermaßen saubere Umgebungsluft benötigt wird
+
+===== Quellenangabe =====
+
+  *  [[http://www.lfs-bw.de/Fachthemen/Einsatztaktik-fuehrung/loescheinsatz/Documents/Hinweise_Ventilation.pdf|Einsatztaktik für die Feuerwehr: Hinweise zur Ventilation bei Brandeinsätzen]], Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2012. Nutzung mit freundlicher Genehmigung.
+
+===== Stichwörter =====
+
+Taktische Ventilation, Druckbelüftung, Überdruckbelüftung, Drucklüfter, Druckbelüfter, Überdrucklüfter, Überdruckbelüfter, Hochdrucklüfter, Hochdruckbelüfter

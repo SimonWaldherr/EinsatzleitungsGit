@@ -1,0 +1,62 @@
+====== Wasserstofffahrzeuge ======
+
+Antrieb kann entweder durch direkte Verbrennung im Motor oder durch Betrieb einer Brennstoffzelle in Kombination mit Elektromotoren erfolgen, in letzterem Fall siehe auch [[allgemeine_hilfe:verkehrsunfall:elektrofahrzeuge|Elektrofahrzeuge]]
+
+===== zu treffende Maßnahmen =====
+
+==== Hilfeleistung ====
+
+  * Windrichtung bei Fahrzeugaufstellung beachten, mit dem Wind anfahren! Ebenfalls mit dem Wind an Wasserstofffahrzeug annähern.
+  * [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] absperren
+  * Brandschutz sicherstellen
+  * Gas ungehindert ausströmen lassen (Wasserstoff ist leichter als Luft)
+  * Gas mit Drucklüfter verwirbeln (EX-Schutz beachten)
+  * Fahrzeuginnenraum belüften, dafür ggf. Scheibe einschlagen, keine Türen öffnen!
+  * [[cbrn:geraete:ex-messgeraet|Ex-Messungen]] vornehmen
+  * nur Ex-geschützte Geräte verwenden (Lampe, Funkgerät, etc.), nach Möglichkeit außerhalb des Gefahrenbereichs schalten. Handy, FME, etc. außerhalb des Gefahrenbereichs ablegen, generell Zündquellen beseitigen.
+  * wenn möglich manuelle Tankabsperrung schließen (siehe dafür [[rettungsdatenblaetter:start|Rettungsdatenblätter]])
+  * Ausbreitung des Gases (in Gebäude) verhindern
+  * Brandlasten in Fahrzeugnähe entfernen, Umgebung kühlen
+  * vollständige PSA tragen
+  * elektr. System wenn möglich deaktivieren, ggf. prüfen ob spannungsfrei. Dabei aber nicht Batterie abklemmen (Abreißfunke kann EX-Gemisch zünden!)
+  * orangene Leitungen nicht durchtrennen
+
+==== Gasaustritt ====
+
+  * brennendes Gas nur im Notfall (Menschenrettung oder Ausbreitung) löschen\\ -> mit explosiver Wiederentzündung ist zu rechnen
+  * Bei längerer Brandeinwirkung auf den Gasbehälter diesen aus der Deckung kühlen da Berstgefahr
+  * Rückzündgefahr beachten
+
+==== besondere Gefahren ====
+
+  * Erfrierungsgefahr bei Kontakt mit austretendem Wasserstoff oder Anlagenteilen. Nicht berühren!
+  * brennender Wasserstoff ist unsichtbar und brennt sehr heiß - Sichtbarmachung der Flamme mittels [[allgemein:geraete:waermebildkamera|Wärmebildkamera]]. Notfalls kann auch eine Hand voll Sand in die vermutete Flammen geworfen werden der im Falle eines Brandes dann leuchtet.
+  * noch nicht entzündeter Wasserstoff hat sehr geringe Mindestzündenergie - elektrostatische Aufladung z.B. der Kleidung reicht zu Zündung aus! **Zündung des Gemischs ggf. nur eine Frage der Zeit!**
+  * Spannungen bis 700 V möglich, erkennbar an orangen Leitungen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * bei Nebel am Fahrzeug tritt möglicherweise große Menge Wasserstoff aus
+  * Knattergeräusche: Austritt über Sicherheitsventile am hinteren Dachende.
+  * C-Säulen nur schneiden wenn unbedingt notwendig, beinhalten Leitungen zum Sicherheitsventil
+  * Ansammlung von Wasserstoff in einzelnen Fahrzeugbereichen bei Ausfall mehrerer Sicherheitseinrichtung (z.B. nach schwerem Unfall) möglich
+  * Wasserstoffzelle kann zum Antrieb (Spannung ca. 350 - 700 V) oder nur zur Versorgung von Verbrauchern (ca. 40 V, z.B. BMW 7er) dienen
+
+==== Merkmale Wasserstofffahrzeuge ====
+
+  * Noch keine Serienfahrzeuge erhältlich, momentan reine Versuchs-Prototypen
+  * Keine Kennzeichnungspflicht
+    * meist Werbeaufschriften (z.B. H<sub>2</sub>)
+  * Meist äußerlich erkennbare Teile wie z.B. Abblasöffnungen auf dem Dach beim BMW 7er-Versuchsfahrzeug
+
+===== Quellenangabe =====
+
+  * [[http://vfdb.de/Download-Bereich.111.0.html?&no_cache=1&L=0&tx_abdownloads_pi1[action]=getviewclickeddownload&tx_abdownloads_pi1[uid]=319&tx_abdownloads_pi1[cid]=192|vfdb-Merkblatt "Einsätze an Kraftfahrzeugen mit alternativen Antriebsarten und -kraftstoffen", Oktober 2007]]
+  * Gerhard Schmöller, Tim Pelzl, Rolf Erbe: Einsatz an Fahrzeugen mit alternativen Antrieben. In: Brandschutz 2/2013, S. 96 ff.
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+
+Hinweis zur Wartung des Artikels: bei Aktualisierung mit Informationen auf der Seite [[allgemeine_hilfe:verkehrsunfall:erkennung_alternativer_fahrzeugantriebe]] abgleichen.
+
+===== Stichwörter =====
+
+H2

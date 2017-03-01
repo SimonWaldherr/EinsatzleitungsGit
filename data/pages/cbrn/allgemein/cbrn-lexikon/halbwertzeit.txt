@@ -1,0 +1,11 @@
+====== Halbwertzeit ======
+
+Die Halbwertzeit ist die Zeit, nach der von einer bestimmten Menge eines Radionuklids die Hälfte der Kerne zerfallen sind. Jedes Isotop hat seine eigene spezifische Halbwertzeit.
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].
+
+===== Stichwörter =====
+
+Halbwertszeit

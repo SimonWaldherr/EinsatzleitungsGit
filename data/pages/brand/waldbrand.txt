@@ -1,0 +1,179 @@
+====== Waldbrand ======
+
+===== zu treffende Maßnahmen =====
+
+  * Sicherheit der Einsatzkräfte oberste Priorität
+  * Erkunden der Größe der Brandfläche
+  * bei schneller Brandausbreitung ggf. Bereich abriegeln anstatt direkt zu löschen
+
+==== taktische Prioritäten ====
+
+  * Schnellstmögliche Eingrenzung des Brandes unter Beachtung der Windrichtung, komplettes Löschen direkt selten möglich
+  * Brandbekämpfung entlang der Flanken in Richtung Feuerfront ist sicher, Frontalangriff gefährlich
+  * ggf. an taktisch günstiger Stelle Feuerfront anhalten
+  * Schutz von Objekten/Gebäuden hat Vorrang:
+    * Fenster und Türen schließen
+    * Brandlasten entfernen (Büsche, Kaminholz, Fahrzeuge etc.)
+
+==== Kleine Bodenbrände ====
+
+  * Brennender Saum wandert mit dem Wind; überlaufene Fläche kann betreten werden
+  * Feuerpatschen einsetzen (ggf. Improvisieren; andere Gerätschaften umfunktionieren)
+  * Erster Angriff auf Spitze des Feuersaumes, nachfolgende Trupps bekämpfen die Seiten
+
+==== Größere Bodenbrände ====
+
+  * TLF einsetzen, Löschmittel: Wasser mit Netzmittel
+  * Isolierstreifen durch Schaumstreifen legen
+  * Wundstreifen durch Entzug des Brennmaterials schaffen
+  * Luftfahrzeuge einsetzen
+  * Vorfeuer sind letztes Mittel und sollten nur von Fachleuten gelegt werden
+
+==== Stammbrände ====
+
+  * Öffnungen verschließen mit Lehm, Ton oder Rasenstücken
+  * Ablöschen mit Wasser
+  * von unten beginnend Schaum einblasen
+  * evtl. Baum fällen
+
+==== Vollbrände ====
+
+  * siehe Bodenbrände
+  * bei großer Hitze mit TLF seitlich am Feuersaum Bresche schlagen
+  * Waldbrandriegel bilden
+  * seitliche Ausbreitung verhindern
+  * Überfliegende Funken sofort durch rückwärtige Mannschaft löschen lassen
+
+==== Moorbrände ====
+
+  * Unter Wasser setzen
+  * Staueinrichtungen in Entwässerungsgräben schließen
+  * Vollstrahl mit Netzmittel
+  * vom Rand zum Brandherd vorgehen
+  * Isolieren des Brandes durch Anlegen von Gräben
+  * Gefahr des Einbruchs durch Glutnester und umstürzende Bäume
+
+==== Abschließende Maßnahmen ====
+
+  * Nachlöschen der Brandfläche vom Rand nach Innen
+  * systematisches Ablöschen aller Stöcke, Äste und Rohhumusmassen
+  * in Stangen- und Althölzern noch glühende Bodendecken als erstes Löschen
+  * mind. 1 m breiter Wundstreifen um alle Brandflächen anlegen
+  * Brandwache stellen
+
+==== besondere Gefahren ====
+
+  * an Hängen
+    * schnelle Brandausbreitung
+    * Absturzgefahr
+  * Angriff auf eine Feuerfront in unübersichtlichen Situationen
+  * Angriff auf eine Feuerfront ohne ausreichende vorhergehende Erkundung
+  * Frontaler Angriff auf eine schnelllaufende Feuerfront
+  * Fehlende Verbindung zur Einsatzleitung
+  * Wind kommt plötzlich auf oder wechselt die Richtung (z. B. bei Gewittern)
+  * Entstehungsbrände hinter der eigenen Position durch Flugfeuer und Funkenflug
+  * Dämmerung und Dunkelheit
+  * Wasserabwürfe durch Löschflugzeuge/Helikopter
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== hügeliges Gelände ====
+
+  * schnelle Brandausbreitung hangaufwärts, ggf. beschleunigt durch Winde\\ Löschen und Legen von Schneisen oberhalb des Brandes kritisch!
+  * brennende Teile können abwärts rollen
+
+==== Wind ====
+
+  * entscheidender Faktor für Brandausbreitung
+  * bei starkem Wind ggf. Flammenverlängerung die Brandbekämpfung unmöglich macht
+
+==== Einsatz von Löschfahrzeugen ====
+
+  * sparsam mit Löschwasser umgehen
+    * nur intensive Flammen mit Wasser bekämpfen, meist D-Rohr mit Sprühstrahl am Besten
+    * wenn möglich Netzmittel einsetzen
+    * Schneisen und Objekte mit [[brand:allgemein:schaum|Schaum]] oder Löschgel sichern
+    * zur Eigensicherung C-Rohr bzw. Schnellangriff in Reserve halten und immer mind. 300 bis 400 Liter im Tank zurückhalten
+  * im Frontalangriff:
+    * nur Flammen bis ca. 1,5m Höhe bekämpfen, größere Flammen von den Flanken her bekämpfen
+    * das Fahrzeug in Fluchtrichtung stellen
+    * Schläuche müssen schnell abgekuppelt werden können
+  * kleine, wendige TLF als Angriffsfahrzeuge verwenden, [[brand:allgemein:loeschwasser_lange_wegstrecke#pendelverkehr_mit_tlf|größere TLF als Wasserzubringer nutzen]]\\ Wasserübergabepunkt mit Pufferkapazität einrichten
+  * Fahrzeugaufstellung
+    * keine Flammen überfahren
+    * in engen Bereichen rückwärts anfahren um schnell flüchten zu können
+    * Keine Fahrzeuge mit heißer Abgasanlage auf trockenen Feldern o.ä. abstellen
+    * Platz für nachrückende Einheiten freihalten, Begegnungsverkehr vermeiden. Bestenfalls Einbahnstraßenregelung einrichten.
+
+==== Einsatz von Luftfahrzeugen ====
+
+ist immer nur unterstützende Maßnahme.
+
+  * Verletzung von Einsatzkräften durch Wasserabwürfe möglich\\ -> Einsatz von Luftfahrzeugen mit Bodeneinheiten abstimmen.
+  * Nicht alle Löschwasser-Außenlastbehälter (ALB) passen an alle Hubschrauber\\ -> intensive Vorplanung nötig!
+  * Farbzusätze in Löschwasser beimischen um bereits bewässerte Fläche zu erkennen
+  * im Pendelverkehr ggf. mehrere ALB pro Hubschrauber nötig
+
+==== Einsatz von Löschmannschaften ====
+
+  * Bis 1,5m Flammenhöhe können sich
+    * intensive Feuer mit Rückenspritzen und Sand löschen lassen
+    * kleinere Flammen mit Schaufeln und Feuerpatschen bekämpft werden
+
+=== persönliche Schutzausrüstung ===
+
+  * mehrlagige Feuerschutzkleidung ist bei warmer Witterung eine große Belastung, besser einlagige Jacke und Hose nach HuPF Teil 2 und 3
+  * PA oder Filter ist i.d.R. nicht erforderlich und belastet stark, besser Partikelfilter und Baumwolltuch in Verbindung mit Schutzbrille in leicht verrauchten Gebieten.\\ Als Fluchtgerät Maske mit CO- oder Kombinations[[cbrn:geraete:atemfilter|filter]] mitführen.
+  * Flammschutzhaube bei Arbeit direkt an den Flammen
+  * Schutzkleidung nicht zur Kühlung durchnässen, Gefahr von Heißdampfdurchschlag
+
+=== Schutz vor Hitzeerschöpfung ===
+
+  * ausreichend und regelmäßig trinken, ca. 1 Liter pro Stunde
+    * am besten Wasser oder Fruchtsaftschorle
+    * Getränke stets mitführen, z.B. in Feldflaschen
+  * Löschmannschaften rechtzeitig ablösen
+
+==== Sicherheitsregeln ====
+
+(siehe auch Abschnitt [[brand:waldbrand#besondere_gefahren|besondere Gefahren]])
+
+=== Beobachtungsposten stellen ===
+
+  * an jedem Einsatzabschnitt
+  * Warnung bei Wetteränderung (z.B. Wind) oder Brandinseln
+  * eindeutiges Rückzugssignal vereinbaren
+
+=== Kommunikation sicherstellen ===
+
+  * jederzeit mögliche Verbindung zu Einheit und Einsatzleitung erforderlich
+
+=== Rettungsweg sicherstellen ===
+
+  * vorher festlegen
+  * brandlastarm
+  * muss allen Einsatzkräften bekannt sein und zu Sicherheitszone führen
+
+=== Sicherheitszone ===
+
+Eine Sicherheitszone ist ein Bereich, in dem die Einsatzkräfte ohne weitere Schutzmaßnahmen vor einem Feuer in Sicherheit sind und ein Feuersaum die Einsatzkräfte nicht gefährdet. Dies kann eine Straße, ein felsiges Gebiet oder ein Gewässer sein. Notfalls muss diese Zone durch Entfernen von Vegetation geschaffen werden.
+
+===== Weblinks =====
+
+  * [[http://www.wettergefahren.de/warnungen/indizes/waldbrand.html|Waldbrandgefahrenindex]] des Deutschen Wetterdienstes
+  * [[http://www.wettergefahren.de/warnungen/indizes/grasland.html|Graslandfeuerindex]] des Deutschen Wetterdienstes
+  * www.waldbrandschutz.de
+  * www.at-fire.de
+
+===== Kontaktdaten/Ansprechpartner =====
+
+  * [[http://www.wald-rlp.de/index.php?id=4349|Kontaktdaten der Forstämter in Rheinland-Pfalz]]
+
+===== Quellenangabe =====
+
+  * {{:brand:fe_waldbrand_2009_v2.pdf|Fachempfehlung Sicherheit und Taktik im Waldbrandeinsatz}} des [[http://www.dfv.org/fachempfehlungen.html|Deutschen Feuerwehrverbands]], herausgegeben am 19. Mai 2009
+  * {{:allgemein:kleine_merkhilfe_fuer_den_feuerwehreinsatz_1.03.pdf|Kleine Merkhilfe für den Feuerwehreinsatz: Zusammenstellung für Führungskräfte der Feuerwehr}}, Florian Pernpeintner, basierend auf:\\ „Spezifisch-taktische Regeln Waldbrandschutz“. Unveröffentlichte Lehrunterlage BKS Heyrothsberge. 2005
+
+===== Stichwörter =====
+
+Flächenbrand, Baumbrand

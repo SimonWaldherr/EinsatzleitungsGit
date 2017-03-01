@@ -1,0 +1,48 @@
+====== Buchstabiertafel ======
+
+<WRAP group>
+<WRAP column>
+^  Buch-\\ stabe  ^  Deutschland\\ (DIN 5009)  ^  NATO  ^
+^  A    |  Anton      |  Alfa                  |
+^  Ä    |  Ärger      |  Alfa-Echo             |
+^  B    |  Berta      |  Bravo                 |
+^  C    |  Cäsar      |  Charlie               |
+^  Ch   |  Charlotte  |  Charlie-Hotel         |
+^  D    |  Dora       |  Delta                 |
+^  E    |  Emil       |  Echo                  |
+^  F    |  Friedrich  |  Foxtrot               |
+^  G    |  Gustav     |  Golf                  |
+^  H    |  Heinrich   |  Hotel                 |
+^  I    |  Ida        |  India                 |
+^  J    |  Julius     |  Juliett               |
+^  K    |  Kaufmann   |  Kilo                  |
+^  L    |  Ludwig     |  Lima                  |
+^  M    |  Martha     |  Mike                  |
+^  N    |  Nordpol    |  November              |
+</WRAP>
+
+<WRAP column>
+^  Buch-\\ stabe  ^  Deutschland\\ (DIN 5009)  ^  NATO  ^
+^  O    |  Otto       |  Oscar                 |
+^  Ö    |  Ökonom     |  Oscar-Echo            |
+^  P    |  Paula      |  Papa                  |
+^  Q    |  Quelle     |  Quebec                |
+^  R    |  Richard    |  Romeo                 |
+^  S    |  Samuel     |  Sierra                |
+^  Sch  |  Schule     |  Sierra-Charlie-Hotel  |
+^  ß    |  Eszett     |  Sierra-Sierra         |
+^  T    |  Theodor    |  Tango                 |
+^  U    |  Ulrich     |  Uniform               |
+^  Ü    |  Übermut    |  Uniform-Echo          |
+^  V    |  Viktor     |  Victor                |
+^  W    |  Wilhelm    |  Whiskey               |
+^  X    |  Xanthippe  |  X-Ray                 |
+^  Y    |  Ypsilon    |  Yankee                |
+^  Z    |  Zacharias  |  Zulu                  |
+</WRAP>
+</WRAP>
+
+===== Quellenangabe =====
+
+  * [[http://internet.lfks-rlp.de/fileadmin/user_upload/Redakteur/kreisausbildung/sprechfunker/Teilnehmerheft_SpFu.pdf|Teilnehmerheft Sprechfunkausbildung]], Feuerwehr- und Katastrophenschutzschule Rheinland Pfalz
+  * [[wpde>Buchstabiertafel|Wikipedia: Buchstabiertafel]]

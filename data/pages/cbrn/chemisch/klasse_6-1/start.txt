@@ -1,0 +1,39 @@
+====== Klasse 6.1 Giftige Stoffe ======
+
+===== zu treffende Maßnahmen =====
+
+[[cbrn:ericards:klasse_6-1:start]]
+
+  * [[cbrn:allgemein:koerperschutzformen|Atem- und Körperschutz]] anlegen
+    * Hautkontakt mit freien Stoffen unbedingt vermeiden
+    * Bei Kontakt sofort [[cbrn:allgemein:dekontamination:start|Dekon-Maßnahmen]] und ärztliche Untersuchung einleiten
+  * bis zum Vorliegen genauerer Informationen gelten die allgemeinen [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich- und Absperrgrenzen]]:
+    * <wrap danger>Gefahrenbereich: 50 Meter</wrap>
+    * <wrap safety>Absperrbereich: 100 Meter</wrap>
+  * [[cbrn:allgemein:auslaufende_stoffe|Ausbreitung verhindern, Stoff auffangen, Leck abdichten]]
+  * Kanalisation, tiefere Räume und Gewässer sichern
+  * Feststellen der Konzentration des Schadstoffs (z.B. durch [[cbrn:geraete:pruefroehrchen|Prüfröhrchen]])
+    * **Achtung**: Die Bestimmung des genauen Messwerts ist mit den üblichen Messgeräten der Feuerwehr nicht möglich, Messungen sind nur qualitativ (Stoff vorhanden ja/nein)!
+  * Bei Brandeinwirkung auf Druckbehälter: siehe zusätzliche Maßnahmen unter [[cbrn:chemisch:klasse_2:brandeinwirkung_auf_druckgasbehaelter]]
+  * ggf. [[brand:allgemein:loeschwasserrueckhaltung|Löschwasserrückhaltung einrichten]]
+  * Ggf. Experten hinzuziehen ([[cbrn:allgemein:tuis|TUIS]], [[cbrn:allgemein:giftnotrufzentralen|Giftnotruf]], Gesundheitsamt)
+
+==== besondere Gefahren ====
+
+  * Dämpfe, Stäube und Brandgase haben toxische Wirkung auf den Körper, akut oder Langzeitschäden (z.B. Krebs)
+  * Umwelt-/ Wassergefährdung
+  * Kontamination von Lebensmitteln; strenge Einsatzhygiene
+  * Kontaminationsverschleppung durch kontaminiertes Löschwasser
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Vergiftungserscheinungen können u.U. erst nach einiger Zeit auftreten
+
+==== besondere Stoffe der Klasse 6.1 ====
+
+{{simplenavi>cbrn:chemisch:klasse_6-1:stoffe}}
+
+===== Quellenangabe =====
+
+  * Lehrgangsunterlagen ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+  * FwDV 500 Stand 2012

@@ -1,0 +1,43 @@
+====== Spürpulver / Spürpapier ======
+
+===== zu treffende Maßnahmen =====
+
+Wenn Verdacht auf chemische Kampfstoffe besteht, Nachweis in folgender Reihenfolge durchführen:
+
+  - Spürpulver, bei Farbumschlag weiter mit
+  - Spürpapier
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Spürpulver ====
+
+  * dient zum Aufspüren von [[cbrn:chemisch:chemische_kampfstoffe|chemischen Kampfstoffen]]
+  * wird großflächig auf die als kontaminiert verdächtigte Fläche aufgestreut
+  * Farbumschlag von gelb nach rot, wenn es ein Kampfstoff oder eine [[cbrn:chemisch:klasse_8:start|Säure]] ist.
+    * Dauer bis zur Verfärbung auf rot bis zu 1 Minute.
+    * Viele Querempfindlichkeiten! Bei Verdacht mit [[cbrn:geraete:pruefroehrchen|Prüfröhrchen]] nachprüfen!
+
+^  Ausgangsfarbe ^ ^ Umschlag auf ^ ^ bedeutet ^
+| {{:allgemein:farben:gelb_ffff00.jpg?nolink|gelb}} | ->\\ -> | {{:allgemein:farben:rot_ff0000.jpg?nolink|rot}} | ->\\ -> | Kampfstoff oder\\ Säure |
+
+ (allerdings keine Unterscheidungsmöglichkeit, weiter mit Spürpapier)
+
+==== Spürpapier ====
+
+  * dient zur Unterscheidung der chemischen Kampfstoffe
+  * reagiert bereits bei kleinsten Mengen Kampfstoff
+  * Spürpapier mit dem mutmaßlichem Kampfstoff in Berührung bringen (nur flüssige Kampfstoffe!)
+  * Viele Querempfindlichkeiten! Bei Verdacht mit [[cbrn:geraete:pruefroehrchen|Prüfröhrchen]] nachprüfen!
+  * Farbumschlag bewerten:
+
+^  Ausgangsfarbe ^ ^ Umschlag auf ^ ^ bedeutet ^
+| {{:allgemein:farben:beige_ffff99.jpg?nolink|beige}} | ->\\ -> | {{:allgemein:farben:gelb-ocker_ffcc00.jpg?nolink|gelb-ocker}} | ->\\ -> | G-Kampfstoffe\\ ([[cbrn:chemisch:klasse_6-1:stoffe:sarin|Sarin]], [[cbrn:chemisch:klasse_6-1:stoffe:soman|Soman]], [[cbrn:chemisch:klasse_6-1:stoffe:tabun|Tabun]]) |
+| {{:allgemein:farben:beige_ffff99.jpg?nolink|beige}} | ->\\ -> | {{:allgemein:farben:rot_ff0000.jpg?nolink|rot}} | ->\\ -> | Hautkampfstoffe\\ ([[cbrn:chemisch:klasse_6-1:stoffe:lewisit|Lewisit]], [[cbrn:chemisch:klasse_6-1:stoffe:n-lost|N-Lost]], [[cbrn:chemisch:klasse_6-1:stoffe:s-lost|S-Lost]]) |
+| {{:allgemein:farben:beige_ffff99.jpg?nolink|beige}} | ->\\ -> | {{:allgemein:farben:gruen_ral_6032.jpg?nolink|dunkelgrün}} | ->\\ -> | [[cbrn:chemisch:klasse_6-1:stoffe:vx|VX-Kampfstoff]] |
+| {{:allgemein:farben:beige_ffff99.jpg?nolink|beige}} | ->\\ -> | {{:allgemein:farben:beige_ffff99.jpg?nolink|beige}} | ->\\ -> | [[cbrn:chemisch:klasse_8:start|Säure]] |
+
+===== Quellenangabe =====
+
+  * [[http://abc-gefahren.de/dateien/einsatz/md_spuerpulver_papier.pdf|Einsatzhilfe Spürpulver und Spürpapier, Rüdiger Weich, ABC-Zug Magdeburg]]
+  * [[http://vfdb.de/Download-Bereich.111.0.html?&no_cache=1&L=0&tx_abdownloads_pi1[action]=getviewclickeddownload&tx_abdownloads_pi1[uid]=321&tx_abdownloads_pi1[cid]=192|Merkblatt "Hochgefährliche C-Gefahrstoffe (C-Kampfstoffe)"]] der vfdb
+  * {{ cbrn:allgemein:probenahme:fib_band5_2teauflage.pdf |Empfehlungen für die Probenahme zur Gefahrenabwehr im Bevölkerungsschutz (Forschung im Bevölkerungsschutz Band 5)}}, Udo Bachmann, Nahid Derakshani, Matthias Drobig, Mario König, Joachim Mentfewitz, Hartmut Prast, Gerhard Uelpenich, Marc Vidmayer, Stefan Wilbert, Manfred Wolf. Bundesamt für Bevölkerungsschutz und Katastrophenhilfe, Bonn 2016

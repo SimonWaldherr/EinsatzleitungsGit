@@ -1,0 +1,19 @@
+====== Dampfdruck ======
+
+Der Dampfdruck ist eine stoffspezifische Größe, die in einem abgeschlossenem thermodynamischen System (kein Stoffaustausch mit der Umgebung) ermittelt wird:
+
+Ist der Dampfdruck eines Stoffs im Behältnis erreicht, so befindet sich die flüssige mit der festen Phase im thermodynamischen Gleichgewicht. Dabei ist der Füllstand des Behältnisses unerheblich. Sobald die flüssige Phase vollständig in die Gasphase übergegangen ist, wird der sich einstellende Druck nicht mehr als Dampf-, sondern als //Gasdruck// bezeichnet. Befindet sich der Stoff in einem offenen Gefäß, so beginnt er zu sieden wenn der Dampfdruck gleich dem Umgebungsdruck ist.
+
+Der Dampfdruck steigt mit höher werdender Temperatur stark an. Propangasflaschen werden beispielsweise mit 30 bar geprüft. Der Dampfdruck von Propan liegt bei 80 °C bei über 31 bar, an diesem Punkt ist der Prüfdruck also bereits überschritten. Folgen des ansteigendem Dampfdrucks in Folge von Erhitzung des Behälters können sein:
+
+  * langsamer, unbemerkter Stoffaustritt aufgrund undicht werdender Dichtungen und Armaturen, kleine Risse
+  * Versagen des Behälters, daraufhin schlagartiger vollständiger Stoffaustritt
+  * [[cbrn:allgemein:cbrn-lexikon:bleve]]
+
+Je höher der Dampfdruck eines Stoffs,
+  * desto schneller verdampft er im Freien!
+  * desto schneller ist mit dem Druckanstieg innerhalb eines Behälters zu rechnen!
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

@@ -1,0 +1,11 @@
+====== Wassergefährdungsklasse (WGK) ======
+
+Wassergefährdende Stoffe werden in drei verschiedene Klassen eingeteilt:
+
+  * WGK 1 = schwach wassergefährdend
+  * WGK 2 = wassergefährdend
+  * WGK 3 = stark wassergefährdend
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

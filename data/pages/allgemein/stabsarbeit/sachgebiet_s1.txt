@@ -1,0 +1,22 @@
+====== Sachgebiet S1 - Personal / Innerer Dienst ======
+
+===== Bereitstellen der Einsatzkräfte =====
+
+  * Alarmieren von Einsatzkräften
+  * Heranziehen von Hilfskräften
+  * Alarmieren und anfordern von Ämtern und Behörden, Organisationen
+  * Anfordern von fach-, orts- und betriebskundigen Personen
+  * Bereitstellen von Reserven
+  * Einrichten von Lotsenstellen für ortsunkundige Kräfte
+  * Einrichten von [[allgemein:bereitstellungsraum|Bereitstellungsräumen]]
+  * Führen von Kräfteübersichten
+
+===== Führen des inneren Stabsdienstes =====
+
+  * Festlegen und sicherstellen des Geschäftsablaufs
+  * Einrichten und sichern der Führungsräume
+  * Bereitstellen der Ausstattung
+
+===== Quellenangabe =====
+
+  * [[http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext_Fw_Dv/SKK_Dv_100.pdf?__blob=publicationFile|Führung und Leitung im Einsatz : Führungssystem ; Vorschlag einer Dienstvorschrift DV 100]], Ständige Konferenz für Katastrophenvorsorge und Katastrophenschutz

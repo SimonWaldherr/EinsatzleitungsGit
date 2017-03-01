@@ -1,0 +1,48 @@
+====== Knochenbrüche ======
+
+===== zu treffende Maßnahmen =====
+
+  * Vitalfunktionen prüfen (Bewusstsein, Atmung, Puls)
+  * Rettungsdienst (nach-) alarmieren
+  * Einnehmen einer Schonhaltung durch Unterpolstern mit Kleidung, Decken, etc. unterstützen
+  * Patienten nur bewegen wenn es ihm Erleichterung verschafft
+  * offene Brüche/Wunden mit keimfreien Auflagen und Verbänden abdecken
+  * geschlossene Brüche mit kalten Umschlägen abdecken um Schmerzen und Schwellungen abzumildern
+
+==== besondere Gefahren ====
+
+  * Verletzung von um den Knochen herum liegendem Gewebe, Blutgefäßen, Nerven und Organen
+  * größerer Blutverlust nach außen oder in den Körper die zum Schock führen
+  * Infektionen
+
+==== Schädelbrüche ====
+
+  * <wrap important>Keine oder nur geringfügige Symptome</wrap> wie z.B.
+    * Bluten aus Ohr oder Nase
+    * Sehstörungen (z.B. Doppelbilder)
+    * Bewusstseinsstörungen
+    * Störungen von Motorik und Sensibilität, ggf. am ganzen Körper
+  * sofort Rettungsdienst (nach-) alarmieren, kaum Erste-Hilfe-Maßnahmen möglich, Hilfe nur durch klinische Versorgung
+  * bewusstlose oder eingetrübte Patienten in stabile Seitenlage bringen, wache Patienten hinsetzen oder mit erhöhtem Oberkörper hinlegen
+  * Ohne Unterbrechung beobachten, da sich Zustand sehr schnell ändern kann
+  * offene Wunden mit sterilen Verbandsmitteln abdecken
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== sichere Hinweise auf einen Knochenbruch ====
+
+  * unnormale Beweglichkeit
+  * Abknicken an nicht normalen Stellen
+  * Fehlstellung von Gelenken/Körperteilen
+  * reibende/knirschende Geräusche bei Bewegung
+
+==== unsichere Hinweise auf einen Knochenbruch ====
+
+  * Schwellungen
+  * Schmerzen zusammen mit eingeschränkter Beweglichkeit
+  * Bluterguss
+  * Schonhaltung
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_Knochenbrueche.pdf|Erste-Hilfe kompakt - Notfallstichwort Knochenbrüche, Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband]]

@@ -1,0 +1,69 @@
+====== Hochhausbrand ======
+
+Auch allgemeine Maßnahmen für [[brand:gebaeudebrand|Gebäudebrände]] beachten!
+
+===== zu treffende Maßnahmen =====
+
+  * bei bestätigtem Brand großzügig nachalarmieren, mindestens 2 Löschzüge, Reserven bilden!
+  * [[allgemein:bereitstellungsraum|Bereitstellungsraum]] festlegen
+  * Depotgeschoss (siehe unten) einrichten
+  * [[brand:allgemein:belueftung|Belüften]], Kontrolle auf betroffene Bereiche
+  * [[allgemein:einsatzabschnitte|Einsatzabschnitte]] bilden, z.B.:\\ Brandbekämpfung, Logistik, Kontrolle und Belüftung, Wasserversorgung, Räumung, Rettungsdienst
+  * Nutzung des [[brand:allgemein:feuerwehraufzug|Feuerwehraufzugs]] in Taktik einbeziehen
+  * Kommunikation: Funkkanaltrennung, Funkabschirmung des Gebäudes beachten; ggf. Gebäudefunkanlage aktivieren, TMO-Gruppen prüfen sofern verwendet, Repeater setzen
+  * ggf. weitere Nachforderungen: Versorger (Stadtwerke; Gas, Wasser, Strom, ...), ggf. SEG Sanität/Betreuung
+
+==== besondere Gefahren ====
+
+  * komplexe Stockwerkgrundrisse und Gebäudestrukturen
+  * Absturz von Trümmern/Glas
+  * in großer Höhe hoher Winddruck (nach dem Bersten von Fenstern wird der Brand tiefer in das Gebäude gedrückt)
+  * Stromausfall -> Versagen der Gebäudeausrüstung, evtl. auch brandschutztechnischer Einrichtungen
+  * ggf. sozialer Brennpunkt
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Zugangskontrolle im EG einrichten (ggf. durch Polizei)
+  * [[allgemein:drehleiter|Drehleitereinsatz:]] Nennrettungshöhe der DLK entspricht 7. OG, bei optimalen Aufstellverhältnissen max. 10. OG erreichbar
+  * [[brand:allgemein:steigleitung|Steigleitung/Wandhydranten]] nutzen. Druckerhöhungsanlage betriebsbereit?
+
+==== Einrichtung Depotgeschoss ====
+
+  * i.d.R. zwei Stockwerke unter dem Brandgeschoss
+  * Zugführer koordiniert Brandbekämpfungs-Trupps sowie das Depotgeschoss von dort aus
+  * Rettungsdienst im Depotgeschoss in Bereitstellung
+  * Atemschutzüberwachung im Depotgeschoss durchführen
+
+==== Aufzugnutzung ====
+
+  * Wenn **kein [[brand:allgemein:feuerwehraufzug|Feuerwehraufzug]]**, dann **Aufstieg zu Fuß** mit dem nötigsten Material! Ausrüstung erst im Depotgeschoss!
+  * Weitere Ausrüstung mit dem Aufzug alleine in das Depotgeschoss schicken\\ Aber nicht alles auf einmal, sonst (vorerst) kein Zugriff beim Ausfalls des Aufzugs! 
+
+==== Räumung und Kontrolle des Gebäudes ====
+
+Siehe auch: [[allgemein:raeumung|Räumung]]
+
+  * Zuerst Brandgeschoss, dann die Stockwerke darüber (i.d.R. max. 4), danach das Stockwerk darunter räumen
+    * Personen von Polizei/Rettungsdienst zum Sammelplatz bringen lassen, um möglichst wenig Feuerwehr-Einsatzkräfte zu binden
+    * bei verrauchtem Treppenraum und unübersichtlicher Lage erfahrungsgemäß ca. 10 bis 20 Rauchvergiftete, [[allgemein:manv|MANV]] aber erst auslösen wenn Personenanzahl bestätigt um Kapazitäten zu schonen
+  * Die weiteren Geschosse kontrollieren, aber Personen in den Wohnungen belassen wenn keine Gefahr besteht
+  * Wohnungen kennzeichnen, dabei unterschiedliche Kennzeichnung für geräumte und "nur" kontrollierte Wohnungen verwenden
+  * Lüftungs-/Klima-Anlagen abstellen lassen (**aber nicht den Rauchabzug!**)
+
+==== Nach Überwindung der Anfangsphase ====
+
+  * Betreuung für Betroffene bereitstellen
+  * Unterbringung für Betroffene organisieren
+  * Verpflegung/Ablösung der Einsatzkräfte
+  * auf [[allgemein:pressearbeit|Presseanfragen]] vorbereiten
+
+===== Quellenangabe =====
+
+  * Einsatzleiterhandbuch BF Kaiserslautern
+  * Landratsamt Böblingen: //Führungsfortbildung: VB Hochhaus und Einsatztaktik bei Hochhausbränden//
+  * SER Brand Hochhaus der Berliner Feuerwehr
+  * ETS FW-Hamburg
+
+===== Stichwörter =====
+
+Wolkenkratzer

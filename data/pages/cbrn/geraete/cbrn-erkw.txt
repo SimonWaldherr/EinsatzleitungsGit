@@ -1,0 +1,18 @@
+====== CBRN-Erkundungswagen (ehemals ABC-Erkundungskraftwagen) ======
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== IMS RAID-1 ====
+
+Folgende Chemikalien können mit dem IMS gemessen werden:
+
+  * Kampfstoffe:\\ [[cbrn:chemisch:klasse_6-1:stoffe:lewisit|Lewisit]], [[cbrn:chemisch:klasse_6-1:stoffe:sarin|Sarin]], [[cbrn:chemisch:klasse_6-1:stoffe:s-lost|Schwefel-Lost]], [[cbrn:chemisch:klasse_6-1:stoffe:soman|Soman]], [[cbrn:chemisch:klasse_6-1:stoffe:n-lost|Stickstoff-Lost]], [[cbrn:chemisch:klasse_6-1:stoffe:tabun|Tabun]], [[cbrn:chemisch:klasse_6-1:stoffe:vx|VX]]
+  * Industriechemikalien:\\ [[cbrn:chemisch:klasse_2:stoffe:ammoniak|Ammoniak]], [[cbrn:chemisch:klasse_6-1:stoffe:blausaeure|Blausäure]], [[cbrn:chemisch:klasse_2:stoffe:chlor|Chlor]], Chlorierte Kohlenwasserstoffe, Essigsäure, Schwefeldioxid, Toluoldiisocyanat
+
+===== Quellenangabe =====
+
+  * [[http://www.bbk.bund.de/DE/AufgabenundAusstattung/CBRNSchutz/Chemie/CMundNwtechn/Imsspekm/Imsspekm_node.html|Informationsseite über das IMS RAID-1]] des CBRN ErkW, Bundesamt für Bevölkerungsschutz und Katastrophenhilfe
+
+===== Stichwörter =====
+
+ABC-ErkKW, ABC-Erkunder, AC-ErkKW, AC-Erkunder, CBRN ErkW

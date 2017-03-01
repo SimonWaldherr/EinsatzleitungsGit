@@ -1,0 +1,56 @@
+====== Besondere Stoffe ======
+
+Die Stoffe sind in die ADR-Klassen unterteilt
+
+===== Klasse 1 =====
+
+{{simplenavi>cbrn:chemisch:klasse_1:stoffe}}
+
+===== Klasse 2 =====
+
+{{simplenavi>cbrn:chemisch:klasse_2:stoffe}}
+
+===== Klasse 3 =====
+
+{{simplenavi>cbrn:chemisch:klasse_3:stoffe}}
+
+===== Klasse 4.1 =====
+
+{{simplenavi>cbrn:chemisch:klasse_4-1:stoffe}}
+
+===== Klasse 4.2 =====
+
+{{simplenavi>cbrn:chemisch:klasse_4-2:stoffe}}
+
+===== Klasse 4.3 =====
+
+{{simplenavi>cbrn:chemisch:klasse_4-3:stoffe}}
+
+===== Klasse 5.1 =====
+
+{{simplenavi>cbrn:chemisch:klasse_5-1:stoffe}}
+
+===== Klasse 5.2 =====
+
+{{simplenavi>cbrn:chemisch:klasse_5-2:stoffe}}
+
+===== Klasse 6.1 =====
+
+{{simplenavi>cbrn:chemisch:klasse_6-1:stoffe}}
+
+===== Klasse 6.2 =====
+
+{{simplenavi>cbrn:biologisch:stoffe}}
+
+===== Klasse 7 =====
+
+{{simplenavi>cbrn:chemisch:atomar:stoffe}}
+
+===== Klasse 8 =====
+
+{{simplenavi>cbrn:chemisch:klasse_8:stoffe}}
+
+===== Klasse 9 =====
+
+{{simplenavi>cbrn:chemisch:klasse_9:stoffe}}
+

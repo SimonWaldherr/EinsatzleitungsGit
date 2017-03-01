@@ -1,0 +1,38 @@
+====== iOS-App ======
+
+<WRAP group>
+<WRAP half column>
+Seit November 2018 gibt es das Einsatzleiterwiki auch als iOS-App. In der App sind alle Themen des Einsatzleiterwikis offline abrufbar hinterlegt. Die Inhalte können entweder alphabetisch sortiert, über eine Stichwortsuche gefunden oder nach der bekannten thematischen Struktur (Brandeinsätze, Technische Hilfe, CBRN-Einsätze, ...) geordnet angezeigt werden. Dabei können einzelne Artikel als Favoriten markiert werden, auf die in einer separaten Liste schnell zugegriffen werden kann. Ebenso kann der Artikel in verschiedenen Apps weiterverwendet oder als PDF exportiert werden. Auch die interaktiven Berechnungen, wie zum Beispiel beim Thema Schaum oder Löschwasserversorgung, können in der App verwendet werden.
+
+Die App wurde durch die Firma BananaGlue GmbH programmiert. Wir freuen uns insbesondere darüber, dass BananaGlue die App unentgeltlich zur Verfügung stellt, und möchten uns an dieser Stelle recht herzlich dafür bedanken!
+
+Falls Ihnen die App gefällt, freuen wir uns über eine positive Bewertung im App-Store.
+</WRAP>
+
+<WRAP half column>
+{{ :wiki:hilfe:installation:ios-app.png?nolink&200 |QR-Code zum Download der Einsatzleiterwiki-App im Apple App-Store}}
+
+[[https://itunes.apple.com/de/app/einsatzleiterwiki/id1439353822?l=en&mt=8|Einsatzleiterwiki als kostenlose iOS-App für Offline-Nutzung im Apple App-Store]]
+</WRAP>
+</WRAP>
+
+**Screenshots iPad**
+
+{{:wiki:hilfe:installation:ipad_01.jpg?direct&200|Screenshot iPad}}
+{{:wiki:hilfe:installation:ipad_02.jpg?direct&200|Screenshot iPad}}
+{{:wiki:hilfe:installation:ipad_03.jpg?direct&200|Screenshot iPad}}
+{{:wiki:hilfe:installation:ipad_04.jpg?direct&200|Screenshot iPad}}
+{{:wiki:hilfe:installation:ipad_05.jpg?direct&200|Screenshot iPad}}
+{{:wiki:hilfe:installation:ipad_06.jpg?direct&200|Screenshot iPad}}
+
+**Screenshots iPhone**
+
+{{:wiki:hilfe:installation:iphone_01.jpg?direct&100|Screenshot iPhone}}
+{{:wiki:hilfe:installation:iphone_02.jpg?direct&100|Screenshot iPhone}}
+{{:wiki:hilfe:installation:iphone_03.jpg?direct&100|Screenshot iPhone}}
+{{:wiki:hilfe:installation:iphone_05.jpg?direct&100|Screenshot iPhone}}
+{{:wiki:hilfe:installation:iphone_07.jpg?direct&100|Screenshot iPhone}}
+
+===== Noch ein Wort zum technischen Hintergrund =====
+
+Wie Sie möglicherweise im Artikel [[https://einsatzleiterwiki.de/index.php/aktuelles/45-das-einsatzleiterwiki-offline-auf-mobilen-geraeten-ein-erfahrungs-und-statusbericht|Das Einsatzleiterwiki offline auf mobilen Geräten - ein Erfahrungs- und Statusbericht]] bereits gelesen haben, ist es technisch kaum umsetzbar das Einsatzleiterwiki in seiner eigentlichen Form, also als Wiki-System, offline auf iOS-Systemen zu betreiben. Daran hat sich aktuell immer noch nichts geändert. Für die hier vorgestellte App erfolgt ein Export der Einsatzleiterwiki-Inhalte in ein eigenes dafür programmiertes System. In diesem können die Artikel jedoch "nur" angezeigt werden. Dies bedeutet zum Beispiel, dass Bearbeitungen nicht möglich sind. Über die "Teilen"-Funktion kann aber auch direkt der entsprechende Artikel im Online-Einsatzleiterwiki aufgerufen werden, in dem dann Bearbeitungen vorgenommen werden können die in die nächste Version einfließen.  

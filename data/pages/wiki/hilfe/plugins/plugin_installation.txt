@@ -1,0 +1,67 @@
+====== Plugins installieren ======
+
+Evtl. möchten oder müssen Sie ein zusätzliches Plugin für Ihr Wiki installieren, welches nicht in der Standardinstallation des Einsatzleiterwikis vorhanden ist. Sie haben verschiedene Möglichkeiten ein solches Plugin zu installieren. Dies wird anhand des [[wiki:hilfe:plugins:smtp|SMTP-Plugins]] demonstriert.
+
+Öffnen Sie den Administrations-Bereich und klicken Sie auf **Erweiterungen verwalten**.
+
+Folgende Möglichkeiten gibt es nun um ein Plugin zu installieren:
+
+----
+
+===== 1. Plugin direkt im Wiki suchen =====
+
+<WRAP center round info 100%>Das Suchen und direkte Installieren ist nur möglich, wenn das Wiki Zugriff auf das Internet hat.</WRAP>
+
+Klicken Sie auf den Reiter **Suchen und Installieren** (rot markiert im Bild):
+
+{{:wiki:hilfe:plugins:plugins_installieren_suchen.png?direct&500|Suchen und Installieren}}
+
+Geben Sie den Namen des gewünschten Plugins in das Suchfeld ein und drücken Sie Enter oder auf die Lupe im Suchfeld:
+
+{{:wiki:hilfe:plugins:plugins_installieren_suchen_3.png?direct&500|Eingabe ins Suchfeld}}
+
+Nun sehen Sie alle Suchergebnisse:
+
+{{:wiki:hilfe:plugins:plugins_installieren_suchen_2.png?direct&500|Suchergebnisse}}
+
+Ggf. befindet sich das gesuchte Plugin auch erst etwas weiter unten auf der Seite. Klicken Sie auf den Button "installieren". Mehr ist nicht nötig.
+
+----
+
+===== 2. Plugin direkt von URL herunterladen =====
+
+<WRAP center round info 100%>Das Installieren direkt von einer URL ist nur möglich, wenn das Wiki Zugriff auf das Internet hat.</WRAP>
+
+Öffnen Sie (am Besten in einem separaten Fenster) auf der Projektseite des DokuWikis die Seite des Plugins, welches Sie installieren möchten. Das SMTP-Plugin finden Sie beispielsweise auf der Seite [[https://www.dokuwiki.org/plugin:smtp]].
+
+Klicken Sie mit der rechten Maustaste auf die Schaltfläche **Download** (im folgenden Bild rot markiert) und wählen Sie dann **Link-Adresse kopieren** (je nachdem welchen Browser Sie verwenden kann die Formulierung ggf. etwas abweichen).
+
+{{:wiki:hilfe:plugins:smtp-dokuwiki-org.png?direct&500|SMTP-Plugin auf dokuwiki.org}}
+
+Gehen Sie nun in den Administrations-Bereich und dort auf den Punkt **Erweiterungen verwalten**. Klicken Sie auf den Reiter **händisch installieren** (rot markiert im folgenden Bild):
+
+{{:wiki:hilfe:plugins:plugins_installieren_haendisch.png?direct&500|Händisch von URL installieren}}
+
+Klicken Sie nun ins Eingabefeld hinter **Von Webadresse (URL) installieren** und fügen Sie die eben kopierte Link-Adresse in das Feld ein. Drücken Sie danach auf **Installieren** und das Plugin wird heruntergeladen und installiert.
+
+----
+
+===== 3. Erweiterung ins Wiki hochladen =====
+
+<WRAP center round info 100%>Dieses Vorgehen sollten Sie wählen, wenn Ihr Einsatzleiterwiki keinen Internetzugang hat.</WRAP>
+
+Öffnen Sie auf der Projektseite des DokuWikis die Seite des Plugins, welches Sie installieren möchten. Das SMTP-Plugin finden Sie beispielsweise auf der Seite [[https://www.dokuwiki.org/plugin:smtp]].
+
+Klicken Sie mit der linken Maustaste auf die Schaltfläche **Download** (im folgenden Bild rot markiert). Speichern Sie die ZIP-Datei die nun heruntergeladen wird auf Ihrem Computer oder auch z.B. auf einem USB-Stick.
+
+{{:wiki:hilfe:plugins:smtp-dokuwiki-org.png?direct&500|SMTP-Plugin auf dokuwiki.org}}
+
+Gehen Sie nun in den Administrations-Bereich und dort auf den Punkt **Erweiterungen verwalten**. Klicken Sie auf den Reiter **händisch installieren** (rot markiert im folgenden Bild):
+
+{{:wiki:hilfe:plugins:plugins_installieren_haendisch.png?direct&500|Plugin hochladen 1}}
+
+Klicken Sie nun auf den Button **durchsuchen** hinter **Erweiterung hochladen**. Wählen Sie die ZIP-Datei auf Ihrem Computer, USB-Stick, etc. aus, welche Sie im vorherigen Schritt heruntergeladen haben. Dafür ist keine Internetverbindung nötig.
+
+{{:wiki:hilfe:plugins:plugins_installieren_haendisch_hochladen.png?direct&500|Plugin hochladen 1}}
+
+Klicken Sie auf **Installieren**, danach können Sie das Plugin benutzen.

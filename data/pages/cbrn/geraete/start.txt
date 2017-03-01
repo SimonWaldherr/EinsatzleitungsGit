@@ -1,0 +1,3 @@
+====== Geräte im Bereich CBRN-Einsätze ======
+
+{{simplenavi>cbrn:geraete}}

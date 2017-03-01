@@ -1,0 +1,438 @@
+====== Dräger-Röhrchen & CMS-Handbuch ======
+
+**16. Auflage, Februar 2011**
+
+Boden-, Wasser- und Luftuntersuchungen sowie technische Gasanalyse
+
+===== Inhalt =====
+
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:deckblatt_impressum_vorwort.pdf| Deckblatt, Impressum und Vorwort}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:inhaltsverzeichnis.pdf|Inhaltsverzeichnis}}
+
+===== 1 Allgemeiner Teil =====
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:einfuehrung_gasmesstechnik.pdf|1.1 Einführung in die Gasmesstechnik}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:konzentration_umrechnung.pdf|1.2 Konzentrationsangaben und deren Umrechnung}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:wasserdampf_luftfeuchtigkeit.pdf|1.3 Wasserdampf und Luftfeuchtigkeit}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:gsdb_voice.pdf|1.4 Gefahrstoffdatenbank Dräger VOICE}}
+
+===== 2 Dräger-Röhrchen und ihre Anwendungen =====
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:roehrchen_messtechnik.pdf|2.1 Die Dräger-Röhrchen-Messtechnik}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:reaktionsmechanismen.pdf|2.2 Chemische Grundlagen – Reaktionsmechanismen}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:roehrchen_messsystem.pdf|2.3 Das Dräger-Röhrchen-Mess-System}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:roehrchen_kurzzeitmessungen.pdf|2.4 Dräger-Röhrchen für Kurzzeitmessungen}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:roehrchen_auswertung.pdf|2.5 Die Auswertung von Dräger-Röhrchen}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:heissluftsonde.pdf|2.6 Die Heißluftsonde}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:verlaengerung_co_in_ausatemluft.pdf|2.7 Verlängerungsschlauch}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:verlaengerung_co_in_ausatemluft.pdf|2.8 Kohlenstoffmonoxid-Gehalt-Bestimmung in der ausgeatmeten Luft}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:untersuchung_atemluft_med-gase_co2.pdf|2.9 Untersuchung von Atemluft, med. Gasen und Kohlenstoffdioxid}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:messstrategie_gasgefahren.pdf|2.10 Mess-Strategie zum Erfassen von Gasgefahren}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:begasungsmittel.pdf|2.11 Die Messung von Begasungsmitteln}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:fluechtige_schadstoffe_in_fluessigkeiten.pdf|2.12 Die Bestimmung von flüchtigen Schadstoffen in flüssigen Proben}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:ueberpruefung_luftstroemungen.pdf|2.13 Überprüfung von Luftstömungen}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:messsysteme_langzeitmessungen.pdf|2.14 Dräger-Mess-Systeme für Langzeitmessungen}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:verbrauchszeit_lagerung_entsorgung.pdf|2.15 Verbrauchszeit, Lagerung und Entsorgung von Dräger-Röhrchen}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:probenahme-systeme.pdf|2.16 Dräger-Probenahme-Systeme}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:aldehyde_isocyanate_arbeitsplatz.pdf|2.17 Die Messung von Aldehyden und Isocyanaten an Arbeitsplätzen}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:luftuntersuchung_arbeitsplatz.pdf|2.18 Dräger-Mess-Stelle für Luftuntersuchungen am Arbeitsplatz}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:analysenservice.pdf|2.19 Dräger-Analysenservice}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:qs.pdf|2.20 Qualitätssicherung des Dräger-Röhrchen-Mess-Systems}}
+
+===== 3 Dräger-Chip-Mess-System =====
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:philosophie_cms.pdf|3.1 Die Philosophie des Chip-Mess-Systems Dräger CMS}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:komponenten_cms.pdf|3.2 Die Komponenten des Dräger CMS}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_cms.pdf|3.3 Der Chip}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:analyzer_cms.pdf|3.4 Der Analyzer}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:messdurchfuehrung_cms.pdf|3.5 Die Messdurchführung}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:datenspeicher_cms.pdf|3.6 Der Datenspeicher}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:validierung_cms.pdf|3.7 Validierung von unabhängigen Institutionen}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:technische_daten_zulassungen_cms.pdf|3.8 Technische Daten des Dräger CMS}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:technische_daten_zulassungen_cms.pdf|3.9 Zulassungen}}
+
+===== 4 Zusammenstellung des Dräger-Röhrchen- und Chip-Mess-Systems =====
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:spuerpumpen_systeme.pdf|4.1 Dräger-Gasspürpumpen und Systeme}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:zusammenstellung_roehrchen.pdf|4.2 Dräger-Röhrchen für Kurzzeitmessungen}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:zusammenstellung_fluessige_proben.pdf|4.3 Dräger-Röhrchen für die Messung in flüssigen Proben}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:zusammenstellung_diffusion.pdf|4.4 Dräger-Diffusionsröhrchen mit Direktanzeige}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:zusammenstellung_probenahme.pdf|4.5 Dräger-Probenahmeröhrchen und Systeme}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:stoffuebersicht_roehrchen.pdf|4.6 Stoffübersicht für die Messung mit Dräger-Probenahmeröhrchen und -systemen}}
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:stoffuebersicht_chips.pdf|4.7 Dräger-Chips}}
+
+===== 5 Daten- und Tabellenteil =====
+==== 5.1 Dräger-Röhrchen Mess-System ====
+    * {{cbrn:allgemein:draeger_roehrchenhandbuch:erlaeuterungen_daten.pdf|5.1.1 Erläuterungen zu den Daten über Dräger-Röhrchen}}
+=== 5.1.2 Daten über Dräger-Röhrchen für Kurzzeitmesungen ===
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:acetaldehyd_100a.pdf|Acetaldehyd 100/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:aceton_40a.pdf|Aceton 40/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:aceton_100b.pdf|Aceton 100/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:acrylnitril_0-5a.pdf|Acrylnitril 0,5/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:acrylnitril_5b.pdf|Acrylnitril 5/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:alkohol_25a.pdf|Alkohol 25/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:alkohol_100a.pdf|Alkohol 100/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ameisensaeure_1a.pdf|Ameisensäure 1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:amin-test.pdf|Amin-Test}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ammoniak_0-25a.pdf|Ammoniak 0,25/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ammoniak_2a.pdf|Ammoniak 2/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ammoniak_5a.pdf|Ammoniak 5/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ammoniak_5b.pdf|Ammoniak 5/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ammoniak_0-5pa.pdf|Ammoniak 0,5%/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:anilin_0-5a.pdf|Anilin 0,5/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:anilin_5a.pdf|Anilin 5/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:arsenwasserstoff_0-05a.pdf|Arsenwasserstoff 0,05/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:benzinkohlenwasserstoffe_10a.pdf|Benzinkohlenwasserstoffe 10/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:benzinkohlenwasserstoffe_100a.pdf|Benzinkohlenwasserstoffe 100/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:benzol_0-5a.pdf|Benzol 0,5/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:benzol_0-5c.pdf|Benzol 0,5/c}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:benzol_2a.pdf|Benzol 2/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:benzol_5a.pdf|Benzol 5/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:benzol_5b.pdf|Benzol 5/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:benzol_15a.pdf|Benzol 15/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:blausaeure_2a.pdf|Blausäure 2/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chlor_0-2a.pdf|Chlor 0,2/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chlor_0-3b.pdf|Chlor 0,3/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chlor_50a.pdf|Chlor 50/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chlorameisensaeureester_0-2b.pdf|Chlorameisensäureester 0,2/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chlorbenzol_5a.pdf|Chlorbenzol 5/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chlorcyan_0-25a.pdf|Chlorcyan 0,25/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chlordioxid_0-025a.pdf|Chlordioxid 0,025/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chloroform_2a.pdf|Chloroform 2/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chlorpropen_5a.pdf|Chlorpropen 5/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chlorpikrin_0-1a.pdf|Chlorpikrin 0,1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chlorpikrin_0-1a.pdf|Chlorpikrin 0,1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chromsaeure_0-1a.pdf|Chromsäure 0,1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:cyanid_2a.pdf|Cyanid 2/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:cyclohexan_100a.pdf|Cyclohexan 100/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:cyclohexylamin_2a.pdf|Cyclohexylamin 2/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:1-3-dichlorpropen_0-1a.pdf|1,3-Dichlorpropen 0,1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:dieselkraftstoff.pdf|Dieselkraftstoff}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:diethylether_100a.pdf|Diethylether 100/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:dimethylformamid_10b.pdf|Dimethylformamid 10/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:dimethylsulfat_0-005c.pdf|Dimethylsulfat 0,005/c}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:dimethylsulfid_1a.pdf|Dimethylsulfid 1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:epichlorhydrin_5c.pdf|Epichlorhydrin 5/c}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:erdgasodorierung.pdf|Erdgasodorierung Tertiärbutylmercaptan (TBM)}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:erdgastest.pdf|Erdgastest}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:essigsaeure_5a.pdf|Essigsäure 5/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ethylacetat_200a.pdf|Ethylacetat 200/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ethylbenzol_30a.pdf|Ethylbenzol 30/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ethylen_0-1a.pdf|Ethylen 0,1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ethylen_50a.pdf|Ethylen 50/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ethylenglykol_10.pdf|Ethylenglykol 10}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ethylenoxid_1a.pdf|Ethylenoxid 1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ethylenoxid_25a.pdf|Ethylenoxid 25/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ethylformiat_20a.pdf|Ethylformiat 20/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ethylglykolacetat_50a.pdf|Ethylglykolacetat 50/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:fluor_0-1a.pdf|Fluor 0,1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:fluorwasserstoff_0-5a.pdf|Fluorwasserstoff 0,5/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:fluorwasserstoff_1-5b.pdf|Fluorwasserstoff 1,5/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:formaldehyd_0-2a.pdf|Formaldehyd 0,2/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:formaldehyd_2a.pdf|Formaldehyd 2/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:halogenierte_kohlenwasserstoffe_100a.pdf|Halogenierte Kohlenwasserstoffe 100/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:hexan_100a.pdf|Hexan 100/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:hydrazin_0-01a.pdf|Hydrazin 0,01/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:hydrazin_0-25a.pdf|Hydrazin 0,25/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:iod_0-1a.pdf|Iod 0,1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kohlenstoffdioxid_100a.pdf|Kohlenstoffdioxid 100/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kohlenstoffdioxid_0-1pa.pdf|Kohlenstoffdioxid 0,1%/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kohlenstoffdioxid_0-5pa.pdf|Kohlenstoffdioxid 0,5%/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kohlenstoffdioxid_1pa.pdf|Kohlenstoffdioxid 1%/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kohlenstoffdioxid_5pa.pdf|Kohlenstoffdioxid 5%/A}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kohlenstoffmonoxid_2a.pdf|Kohlenstoffmonoxid 2/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kohlenstoffmonoxid_5c.pdf|Kohlenstoffmonoxid 5/c}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kohlenstoffmonoxid_8a.pdf|Kohlenstoffmonoxid 8/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kohlenstoffmonoxid_10b.pdf|Kohlenstoffmonoxid 10/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kohlenstoffmonoxid_0-3pb.pdf|Kohlenstoffmonoxid 0,3%/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kohlenwasserstoff_2a.pdf|Kohlenwasserstoff 2/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kohlenwasserstoff_0-1pc.pdf|Kohlenwasserstoff 0,1%/c}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:mercaptan_0-1a.pdf|Mercaptan 0,1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:mercaptan_0-5a.pdf|Mercaptan 0,5/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:mercaptan_20a.pdf|Mercaptan 20/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:methylacrylat_5a.pdf|Methylacrylat 5/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:methylbromid_0-2a.pdf|Methylbromid 0,2/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:methylbromid_0-5a.pdf|Methylbromid 0,5/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:methylbromid_3a.pdf|Methylbromid 3/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:methylbromid_5b.pdf|Methylbromid 5/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:methylenchlorid_20a.pdf|Methylenchlorid 20/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:methylisothiocyanat_0-1a.pdf|Methylisothiocyanat 0,1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:nickeltetracarbonyl_0-1a.pdf|Nickeltetracarbonyl 0,1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:nitrose_gase_0-5a.pdf|Nitrose Gase 0,5/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:nitrose_gase_2a.pdf|Nitrose Gase 2/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:nitrose_gase_20a.pdf|Nitrose Gase 20/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:nitrose_gase_50a.pdf|Nitrose Gase 50/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:nitrose_gase_100c.pdf|Nitrose Gase 100/c}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:oelnebel_1a.pdf|Ölnebel 1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:olefine_0-05pa.pdf|Olefine 0,05%/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ozon_0-05b.pdf|Ozon 0,05/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ozon_10a.pdf|Ozon 10/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:pentan_100a.pdf|Pentan 100/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:perchlorethylen_0-1a.pdf|Perchlorethylen 0,1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:perchlorethylen_2a.pdf|Perchlorethylen 2/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:perchlorethylen_10b.pdf|Perchlorethylen 10/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:phenol_1b.pdf|Phenol 1/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:phosgen_0-02a.pdf|Phosgen 0,02/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:phosgen_0-05a.pdf|Phosgen 0,05/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:phosgen_0-25c.pdf|Phosgen 0,25/c}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:phosphorwasserstoff_0-01a.pdf|Phosphorwasserstoff 0,01/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:phosphorwasserstoff_0-1a.pdf|Phosphorwasserstoff 0,1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:phosphorwasserstoff_0-1b_in_acetylen.pdf|Phosphorwasserstoff 0,1/b in Acetylen}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:phosphorwasserstoff_1a.pdf|Phosphorwasserstoff 1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:phosphorwasserstoff_25a.pdf|Phosphorwasserstoff 25/A}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:phosphorwasserstoff_50a.pdf|Phosphorwasserstoff 50/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:polytest.pdf|Polytest}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:pyridin_5a.pdf|Pyridin 5/A}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:quecksilberdampf_0-1b.pdf|Quecksilberdampf 0,1/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:saeuretest.pdf|Säuretest}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:salpetersaeure_1a.pdf|Salpetersäure 1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:salpetersaeure_1a.pdf|Salpetersäure 1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:salzsaeure_0-2a.pdf|Salzsäure 0,2/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:salzsaeure_1a.pdf|Salzsäure 1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:salzsaeure_50a.pdf|Salzsäure 50/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:salzsaeure_salpetersaeure_1a.pdf|Salzsäure/Salpetersäure 1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:sauerstoff_5pb.pdf|Sauerstoff 5%/B}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:sauerstoff_5pc.pdf|Sauerstoff 5%/C}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefeldioxid_0-1a.pdf|Schwefeldioxid 0,1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefeldioxid_0-5a.pdf|Schwefeldioxid 0,5/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefeldioxid_1a.pdf|Schwefeldioxid 1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefeldioxid_20a.pdf|Schwefeldioxid 20/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefeldioxid_50b.pdf|Schwefeldioxid 50/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelkohlenstoff_3a.pdf|Schwefelkohlenstoff 3/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelkohlenstoff_5a.pdf|Schwefelkohlenstoff 5/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelkohlenstoff_30a.pdf|Schwefelkohlenstoff 30/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelsaeure_1a.pdf|Schwefelsäure 1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelwasserstoff_0-2a.pdf|Schwefelwasserstoff 0,2/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelwasserstoff_0-2b.pdf|Schwefelwasserstoff 0,2/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelwasserstoff_0-5a.pdf|Schwefelwasserstoff 0,5/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelwasserstoff_1c.pdf|Schwefelwasserstoff 1/c}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelwasserstoff_1d.pdf|Schwefelwasserstoff 1/d}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelwasserstoff_2a.pdf|Schwefelwasserstoff 2/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelwasserstoff_2b.pdf|Schwefelwasserstoff 2/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelwasserstoff_5b.pdf|Schwefelwasserstoff 5/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelwasserstoff_100a.pdf|Schwefelwasserstoff 100/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelwasserstoff_0-2pa.pdf|Schwefelwasserstoff 0,2%/A}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelwasserstoff_2pa.pdf|Schwefelwasserstoff 2%/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelwasserstoff_schwefeldioxid_0-2pa.pdf|Schwefelwasserstoff + Schwefeldioxid 0,2%/A}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:stickstoffdioxid_0-5c.pdf|Stickstoffdioxid 0,5/c}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:stickstoffdioxid_2c.pdf|Stickstoffdioxid 2/c}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:styrol_10a.pdf|Styrol 10/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:styrol_10b.pdf|Styrol 10/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:styrol_50a.pdf|Styrol 50/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:sulfurylfluorid_1a.pdf|Sulfurylfluorid 1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:tertiaerbutylmercaptan.pdf|Tertiärbutylmercaptan (TBM) Erdgasodorierung}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:tetrachlorkohlenstoff_0-1a.pdf|Tetrachlorkohlenstoff 0,1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:tetrachlorkohlenstoff_1a.pdf|Tetrachlorkohlenstoff 1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:tetrahydrothiophen_1b.pdf|Tetrahydrothiophen 1/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:thioether.pdf|Thioether}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:toluol_5b.pdf|Toluol 5/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:toluol_50a.pdf|Toluol 50/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:toluol_100a.pdf|Toluol 100/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:toluylendiisocyanat_0-02a.pdf|Toluylendiisocyanat 0,02/A}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:trichlorethan_50d.pdf|Trichlorethan 50/d}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:trichlorethylen_2a.pdf|Trichlorethylen 2/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:trichlorethylen_50a.pdf|Trichlorethylen 50/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:triethylamin_5a.pdf|Triethylamin 5/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:vinylchlorid_0-5b.pdf|Vinylchlorid 0,5/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:vinylchlorid_100a.pdf|Vinylchlorid 100/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:wasserdampf_0-1.pdf|Wasserdampf 0,1}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:wasserdampf_0-1a.pdf|Wasserdampf 0,1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:wasserdampf_0-1b.pdf|Wasserdampf 0,1/b}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:wasserstoff_0-2pa.pdf|Wasserstoff 0,2%/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:wasserstoff_0-5pa.pdf|Wasserstoff 0,5%/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:wasserstoffperoxid_0-1a.pdf|Wasserstoffperoxid 0,1/a}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:xylol_10a.pdf|Xylol 10/a}}
+=== 5.1.3 Daten über Dräger Simultantest ===
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:simultantest_i.pdf|Simultantest-Set I für anorg. Brandgase}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:simultantest_ii.pdf|Simultantest-Set II für anorg. Brandgase}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:simultantest_iii.pdf|Simultantest-Set III für organ. Dämpfe}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:simultantest_leitsubstanzen.pdf|Simultantest-Set Leitsubstanzen vfdb 10/01}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:simultantest_containerbegasung_i.pdf|Simultantest Containerbegasung I}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:simultantest_i_begasung.pdf|Simultantest-Set I Begasung}}
+=== 5.1.4 Dräger-Röhrchen für Militäranwendungen ===
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:cds-simultan-test-set-i.pdf|CDS – Simultan-Test-Set I}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:cds-simultan-test-set-ii.pdf|CDS – Simultan-Test-Set II}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:cds-simultan-test-set-iii.pdf|CDS – Simultan-Test-Set III}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:cds-simultan-test-set-v.pdf|CDS – Simultan-Test-Set V}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:organische_arsenverb_arsin.pdf|Organische Arsenverb. und Arsin}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:organische_basische_nitrogenverbindungen.pdf|Organische basische Nitrogenverbindungen}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:phosphorsaeureester_0-05a.pdf|Phosphorsäureester 0,05/a}}
+=== 5.1.5 Daten über Dräger-Röhrchen zur Verwendung im Dräger Aerotest ===
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ammoniak_2a_aerotest.pdf|Ammoniak 2/a Einsatz im Aerotest CO2}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:impactor_aerotest.pdf|Impactor zur Messung von Ölnebel}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kohlenstoffdioxid_100a-p_aerotest.pdf|Kohlenstoffdioxid 100/a-P}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kohlenstoffmonoxid_5a-p_aerotest.pdf|Kohlenstoffmonoxid 5/a-P}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:nitrose_gase_0-5a_aerotest.pdf|Nitrose Gase 0,5/a Einsatz im Multi Test med. Gase/ Aerotest CO2}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:oel_10a-p_aerotest.pdf|Öl 10/a-P}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:phosphorwasserstoff_0-1a_aerotest.pdf|Phosphorwasserstoff 0,1/a Einsatz im Aerotest CO2}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefeldioxid_0-5a_aerotest.pdf|Schwefeldioxid 0,5/a Einsatz im Multi Test med. Gase}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefeldioxid_1a_aerotest.pdf|Schwefeldioxid 1/a Einsatz im Multi Test med. Gase/ Aerotest CO2}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelwasserstoff_0-2a_aerotest.pdf|Schwefelwasserstoff 0,2/a Einsatz im Aerotest CO2}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelwasserstoff_1d_aerotest.pdf|Schwefelwasserstoff 1/d Einsatz im Multi Test med. Gase}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:wasserdampf_5a-p_aerotest.pdf|Wasserdampf 5/a-P Einsatz im Multi Test med. Gase}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:wasserdampf_20a-p_aerotest.pdf|Wasserdampf 20/a-P Einsatz im Multi Test med. Gase}}
+=== 5.1.6 Messvorschriften für die Schadstoffmessung in flüssigen Proben ===
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ameisensaeure_1_20g-l.pdf|Ameisensäure 1 bis 20 g/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ammoniak_1-5_10mg-l.pdf|Ammoniak 1,5 bis 10 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ammoniak_10_100mg-l.pdf|Ammoniak 10 bis 100 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:benzinkraftstoffe_boden.pdf|Benzinkraftstoffe qualitativ im Boden}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:benzinkraftstoffe_0-1_2mg-l.pdf|Benzinkraftstoffe 0,1 bis 2 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:benzol_0-2_5mg-l.pdf|Benzol 0,2 bis 5 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:benzol_0-5_5mg-l.pdf|Benzol 0,5 bis 5 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:blausaeure_0-5_10mg-l.pdf|Blausäure (Cyanid) 0,5 bis 10 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:btx-aromaten_oel.pdf|BTX-Aromaten qualitativ in Öl}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:btx-aromaten_0-2_5mg-l.pdf|BTX-Aromaten 0,2 bis 5 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:btx-aromaten_boden_2_50mg-kg.pdf|BTX-Aromaten im Boden 2 bis 50 mg/kg}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chlorkohlenwasserstoffe_boden.pdf|Chlorkohlenwasserstoffe qualitativ im Boden}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chlorkohlenwasserstoffe_mehrphasen.pdf|Chlorkohlenwasserstoffe qualitativ in Mehrphasen}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chlorkohlenwasserstoffe_oel.pdf|Chlorkohlenwasserstoffe qualitativ in Öl}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:dieselkraftstoffe_boden.pdf|Dieselkraftstoffe qualitativ im Boden}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:dieselkraftstoffe_0-5_5mg-l.pdf|Dieselkraftstoffe 0,5 bis 5 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:essigsaeure_0-5_20g-l.pdf|Essigsäure 0,5 bis 20 g/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ethylbenzol_0-2_5mg-l.pdf|Ethylbenzol 0,2 bis 5 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kerosin_boden.pdf|Kerosin qualitativ im Boden}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kerosin_0-5_5mg-l.pdf|Kerosin 0,5 bis 5 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:n-octan_0-1_2mg-l.pdf|n-Octan 0,1 bis 2 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:n-octan_2_25mg-l.pdf|n-Octan 2 bis 25 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:organische_saeuren_0-5_15g-l.pdf|Organische Säuren 0,5 bis 15 g/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:perchlorethylen_0-1_2mg-l.pdf|Perchlorethylen 0,1 bis 2 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:perchlorethylen_10_80ng-l.pdf|Perchlorethylen 10 bis 80 μg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:propionsaeure_0-3_10g-l.pdf|Propionsäure 0,3 bis 10 g/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelwasserstoff_0-2_1mg-l.pdf|Schwefelwasserstoff 0,2 bis 1 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelwasserstoff_0-5_10mg-l.pdf|Schwefelwasserstoff 0,5 bis 10 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelwasserstoff_50_500ng-l.pdf|Schwefelwasserstoff 50 bis 500 μg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:toluol_0-2_5mg-l.pdf|Toluol 0,2 bis 5 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:toluol_1_10mg-l.pdf|Toluol 1 bis 10 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:1-1-1-trichlorethan_0-5_5mg-l.pdf|1,1,1-Trichlorethan 0,5 bis 5 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:trichlorethylen_10_100ng-l.pdf|Trichlorethylen 10 bis 100 μg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:trichlorethylen_0-1_1mg-l.pdf|Trichlorethylen 0,1 bis 1 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:trichlorethylen_0-2_3mg-l.pdf|Trichlorethylen 0,2 bis 3 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:xylol_0-2_5mg-l.pdf|Xylol (o, m, p) 0,2 bis 5 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:xylol_0-3_10mg-l.pdf|Xylol (o, m, p) 0,3 bis 10 mg/L}}
+=== 5.1.7 Daten über direktanzeigende Dräger-Diffusionsröhrchen ===
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ammoniak_20a-d.pdf|Ammoniak 20/a-D}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:blausaeure_20a-d.pdf|Blausäure 20/a-D}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:butadien_10a-d.pdf|Butadien 10/a-D}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:essigsaeure_10a-d.pdf|Essigsäure 10/a-D}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ethanol_1000a-d.pdf|Ethanol 1000/a-D}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kohlenstoffdioxid_500a-d.pdf|Kohlenstoffdioxid 500/a-D}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kohlenstoffdioxid_1pa-d.pdf|Kohlenstoffdioxid 1%/a-D}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kohlenstoffmonoxid_50a-d.pdf|Kohlenstoffmonoxid 50/a-D}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:perchlorethylen_200a-d.pdf|Perchlorethylen 200/a-D}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:salzsaeure_10a-d.pdf|Salzsäure 10/a-D}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefeldioxid_5a-d.pdf|Schwefeldioxid 5/a-D}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefelwasserstoff_10a-d.pdf|Schwefelwasserstoff 10/a-D}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:stickstoffdioxid_10a-d.pdf|Stickstoffdioxid 10/a-D}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:toluol_100a-d.pdf|Toluol 100/a-D}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:trichlorethylen_200a-d.pdf|Trichlorethylen 200/a-D}}
+=== 5.1.8 Daten über Dräger-Probenahmeröhrchen und Systeme ===
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:aktivkohle_typ_bia.pdf|Aktivkohle-Röhrchen Typ BIA}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:aktivkohle_typ_b-g.pdf|Aktivkohle-Röhrchen Typ B/G}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:aktivkohle_typ_g.pdf|Aktivkohle-Röhrchen Typ G}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:aldehyd-probenahme-set.pdf|Aldehyd-Probenahme-Set}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:probenahme_typ_ads.pdf|Probenahmeröhrchen Typ ADS}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:aktivkohle_typ_niosh.pdf|Aktivkohle-Röhrchen Typ NIOSH}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:isocyanat-probenahme-set.pdf|Isocyanat-Probenahme-Set}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:lachgas-diffusionssammler.pdf|Lachgas-Diffusionssammler}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:diffusionssammler-orsa.pdf|Diffusionssammler-ORSA}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:silicagel_typ_bia.pdf|Silicagel-Röhrchen Typ BIA}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:silicagel_typ_g.pdf|Silicagel-Röhrchen Typ G}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:silicagel_typ_niosh.pdf|Silicagel-Röhrchen Typ NIOSH}}
+==== 5.2 Dräger-Chip-Mess-System ====
+    * {{cbrn:allgemein:draeger_roehrchenhandbuch:erlaeuterung_chip-beschreibungen.pdf|5.2.1 Erläuterung der Chip-Beschreibungen}}
+=== 5.2.2 Daten über Dräger-Chips für Kurzzeitmessungen ===
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_aceton_40_600ppm_ammoniak_0-2_5ppm.pdf|Aceton 40 - 600 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_aceton_40_600ppm_ammoniak_0-2_5ppm.pdf|Ammoniak 0,2 - 5 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_ammoniak_2_50ppm_ammoniak_10_150ppm.pdf|Ammoniak 2 - 50 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_ammoniak_2_50ppm_ammoniak_10_150ppm.pdf|Ammoniak 10 - 150 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_ammoniak_100_2000ppm_benzin-kohlenwasserstoffe_20_500ppm.pdf|Ammoniak 100 - 2000 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_ammoniak_100_2000ppm_benzin-kohlenwasserstoffe_20_500ppm.pdf|Benzin-Kohlenwasserstoffe 20 - 500 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_benzin-kohlenwasserstoffe_100_3000ppm_benzol_50_2500ppb.pdf|Benzin-Kohlenwasserstoffe 100 - 3000 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_benzin-kohlenwasserstoffe_100_3000ppm_benzol_50_2500ppb.pdf|Benzol 50 - 2500 ppb}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_benzol_0-2_10ppm_benzol_0-5_10ppm.pdf|Benzol 0,2 - 10 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_benzol_0-2_10ppm_benzol_0-5_10ppm.pdf|Benzol 0,5 - 10 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_benzol_10_250ppm_blausaeure_2_50ppm.pdf|Benzol 10 - 250 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_benzol_10_250ppm_blausaeure_2_50ppm.pdf|Blausäure 2 - 50 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_butadien_1_25ppm_chlor_0-2_10ppm.pdf|Butadien 1 - 25 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_butadien_1_25ppm_chlor_0-2_10ppm.pdf|Chlor 0,2 - 10 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_essigsaeure_2_50ppm_ethanol_100_2500ppm.pdf|Essigsäure 2 - 50 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_essigsaeure_2_50ppm_ethanol_100_2500ppm.pdf|Ethanol 100 - 2500 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_ethylenoxid_0-4_5ppm_formaldehyd_0-2_5ppm.pdf|Ethylenoxid 0,4 - 5 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_ethylenoxid_0-4_5ppm_formaldehyd_0-2_5ppm.pdf|Formaldehyd 0,2 - 5 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_kohlenstoffdioxid_200_3000ppm_kohlenstoffdioxid_1000_25000ppm.pdf|Kohlenstoffdioxid 200 - 3000 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_kohlenstoffdioxid_200_3000ppm_kohlenstoffdioxid_1000_25000ppm.pdf|Kohlenstoffdioxid 1000 - 25000 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_kohlenstoffdioxid_1_20p_kohlenstoffmonoxid_5_150ppm.pdf|Kohlenstoffdioxid 1 - 20 Vol.- %}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_kohlenstoffdioxid_1_20p_kohlenstoffmonoxid_5_150ppm.pdf|Kohlenstoffmonoxid 5 - 150 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_mercaptan_0-25_6ppm_methanol_20_500ppm.pdf|Mercaptan 0,25 - 6 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_mercaptan_0-25_6ppm_methanol_20_500ppm.pdf|Methanol 20 - 500 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_methylenchlorid_20_400ppm_mtbe.pdf|Methylenchlorid 20 - 400 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_methylenchlorid_20_400ppm_mtbe.pdf|MTBE (tert.-Butylmethylether)}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_nitrose_gase_0-5_15ppm_nitrose_gase_10_200ppm.pdf|Nitrose Gase 0,5 - 15 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_nitrose_gase_0-5_15ppm_nitrose_gase_10_200ppm.pdf|Nitrose Gase 10 - 200 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_ozon_25_1000ppb_perchlorethylen_5_500ppm.pdf|Ozon 25 - 1000 ppb}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_ozon_25_1000ppb_perchlorethylen_5_500ppm.pdf|Perchlorethylen 5 - 500 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_phosgen_0-05_2ppm_phosphorwasserstoff_0-1_2-5ppm.pdf|Phosgen 0,05 - 2 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_phosgen_0-05_2ppm_phosphorwasserstoff_0-1_2-5ppm.pdf|Phosphorwasserstoff 0,1 - 2,5 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_phosphorwasserstoff_1_25ppm_phosphorwasserstoff_20_500ppm.pdf|Phosphorwasserstoff 1 - 25 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_phosphorwasserstoff_1_25ppm_phosphorwasserstoff_20_500ppm.pdf|Phosphorwasserstoff 20 - 500 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_phosphorwasserstoff_200_5000ppm_propan_100_2000ppm.pdf|Phosphorwasserstoff 200 - 5000 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_phosphorwasserstoff_200_5000ppm_propan_100_2000ppm.pdf|Propan 100 - 2000 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_i-propanol_40_1000ppm_salzsaeure_1_25ppm.pdf|i-Propanol 40 - 1000 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_i-propanol_40_1000ppm_salzsaeure_1_25ppm.pdf|Salzsäure 1 - 25 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_salzsaeure_20_500ppm_sauerstoff_1_30p.pdf|Salzsäure 20 - 500 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_salzsaeure_20_500ppm_sauerstoff_1_30p.pdf|Sauerstoff 1 - 30 Vol.- %}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_schwefeldioxid_0-4_10ppm_schwefeldioxid_5_150ppm.pdf|Schwefeldioxid 0,4 - 10 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_schwefeldioxid_0-4_10ppm_schwefeldioxid_5_150ppm.pdf|Schwefeldioxid 5 - 150 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_schwefelwasserstoff_0-2_5ppm_schwefelwasserstoff_2_50ppm.pdf|Schwefelwasserstoff 0,2 - 5 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_schwefelwasserstoff_0-2_5ppm_schwefelwasserstoff_2_50ppm.pdf|Schwefelwasserstoff 2 - 50 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_schwefelwasserstoff_20_500ppm_schwefelwasserstoff_100_2500ppm.pdf|Schwefelwasserstoff 20 - 500 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_schwefelwasserstoff_20_500ppm_schwefelwasserstoff_100_2500ppm.pdf|Schwefelwasserstoff 100 - 2500 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_stickstoffdioxid_0-5_25ppm_styrol_2_40ppm.pdf|Stickstoffdioxid 0,5 - 25 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_stickstoffdioxid_0-5_25ppm_styrol_2_40ppm.pdf|Styrol 2 - 40 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_toluol_10_300ppm_trichlorethylen_5_100ppm.pdf|Toluol 10 - 300 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_toluol_10_300ppm_trichlorethylen_5_100ppm.pdf|Trichlorethylen 5 - 100 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_vinylchlorid_0-3_10ppm_vinylchlorid_10_250ppm.pdf|Vinylchlorid 0,3 - 10 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_vinylchlorid_0-3_10ppm_vinylchlorid_10_250ppm.pdf|Vinylchlorid 10 - 250 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_wasserdampf_0-4_10mg-l_wasserstoffperoxid_0-2_2ppm.pdf|Wasserdampf 0,4 - 10 mg/L}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_wasserdampf_0-4_10mg-l_wasserstoffperoxid_0-2_2ppm.pdf|Wasserstoffperoxid 0,2 - 2 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_o-xylol_10_300ppm.pdf|o-Xylol 10 - 300 ppm}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chip_training.pdf|Trainings Chip}}
+==== 5.3 Physikalisch-chemische und toxikologische Daten ausgewählter Stoffe ====
+    * {{cbrn:allgemein:draeger_roehrchenhandbuch:erlaeuterungen_phys_chem_tox_daten.pdf|5.3.1 Erläuterungen zu den physikalisch-chemischen und toxikologischen Daten}}
+=== 5.3.2 Daten über physikalisch-chemische und toxikologische Daten ausgewählter Stoffe ===
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:acetaldehyd_aceton_acetylen_acrolein.pdf|Acetaldehyd, Aceton, Acetylen, Acrolein}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:acrylnitril_alkohol_ameisensaeure_ammoniak.pdf|Acrylnitril, Alkohol (Ethanol), Ameisensäure, Ammoniak}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:anilin_arsentrioxid_arsenwasserstoff_benzol.pdf|Anilin, Arsentrioxid, Arsenwasserstoff, Benzol}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:blausaeure_brom_n-butan_1-3-butadien.pdf|Blausäure, Brom, n-Butan, 1,3-Butadien}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:n-butanol_1-buten_chlor_ethylformiat.pdf|n-Butanol, 1-Buten, Chlor, Chlorameisensäureethylester (Ethylformiat)}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chlorameisensaeureethylester_chlorbenzol_chlorcyan_chlordioxid.pdf|Chlorameisensäuremethylester, Chlorbenzol, Chlorcyan, Chlordioxid}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:chloroform_chloropren_chlorpikrin_chromsaeure.pdf|Chloroform, Chloropren, Chlorpikrin, Chromsäure}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:cyclohexan_cyclohexylamin_1-2-dichlorbenzol_1-4-dichlorbenzol.pdf|Cyclohexan, Cyclohexylamin, 1,2 Dichlorbenzol, 1,4 Dichlorbenzol}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:1-3-dichlorpropen_dichlorvos_diethylether_n-n-dimethylacetamid.pdf|1,3-Dichlorpropen, Dichlorvos, Diethylether, N,N-Dimethylacetamid}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:dimethylformamid_dimethylsulfat_dimethylsulfid_mdi.pdf|Dimethylformamid, Dimethylsulfat, Dimethylsulfid, Diphenylmethan-4,4'-diisocyanat (MDI)}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:epichlorhydrin_essigsaeure_ethylacetat_ethylacrylat.pdf|Epichlorhydrin, Essigsäure, Ethylacetat, Ethylacrylat}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ethylbenzol_ethylen_ethylendibromid_ethylenglykol.pdf|Ethylbenzol, Ethylen, Ethylenbromid, Ethylenglykol}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:ethylenoxid_ethylglykolacetat_ethylmercaptan_fluor.pdf|Ethylenoxid, Ethylglykolacetat, Ethylmercaptan, Flour}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:flourwasserstoff_formaldehyd_n-hexan_hdi.pdf|Flourwasserstoff, Formaldehyd, n-Hexan, 1,6-Hexamethylendiisocyanat (HDI)}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:hydrazin_iod_kaliumcyanid_kohlenstoffdioxid.pdf|Hydrazin, Iod, Kaliumcyanid (als CN), Kohlenstoffdioxid}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:kohlenstoffmonoxid_methacrylnitril_methanol_methan.pdf|Kohlenstoffmonoxid, Methacrilnitril, Methanol, Methan}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:methylacrylat_methylbromid_methylenchlorid_mek.pdf|Methylacrylat, Methylbromid, Methylenchlorid, Methylethylketon (MEK)}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:methylisobutylketon_mitc_methylmethacrylat_methylmercaptan.pdf|Methylisobutylketon, Methylisothiocyanat (MITC), Methylmethacrylat, Methylmercaptan}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:mtbe_natriumcyanid_nickeltetracarbonyl_nitroglykol.pdf|Methyltertiärbutylether (MTBE), Natriumcyanid (als CN), Nickeltetracarbonyl, Nitroglykol}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:n-octan_oelnebel_ozon_n-pentan.pdf|n-Octan, Ölnebel (Mineralöl), Ozon, n-Pentan}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:perchlorethylen_phenol_phosgen_phosphorwasserstoff.pdf|Perchlorethylen, Phenol, Phosgen, Phosphorwasserstoff}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:propan_iso-propanol_propen_pyridin.pdf|Propan, iso-Propanol, Propen, Pyridin}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:quecksilber_r11_r12_r22.pdf|Quecksilber, R 11 (Trichlorfluomethan), R12 (Dichlordifluomethan), R22 (Chlordifluomethan)}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:r113_r114_r12b1_r13b1.pdf|R 113 (1,1,2-Trichlortrifluorethan), R 114 (Cryofluoran), R 12B1 (Bromchlordifluormethan), R 13B1 (Bromtrifluormethan)}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:r134a_salpetersaeure_salzsaeure_sauerstoff.pdf|R 134a (1,1,1,2-Tetrafluorethan), Salpetersäure, Salzsäure, Sauerstoff}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:schwefeldioxid_schwefelkohlenstoff_schwefelsaeure_schwefelwasserstoff.pdf|Schwefeldioxid, Schwefelkohlenstoff, Schwefelsäure, Schwefelwasserstoff}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:stickstoffdioxid_styrol_sulfurylfluorid_tbm.pdf|Stickstoffdioxid, Styrol (Monostyrol), Sulfurylfluorid, Tertiärbutylmercaptan (TBM)}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:tetrachlorkohlenstoff_tetrahydrothiophen_o-toluidin_toluol.pdf|Tetrachlorkohlenstoff, Tetrahydrothiophen, o-Toluidin, Toluol}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:tdi_trichlorethan.pdf|2,4-Toluylendiisocyanat (TDI), 2,6-Toluylendiisocyanat (TDI), 1,1,1-Trichlorethan, 1,1,2-Trichlorethan}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:trichlorethylen_triethylamin_vinylchlorid_wasserdampf.pdf|Trichlorethylen, Triethylamin, Vinylchlorid, Wasserdampf}}
+      * {{cbrn:allgemein:draeger_roehrchenhandbuch:wasserstoff_wasserstoffperoxid_xylol.pdf|Wasserstoff, Wasserstoffperoxid, Xylol}}
+
+===== 6 Synonymaverzeichnis =====
+  * {{cbrn:allgemein:draeger_roehrchenhandbuch:synonymaverzeichnis.pdf|Synonymaverzeichnis}}
+
+===== Quelle und Copyright =====
+
+Alle Inhalte dieser Seite © 2013 Drägerwerk AG & Co. KGaA. Nutzung mit freundlicher Genehmigung.
+
+Das Originaldokument kann unter folgender URL heruntergeladen werden: [[http://www.draeger.com/media/10/01/87/10018753/roehrchen_handbuch_br_9092084_de.pdf]]

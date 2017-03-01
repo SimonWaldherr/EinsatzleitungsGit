@@ -1,0 +1,197 @@
+====== Grenzwerte ======
+
+===== zu treffende Maßnahmen =====
+
+  * Bei der Interpretation von Grenzwerten ist zu beachten: Bei **Überschreitung** des angegebenen Wertes **können**  die genannten Auswirkungen eintreten. Eine Stoffkonzentration die knapp unterhalb des AEGL-3-, aber oberhalb des AEGL-2-Wertes liegt, hat per Definition eine irreversible oder lang andauernde gesundheitliche oder fluchtbehindernde Wirkung, ist aber nicht tödlich. Dafür müsste der AEGL-3-Wert überschritten werden.
+  * Die Grenzen der einzelnen Werte gelten nicht zwangsläufig für alle Personengruppen. Insbesondere bei Kindern, alten oder kranken Menschen kann eine Schädigung schon eher als beim genannten Grenzwert eintreten.
+  * Die Grenzwerte gelten jeweils nur für Reinstoffe. Beim Vorhandensein von Stoffgemischne können diese schon bei wesentlich geringeren Konzentrationen schädlich sein.
+  * Es wird jeweils nur die Konzentration in der Luft betrachtet. Die Konzentration im Boden, Wasser, etc. ist nicht Teil der hier genannten Grenzwerte.
+  * Grenzwerte geben an, bis zu welcher Konzentration eine Wirkung nicht eintritt. Da es für krebserzeugende, erbgutverändernde oder fortpflanzungsgefährdende keine sicheren Grenzwerte gibt, sind für diese Stoffe keine Grenzwerte genannt.
+  * Grenzwerte, welche in einem vergleichsweise sicheren Bereich angegeben werden (wie beispielsweise der AGW) dürfen keinesfalls mit "selbst erfundenen" Faktoren multipliziert werden, da diese teilweise schon bei geringer Überschreitung stark an Giftigkeit zunehmen.
+  * Die Grenzwerte wurden oftmals mit unterschiedlichen Verfahren ermittelt. Somit können diese von Stoff zu Stoff abweichen. Ist bei einem Stoff der IDLH-Wert am höchsten und wird von ERPG- und danach AEGL-Wert gefolgt, kann die Reihenfolge bei einem anderen Stoff eine völlig andere sein.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== AEGL ====
+
+Abkürzung für //**A**cute **E**xpose **G**uideline **L**evels//. Dieser Wert gibt an, ab welcher Konzentration eines luftgetragenen Stoffs einer von drei definierten Schädigungsgraden bei Personen erreicht ist, inklusive anfälligen Personengruppen wie alte oder kranke Menschen und Kinder. in Abhängigkeit davon, wie lange die Person dem Schadstoff ausgesetzt ist. Die genannten Einschränkungen treten erst beim Überschreiten des jeweils angegebenen Wertes auf. Die Schädigungsgrade sind
+
+  * AEGL-1: Spürsames Unwohlsein und Reizungen, aber keine Behinderung der Fähigkeit zu flüchten. Mit Beendigung der Stofffreisetzung verschwinden die Symptome wieder vollständig.
+  * AEGL-2: Irreversible oder lang andauernde gesundheitliche Auswirkungen oder fluchtbehindernde Wirkung.
+  * AEGL-3: Lebensbedrohliche oder tödliche Auswirkungen.
+
+und werden jeweils für eine Aussetzungsdauer der Person von 10 Minuten, 30 Minuten, 1 Stunde, 4 Stunden und 8 Stunden angegeben.
+
+Informationsquellen für AEGL-Werte sind auf der Seite [[:cbrn:allgemein:gefahrstoffdatenbank#aegl-werte_in_pdf-datei|Gefahrstoffdatenbanken]] zu finden.
+
+==== AGW ====
+
+Abkürzung für //**A**rbeitsplatz**g**renz**w**ert//. Wird der genannte Wert der Konzentration nicht überschritten, so ist bei einer Belastung der Arbeitnehmers von 8 Stunden täglich und 40 Stunden pro Woche auf Dauer der Lebensarbeitszeit keine Schädigung zu erwarten.
+
+Der AGW ging aus den MAK- und TRK-Werten hervor, als er 2005 durch die Neufassung der Gefahrstoffverordnung eingeführt wurde. Im Gegensatz zu den MAK-Werten sind die AGW toxikologisch begründet, was bei den MAK-Werten nicht zwangsläufig der Fall war.
+
+Weitere Informationen und eine Stoffliste mit AGW ist bei der [[http://www.baua.de/de/Themen-von-A-Z/Gefahrstoffe/TRGS/TRGS-900.html|Bundesanstalt für Arbeitsschutz und Arbeitsmedizin]] zu finden.
+
+Da der AGW für eine dauerhafte Exposition ausgelegt ist, eignet er sich zur Bewertung von Gefahren für die Bevölkerung weniger gut als die speziell dafür ausgelegten ETW, AEGL-, ERPG-, TEEL-, und ähnliche Werte und sollte daher nicht verwendet werden wenn ein solcher geeigneterer Wert vorliegt, um die Gefährdung nicht zu überschätzen.
+
+==== ERPG ====
+
+Abkürzung für //**E**mergency **R**esponse **P**lanning **G**uidelines//. Dieser ist ein Richtwert zur Verhinderung der Schädigung der Zivilbevölkerung und ist für einen repräsentativen Schnitt durch die Bevölkerung gültig, der auch Kinder und alte Menschen umfasst. Der ERPG-Wert geht von einer Aussetzungsdauer von 1 Stunde aus und ist in drei Abstufungen unterteilt:
+
+  * ERPG-1: leichte, vorübergehende gesundheitliche Auswirkungen oder die Wahrnehmung eines klar definierten, unangenehmen Geruchs.
+  * ERPG-2: Irreversible oder ernsthafte gesundheitliche Auswirkungen, die die Fähigkeit behindern Schutzmaßnahmen zu ergreifen.
+  * ERPG-3: Lebensbedrohliche gesundheitliche Auswirkungen.
+
+Der ERPG-2-Wert wird als Planungsgrundlage nach Störfallverordnung verwendet.
+
+ERPG-Werte sind eine Art von Vorläufer-Werten der AEGL-Einstufungen und werden nur noch neu herausgegeben wenn keine AEGL-Werte verfügbar sind. Sind AEGL-Werte für den jeweiligen Wert verfügbar, sollten diese statt der ERPG-Werte verwendet werden.
+
+==== ETW ====
+
+Abkürzung für //**E**insatz-**T**oleranz-**W**ert//. Dieser kann vom Einsatzleiter genutzt werden, um eine Gefährdung seiner Einsatzkräfte abzuschätzen. Es existieren ETWs jeweils für 1h und 4h Einsatzdauer. Der ETW ist auf die Belastung einer Einsatzkraft (die ohne Atemschutz arbeitet) zugeschnitten und entspricht (mittlerweile) dem [[:cbrn:chemisch:grenzwerte#aegl|AEGL-2-Wert]] für eine Expositionsdauer von 1 bzw. 4 Stunden. Dies bedeutete, dass Unwohlsein auftreten kann, aber keine dauerhafte gesundheitliche Gefährdung eintritt (siehe Definition AEGL).
+
+Ursprünglich wurden die ETWs als eigenständige Werte ermittelt. Mittlerweile werden die finalisierten (endgültig ermittelte) AEGL-2-Werte verwendet. Eine Tabelle mit AEGL-Werten, die weitere Werte als die hier definierten ETW umfasst, ist auf der Seite [[:cbrn:allgemein:gefahrstoffdatenbank#aegl-werte_in_pdf-datei|Gefahrstoffdatenbanken]] in einer PDF-Datei zu finden.
+
+=== Tabelle mit Einsatztoleranzwerten ===
+
+Scrollen Sie bei kleinen Bildschirmen in der Tabelle nach rechts, um alle Angaben zum Stoff zu sehen!
+
+^  Stoffname  ^  ERICard  ^  CAS-Nr.  ^  Stoff- (UN-) \\ Nummer  ^  ETW \\ bis 1h  ^  ETW \\ bis 4h  ^  [[:cbrn:allgemein:cbrn-lexikon:explosionsgrenzen_ueg_oeg|UEG]]   ^  G  ^  H  ^  [[:cbrn:geraete:cbrn-erkw|CBRN ErkW]]   |
+|Aceton|[[:cbrn:ericards:klasse_3:10900435|ACETON - UN 1090 - Gefahrnr. 33 - ERICard-Nr. 3-09]]|  67-64-1  |  1090  |  n.f.  |  500 ppm  |  2,5 Vol.-%  |   |   |  X  |
+|Acrolein|[[:cbrn:ericards:klasse_6-1:10920437|ACROLEIN, STABILISIERT - UN 1092 - Gefahrnr. 663 - ERICard-Nr. 6-31]]|  107-02-8  |  1092  |  0,1 ppm  |  0,1 ppm  |  2,8 Vol.-%  |   |   |   |
+|Acrylnitril|[[:cbrn:ericards:klasse_3:10930438|ACRYLNITRIL, STABILISIERT - UN 1093 - Gefahrnr. 336 - ERICard-Nr. 3-17]]|  107-13-1  |  1093  |  1,7 ppm  |  0,48 ppm  |  2,8 Vol.-%  |   |  H  |   |
+|[[:cbrn:chemisch:klasse_2:stoffe:ammoniak|]]|[[:cbrn:ericards:klasse_2:10050369|AMMONIAK, WASSERFREI - UN 1005 - Gefahrnr. 268 - ERICard-Nr. 2-42]]|  7664-41-7  |  1005  |  160 ppm  |  110 ppm  |  15,4 Vol.-%  |   |   |  X  |
+|Anilin|[[:cbrn:ericards:klasse_6-1:15470770|ANILIN - UN 1547 - Gefahrnr. 60 - ERICard-Nr. 6-09]]|  62-53-3  |  1547  |  12 ppm  |  3 ppm  |  1,2Vol.-%  |   |  H  |  X  |
+|Arsenwasserstoff|—|  7784-42-1  |  2188  |  0,17 ppm  |  0,04 ppm  |  3,9 Vol.-%  |   |   |   |
+|Benzol|—|  71-43-2  |  1114  |  n.f.  |  20 ppm  |  1,2 Vol.-%  |   |  H  |  X  |
+|[[:cbrn:chemisch:klasse_2:stoffe:phosgen|Carbonylchlorid (Phosgen)]]|[[:cbrn:ericards:klasse_2:10760422|PHOSGEN - UN 1076 - Gefahrnr. 268 - ERICard-Nr. 2-34]]|  75-44-5  |  1076  |  0,30 ppm  |  0,08 ppm  |  n.b.  |   |   |  X  |
+|[[:cbrn:chemisch:klasse_2:stoffe:chlor|]]|[[:cbrn:ericards:klasse_2:10170380|CHLOR - UN 1017 - Gefahrnr. 265 - ERICard-Nr. 2-31]]|  7782-50-5  |  1017  |  2 ppm  |  1 ppm  |  n.b.  |   |   |  X  |
+|Chlorbenzol|[[:cbrn:ericards:klasse_3:11340468|CHLORBENZEN - UN 1134 - Gefahrnr. 30 - ERICard-Nr. 3-02]]|  108-90-7  |  1134  |  150 ppm  |  150 ppm  |  1,3 Vol.-%  |   |   |  X  |
+|Chlorcyan|—|  506-77-4  |  1589  |  n.f.  |  0,3 ppm  |  n.b.  |   |   |   |
+|Chloroform|[[:cbrn:ericards:klasse_6-1:18881057|CHLOROFORM - UN 1888 - Gefahrnr. 60 - ERICard-Nr. 6-06]]|  67-66-3  |  1888  |  64 ppm  |  40 ppm  |  n.b.  |   |  H  |   |
+|Chlorwasserstoff|[[:cbrn:ericards:klasse_2:10500403|CHLORWASSERSTOFF, WASSERFREI - UN 1050 - Gefahrnr. 268]]|  7647-01-0  |  1050  |  22 ppm  |  11 ppm  |  n.b.  |   |   |   |
+|Salzsäure (Chlorwasserstoff in wässriger Lösung)|[[:cbrn:ericards:klasse_8:17890983|CHLORWASSERSTOFFSÄURE - UN 1789 - Gefahrnr. 80 - ERICard-Nr. 8-03]]|  1789  |   |   |   |   |   |   |   |
+|[[:cbrn:chemisch:klasse_6-1:stoffe:blausaeure|Cyanwasserstoff (Blausäure)]]|—|  74-90-8  |  1051, 1614  |  7,1 ppm  |  3,5 ppm  |  5,4 Vol.-%  |  G  |  H  |  X  |
+|[[:cbrn:chemisch:klasse_6-1:stoffe:blausaeure|Cyanwasserstoff in wässriger Lösung]]|[[:cbrn:ericards:klasse_6-1:16130832|CYANWASSERSTOFF, WÄSSERIGE LÖSUNG (CYANWASSERSTOFFSÄURE) mit höchstens 20 % Cyanwasserstoff - UN 1613 - Gefahrnr. 663 - ERICard-Nr. 6-31]]|   |1613  |   |   |   | ::: | ::: | ::: |
+|Cyclohexylamin|[[:cbrn:ericards:klasse_8:23571350|CYCLOHEXYLAMIN - UN 2357 - Gefahrnr. 83 - ERICard-Nr. 8-13]]|  108-91-8  |  2357  |  8,6 ppm  |  5,4 ppm  |  1,6 Vol.-%  |   |  H  |   |
+|Epichlorhydrin|[[:cbrn:ericards:klasse_6-1:20231157|EPICHLORHYDRIN - UN 2023 - Gefahrnr. 63 - ERICard-Nr. 6-16]]|  106-89-8  |  2023  |  24 ppm  |  16 ppm  |  2,3 Vol.-%  |   |  H  |  X  |
+|Essigsäure|[[:cbrn:ericards:klasse_8:27891694|EISESSIG oder ESSIGSÄURE, LÖSUNG mit mehr als 80 Masse-% Säure - UN 2789 - Gefahrnr. 83 - ERICard-Nr. 8-12]]|  64-19-7  |  2789  |  n.f.  |  20 ppm  |  4,0 Vol.-%  |   |   |  X  |
+|Ethanol|[[:cbrn:ericards:klasse_3:11700502|ETHANOL, LÖSUNG (ETHYLALKOHOL, LÖSUNG) - UN 1170 - Gefahrnr. 30 - ERICard-Nr. 3-02]]|  64-17-5  |  1170  |  n.f.  |  3.000 ppm  |  3,1 Vol.-%  |   |   |  X  |
+|Ethylendiamin|[[:cbrn:ericards:klasse_8:16040825|ETHYLENDIAMIN - UN 1604 - Gefahrnr. 83 - ERICard-Nr. 8-13]]|  107-15-3  |  1604  |  9,7 ppm  |  6,1 ppm  |  2,7 Vol.-%  |   |   |  X  |
+|Ethylenoxid|[[:cbrn:ericards:klasse_2:10400398|ETHYLENOXID MIT STICKSTOFF - UN 1040 - Gefahrnr. 263 - ERICard-Nr. 2-12]]|  75-21-8  |  1040  |  45 ppm  |  14 ppm  |  2,6 Vol.-%  |   |  H  |  X  |
+|Fluor|—|  7782-41-4  |  1045  |  5 ppm  |  2,3 ppm  |  n.b.  |   |  H  |   |
+|Fluorwasserstoff|[[:cbrn:ericards:klasse_8:10520404|FLUORWASSERSTOFF, WASSERFREI - UN 1052 - Gefahrnr. 886 - ERICard-Nr. 8-40]]|  7664-39-3  |  1052  |  24 ppm  |  12 ppm  |  n.b.  |   |  H  |   |
+|[[:cbrn:chemisch:klasse_8:stoffe:flusssaeure|]] (Fluorwasserstoff in wässriger Lösung)|[[:cbrn:ericards:klasse_8:17900984|FLUORWASSERSTOFFSÄURE mit mehr als 85 % Fluorwasserstoff - UN 1790 - Gefahrnr. 886 - ERICard-Nr. 8-56]]|  1790  |   |   |   |   |   |   |   |
+|Formaldehyd|[[:cbrn:ericards:klasse_3:11980529|FORMALDEHYDLÖSUNG, ENTZÜNDBAR - UN 1198 - Gefahrnr. 38 - ERICard-Nr. 3-30]]|  50-00-0  |  1198  |  n.f.  |  1 ppm  |  7,0 Vol.-%  |   |   |  X  |
+| ::: |[[:cbrn:ericards:klasse_8:22091215|FORMALDEHYDLÖSUNG mit mindestens 25 % Formaldehyd - UN 2209 - Gefahrnr. 80 - ERICard-Nr. 8-06]]|   |  2209  |   |   |   |   |   |   |
+|n-Hexan|[[:cbrn:ericards:klasse_3:12080537|HEXANE - UN 1208 - Gefahrnr. 33 - ERICard-Nr. 3-11]]|  110-54-3  |  1208  |  2.900 ppm  |  2.900 ppm  |  1,0 Vol.-%  |   |   |  X  |
+|Hydrazin|—|  302-01-2  |  2029  |  13 ppm  |  3,1 ppm  |  4,7 Vol.-%  |   |  H  |   |
+|[[:cbrn:chemisch:klasse_2:stoffe:kohlendioxid|Kohlenstoffdioxid]]|[[:cbrn:ericards:klasse_2:10130376|KOHLENDIOXID - UN 1013 - Gefahrnr. 20 - ERICard-Nr. 2-51]]|  124-38-9  |  1013  |  n.f.  |  10.000 ppm  |  n.b.  |   |   |   |
+|Kohlenstoffdisulfid (Schwefelkohlenstoff)|[[:cbrn:ericards:klasse_3:11310465|KOHLENSTOFFDISULFID - UN 1131 - Gefahrnr. 336 - ERICard-Nr. 3-15]]|  75-15-0  |  1131  |  160 ppm  |  100 ppm  |  0,6 Vol.-%  |   |  H  |   |
+|[[:cbrn:chemisch:klasse_2:stoffe:kohlenmonoxid|Kohlenstoffmonoxid]]|[[:cbrn:ericards:klasse_2:10160379|KOHLENMONOXID, VERDICHTET - UN 1016 - Gefahrnr. 263 - ERICard-Nr. 2-13]]|  630-08-0  |  1016  |  83 ppm  |  33 ppm  |  11,3 Vol.-%  |   |   |  X  |
+|Methanol|[[:cbrn:ericards:klasse_3:12300554|METHANOL - UN 1230 - Gefahrnr. 336 - ERICard-Nr. 3-15]]|  67-56-1  |  1230  |  n.f.  |  720 ppm  |  6,0 Vol.-%  |   |  H  |   |
+|Methylmercaptan|[[:cbrn:ericards:klasse_2:10640413|METHYLMERCAPTAN - UN 1064 - Gefahrnr. 263 - ERICard-Nr. 2-14]]|  74-93-1  |  1064  |  23 ppm  |  14 ppm  |  4,1 Vol.-%  |   |   |  X  |
+|Phosphorwasserstoff (Phosphin)|—|  7803-51-2  |  2199  |  2 ppm  |  0,5 ppm  |  1.0 Vol.-%  |   |   |   |
+|Salpetersäure|[[:cbrn:ericards:klasse_8:20311168|SALPETERSÄURE, andere als rotrauchende, mit mehr als 70 % Säure - UN 2031 - Gefahrnr. 885 - ERICard-Nr. 8-60]]|  7697-37-2  |  2031  |  24 ppm  |  6 ppm  |  n.b.  |   |   |   |
+| ::: |[[:cbrn:ericards:klasse_8:20321169|SALPETERSÄURE, ROTRAUCHEND - UN 2032 - Gefahrnr. 856 - ERICard-Nr. 8-23]]|   |  2032  |   |   |   |   |   |   |
+|Schwefeldioxid|[[:cbrn:ericards:klasse_2:10790425|SCHWEFELDIOXID - UN 1079 - Gefahrnr. 268 - ERICard-Nr. 2-24]]|  7446-09-5  |  1079  |  0,75 ppm  |  0,75 ppm  |  n.b.  |   |   |  X  |
+|[[:cbrn:chemisch:klasse_2:stoffe:schwefelwasserstoff|]]|[[:cbrn:ericards:klasse_2:10530405|SCHWEFELWASSERSTOFF - UN 1053 - Gefahrnr. 263 - ERICard-Nr. 2-14]]|  7783-06-4  |  1053  |  27 ppm  |  20 ppm  |  4,3 Vol.-%  |  G  |   |   |
+|Stickstoffdioxid|[[:cbrn:ericards:klasse_2:10670416|DISTICKSTOFFTETROXID (STICKSTOFFDIOXID) - UN 1067 - Gefahrnr. 265 - ERICard-Nr. 2-37]]|  10102-44-0  |  1067  |  12 ppm  |  8,2 ppm  |  n.b.  |   |   |   |
+|Styrol|[[:cbrn:ericards:klasse_3:20551187|STYREN, MONOMER, STABILISIERT - UN 2055 - Gefahrnr. 39 - ERICard-Nr. 3-36]]|  100-42-5  |  2055  |  n.f.  |  40 ppm  |  0,97 Vol.-%  |  G  |   |  X  |
+|Tetrachlorethen|[[:cbrn:ericards:klasse_6-1:18971063|TETRACHLORETHYLEN - UN 1897 - Gefahrnr. 60 - ERICard-Nr. 6-06]]|  127-18-4  |  1897  |  230 ppm  |  120 ppm  |  n.b.  |   |  H  |  X  |
+|Tetrachlorkohlenstoff|[[:cbrn:ericards:klasse_6-1:18461035|TETRACHLORKOHLENSTOFF - UN 1846 - Gefahrnr. 60 - ERICard-Nr. 6-06]]|  56-23-5  |  1846  |  13 ppm  |  7,6 ppm  |  n.b.  |   |  H  |   |
+|Toluol|[[:cbrn:ericards:klasse_3:12940606|TOLUEN - UN 1294 - Gefahrnr. 33 - ERICard-Nr. 3-11]]|  108-88-3  |  1294  |  560 ppm  |  310 ppm  |  1,1 Vol.-%  |   |   |  X  |
+|Toluoldiisocyanat 2,4-TDI und 2,6 TDI Isomerengemisch|[[:cbrn:ericards:klasse_6-1:20781200|TOLUYLENDIISOCYANAT - UN 2078 - Gefahrnr. 60 - ERICard-Nr. 6-06]]|  1321-38-6  |  2078  |  0,083 ppm  |  0,021 ppm  |  0,9 Vol.-%  |   |   |  X  |
+|1, 1, 1-Trichlorethan|[[:cbrn:ericards:klasse_6-1:28311727|1,1,1-TRICHLORETHAN - UN 2831 - Gefahrnr. 60 - ERICard-Nr. 6-06]]|  71-55-6  |  2831  |  600 ppm  |  380 ppm  |  8,0 Vol.-%  |   |  H  |  X  |
+|1, 1, 2-Trichlorethan|—|  79-00-5  |  3082  |  n.f.  |  25 ppm  |  n.b.  |   |  H  |  X  |
+|Trichlorethen|[[:cbrn:ericards:klasse_6-1:17100910|TRICHLORETHYLEN - UN 1710 - Gefahrnr. 60 - ERICard-Nr. 6-06]]|  79-01-6  |  1710  |  n.f.  |  100 ppm  |  7,9 Vol.-%  |   |  H  |  X  |
+|Vinylchlorid|[[:cbrn:ericards:klasse_2:10860431|VINYLCHLORID, STABILISIERT - UN 1086 - Gefahrnr. 239 - ERICard-Nr. 2-44]]|  75-01-4  |  1086  |  1.200 ppm  |  820 ppm  |  3,8 Vol.-%  |  G  |  H  |  X  |
+
+  * **n.b. in Spalte UEG:**  Stoff nicht brennbar
+  * G = **Gewöhnung Geruchssinn:**  Es besteht die Gefahr, dass sich der Geruchssinn an den Gefahrstoff gewöhnt und dieser daher nicht mehr wahrgenommen wird.
+  * H = **Hautresorptiv:**  Der Gefahrstoff kann über die Haut aufgenommen werden
+  * **CBRN ErkW:**  Der Stoff ist durch die Messgeräte des [[:cbrn:geraete:cbrn-erkw|CBRN-ErkW]] (früher //ABC-ErkKW//  / ABC-Erkunder) nachweisbar
+  * Aufgrund alternativer Schreibweisen des Stoffs kann sich die Stoffbezeichnung der ERICard unterscheiden!
+
+Tabelle mit Ausnahme der Spalte //ERICard//  entnommen aus der Anlage 1 zur vfdb-Richtlinie 10/01, verfügbar im Internet unter [[http://www.vfdb-10.de/richtlinien/rl-01-etws/|http://www.vfdb-10.de/richtlinien/rl-01-etws/]]
+
+==== IDLH ====
+
+Der IDLH-Wert //(**I**mmediately **D**angerous to **L**ife and **H**ealth)//  gibt die maximale Konzentration eines Stoffs an, bei der beim Flüchten einer Person innerhalb von 30 Minuten keine bleibenden körperlichen Schäden entstehen.
+
+Nach der Beurteilung des Bundesumweltamtes sind die Werte allerdings recht ungenau, unter anderem weil auf die Expositionsdauer von 30 Minuten teilweise hochgerechnet wurde.
+
+==== LC 50 ====
+
+Die LC<sub>50</sub>  (//**l**ethal **c**oncentration//, tödliche Konzentration) gibt die Konzentration eines Stoffes in der Umgebung eines Lebenwesens an, bei der die Hälfte der beobachteten Individuen sterben.
+
+==== LC Lo ====
+
+Die LC<sub>Lo</sub>  (//**l**ethal **c**oncentration//, tödliche Konzentration) gibt die niedrigste Konzentration eines Stoffes in der Umgebung eines Lebenwesens an, bei der eines der beobachteten Individuen stirbt.
+
+==== LD 50 ====
+
+Die LD<sub>50</sub>  (//**l**ethal **d**ose//, tödliche Dosis) gibt die Dosis eines Lebenwesens an, bei der die Hälfte der beobachteten Individuen sterben..
+
+==== MAK ====
+
+Abkürzung für //**m**aximale **A**rbeitsplatz**k**onzentration//. Wird der genannte Wert der Konzentration nicht überschritten, so ist bei einer Belastung der Arbeitnehmers von 8 Stunden täglich und 40 Stunden pro Woche keine Schädigung zu erwarten.
+
+Die MAK-Werte sind im Zuge der Neufassung der Gefahrstoffverordnung im Jahr 2005 mittlerweile in den AGWs aufgegangen. Bis die MAK-Werte aber vollständig in die AGW überführt sind, oder bei nicht ganz aktuellen Nachschlagewerken, kann der MAK-Wert noch gefunden werden.
+
+Da der MAK-Wert für eine dauerhafte Exposition ausgelegt ist, eignet er sich zur Bewertung von Gefahren für die Bevölkerung weniger gut als die speziell dafür ausgelegten ETW, AEGL-, ERPG-, TEEL-, und ähnliche Werte und sollte daher nicht verwendet werden wenn ein solcher geeigneterer Wert vorliegt, um die Gefährdung nicht zu überschätzen.
+
+==== PAC ====
+
+PAC-Werte //(Protective Action Criteria for Chemicals)//  sind keine Störfallbeurteilungswerte im eigentlichen Sinne, sondern bieten den jeweils geeignetesten, verfügbaren Wert aus der Gruppe der AEGL-, ERPG- und TEEL-Werte an. Dabei werden die Werte in der folgenden Reihenfolge verwendet:
+
+  * finalisierte AEGL-Werte für 60 Minuten
+  * vorläufige AEGL-Werte für 60 Minuten
+  * ERPG-Werte
+  * TEEL-Werte
+
+Die PAC-Werte werden dabei, wie auch die AEGL-, ERPG- und TEEL-Wertew aus denen sie sich ableiten, in den drei unterschiedlichen Stufen angegeben:
+
+  * PAC-1: Spürsames Unwohlsein und Reizungen, aber keine Behinderung der Fähigkeit zu flüchten. Mit Beendigung der Stofffreisetzung verschwinden die Symptome wieder vollständig.
+  * PAC-2: Irreversible oder lang andauernde gesundheitliche Auswirkungen oder fluchtbehindernde Wirkung.
+  * PAC-3: Lebensbedrohliche oder tödliche Auswirkungen.
+
+==== TC Lo ====
+
+Die TC<sub>Lo</sub>  (//**t**oxic **c**oncentration//, toxische Konzentration) gibt die niedrigste Konzentration in der sich ein Lebewesen befindet an, die eine oder mehrere Auswirkungen hervorruft.
+
+==== TD Lo ====
+
+Die TD<sub>Lo</sub>  (//**t**oxic **d**ose//, toxische Dosis) gibt die niedrigste Dosis an, die bei einem Lebewesen eine oder mehrere Auswirkungen hervorruft.
+
+==== TEEL ====
+
+TEEL-Werte //(**T**emporary **E**mergency **E**xposure **L**imits)//  werden in ppm oder mg/m³ angegeben und dienen als Beurteilungsgröße für körperliche Auswirkungen bei Chemikalienfreisetzungen. Sie schließen nahezu die gesamte Bevölkerung, also auch empfindliche Personen, für eine potentielle Auswirkung ein. Die Expositionsdauer ist dabei auf eine Stunde ausgelegt. Wie auch die AEGL- und ERPG-Werte werden sie in drei Gruppen eingeteilt:
+
+  * TEEL-1: Spürsames Unwohlsein und Reizungen, aber keine Behinderung der Fähigkeit zu flüchten. Mit Beendigung der Stofffreisetzung verschwinden die Symptome wieder vollständig.
+  * TEEL-2: Irreversible oder lang andauernde gesundheitliche Auswirkungen oder fluchtbehindernde Wirkung.
+  * TEEL-3: Lebensbedrohliche oder tödliche Auswirkungen.
+
+Im System der PAC-Werte werden TEEL-Werte nur verwendet, wenn keine AEGL- oder ERPG-Werte vorliegen. Liegen solche Werte vor, sollte der TEEL-Wert nicht verwendet werden (dann der AEGL-Wert vor dem ERPG-Wert).
+
+Das Umweltbundesamt rät, die TEEL-Werte aufgrund ungenauer Ermittlungserfahren kritisch zu betrachten.
+
+==== TLV ====
+
+Der TLV (**T**hreshold **L**imit **V**alue) wird in den USA als Grenzwert im Arbeitsschutz eingesetzt und entspricht in der Definition dem AGW und dem MAK-Wert.
+
+==== TRK ====
+
+Die //**T**echnische **R**icht**k**onzentration//  gibt die maximale Konzentration am Arbeitsplatz an, ähnliche des MAK-Wertes. TRK-Werte werden für krebserzeugende Stoffe oder solche die in diesem Verdacht stehen angegeben, im Gegensatz zu den MAK-Werten ist bei den TRK-Werten eine Schädigung nicht völlig auszuschließen.
+
+Die TRK-Werte sind im Zuge der Neufassung der Gefahrstoffverordnung im Jahr 2005 mittlerweile in den AGWs aufgegangen. Bis die TRK-Werte aber vollständig in die AGW überführt sind, oder bei nicht ganz aktuellen Nachschlagewerken, kann der TRK-Wert noch gefunden werden.
+
+===== Quellenangabe =====
+
+  * [[http://www.umweltbundesamt.de/aegl-stoerfallbeurteilungswerte-die-werte|AEGL - Störfallbeurteilungswerte: Die Werte]], Umweltbundesamt
+  * [[http://response.restoration.noaa.gov/oil-and-chemical-spills/chemical-spills/resources/protective-action-criteria-chemicals-pacs.html|http://response.restoration.noaa.gov/oil-and-chemical-spills/chemical-spills/resources/protective-action-criteria-chemicals-pacs.html]]
+  * [[http://response.restoration.noaa.gov/oil-and-chemical-spills/chemical-spills/resources/temporary-emergency-exposure-limits-teels.html|http://response.restoration.noaa.gov/oil-and-chemical-spills/chemical-spills/resources/temporary-emergency-exposure-limits-teels.html]]
+  * [[http://www.atlintl.com/DOE/teels/teel/teeldef.html|http://www.atlintl.com/DOE/teels/teel/teeldef.html]]
+  * Lehrgangsunterlagen "Führer im ABC-Einsatz", Staatliche Feuerwehrschule Regensburg
+  * [[wpde>Letale_Dosis|Letale Dosis]] bei Wikipedia, veröffentlicht unter //Creative Commons Attribution/Share ////Alike//-Lizenz
+  * Lehrgangsunterlagen "Chemische Risiken", Akademie für Krisenmanagement, Notfallplanung und Zivilschutz (AKNZ)

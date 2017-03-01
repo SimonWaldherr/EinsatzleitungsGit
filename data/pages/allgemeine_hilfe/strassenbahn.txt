@@ -1,0 +1,43 @@
+====== Straßenbahnunfall ======
+
+<WRAP center round important 100%>
+Die Aussagen auf dieser Seite sind sehr allgemein gehalten, da das Vorgehen stark von den örtlichen Regelungen abhängig sein kann!
+</WRAP>
+
+Bei einem Brand, siehe [[brand:strassenbahn]] für weitere Informationen.
+
+Bei Verkehrsunfällen mit Straßenfahrzeugen siehe auch [[allgemeine_hilfe:verkehrsunfall:start]]
+
+===== zu treffende Maßnahmen =====
+
+  * Fahrbetrieb über Verkehrsunternehmen (Notfallmanager) einstellen lassen
+  * Mindestabstand zum Fahrdraht einhalten (1 m bei bis zu 1.500 V Gleichspannung), nicht vor Erdung auf das Dach steigen
+  * Stromabnehmer absenken (lassen)
+  * [[allgemein:absicherung_einsatzstelle|Absicherung der Einsatzstelle]]; Gleise und Straße
+  * Trennschalter an den Stromversorgungsmasten betätigen und Fahrdraht erden (<wrap important>Diese Maßnahmen dürfen je nach örtlicher Regelung ggf. nur durch das Verkehrsunternehmen durchgeführt werden</wrap>)
+  * evtl. Auslösung [[allgemein:manv|MANV]]
+
+==== zusätzlich: bei abgerissenem Fahrdraht ====
+
+  * Mindestabstand auch hier 1 m (kein Spannungstrichter bei Niederspannung)
+  * Wenn der Fahrdraht auf einem Fahrzeug liegt, keine Annäherung, bis der Fahrdraht geerdet ist; Fahrzeuginsassen nicht aussteigen lassen
+
+==== besondere Gefahren ====
+
+  * je nach Witterung langer Bremsweg
+  * kaum hörbare Fahrgeräusche
+  * Fahrspannung meist zwischen 500 und 750 Volt Gleichspannung (abhängig von Betreiber)
+  * Große Anzahl an Fahrgästen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * auf [[allgemein:pressearbeit|Presseanfragen]] vorbereiten
+  * evtl. [[allgemein:psnv:start|Psychologische Betreuung]] Angehöriger und Einsatzkräfte
+
+===== Quellenangabe =====
+
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr
+
+===== Stichwörter =====
+
+Trambahn, Tramway, Tram

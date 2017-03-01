@@ -1,0 +1,24 @@
+====== InterWiki ======
+
+====== InterWiki Links ======
+
+Die Ursprungsidee des InterWiki war die Schaffung eines großen, über das gesamte Internet verteilten Wikis. Heute ist es jedoch eher ein schneller Weg von einem Wiki in ein anderes zu verweisen.
+
+In der [[wiki:hilfe:hintergrund_einsatzleiterwiki|zugrundeliegenden DokuWiki-Software]] wird dies durch eine vordefinierte Verknüpfung des Wiki-[[wiki:hilfe:seitennamen|Seitennamens]] mittels Shortcut getrennt durch das ''>'' Zeichen erreicht.
+
+Beispiel:
+  [[wp>Wiki]] Link zu englischsprachigen Wikipedia,
+  [[Meatball>TourBusStop]] Link zum MeatBall wiki TourBusStop,
+  [[google>Wiki]] Link zur Suche mit google.com.
+
+[[wp>Wiki]] Link zu englischsprachigen Wikipedia, [[Meatball>TourBusStop]] Link zum MeatBall wiki TourBusStop, [[google>Wiki]] Link zur Suche mit google.com
+
+Es gibt einen speziellen InterWiki Shortcut: **''this''**. Er zeigt immer auf das Verzeichnis des Webservers, auf dem DokuWiki installiert ist. Dieser kann verwendet werden um relative URLs zu erzeugen. Beispielsweise kann immer auf das lokale [[wiki:hilfe:syndication|XML feed]] verwiesen werden: [[this>feed.php]]
+
+  [[this>feed.php]]
+
+Weiter Informationen zum Thema InterWiki gibt es auf der [[doku>de:InterWiki|DokuWiki-Projektseite]]
+
+===== Quellenangabe =====
+
+  * [[doku>de:InterWiki|InterWiki]], veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

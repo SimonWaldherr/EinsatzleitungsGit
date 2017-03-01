@@ -1,0 +1,43 @@
+====== Löschmittel Kohlenstoffdioxid ======
+
+Diese Seite behandelt nur das Löschmittel CO₂ an sich. Für Vorgehenshinweise zu CO₂-Löschanlagen siehe [[:brand:allgemein:loeschanlagen#co₂-loeschanlagen|Löschanlagen]].
+
+==== besondere Gefahren ====
+
+  * Thermische Zersetzung (Dissoziation) in Kohlenstoffmonoxid und Sauerstoff beginnt ab 1500 °C. Bei 3000 °C zersetzen sich 75% des CO<sub>2</sub>.
+  * Der ETW-4 (Einsatztoleranzwert für 4 h liegt bei 10.000 ppm (1 Vol-%)
+  * elektrostatische Aufladung des CO<sub>2</sub>  beim Austritt möglich; reicht als Zündenergie z.B. für Wasserstoff-Luft-Gemische aus!
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Löschwirkung entsteht durch Stickeffekt
+      * wirksam nur bei den [[:brand:allgemein:brandklassen|]] B und C, bei Klasse B:
+
+        * Rückzündungsgefahr, kein Kühleffekt (von brennender Flüssigkeit und Behälter)
+        * mögliches Herausspritzen der brennenden Flüssigkeit aus dem Behältnis möglich
+      * CO<sub>2</sub>-Konzentration von 30% für Löscherfolg erforderlich
+        * → Tragen von Atemschutz in kleinen Räumen, Schächten, Kanälen etc. erforderlich
+        * bei 20°C wird aus 1 kg CO<sub>2</sub>  etwa 550 Liter Gas
+      * in geschlossenen Räumen muss bei Löschanlagen ca. 1 kg CO<sub>2</sub>  pro m³ Raum vorgesehen werden
+      * Löscheffekt im Freien kaum möglich
+  * sauberes, rückstandfreies Löschmittel
+  * Löschen von Metallbränden nicht möglich (CO<sub>2</sub>  zerfällt aufgrund hoher Temperaturen)
+  * Löschen von Glutbränden nicht möglich
+
+==== Physikalische Eigenschaften ====
+
+^[[:allgemein:dichtetabelle|Dichte]]|1,977 kg/m³  |
+^   |ca. 1,5 mal schwerer als Luft|
+^Sublimationspunkt  |-78,5 °C  |
+
+===== Quellenangabe =====
+
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * http://www.vfdb-10.de/richtlinien/rl-01-etws/richtlinie-10-01-bewertung-von-schadstoffkonzentrationen-im-feuerwehreinsatz.html (ETW)
+
+===== Stichwörter =====
+
+CO2, Kohlendioxid
+
+\\
+

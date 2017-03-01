@@ -1,0 +1,16 @@
+====== relative Dichte zu Luft ======
+
+auch: **relative Gasdichte**
+
+Die relative Dichte zu Luft gibt an, wie groß die Dichte bzw. Masse eines Stoffs im Vergleich zum gleichen Volumen Luft ist. Für Luft ist der Wert 1 definiert.
+
+  * Ist der Wert des Dampfs/Gases größer als 1, sinkt dieser/dieses zu Boden.
+  * Ist der Wert kleiner als 1, dann steigt er/es auf.
+
+Dabei ist zu beachten, dass der Wert auf der Grundlage gleicher Temperaturen angegeben ist. Tritt ein Stoff mit heißen Temperaturen aus, so ist der Wert niedriger. Tritt ein Stoff mit kalten Temperaturen aus, so ist sein Wert höher.
+
+Die Dämpfe von Säuren und brennbaren Flüssigkeiten sind fast alle schwerer als Luft, Ausnahme [[cbrn:chemisch:klasse_6-1:stoffe:blausaeure|Blausäure]].
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

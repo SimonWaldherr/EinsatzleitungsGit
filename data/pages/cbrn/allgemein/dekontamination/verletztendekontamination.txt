@@ -1,0 +1,46 @@
+====== Verletztendekontamination ======
+
+Kontaminierte Verletzte sind:
+  * Personen im Gefahrenbereich ohne Schutzkleidung
+  * Einsatzkräfte, die Schutzkleidung ohne Dekon ablegen mussten
+  * Einsatzkräfte mit Verdacht auf Hautkontamination
+
+Siehe auch den Hauptartikel [[cbrn:allgemein:dekontamination:start|Dekontamination]] sowie [[cbrn:allgemein:dekontamination:kontaminationsnachweis]], [[cbrn:allgemein:dekontamination:desinfektion]] und [[cbrn:allgemein:dekontamination:c-dekon]]
+
+===== zu treffende Maßnahmen =====
+
+  * Kontaminierte Verletzte - soweit medizinisch vertretbar - unter Verantwortung und Anleitung des Rettungsdienstes (Notarzt) dekontaminieren.
+  * darauf achten, dass keine Schadstoffe [[cbrn:allgemein:cbrn-lexikon:inkorporation|inkorporiert]] werden (z. B. durch Mund, Nase, Ohren oder offene Wunden). Diese ggf. vorher abdecken.
+  * Bei ABC-Gefahrstoffen, die bei Kontaminationsverschleppung eine erhebliche Schadenausweitung hervorrufen würden (z. B. [[cbrn:chemisch:chemische_kampfstoffe|Kampfstoffe]] und [[cbrn:biologisch:start|ansteckungsgefährliche Stoffe]]), ist eine Dekontamination/Desinfektion direkt an der Einsatzstelle erforderlich
+
+==== Reihenfolge für die Dekontamination Verletzter ====
+
+  - Basic Life Support (lebensrettende Sofortmaßnahmen)
+    * Atemwege freimachen
+    * Blutstillung
+    * [[cbrn:allgemein:dekontamination:verletztendekontamination#priorisierung|Priorisierung]] / Sichtung
+  - Entkleidung und Spot-Dekontamination
+  - ggf. erweiterte medizinische Maßnahmen
+  - ggf. Nassdekontamination
+
+=== Priorisierung ===
+
+Die Dekon V sollte in folgender Reihenfolge geschehen:
+
+  - Wundbereiche kontaminiert
+  - Gesicht kontaminiert
+  - Haut- / Körperoberfläche kontaminiert
+  - (Ober-) Bekleidung kontaminiert
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Spülung der Augen mit 0,9%iger Natriumchlord-Lösung (aus dem Rettungsdienst)
+
+===== Quellenangabe =====
+
+  * vfdb-Richtlinie 10/04, Vereinigung zur Förderung des Deutschen Brandschutzes e.V
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+
+===== Stichwörter =====
+
+Dekon-V, V-Dekon

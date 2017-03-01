@@ -1,0 +1,34 @@
+====== Eigenes Logo einfügen ======
+
+Ab dem Einsatzleiterwiki-Update Januar 2015 ist es gleichzeitig mit dem neuen Design nun auch möglich, das eigene Einsatzleiterwiki durch Einfügen des Logos der eigenen Feuerwehr zu personalisieren.
+
+Das Logo sollte vor dem Einfügen in eine quadratische Form gebracht werden. Es ist zwar auch möglich nicht-quadratische Logos zu verwenden, diese führen aber dazu dass sich das Design verschiebt und dadurch ggf. größere leere Bereiche entstehen die nicht genutzt werden können.
+
+===== Anforderungen an das Logo =====
+
+Das Logo sollte eine Größe von 64 x 64 Pixel besitzen und muss im PNG-Format vorliegen. Der Dateiname muss logo.png lauten.
+
+===== Einfügen des Logos =====
+
+Öffnen Sie den Medien-Manager (oben rechts unter dem Suchfeld oder während Sie beim Bearbeiten eines Artikels sind). Laden Sie Ihre Logo-Datei ''logo.png'' entweder direkt in das Hauptverzeichnis oder wahlweise in den Unternamensraum ''wiki''.
+
+Laden Sie die Internetseite neu (ggf. müssen Sie mehrmals auf "Neu Laden" klicken da der Browser das Bild zwischenspeichert). Ihr Logo sollte nun oben links neben dem Einsatzleiterwiki-Schriftzug das normale Einsatzleiterwiki-Logo ersetzen.
+
+===== Weitere Logos für Fortgeschrittene =====
+
+==== Favicon ====
+
+Wenn Sie ebenfalls ein eigenes Favicon nutzen möchten, so erstellen Sie eine 48 x 48 Pixel große .ico-Datei. Diese laden Sie wie das normale Logo in den Hauptnamensraum oder den Unternamensraum ''wiki''. Als Dateinamen verwenden Sie ''favicon.ico''.
+
+==== Logo für mobile Geräte ====
+
+Wenn Sie online mit Ihrem iPhone, iPad oder Android-Gerät auf Ihr Einsatzleiterwiki zugreifen und einen Link direkt auf dem Hauptbildschirm Ihres Geräts ablegen wollen, dann können Sie auch diese Grafik anpassen. Laden Sie dazu Ihr Logo mit der Größe 128 x 128 Pixel wie das normale Logo in den Hauptnamensraum oder den Unternamensraum ''wiki''. Der Dateiname muss ''apple-touch-icon.png'' lauten (auch wenn der Name täuscht: diese Datei wird auch von Android-Geräten genutzt).
+
+===== siehe auch =====
+
+  * [[wpde>Favicon|Artikel auf Wikipedia]] zum Thema Favicon
+  * [[wpde>ICO_(Dateiformat)|Artikel auf Wikipedia]] zum Thema ico-Datei
+
+===== Quellenangabe =====
+
+  * [[https://www.dokuwiki.org/template:dokuwiki]], Abschnitt //Changing the Logo//

@@ -1,0 +1,141 @@
+====== Demonstration des Einsatzleiterwikis ======
+
+
+Die Einzelheiten zur Idee die hinter dem Einsatzleiterwiki stehen kennen Sie vermutlich bereits, Sie können diese aber auch auf der [[http://einsatzleiterwiki.de/index.php/informationen|Informationsseite zum Projekt]] nachlesen.
+
+
+An dieser Stelle möchten wir Ihnen die Möglichkeiten zeigen, die das Einsatzleiterwiki Ihnen bietet. Außerdem können Sie erfahren, wo es sich gegenüber gedruckten Werken und anderen Softwarelösungen abhebt. Diese Dokumentation ist an die Präsentation des Systems angelehnt, wie sie bereits mehrfach bei interessierten Feuerwehren und Veranstaltungen gezeigt wurde und kann daher als schriftliche Zusammenfassung des Vortrags betrachtet werden. Teilweise wird sie auch darüber hinausgehen. Über die Druck-Funktion auf der linken Seite können Sie diesen Text im jeweils aktuellen Stand ausdrucken.
+
+
+**Dieser Artikel befindet sich noch im Aufbau.** 
+===== Startseite und Bedienoberfläche =====
+
+
+Auf der folgenden Grafik sehen Sie die Startseite des Einsatzleiterwikis. Diese wird angezeigt wenn Sie das Programm öffnen. Die Bedienoberfläche ist stark an das Aussehen der //Wikipedia// angelegt. Dadurch wird die Benutzung weiter vereinfacht, da die Oberfläche fast allen Nutzern geläufig sein wird. Nach Umschalten in den Administrationsmodus (wird später genauer erläutert) erscheinen weitere Schaltflächen; diese werden standardmäßig bewusst nicht angezeigt um die Einsatz-Oberfläche so sauber wie möglich zu halten.
+
+
+{{:wiki:hilfe:demonstration:startseite_wiki.png?direct&600}}
+
+
+Folgende Bedienelemente stehen hier zur Verfügung:
+
+
+    - Direktzugriff auf die einzelnen Kategorien\\  Diese Navigation ist nur auf der Startseite vorhanden, auf allen anderen Seiten ist die gleiche Funktionalität aber durch die vertikale Navigation (2) gegeben.
+    - Vertikale Navigation\\  In diesem Bereich befinden sich alle für den Einsatz relevanten Funktionen der Navigation.
+    - [[:wiki:hilfe:demonstration#volltextsuche|Volltextsuche]] \\  Hier kann der gesamte Wiki-Inhalt durchsucht werden.
+    - Anmeldung in den Administrationsmodus\\  An dieser Stelle kann eine Anmeldung im Administrationsmodus erfolgen. In diesem werden alle Einstellungen die das Einsatzleiterwiki betreffen vorgenommen. Es sind allerdings auch Abstufungen möglich, beispielsweise können Benutzer angelegt werden die nur die Berechtigung zur Pflege von Artikeln haben, aber nichts an der Konfiguration ändern dürfen.
+    - Auflistung der zuletzt angesehenen Artikel\\  Diese Funktion ist nützlich, wenn Sie schnell zwischen verschiedenen Seiten hin- und herspringen wollen; Beispielsweise zwischen einem Artikel zu Maßnahmen bei einem Gefahrstoffunfall und der Berechnung der Auswirkungen von diesem.
+
+
+===== Aufbau der Kategorieseiten =====
+
+
+Fast alle Kategorieseiten sind nach dem gleichen Muster aufgebaut. Auch dies dient wieder dem Zweck, die Bedienung so einfach wie möglich zu gestalten. Nachfolgend sehen Sie ein Bildschirmfoto der Kategorie [[:brand:start|Brandeinsätze]]:
+
+
+{{:wiki:hilfe:demonstration:brandeinsaetze.png?direct&600}}
+
+
+Hier sind verschiedene Szenarien aus dem Bereich der Brandeinsätze aufgelistet. In diesen Artikeln wird jeweils immer nur das einzelne Szenario behandelt. Relevante Zusatzhinweise wie z.B. das [[:brand:allgemein:photovoltaik|Vorgehen bei Photovoltaikanlagen]] sind in eigene Unterartikel ausgelagert, welche sich in der Unterkategorie [[:brand:allgemein:start|Brandeinsatz allgemein]] befinden. Diese können dann im entsprechendem Artikel zum Szenario verlinkt werden. Daraus ergibt sich der Vorteil, dass die Datenpflege immer nur in einem Artikel, aber nicht an mehreren Stellen erfolgen muss.
+
+
+Es gibt allerdings wie bereits eingangs erwähnt auch Abweichungen von der grundsätzlich festgelegten Anzeige der Kategorieartikel. Diese ist in der Kategorie [[cbrn:start|Gefährliche Stoffe und Güter]] am deutlichsten ausgeprägt.
+
+
+===== Aufbau der Artikel =====
+
+
+Alle Artikel sind immer nach dem gleichen Muster aufgebaut. Dies ermöglicht auch hier wieder eine einfachere Orientierung. Beim Anlegen eines neuen Artikels wird die Struktur mit den jeweiligen Überschriften automatisch erzeugt, und die einzelnen Bereiche müssen nur noch mit den Inhalten gefüllt werden. Der Artikelaufbau ist immer folgender:
+
+
+----
+
+
+=== Überschrift/Thema des Artikels ===
+
+
+== zu treffende Maßnahmen ==
+
+
+Stichpunktförmige Auflistung der wichtigsten Schritte.
+
+
+== besondere Gefahren ==
+
+
+Gefahren, die bei diesem Szenario besonders ausgeprägt sein könnten.
+
+
+== Allgemeine (Vorgehens-)Hinweise ==
+
+
+z.B. generelle Informationen, Verlinkungen relevanter und zugehöriger Artikel, Auflistung von zugeordneten Dateien, …
+
+
+== Weblinks ==
+
+
+zu weiterführenden Inhalten, Online-Recherche-Angeboten u.ä.
+
+
+== Kontaktdaten/Ansprechpartner ==
+
+
+z.B. Notrufnummern von spezialisierten Dienstleistern, beispielsweise TUIS
+
+
+== Quellenangabe ==
+
+
+Angabe der Quellen, um im Zweifel die Überprüfung der Inhalte einfacher zu gestalten. Außerdem kann so bei sich öfters ändernden Inhalten überprüft werden, ob die Daten noch aktuell sind.
+
+
+== Stichwörter ==
+
+
+Hier können durch Komma getrennte Stichwörter, beispielsweise Synonyme, zum Thema eingetragen werden. Dadurch werden bei der Suchfunktion bessere Ergebnisse erzielt und ein Artikel könnte auch bei unklaren Suchbegriffen gefunden werden.
+
+
+----
+
+
+In den Artikeln selbst können selbstverständlich auch Grafiken eingebunden werden. Ebenso können Dateien aller Art verknüpft werden. Diese können entweder direkt im System selbst gespeichert werden um sie lokal verfügbar zu machen, oder aber auch auf eine Datei im Internet zeigen.
+
+
+Links auf andere Artikel können in zwei verschiedenen Formen aufkommen; einmal in der Farbe blau wie dieser Link auf die [[:start|Startseite]], oder aber in der Farbe orange. Letzteres kennzeichnet einen [[:wiki:nichtexistenter_artikel|Artikel, der noch nicht existiert]]. Somit kann vollautomatisch eine "To-Do-Liste" zum Anfertigen weiterer Artikel angelegt werden, die unter [[:wiki:wartung|Wartung]] einsehbar ist.
+
+
+===== Spezielle Funktionen der Software =====
+
+
+Wie in der Einleitung bereits erwähnt, stellt das Einsatzleiterwiki Funktionen bereit, die in gedruckten Werken oder anderen Softwarelösungen so nicht möglich oder vorhanden sind. Diese sind unter anderem:
+
+
+==== Berechnungen ====
+
+
+Eine der wohl herausragendsten Funktionen des Einsatzleiterwikis ist die Möglichkeit, Berechnungen direkt im Artikeltext einzubinden und somit mit der Software zu interagieren. Diese Funktion ist derzeit unter anderem auf den Seiten [[cbrn:chemisch:klasse_2:fluessiggasberechnungen|Flüssiggasberechnungen]], [[:brand:allgemein:schaum|Schaum]] und [[cbrn:atomar:strahlenschutzberechnungen|Strahlenschutzberechnungen]] vorhanden.
+
+
+Die Berechnungen werden in der Programmiersprache [[wpde>JavaScript|JavaScript]] geschrieben. Es erfordert ein grundlegendes Verständnis der Funktion von Programmiersprachen um eigene Berechnungsformulare zu schreiben, die Beherrschung von JavaScript selbst ist aber nicht nötig. Der Autor der Einsatzleiterwiki-Software konnte ohne jegliche Erfahrung in der JavaScript-Programmierung nach etwa einem halben Arbeitstag die ersten fertigen Berechnungsformulare vorweisen.
+
+
+==== Volltextsuche ====
+
+
+Das Einsatzleiterwiki bietet dem Nutzer eine Volltextsuche. Geben Sie dafür beispielsweise in das Suchfeld //Schaum//  ein (Groß-/Kleinschreibung irrelevant). Wie Sie sehen, wird unterhalb des Suchfeldes bereits vor dem Drücken der Enter-Taste eine Liste mit direkten Treffern im Seitennamen angezeigt. Bei einem Klick auf den entsprechenden Titel wird der Artikel direkt geöffnet. Ist das gewünschte Thema noch nicht direkt in der Liste angezeigt, so drücken Sie nun die "Enter"-Taste und die ausführliche Suchergebnisseite wird geöffnet.
+
+
+Direkt auf den Suchbegriff zutreffende Seitennamen werden oben auf der Seite angezeigt, darunter werden Seiten die den Suchbegriff im Fließtext enthalten, sortiert nach Relevanz.
+
+
+==== Rettungsdatenblätter ====
+
+Auf der Seite [[:rettungsdatenblaetter:start|Rettungsdatenblätter]] finden Sie die Rettungsdatenblätter der verschiedenen Fahrzeughersteller. Da leider viele Fahrzeughersteller keine Erlaubnis zur Nutzung ihrer Rettungsdatenblätter im Einsatzleiterwiki erteilt haben, sind diese jeweils nur verlinkt.
+
+[[:allgemeine_hilfe:allgemein:rettungsdatenblaetter_bahn|Rettungsdatenblätter für Eisenbahnfahrzeuge]] sind übrigens ebenfalls im System hinterlegt, ebenso für [[allgemeine_hilfe:allgemein:luftwaffe_flugunfaelle|Luftfahrzeuge der Luftwaffe]] und [[allgemeine_hilfe:allgemein:rettungskarten_zivile_lfz|zivile Luftfahrzeuge]].
+
+==== lokaler Bereich ====
+
+
+Eigene Daten können Sie im [[:lokal:start|lokalen Bereich]] ablegen. Daten in diesem Bereich werden bei Synchronisationsvorgängen nicht berücksichtigt. Sie können hier bespielsweise Feuerwehrpläne, Fahrzeugbeladungslisten, Adresslisten, usw. einpflegen. Es sind den Möglichkeiten nahezu keine Grenzen gesetzt.

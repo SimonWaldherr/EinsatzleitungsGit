@@ -1,0 +1,92 @@
+~~NOCACHE~~
+
+====== Windenergieanlagen ======
+
+abgekürzt WEA
+
+===== zu treffende Maßnahmen =====
+
+  * Erkundung:
+    * Welche Anlage genau ist betroffen?
+    * Welcher geeignete Weg führt dorthin?
+    * Auf welcher Höhe befindet sich die Einsatzstelle?
+    * Dreht sich der Rotor?
+    * Nachfrage beim Betreiber der Anlage veranlassen, ggf. weitere Maßnahmen abstimmen (z.B. Abschaltung der Anlage aus der Ferne)
+  * bei Kleinstbränden und Hilfeleistungen als erste Maßnahme //Not-Stop//-Taster an der Vorder- oder Rückseite des Schaltschranks im Turmfuß der Anlage drücken. Weitere Einbauorte können sein:
+    * am Einstieg zur Gondel (im Maschinenhaus)
+    * am Getriebe
+    * am Schaltschrank der Gondel (im Maschinenhaus)
+  * Der **Not-Stop-Taster schaltet** die Anlage **nicht spannungsfrei**! Freischaltung durch Anlagen- oder Netzbetreiber veranlassen.
+  * [[allgemein:elektrische_anlagen#einzuhaltende_abstaende|Einhaltung der Abstände]] zu elektrischen Anlagen solange nicht freigeschaltet
+
+==== Brand ====
+
+  * Bei Brand im Maschinenhaus oben am Rotor
+    * kontrolliert abbrennen lassen, WEA nicht betreten!
+    * Beim Ablöschen heruntergefallener Teile Gefahrenbereich (Trümmerschatten) nicht betreten!
+    * Abfallende Teile sind wahrscheinlich, im Radius von 500 m absperren, bei markantem Wind 1.000 m
+    * Einsturzgefahr der Anlage? (Umstürzen/Zusammenfallen der kompletten Anlage ist eher unwahrscheinlich)
+  * Bei Brand im Turmfuß oder im Trafohäuschen:
+    * Löschversuch unter [[allgemein:elektrische_anlagen#einzuhaltende_abstaende|Einhaltung der Abstände]] möglich (Hochspannung!)
+  * Bei Kabelbränden
+    * Zuluftöffnungen und Türen am Turmfuß verschließen um Brand zu ersticken
+  * Bei Flächenbrand um die Anlage herum:
+    * Löschen unter [[allgemein:elektrische_anlagen#einzuhaltende_abstaende|Einhaltung der Abstände]] zu elektrischen Anlagen
+    * WEA oder Trafohäuschen gefährdet?
+  * möglicherweise [[cbrn:chemisch:klasse_9:stoffe:pcb|Gefahren durch PCB-haltige Betriebsmittel]] (insbesondere in Trafos). Hinweise durch Anlagenbetreiber oder Kennzeichnung der Anlagenteile.
+  * Ggf. Warnung angrenzender Siedlungen vor Atemgiften
+
+==== Hilfeleistung ====
+
+=== bei Personen im oberen Teil der Anlage ===
+
+  * Frühzeitig Höhenrettung alarmieren, kaum Einsatzmöglichkeiten mit "normalem" Material wenn Höhe > 30 Meter.
+  * Wartungspersonal arbeitet immer zu zweit in der Anlage. Die Arbeiter können sich im Gefahrenfall selbst abseilen soweit sie nicht verletzt sind.
+  * Aufstieg durch die Feuerwehr kann bis zu 60 Minuten dauern.
+  * Ggf. ist im Inneren des Turms ein Aufzug vorhanden.
+  * Keine Selbstüberschätzung! Nutzung von Steig- und Befahreinrichtungen nur durch unterwiesenes/ausgebildetes Personal!
+
+=== bei Technischen Problemen ===
+
+  * mögliche Defekte:
+    * beschädigte/abstürzende Maschinenteile?
+    * wankender/abknickender Turm?
+    * Schäden am Fundament?
+
+=== bei Eiswurf/Eisfall ===
+
+  * Pauschal: im Radius von 500 m absperren, bei markantem Wind 1.000 m
+
+== Berechnung des Gefahrenbereichs ==
+
+~~INCLFORM=eiswurf~~
+
+== Formeln zur Abschätzung der Wurfweite: ==
+
+  * bei drehendem Rotor: Wurfweite = ( Rotordurchmesser in m + Nabenhöhe in m ) * 1,5
+  * bei stehendem Rotor: Fallweite = Windgeschwindigkeit in Nabenhöhe * (( Rotordurchmesser in m * 0,5 + Nabenhöhe in m ) / 15)
+
+== Umrechnung Geschwindigkeit ==
+
+~~INCLFORM=umrechnung_geschwindigkeit~~
+
+==== besondere Gefahren ====
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * WEA besitzen keine Hausnummer, sondern eine individuelle Nummer am Turmfuß in ca. 1,5 - 2,5 m Höhe. Über Eingabe dieser Nummer auf der Internetseite www.wea-nis.de können Standorte und teilweise Lagepläne heruntergeladen werden, die u.U. aber passwortgeschützt sind. Das Passwort kann beim Betreiber der Internetseite bzw. teilweise auch über Leitstellen angefordert werden.
+  * Die Betätigung des Not-Aus-Tasters bewirkt:
+    * Notbremsung des Rotors bis zum Stillstand
+    * Trennung des Generators vom Netz
+    * Schaltung des Hauptschalters auf "Aus"
+  * WEA besitzen oft eine (nicht aufgeschaltete) Brandmelde- und kombinierte Wassersprüh- und Gaslöschanlage.
+
+===== Quellenangabe =====
+
+  * {{:brand:dfv-fachempfehlung_einsatz_windenergieanlagen.pdf|Fachempfehlung "Einsatzstrategien an Windenergieanlagen" des Deutschen Feuerwehrbands}}
+  * [[http://www.mi.brandenburg.de/sixcms/media.php/4055/Gefahrenabwehr%20an%20Anlagen%20zur%20Gewinnung%20erneuerbarer%20Energien.pdf|Gefahrenabwehr an Anlagen zur Gewinnung erneuerbarer Energien]], Landesschule und Technische Einrichtung für Brand- und Katastrophenschutz des Landes Brandenburg
+  * Vereinfachte Formeln zur Wurfweite/Fallweite von Eis: Institut für Windenergie Hochschule Bremerhaven
+
+===== Stichwörter =====
+
+Windrad, Windkraft, Windmühle

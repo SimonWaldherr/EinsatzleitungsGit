@@ -1,0 +1,95 @@
+====== Wetterhilfsmeldung ======
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+{{allgemein:wetter:formular_wetterhilfsmeldung.pdf|Formular Wetterhilfsmeldung}}
+
+==== Erläuterung des Formulars ====
+
+=== A Standort ===
+
+Ort der Wetterhilfsmeldung in [[allgemein:karten#utm-koordinaten|UTM-Koordinaten]]
+
+=== B Datum/Uhrzeit der Beobachtung ===
+
+Angabe von Tag - Stunde - Minute
+
+=== C Sicht ===
+
+Ist die Entfernung in verschiedene Himmelsrichtungen unterschiedlich weit, so wird nur die kürzeste Entfernung angegeben.
+
+== Bei Tag ==
+
+Es wird die maximale Entfernung angegeben, vor der ein Objekt bei hellem Horizont (Hintergrund) gerade noch erkennbar ist. Dafür eignen sich Gebäude, Hochspannungsmaste, Fabrikschornsteine, Kirchtürme, etc. Auf einer Karte kann dann die Distanz zum Objekt ermittelt werden.
+
+== Bei Nacht ==
+
+Bei Nacht wird die Entfernung einer gerade noch sichtbaren Lichtquelle als die maximale Distanz angegeben. Dabei ist zu beachten, dass sich der Beobachtende mindestens 5 Minuten vor der Wetterhilfsmeldung in die Dunkelheit begibt, damit sich die Augen darauf einstellen könnne.
+
+=== D Gesamtbedeckung mit Wolken ===
+
+Angabe der Bedeckung des Himmels mit Wolken in Achteln. Die Art der Wolken ist dabei unerheblich.
+
+Bei Dunkelheit wird die Fläche angegeben, auf der keine Sterne sichtbar sind.
+
+=== E Wolkenart ===
+
+Dichte Wolken: Sonne, Mond und Sterne werden vollkommen verdeckt.
+
+Dünne Wolken: Sonne, Mond und Sterne scheinen durch die Wolken hindurch.
+
+=== F Bodenzustand ===
+
+Feucht ist der Boden nach Regen, wenn keine Pfützen zu sehen sind. Dies ist auch bei Tau möglich.
+
+Nass ist der Boden, wenn Pfützen zu sehen sind (auch wenn es nicht regnet).
+
+=== G Windrichtung aus ===
+
+{{ allgemein:wetter:windrose.png?nolink&400|Windrose}}
+
+Richtung, aus der der Wind kommt. Die Gradangaben können aus nebenstehender Windrose entnommen werden. Es wird auf volle 10 Grad auf- oder abgerundet.
+
+Sind keine Messgeräte für die Windrichtung vorhanden, so können folgenden Möglichkeiten genutzt werden:
+
+  * Rauchfahnen, Flaggen, etc.\\ Dabei ist zu beachten, dass sich der Aufnehmende in unmittelbarer Nähe des Objekts befindet, da sich sonst aufgrund optischer Effekte Verfälschungen einstellen
+  * Ausstreuen leichter Teilchen. Dafür muss sich der Beobachter in einiger Entfernung zu anderen Objekten befinden; als Distanz gilt die zehnfache Höhe des Objekts (Höhe des Objekts: 15m -> Entfernung des Beobachtenden: 150m).
+
+=== H Windgeschwindigkeit ===
+
+== Umrechnung Geschwindigkeit ==
+
+~~INCLFORM=umrechnung_geschwindigkeit~~
+
+== weitere Hinweise für die Windgeschwindigkeit ==
+
+Siehe auch [[allgemein:wetter:windstaerke|Windstärke]] für eine Abschätzung und Umrechnung der Windgeschwindigkeit.
+
+Die Messung erfolgt als Durchschnittswert über 10 Minuten.
+
+Wird die Geschwindigkeit nicht unter der verlinkten Tabelle abgeschätzt sondern mit Messgeräten festgestellt, so ist folgendes zu beachten:
+
+  * Üblicherweise wird die Windgeschwindigkeit in 10 Metern Höhe gemessen. Erfolgt die Messung am Boden (bis zu 2 Metern), so ist dieser Wert um 30% zu erhöhen (gemessene Geschwindigkeit x 1,3).
+  * Das Windmessgerät muss sich in freiem Feld befinden. Dafür muss sich der Beobachter in einiger Entfernung zu anderen Objekten befinden; als Distanz gilt die zehnfache Höhe des Objekts (Höhe des Objekts: 15m -> Entfernung des Beobachtenden: 150m).
+
+=== I Beobachtete Wettererscheinungen ===
+
+Nebel: Sicht unter 1 km. Bodennebel unterhalb der Augenhöhe wird nicht berücksichtigt.
+
+Regen: Jede Art von flüssigem Niederschlag.
+
+Gewitter: Sobald Donner zu hören ist. Es wird bis 15 Minuten nach dem letzten Donner gemeldet. Auch weiter entfernte Gewitter, deren Donner hörbar ist, werden als Gewitter bezeichnet.
+
+=== J Lufttemperatur in Grad C ===
+
+Das Thermometer darf nicht Sonnenbestrahlung ausgesetzt sein, es soll in 2 Metern Höhe gemessen werden.
+
+===== Quellenangabe =====
+
+  * Formular Wetterhilfsmeldung: zur Verfügung gestellt vom Umweltschutzzug – ABC-Dienst FF Wuppertal, Tobias Meier
+  * [[http://gsb.download.bva.bund.de/BBK/KatS_Dv_507.pdf|Vorläufer KatS DV 507]], Bundesamt für zivilen Bevölkerungsschutz
+  * Grafik Windrose: https://commons.wikimedia.org/wiki/File:Windrose.svg, veröffentlicht vom Wikipedia-User Vloeck unter Attribution-Share Alike 3.0 Unported-Lizenz
+
+===== Stichwörter =====
+
+Wetterhilfsbeobachtung

@@ -1,0 +1,28 @@
+====== Gefahrgut Eisenbahn ======
+
+===== zu treffende Maßnahmen =====
+
+  * [[cbrn:gefahrgut|allgemeine Regeln für ABC-Einsätze]] beachten
+  * Ladung von Güterwaggons feststellen
+  * ggf. Nachforderung von [[cbrn:allgemein:tuis|TUIS]]
+
+==== besondere Gefahren ====
+
+  * große Mengen (Volumen von Kesselwagen bis 120 m³)
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * bei flüssig austretenden Stoffen den [[cbrn:allgemein:volumenabschaetzung|Volumenstrom abschätzen]]
+
+==== Möglichkeiten zur Feststellung welche Gefahrgüter geladen sind ====
+
+  * Auskünfte über die Notfallleitstelle der DB
+  * Fracht- und Beförderungspapiere befinden sich in der Regel im Triebfahrzeug und enthalten u.a. Informationen über Versender, Empfänger, Menge und Art des Gefahrguts, UN- und Gefahrnummer und offizielle Bezeichnung, Art und Anzahl der Versandstücke
+  * an den [[cbrn:allgemein:kennzeichnung:eisenbahn#anschriften_an_gefahrgut-kesselwagen|Längsseiten des Waggons angebrachte Wagenanschrift]]
+  * Wagenliste enthält in der Reihenfolge wie die Waggons angehängt sind: [[allgemeine_hilfe:eisenbahn#fahrzeuganschriften|Wagennummer, Gewichte, Länge und Bremsen]], bei Gefahrgut-Wagen zusätzlich UN-Nummer und ADR/RID-Klasse
+
+===== Quellenangabe =====
+
+  * [[allgemeine_hilfe:allgemein:leitfaden_hilfeleistungseinsaetze_bahn]], {{allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_00_deckblatt-impressum.pdf|Nutzung für nichtkommerzielle Zwecke im Impressum gestattet}}.
+
+===== Stichwörter =====

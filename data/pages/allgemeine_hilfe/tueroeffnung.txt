@@ -1,0 +1,87 @@
+====== Türöffnung ======
+
+===== zu treffende Maßnahmen =====
+
+  * Erkundung:
+    * Alternative Zugangsmöglichkeiten:
+      * Fenster / Balkontür offen / gekippt?
+      * ggf. einen Trupp zur Erkundung rund um das Gebäude schicken der Einsatzmöglichkeiten von [[allgemein:geraete:leitern|tragbaren Leitern]] oder der [[allgemein:drehleiter|Drehleiter]] erkundet.
+      * Verglasung/Oberlicht über der Wohnungstür vorhanden?
+    * Abwägen, ob die Zerstörung eines Fensters o.ä. einen geringeren Schaden verursacht oder schnelleren Erfolg verspricht.
+    * Nachbarn befragen falls vor Ort
+      * schlechter Allgemeinzustand der Person bekannt?
+      * Hat einer der Nachbarn einen Schlüssel für die Wohnung?
+      * Kann ein Nachbar versuchen die Person anzurufen?
+    * Hinweise erkennbar, dass die Person seit kurzem nicht mehr ihre alltäglichen Handlungen vorgenommen hat (überquellender Briefkasten, nicht geöffnete Mahlzeiten vom "Essen auf Rädern" vor der Wohnungstür, die Person hat eigentlich feste Rituale denen sie nicht mehr nachkommt, etc.)?
+    * Insbesondere bei Suizidverdacht u.ä. kann über die Polizei abgefragt werden, ob auf den Bewohner eine Waffe eingetragen ist oder bereits einschlägige Taten vorliegen. Die Polizei ist allerdings nicht zur Herausgabe ihrer Erkenntnisse an die Feuerwehr verpflichtet.
+  * Vor dem Öffnen der Tür nochmals klingeln und __laut__ klopfen (z.B. mit Stahlkappe des Stiefels)
+  * Erste Hilfe sicherstellen (RTW-Besatzung zur Wohnungstür, alternativ Erste-Hilfe-Material für Angriffstrupp bereitstellen)
+
+==== besondere Gefahren ====
+
+  * Angriff durch den Bewohner während (z.B. mit Schusswaffe durch die Tür) oder nach der Öffnung der Tür
+  * gefährliche Haustiere
+  * Gefahr durch Suizidversuche, z.B. mit [[cbrn:chemisch:klasse_2:stoffe:kohlenmonoxid|Kohlenstoffmonoxid (Holzkohlegrill)]]
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Handelt es sich um eine [[allgemein:recht:amtshilfe|Amtshilfe]], d.h. die Feuerwehr wird für eine andere **Behörde** tätig, so trägt die anfordernde Behörde die Verantwortung für die Rechtmäßigkeit. Erfolgt die Anforderung der Türöffnung nicht durch eine Behörde, sondern beispielsweise durch eine Hilfsorganisation wie z.B. das DRK, so muss die Feuerwehr anhand der Erkundungsergebnisse selbst entscheiden, ob das Öffnen der Tür rechtmäßig ist.
+  * Bei Mehrfamilienhäusern ist es hilfreich, sich die Konstruktion der (identischen) Wohnungstür bei einer Nachbarwohnung anzusehen um mögliche Angriffspunkte zu finden.
+  * Wohnung nach Öffnung der Tür nur truppweise betreten (Angriff des Bewohners, Trupppartner als Zeuge falls später eine Anschuldigung wegen gestohlenen Wertgegenständen erfolgt)
+  * Falls sich die Einsatzstelle nach Öffnung der Tür als potentieller Tatort darstellt, die [[allgemein:verhalten_an_einsatzstellen#tatorte_von_kapitalverbrechen|Hinweise zum Verhalten an Tatorten]] beachten.
+  * Stellt sich nach dem Öffnen der Tür heraus dass sich keine Person in der Wohnung befindet bzw. die Türöffnung unnötig war, so sollten die Erkundungsergebnisse die auf die Notwendigkeit des Öffnens der Tür hingewiesen haben im Einsatzbericht genau dokumentiert werden. Nur somit lässt sich im Nachhinein bei der Anschuldigung von Handeln in der Situation einer [[allgemein:recht:gefahrenbegriffe#putativgefahr|Putativgefahr]] das Gegenteil beweisen.
+  * Die Zuständigkeit für die Sicherung der geöffneten Wohnung liegt bei der Polizei. Diese muss grundsätzlich auch den Wohnungsschlüssel an sich nehmen, eine Abweichung hiervon ist nur in begründeten Ausnahmefällen gestattet!
+
+==== Gesetzesgrundlagen für die Türöffnung ====
+
+=== Berlin ===
+
+  * §14 Abs. 1 Feuerwehrgesetz (FwG) Berlin: Befugnis zum Betreten von Grundstücken, Gebäuden, etc.
+  * §18 Feuerwehrgesetz (FwG) Berlin: Einschränkung des Grundrechts der Unverletztlichkeit der Wohnung
+
+=== Rheinland-Pfalz ===
+
+  * § 28 Abs. 1 Brand- und Katastrophenschutzgesetz (LBKG) Rheinland-Pfalz: Befugnis zum Betreten von Grundstücken, Gebäuden, etc.
+  * § 40 Brand- und Katastrophenschutzgesetz (LBKG) Rheinland-Pfalz: Einschränkung des Grundrechts der Unverletztlichkeit der Wohnung
+
+==== Öffnungstechniken ====
+
+Die folgenden Punkte sind nicht nach einer Rangfolge sortiert!
+
+=== zerstörungsfrei ===
+
+  * Betätigung der Falle mittels Fallengleiter, Öffnungskarte, Fallendraht, Spiraldraht (Korkenzieher), ...
+  * Türklinke mit speziellem Werkzeug von innen durch Briefschlitz oder Türspion betätigen
+  * gekipptes Fenster mit Saugnapf und Werkzeug zum Drehen des Fenstergriffs öffnen, falls es sich nicht um ein abschließbares Fenster handelt
+
+=== zerstörend ===
+
+Auf das Tragen von erforderlicher Schutzausrüstung (z.B. Schutzbrille, Gehörschutz) achten!
+
+  * Schließzylinder ziehen
+  * Schließzylinder auffräsen
+  * Schließzylinder abbrechen (z.B. mit großer Zange, "Knackrohr" oder dem Klauenkopf des Halligan-Tools, nur bei Überstand des Schließzylinders von mind. 3 mm, ggf. davor Schutzbeschlag zerstören)
+  * Schließzylinder aufbohren
+  * Aufhebeln mittels Brecheisen, Halligan-Tool, hydraulischer Türöffner, ... an Band-Seite (an den Scharnieren) oder Schloss-Seite einsetzen
+  * Türfüllung aus der Tür herausschlagen (meist bei Altbautüren, evtl. durch Metallplatte auf der Rückseite gesichert)
+  * geschlossenes Fenster mittels Schraubendreher aufhebeln
+  * Motorsäge/Trennschleifer - nur wenn sicher dass sich keine Person direkt hinter der Wohnungstür befindet. Bei Geräten mit Verbrennungsmotor unbedingt Treppenraum lüften!
+  * Ramme
+  * Fenster einschlagen; dies ist ggf. günstiger zu reparieren als die Haus- oder Wohnungstür.
+  * bei gekippten Fenstern, die nicht mittels der Saugnapf-und-Fenstergriff-Methode schadensfrei geöffnet werden können, kann auch das Halteband des Fensters oben am Rahmen mit einem Bolzenschneider durchtrennt werden. Das Fenster sollte zuvor mit einer Leine o.ä. gesichert werden, da es sonst nach innen in die Wohnung fällt.
+  * Das Eintreten von Türen beinhaltet eine hohe Verletzungsgefahr und sollte daher nur erfolgen wenn es keine andere Möglichkeit gibt.
+
+===== Downloads =====
+
+  * [[http://www.vdf-nrw.de/uploads/tx_bitloftvdfnrwdownload/2015-09-08_Haftungsansprueche_Tueroeffnung_01.pdf|Merkblatt Türöffnung VdF]]
+
+===== Quellenangabe =====
+
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * eDossier "Türöffnungen rechtlich gesehen", Feuerwehr-Magazin, 2014
+  * VdF
+  * [[http://www.kfv-hassberge.de/fileadmin/downloads/MTA/MTA_11_-_Hilfeleistungseisatz/11.4/MTA_11-4_Text.pdf|Modulare Truppausbildung: Einheiten im Hilfeleistungseinsatz]], Staatliche Feuerwehrschule Würzburg
+
+===== Stichwörter =====
+
+Notfalltüröffnung, Dringende Türöffnung, Unfall in Wohnung, UiW, hilflose Person

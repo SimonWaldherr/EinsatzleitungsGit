@@ -1,0 +1,100 @@
+====== Biogasanlage ======
+
+===== zu treffende Maßnahmen =====
+
+==== Allgemein ====
+
+  * Windrichtung beachten, mit dem Wind anfahren, Abstand zur Anlage halten
+  * Vorgehen unter umluftunabhängigen Atemschutz
+  * Atmosphäre ständig mit Ex-Messgerät überprüfen
+  * Zündquellen vermeiden
+  * Brandschutz sicherstellen
+  * bei Stoffaustritt Leckage möglichst schließen
+  * möglichst Betreiber und Sachkundigen hinzuziehen
+  * Beachten der Grundregeln: 4A1C4E und [[cbrn:gefahrgut#gams-regel|GAMS]]
+  * Feuerwehrpläne beachten
+  * Atmospähre nicht nur mit dem Ex-Gerät messen, EX-OX TOX beachten ([[cbrn:chemisch:klasse_2:stoffe:schwefelwasserstoff|H2S]]!!!)
+
+==== Personenrettung: ====
+  * Rettung nur durch Einsatzkräfte der Feuerwehr und umluftunabhängigem Atemschutz
+  * Kleidung des Patienten/Einsatzkräfte kann toxische Substanzen enthalten
+  * [[cbrn:allgemein:dekontamination:start|Not-Dekon]] durch die Einsatzkräfte der Feuerwehr einrichten (FwDV500)
+  * ggf. Beprobung der Ausatemluft des Patienten (Onlinemessgeräte/Sammelröhrchen)
+  * Absprachen zwischen Einsatzleiter, Fachberater Chemie & Notarzt für den Transport (Grenzwerte = [[cbrn:chemisch:grenzwerte#aegl|AEGL]] 2)
+  * ggf. bei mehreren Patienten LNA/ORGL an Est. zur
+    * Koordinierung der Patienteneinweisungen
+    * Informationsbeschaffung hinsichtlich gesundheitlicher Gefährdung EK & Patienten
+    * Beantwortung medizinischer Fragen gegenüber der [[allgemein:pressearbeit|Presse]]
+
+==== Biogasaustritt (nichtbrennend) ====
+
+    * Zündquellen vermeiden, keine Schalter im Gefahrenbereich betätigen
+    * nur Ex-geschützte Geräte verwenden (Lampe, Funkgerät, etc.). Handy, FME, etc. außerhalb des Gefahrenbereichs ablegen
+    * mit Lüftern verwirbeln (Ex-Schutz beachten)
+    * Ex-Zonen um Austrittsstelle beachten (Radius mindestens 3 Meter)
+
+==== Brandfall ====
+
+  * im Bereich von Fermenter und Gasleitungen Feuer nicht löschen!
+  * Gaszufuhr schließen
+  * insbesondere Gaslager vor Wärmestrahlung, Funkenflug und Flugfeuer schützen!
+  * bei Feuer im [[brand:blockheizkraftwerk|Blockheizkraftwerk]] zusätzlich Not-Aus-Schalter drücken und Strom abschalten, danach:
+    * Brandbekämpfung mit geeigneten Löschmitteln
+    * in Schaltschränken, Niederspannungsverteilern und Transformatoren mit [[brand:allgemein:co2|Kohlendioxid]] (CO<sub>2</sub>) löschen
+    * auf größere Mengen Schmieröl im Bereich des Kraftwerks achten!
+  * ggf. [[brand:allgemein:loeschwasserrueckhaltung|Löschwasserrückhaltung einrichten]]
+
+==== besondere Gefahren ====
+
+    * Atemgifte
+      * vor allem [[cbrn:chemisch:klasse_2:stoffe:schwefelwasserstoff|Schwefelwasserstoff]] (H<sub>2</sub>S), Kohlendioxid (CO<sub>2</sub>) und [[cbrn:chemisch:klasse_2:stoffe:ammoniak|Ammoniak]] (NH<sub>3</sub>)
+      * hohe Konzentrationen können mit Sinnesorganen nicht von niedrigen unterschieden werden oder in hohen Konzentrationen gar nicht mehr wahrgenommen werden (H<sub>2</sub>S)
+      * Erstickungsgefahr in tief liegenden Bereichen wegen hohen CO<sub>2</sub>-Konzentrationen
+    * Ausbreitung:
+      * Wärmestrahlung
+      * austretende Betriebsstoffe (Biogas, Motorenöle)
+    * Explosionsgefahr wenn Gas unkontrolliert nichtbrennend austritt oder die Abfackelung nicht funktioniert 
+    * [[:allgemein:elektrische_anlagen|Elektrizität]] durch Erzeugung und Abgabe von Strom ins öffentliche Netz (Niederspannung bis 400 V oder Mittelspannung bis 30kV möglich)
+    * Erkrankung/Verletzung
+      * Ansteckungsgefahr: Krankheitserreger in Flüssig- und Festmist, tierischen Nebenprodukten
+      * Vergiftungsgefahr durch Gase 
+      * Verbrennungen/ -brühungen an Teilen des [[:brand:blockheizkraftwerk|Blockheizkraftwerks]]. Bei Leitungsbruch am Wärmespeicher besteht Verbrühungsgefahr durch austretendes heißes Wasser und/oder Wasserdampf
+      * Mechanische Gefahren im Bereich des Fermenters. Rührwerk vor Befahrung ausschalten und gegen wiedereinschalten sichern
+    * Einsturz/Absturzgefahr (Gruben, Güllelager, Gärbehälter)
+    * Umweltgefährdung: Biogas (WGK 1), Motorenöle (WGK 2 oder 3), Schwefelwasserstoff / Ammoniak (WGK 2), Gülle / Jauche / Mist sind umweltgefährdend zu bewerten
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Bereiche mit explosiven Gas-Luft-Gemischen im Normalbetrieb sind mit entsprechendem Schild gekennzeichnet
+  * Biogasproduktion lässt sich nicht direkt anhalten und läuft noch einige Tage weiter
+  * Erläuterungen zu Funktion und Anlagenbauteilen sind in einer {{cbrn:biologisch:hinweise_biogasanlagen.pdf|Veröffentlichung der Landesfeuerwehrschule Baden-Württemberg (offline verfügbar)}} zu finden
+
+==== Zusammensetzung von Biogas ====
+
+^ Stoff ^ Anteil in % ^
+| [[cbrn:chemisch:klasse_2:stoffe:methan|Methan]] | 50 - 80 |
+| Kohlendioxid | 20 - 50 |
+| Wasser | 2 - 7 |
+| Stickstoff | 0 - 2 |
+| [[cbrn:chemisch:klasse_2:stoffe:wasserstoff|Wasserstoff]] | 0 - 1 |
+| Sauerstoff | 0 - 2 |
+| [[cbrn:chemisch:klasse_2:stoffe:schwefelwasserstoff|Schwefelwasserstoff]] | 0 - 2 |
+
+===== Weblinks =====
+
+    * [[http://www.lfu.bayern.de/abfall/biogashandbuch/index.htm|Biogashandbuch Bayern]]
+    * [[http://www.lsv.de/fob/66dokumente/info0095.pdf|Sicherheitsregeln für Biogasanlagen, Bundesverband der landwirtschaftlichen Berufsgenossenschaften]]
+    * [[http://www.erdgas-suedwest.de/broschueren-download-_185.html|Erdgas und Biogas - Leitfaden für Feuerwehren. Erdgas Südwest GmbH, 2011.]]
+    * [[http://www.biodigital.de/|Allgemeine Informationen über Biogasanlagen und zu fester, gasförmiger und flüssiger Biomasse]]
+
+===== Quellenangabe =====
+
+    * {{cbrn:biologisch:hinweise_biogasanlagen.pdf|Biogasanlagen - Hinweise für den Einsatzleiter. Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2011.}} 
+    * [[http://www.erdgas-suedwest.de/broschueren-download-_185.html|Erdgas und Biogas - Leitfaden für Feuerwehren. Erdgas Südwest GmbH, 2011.]] 
+    * [[http://www.vfdb.de/download/Merkblatt/MB_Biogasanlagen_Ref10_2012_05.pdf|vfdb Merkblatt Empfehlung bei Feuerwehreinsätzen an Biogasanlagen, 2012]]
+    * Faltblatt "Sicherheit für den Feuerwehrdienst - Biogas-Anlagen" VM GI 11/11-Art.Nr.1970233 vom Verband der Feuerwehren in NRW mit Unterstützung der Provinzial Rheinland Versicherung AG und der Westpfalzischen Provinzial Versicherung AG, herausgegeben im November 2011
+    * BF Schwerin, Hr. Krause
+
+===== Stichwörter =====
+
+Bio, Gas, Bauernhof, Strom, Gülle, Mist, Biogas, Stromerzeugung, Energieerzeugung, Blockheizkraftwerk, Kofermente, Fermenter, Gasspeicher, Gasaufbereitung, Vorgrube

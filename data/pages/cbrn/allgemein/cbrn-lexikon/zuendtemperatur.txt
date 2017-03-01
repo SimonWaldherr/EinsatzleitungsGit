@@ -1,0 +1,25 @@
+====== Zündtemperatur ======
+
+auch Zündpunkt, Entzündungstemperatur oder Entzündungspunkt
+
+Die Zündtemperatur wird unter festgelegten Bedingungen ermittelt. In der Realität können folgende Faktoren einen Einfluss auf sie haben (keine abschließende Aufzählung):
+
+  * Brandstoffkonzentration
+  * Sauerstoffkonzentration
+  * Umgebungsdruck
+  * Katalysator
+  * ...
+
+Bei den Angaben zur Zündtemperatur muss der //Zündverzug// beachtet werden. Dieser beschreibt, wie viel Zeit vergeht bis eine deutlich wahrnehmbare Flammenerscheinung erkennbar ist. Diese kann zwischen Millisekunden bis einige Minuten liegen.
+
+=== Definition für Feststoffe ===
+
+Temperatur, bei der sich ein Stoff ohne Zugabe einer Zündquelle von selbst entzündet. In der Regel reicht diese Temperatur aber nicht für ein dauerhaftes, selbstständiges Brennen aus. Dafür muss die //Mindestverbrennungstemperatur// überschritten werden.
+
+=== Definition für Dämpfe brennbarer Flüssigkeiten und Gase ===
+
+Die Zündtemperatur ist die niedrigste Temperatur, die ohne Zündquelle zu einer flammenden Verbrennung führt.
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

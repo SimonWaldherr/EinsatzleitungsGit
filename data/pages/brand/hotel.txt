@@ -1,0 +1,17 @@
+====== Hotel ======
+
+===== zu treffende Maßnahmen =====
+
+Allgemeine Maßnahmen für [[brand:gebaeudebrand|Gebäudebrände]] beachten!
+
+  * Erkundung -> **Hotelzimmer, Lobby, Küche, Technikräume, Keller, (Tief-)Garage**
+  * Belegungsliste vorhanden? Abgleich durchführen!
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Große Personenanzahl im Gebäude -> evtl. [[allgemein:manv|MANV]]
+
+===== Quellenangabe =====
+
+  * Einsatzleiterhandbuch BF Kaiserslautern
+  * Einsatzerfahrung BF Schwerin

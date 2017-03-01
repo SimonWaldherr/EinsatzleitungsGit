@@ -1,0 +1,42 @@
+====== Unterzuckerung (Hypoglykämie) ======
+
+===== zu treffende Maßnahmen =====
+
+  * Patient oder deren Angehörige befragen:
+    * Ist Diabetes bekannt?
+    * Wann wurde das letzte Mal gegessen?
+    * Wurde Alkohol getrunken?
+    * Hat sich der Betroffene schon öfters in einer solchen Situation befunden?
+  * Am besten Traubenzucker, sonst zuckerhaltige Getränke geben. **Auf keinen Fall Alkohol!**\\ Nicht bei stark Eingetrübten oder Bewusstlosen, es besteht Erstickungsgefahr!
+  * Patient soll sich hinsetzen bzw. bei beginnender Bewusstseinseintrübung in Schocklage legen
+  * Im Zweifelsfall oder bei Bewusstlosigkeit Rettungsdienst (nach-) alarmieren
+
+Bei Bewusstlosigkeit:
+
+  * in stabile Seitenlage bringen
+  * permanente Kontrolle der Vitalfunktionen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Symptome ====
+
+Die Symptome bei Unterzuckerung können sehr vielfältig sein. Hier sind nur die häufigsten aufgelistet:
+
+  * Schwäche
+  * Zittern
+  * Heißhunger
+  * Übelkeit
+  * Angst
+  * Herzrasen
+  * Schwitzen
+  * Verwirrtheit
+  * Aggressivität
+  * Unkonzentriertheit
+  * Sprach- und Sehstörungen
+  * Kopfschmerzen
+  * Krämpfe
+  * Bewusstseinseintrübung bis zur Bewusstlosigkeit
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_Hypoglykaemie.pdf|Erste-Hilfe kompakt - Notfallstichwort Hypoglykämie]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband

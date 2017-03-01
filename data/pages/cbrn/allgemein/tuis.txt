@@ -1,0 +1,59 @@
+====== TUIS ======
+
+TUIS steht für "Transport-Unfall-Informations- und Hilfeleistungssystem"  und ist ein Service der chemischen Industrie.
+
+TUIS hilft in erster Linie bei Stoffaustritten. Muss ein unbekannter Stoff analysiert werden, sollte eher auf die [[cbrn:allgemein:atf|Analytische Task Force]] des Bundes zurückgegriffen werden.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+TUIS ist in drei verschiedene Service-Abstufungen unterteilt:
+
+==== Stufe 1 ====
+
+Telefonische Beratung durch eine Notrufzentrale.
+
+Diese Leistung ist für den Anfragenden kostenlos.
+
+==== Stufe 2 ====
+
+TUIS-Fachleute kommen zur Beratung vor Ort.
+
+Diese Leistung ist kostenpflichtig und wird dem Verursacher in Rechnung gestellt.
+
+==== Stufe 3 ====
+
+Die Feuerwehr eines an TUIS beteiligten Unternehmen kommt vor Ort und leistet personelle und materielle Unterstützung, z.B. mit speziellen Gerätschaften.
+
+Diese Leistung ist kostenpflichtig und wird dem Verursacher in Rechnung gestellt.
+
+===== Weblinks =====
+
+  * [[https://www.vci.de/themen/logistik-verkehr-verpackung/tuis/listenseite.jsp|Info-Seite über das TUIS auf der Internetseite des Verbandes der chemischen Industrie e.V. mit Suchfunktion um den nächstgelegenen TUIS-Standort zu ermitteln]]
+  * [[https://www.vci.de/vci/downloads-vci/tuis-werkfeuerwehren-standorte.pdf|Liste mit allen TUIS-Werkfeuerwehren, der Stufe die angeboten wird und der Kontaktdaten, sortiert nach PLZ]] (diese Liste soll Leitstellen dazu dienen auch ohne Internetverbindung nach TUIS-Feuerwehren zu recherchieren]]
+  * [[https://www.vci.de/vci/downloads-vci/publikation/2015-vci-tuis-flyer.pdf|TUIS-Broschüre]]
+
+===== Kontaktdaten/Ansprechpartner =====
+
+**Die TUIS-Notrufzentralen**
+
+| BASF SE, Ludwigshafen                                   | +49 (0)621 / 6 04 33 33¹ |
+| BASF Schwarzheide GmbH, Schwarzheide                    | +49 (0)35752 / 6 21 12   |
+| Bayer AG, Berlin                                        | +49 (0)30 / 46 81 42 08  |
+| Currenta GmbH & Co. OHG, Leverkusen                     | +49 (0)214 / 30 99 300²  |
+| Dow Deutschland Anlagengesellschaft mbH, Stade          | +49 (0)4146 / 91 23 33   |
+| Evonik Industries AG, Chemiepark Marl                   | +49 (0)2365 / 49 22 32   |
+| Henkel AG & Co. KGaA, Düsseldorf                        | +49 (0)211 / 7 97 33 50  |
+| InfraLeuna GmbH, Leuna                                  | +49 (0)3461 / 43 43 33   |
+| InfraServ GmbH & Co. Gendorf KG, Burgkirchen an der Alz | +49 (0)8679 / 7 22 22    |
+| Infraserv GmbH & Co. Höchst KG, Frankfurt am Main       | +49 (0)69 / 3 05 64 18   |
+| Merck KGaA, Darmstadt                                   | +49 (0)6151 / 72 24 40   |
+| Wacker Chemie AG, Burghausen                            | +49 (0)8677 / 83 22 22   |
+
+¹ National Response Center\\
+² für CHEMPARK Leverkusen, Dormagen, Krefeld
+
+Stand der Liste: 12.04.2016, zuletzt auf Aktualität überprüft am 23.05.2017
+
+===== Quellenangabe =====
+
+  * [[https://www.vci.de/Themen/Logistik-Verkehr-Verpackung/TUIS/Seiten/Listenseite.aspx|Info-Seite über das TUIS auf der Internetseite des Verbandes der chemischen Industrie e.V.]]

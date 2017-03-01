@@ -1,0 +1,33 @@
+====== Unterkühlung (Hypothermie) ======
+
+===== zu treffende Maßnahmen =====
+
+  * (Nach-) Alarmierung Rettungsdienst
+  * den Unterkühlten so wenig wie möglich bewegen
+  * möglichst nicht entkleiden, Warm halten (z.B. mit Rettungsdecke)
+  * Permanent Kreislauf und Atmung überwachen
+  * Gabe von Sauerstoff falls vorhanden
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Symptome ====
+
+Erst **Muskelzittern**, danach bei weiter sinkender Körpertemperatur:
+
+  * Bewusstseinsstörungen
+  * langsame, unregelmäßige Atmung
+  * langsamer Puls
+  * sinkender Blutdruck
+  * Bewusstlosigkeit
+
+==== Ursachen ====
+
+  * Bewusstlosigkeit
+  * alkoholisierte Personen
+  * Erschöpfung
+  * Unfälle mit hohem Blutverlust (Polytrauma)
+  * Wasser-, Schnee- und Bergunfälle
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_Hypothermie.pdf|Erste-Hilfe kompakt - Notfallstichwort Unterkühlung]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband

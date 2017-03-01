@@ -1,0 +1,47 @@
+====== Fahrzeugbrand ======
+
+===== zu treffende Maßnahmen =====
+
+  * Fahrzeugaufstellung wenn möglich erhöht (Ausbreitung brennbarer flüssiger Betriebsstoffe) und mit dem Wind
+  * [[allgemein:absicherung_einsatzstelle|Verkehrsraum absichern]], Absperrgrenzen festlegen
+  * Menschenrettung durchführen
+  * vom Brand betroffene Objekte in der Nähe?
+  * Feststellung was geladen ist -> neben "normalem" [[cbrn:gefahrgut|Gefahrgut]] ggf. [[cbrn:chemisch:klasse_2:stoffe:fluessiggas|Flüssiggasbehälter]] für Eigenbedarf bei LKWs und Wohnmobilen
+  * Alternative Antriebe ([[allgemeine_hilfe:verkehrsunfall:erkennung_alternativer_fahrzeugantriebe]])?
+  * Fahrzeug festsetzen (z.B. mit Radkeil -> Gefahr von Selbststartern)
+  * soweit möglich, alle Arbeiten seitlich ausführen (Löschen, Batterie abklemmen, etc. -> Gefahr von Selbststartern)
+  * Löscheinsatz durchführen; zum Erstangriff Wurfweite des Strahlrohrs ausnutzen, erst dann nähern
+    * Löschmittel Wasser, [[brand:allgemein:schaum|Schaum]], evtl. [[brand:allgemein:pulver|Pulver]]\\ Vorsicht bei [[brand:metallbrand|Metallbränden]], z.B. Brand von Aluminium- oder [[cbrn:chemisch:klasse_4-1:stoffe:magnesium|Magnesium]]-Motorblock, -Getriebe, ...
+    * Kühlen/Schutz der Umgebung geht i.d.R. vor Ablöschen des Fahrzeugs
+    * beim Öffnen von Motorhaube / Kofferraum Trupp mit Rohr in Bereitschaft stellen
+  * Batterie nach Ablöschen des Brandes umgehend abklemmen
+  * ausgelaufene Betriebsstoffe aufnehmen
+
+==== besondere Gefahren ====
+
+  * Alternative Antriebe -> Berstgefahr von Gastanks etc.
+  * Auslösen von Airbags aufgrund thermischer Beaufschlagung
+  * explosionsartiges Bersten von Gasdruckdämpfern, Stoßdämpfern, Reifen, Felgen
+  * plötzliches Absacken von Fahrzeugen mit Luftfederung
+  * auslaufende/platzende Batterie (abhängig von Technologie, siehe [[allgemeine_hilfe:verkehrsunfall:elektrofahrzeuge#allgemeine_vorgehens-_hinweise|Lithium-Ionen-Akku / Nickel-Metall-Hydrid-Akku]])
+  * Fahrzeuge können von selbst starten und sich brennend fortbewegen
+    * Verletzung von Einsatzkräften und anderen Personen
+    * Brandausbreitung
+  * Brandausbreitung: Flammenübersprung, Strahlungswärme, Funkenflug, auslaufende/brennende Kraftstoffe
+  * Umweltschäden: kontaminiertes Löschwasser und Schaum ([[brand:allgemein:loeschwasserrueckhaltung|Löschwasserrückhaltung]]), auslaufende Betriebsstoffe
+
+===== Allgemeine Vorgehenshinweise =====
+
+==== selbstartende Fahrzeuge ====
+
+Schon mehrfach hat bei brennenden und auch gelöschten Fahrzeugen (nach vielen Stunden) von selbst der Motor gestartet, woraufhin sich diese eigenständig fortbewegt haben. Dies stellt eine Gefahr für Einsatzkräfte und für eine Brandausbreitung dar. Wirksame Gegenmaßnahme ist das Abklemmen der Fahrzeugbatterie.
+
+===== Quellenangabe =====
+
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * [[http://www.ditzingen.de/fileadmin/Dateien/Dateien/Feuerwehr/Downloads/Standardeinsatzregeln__SER_/A238357281341892_SER-Fahrzeugbrand.pdf|Standard-Einsatz-Regel Kraftfahrzeugbrände]], Feuerwehr Ditzingen
+  * Ausbildungsunterlagen zum Thema "Fahrzeugbrände" der FF Eisenberg (Pfalz)
+
+===== Stichwörter =====
+
+PKW-Brand LKW-Brand

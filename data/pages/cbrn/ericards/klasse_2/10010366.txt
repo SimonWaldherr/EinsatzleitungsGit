@@ -1,0 +1,61 @@
+====== ACETYLEN, GELÖST - UN 1001 - Gefahrnr. 239 - ERICard-Nr. 2-40 - UN1001 ======
+|Stoff | ACETYLEN, GELÖST   |
+|UN-Nummer | 1001   |
+|[[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Gefahrnummer]] | 239   |
+|ADR-Gefahrzettel |  {{cbrn:2-1.png?nolink&100}}    |
+|ADR-Klasse | 2   |
+|Klassifizierungscode | 4F   |
+|[[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]] |    |
+|ERI-Card | 2-40   |
+
+==== Unfall-Hilfeleistung ====
+===== Entzündbares Gas, unter Druck gelöst, mit Reaktionsgefahr =====
+==== 1. Eigenschaften. ====
+  * Kann spontan zu einer heftigen Reaktion führen.
+  * Bildet mit Luft explosionsfähige Gemische.
+  * Erstickend! Das Gas wirkt ohne vorherige Wahrnehmung!
+==== 2. Gefahren. ====
+  * Wärmeeinwirkung oder Schlag kann zu einer Zersetzung innerhalb der Gasflasche führen mit sehr schnellem Temperatur- und Druckanstieg. Die Berst- und Explosionsgefahr besteht auch noch nach erfolgter Brandbekämpfung.
+  * Das Gas kann unsichtbar sein, in Kanalisation und Kellerräume eindringen oder die Atemluft in geschlossenen Räumen verdrängen.
+  * Starke Wärmeeinwirkung kann den Stabilisator zerstören. [[cbrn:allgemein:tuis|Fachberater hinzuziehen]]!
+==== 3. Persönlicher Schutz. ====
+  * Umluftunabhängiger Atemschutz
+  * Einsatzkräfte vor Strahlungswärme schützen! Wassersprühstrahl (Hydroschild) oder andere geeignete Maßnahmen
+==== 4. Einsatz-Massnahmen. ====
+=== 4.1 Allgemeine Massnahmen. ===
+  * Mit dem Wind vorgehen.
+  * Nicht rauchen, Zündquellen ausschließen.
+  * Aus geschützter Stellung arbeiten, um die Gefährdung der Einsatzkräfte zu reduzieren. Mobile Wasserwerfer verwenden.
+  * Zahl der Einsatzkräfte im [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] beschränken.
+  * Gefahr für die Öffentlichkeit ! Personen in der Nähe warnen und den [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] unverzüglich räumen.
+  * Personen auffordern, Kellerräume, Kanalisation oder andere geschlossene tieferliegende Räume zu verlassen und nicht wieder zu betreten.
+=== 4.2 Massnahmen bei Stoffaustritt. ===
+  * Lecks wenn möglich schließen.
+  * [[cbrn:geraete:ex-messgeraet|Auf explosionsfähige Atmosphäre überprüfen]].
+  * Keine funkenreißenden Werkzeuge verwenden. Explosionsgeschützte Ausrüstung einsetzen.
+  * Gaswolke mit Sprühstrahl niederschlagen oder verwirbeln.
+  * Falls keine Gefahren für Einsatzkräfte oder die Öffentlichkeit entstehen, Kanalisation und Kellerräume belüften.
+=== 4.3 Massnahmen bei Feuer (falls Stoff betroffen). ===
+  * Behälter mit Wasser kühlen.
+  * Nicht an Ventilen manipulieren oder Gasflaschen entfernen. Auch wenn das Feuer gelöscht ist, Gasflaschen mit viel Wasser über einige Stunden weiterkühlen (Wasserbad).
+  * Gasflamme nicht löschen, außer wenn unbedingt notwendig.
+  * Mit Sprühstrahl oder [[brand:allgemein:pulver|Pulver]] löschen.
+  * Brandgase wenn möglich mit Sprühstrahl niederschlagen.
+==== 5. Erste Hilfe. ====
+  * Bei Verbrennungen die betroffenen Hautbereiche sofort und so lange wie möglich mit kaltem Wasser kühlen. An der Haut haftende Kleidung nicht entfernen.
+==== 6. Besondere Vorsichtsmassnahmen bei der Bergung von Havariegut. ====
+  * Bergung des Produkts kann nicht mit Standardausrüstung durchgeführt werden! Sofort [[cbrn:allgemein:tuis|Fachberater hinzuziehen]].
+==== 7. Vorsichtsmassnahmen nach dem Hilfeleistung-Einsatz. ====
+=== 7.1 Ablegen der Schutzkleidung. ===
+  * Keine besonderen Vorsichtsmaßnahmen erforderlich.
+=== 7.2 Reinigung der Ausrüstung. ===
+  * Keine besonderen Vorsichtsmaßnahmen erforderlich.
+===== Quelle und Copyright =====
+
+Bitte nehmen Sie die Verwendungshinweise zu den ERI-Cards auf der [[cbrn:ericards:start#allgemeine_hinweise|ERI-Card Übersichtsseite]] zur Kenntnis.
+
+Diese ERICard kann im Original unter folgendem Link aufgerufen werden: [[http://www.ericards.net/psp/ericards.psp_ericard?lang=3&subkey=10010366]]
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

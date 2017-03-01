@@ -1,0 +1,86 @@
+====== Begaste Container ======
+
+Transportcontainer werden oftmals mit Schädlingsbekämpfungsmittel begast. Wird ein Einsatz nach Öffnen eines Containers notwendig oder muss während des Einsatzes ein Transportcontainer geöffnet werden, so sollten diese Hinweise beachtet werden.
+
+===== zu treffende Maßnahmen =====
+
+==== Erkundung - Merkmale ====
+
+{{ cbrn:allgemein:kennzeichnung:begaste_einheit.png?direct&200|Begasungswarnzeichen}}
+
+  * Kennzeichnung durch nebenstehendes //Begasungswarnzeichen// (Englisch: //Fumigated//) zusammen mit der UN-Nr. 3359
+  * Bei nicht gekennzeichneten Containern die Ladungspapiere kontrollieren ob der Inhalt pflanzlichen Ursprungs ist (z.B. Holz, Textilien) und aus Übersee stammt - dann erhöhtes Risiko einer Begasung!
+  * verschlossene Belüftungsöffnungen (z.B. zugeklebt)
+  * zerstörte Begasungskennzeichnung
+  * Person beim Öffnen/Entladen bewusstlos geworden/verunfallt
+  * knoblauchartiger Geruch (nur bei Phosphorwasserstoff in höheren Konzentrationen)
+
+==== besondere Gefahren ====
+
+  * Explosionsgefahr bei geschlossenen Containern welche begast sind
+  * Hochgiftige Begasungsmittel
+  * Erstickende Begasungsmittel
+  * starker Pilzbefall bei Holz
+
+==== Einsatzdurchführung ====
+
+  * Bei Verdacht eines begasten Containers im Umkreis von 10m um den Container herum absperren
+  * [[allgemein:raeumung|Umgebung räumen]]
+  * Zündquellen vermeiden
+  * Luft im Inneren von Außen prüfen, z.B. mit Sonde durch Türdichtung oder andere Öffnungen, bei positivem Messergebnis Benachrichtigung von:
+    * Arbeitsschutzbehörde
+    * Befähigungsscheininhaber nach Nr. 9.3 Abs. 13 der Technischen Regel Begasung (TRGS 512)
+  * Öffnen/Belüften des Containers nur mit umluftunabhängigem Atemschutz, [[cbrn:geraete:atemfilter|Atemfilter]] nicht bei allen Begasungsmitteln wirksam!\\ Bei starkem Pilzbefall mindestens P3- bzw. FFP3-Maske tragen.
+  * Im Container nachsehen ob Reste der Begasungseinrichtung vorhanden sind (z.B. Dosen, Beutel, Tabletten)
+  * Fracht aus dem Container kann auch noch lange (mehrere Tage) nach dem Ausräumen ausgasen - an gut belüftetem Ort lagern. Auch die Fracht im Umkreis von 10m absperren.
+
+==== Einsatzabschluss ====
+
+  * Nur der Befähigungsscheininhaber darf die Freigabe erteilen
+  * ggf. Transporteur und Empfänger benachrichtigen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Kennzeichnung ====
+
+  * Der Container wird lediglich wie oben beschrieben mit dem Begasungswarnzeichen zusammen mit der UN-Nr. 3359 gekennzeichnet, nicht jedoch mit der UN-Nr. die dem Begasungsstoff normalerweise zugeordnet ist, wie z.B. 2199 für Phosphorwasserstoff.
+
+==== messtechnischer Nachweis ====
+
+Zuerst [[cbrn:geraete:ex-messgeraet|Ex-Messung]], dann [[cbrn:geraete:pruefroehrchen|Prüfröhrchenmessung]] durchführen! Bei negativen Ergebnissen vor Betreten ohne Atemschutz auch überprüfen ob genügend Sauerstoff vorhanden ist.
+  * Konzentrationen bis in den Ex-Bereich möglich!
+  * Bei bekanntem Begasungsmittel spezifische Prüfröhrchen nutzen, für unbekannte Gase können mit einem eigenen Dräger-Simultantest für Begasungsmittel gemessen werden soweit vorhanden. Weitere Hinweise siehe in Kapitel {{cbrn:allgemein:draeger_roehrchenhandbuch:begasungsmittel.pdf|2.11 Die Messung von Begasungsmitteln}} des Dräger Röhrchenhandbuchs.
+
+==== Verwendete Begasungsmittel ====
+
+Hauptsächlich werden folgende Begasungsmittel verwendet:
+
+  * Methylbromid ([[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/031600.xml?f=templates&fn=default.htm|Methylbromid in der GESTIS-Gefahrstoffdatenbank]])
+    * farb- und geruchsloses Gas
+    * schwerer als Luft
+    * Ex-Bereich ca. 8,6 bis 20 Vol.-%
+  * Phosphorwasserstoff ([[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/003530.xml?f=templates&fn=default.htm|Phosphorwasserstoff in der GESTIS-Gefahrstoffdatenbank]])
+    * Gasförmig, aber im Container meist als Tablette die mit der Luftfeuchtigkeit reagiert
+    * Geruch in höheren Konzentrationen nach Knoblauch / Karbid - dann Gesundheitsgefahr!
+    * Ex-Bereich ab ca. 1 Vol.-%
+  * Sulfuryldifluorid ([[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/500105.xml?f=templates&fn=default.htm|Sulfuryldifluorid in der GESTIS-Gefahrstoffdatenbank]])
+    * farb- und geruchsloses Gas
+
+Außerdem können weitere folgende Stoffe verwendet werden:
+
+  * Chlorpikrin ([[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/038360.xml?f=templates&fn=default.htm|Chlorpikrin in der GESTIS-Gefahrstoffdatenbank]])
+  * Cyanwasserstoff ([[cbrn:chemisch:klasse_6-1:stoffe:blausaeure|Cyanwasserstoff im Einsatzleiterwiki]], [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/012450.xml?f=templates&fn=default.htm|Cyanwasserstoff in der GESTIS-Gefahrstoffdatenbank]])
+  * Formaldehyd ([[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/010520.xml?f=templates&fn=default.htm|Formaldehyd in der GESTIS-Gefahrstoffdatenbank]])
+  * Ammoniak ([[cbrn:chemisch:klasse_2:stoffe:ammoniak|Ammoniak im Einsatzleiterwiki]], [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/001100.xml?f=templates&fn=default.htm|Ammoniak in der GESTIS-Gefahrstoffdatenbank]])
+  * Ethylendibromid ([[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/013440.xml?f=templates&fn=default.htm|Ethylendibromid in der GESTIS-Gefahrstoffdatenbank]])
+  * Ethylformiat ([[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/020040.xml?f=templates&fn=default.htm|Ethylformiat in der GESTIS-Gefahrstoffdatenbank]])
+
+===== Quellenangabe =====
+
+  * [[https://www.vfdb.de/fileadmin/abdownloads/MerkblattBegasteContainer.pdf|vfdb-Merkblatt "Begaste Container"]], 2007
+  * [[http://www.bmvi.de/SharedDocs/DE/Anlage/VerkehrUndMobilitaet/Gefahrgut/imdg-code-de-2014.pdf?__blob=publicationFile|IMDG-Code 2014]]
+
+
+===== Stichwörter =====
+
+UN3359, UN 3359

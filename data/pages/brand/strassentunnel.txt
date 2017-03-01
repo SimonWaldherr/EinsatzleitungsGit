@@ -1,0 +1,101 @@
+====== Tunnelbrandbekämpfung Straßentunnel ======
+
+Die hier genannten Informationen basieren auf den Vorgaben der RABT (Richtlinien für die Ausstattung und den Betrieb von Straßentunneln)
+
+"Schmutzige Röhre": Tunnelröhre in dem sich das Brandereignis/Rauchausbreitung befindet\\
+"Saubere Röhre": Tunnelröhre in Gegenrichtung, die nahezu rauchfrei ist/sein sollte (bei Tunneln mit 2 Röhren)
+
+===== Aufgaben im Tunnel =====
+
+  * Schnellstmögliche Brandbekämpfung,
+  * Absuchen des verrauchten Bereichs, falls erforderlich Menschenrettung,
+  * Bereithalten eines Sicherheitstrupps bzw. einer Sicherheitsstaffel!
+
+===== zu treffende Maßnahmen =====
+
+==== Personalbedarf ====
+
+  * Pro Tunnelseite mindestens 2 Staffeln
+      * 1 Staffel für den Erstangriff
+      * 1 Staffel als Sicherheitsstaffel gem. FwDV 7
+
+==== Anfahrt ====
+
+  * Tunnel von beiden Portalen aus anfahren
+  * ​Nicht in Rettungsstollen einfahren (Gefährdung flüchtender Personen)
+  * Löschangriff über die Zuluft-Seite starten
+  * Feuerwehr-Schaltkasten (FSK) am Tunneleingang anfahren
+      * über Sprechverbindung zur Tunnelzentrale weitere Informationen nachfragen
+      * ggf. Gebäudefunkanlage aktivieren
+  * Bei geringer Verrauchung langsam und mit gebührender Vorsicht in Tunnel einfahren: evtl. kommen Personen aus Fluchttüren und stehen plötzlich vor dem Fahrzeug
+
+==== Vorgehen im Einsatz ====
+
+  * Die Staffel geht als geschlossene Einheit in den Tunnel vor
+  * Der Staffelführer kann die Staffel in zwei Trupps trennen, er schließt sich dann einem Trupp an
+  * [[:brand:allgemein:loeschwasserversorgung|Löschwasserversorgung]] sicherstellen
+      * i.d.R. Hydranten, die durch eine Zisterne gespeist werden
+      * je nach Kraft der Druckerhöhungspumpe Wasserversorgung nicht an die Tankfüllleitung des Löschfahrzeugs anschließen, sondern direkt über Sammelstück/Pumpeneingang fahren (bei zu hohem Eingangsdruck Beschädigung des Tanks möglich)
+  * Belüftungszustand kontrollieren (Strahlventilatoren im Tunnel sind nicht an die Notstromversorgung angeschlossen!)
+  * Einsatzkräfte ohne PA betreten keinesfalls die Röhre in der sich der Brand befindet!
+  * Massiven Personaleinsatz befehlen!
+  * Menschenrettung und Brandbekämpfung kombiniert durchführen. \\ Neben den direkten Löscharbeiten ebenfalls die Tunnelwände kühlen!
+  * ggf. [[:allgemein:manv|MANV]] vorbereiten
+  * Kontrolle nach Verletzten und Geflüchteten ([[:allgemein:geraete:waermebildkamera|Wärmebildkamera]] einsetzen):
+      * im kompletten Tunnel
+      * Notrufkabinen
+      * Fluchtwege/Notausgänge nach draußen
+      * Außenbereiche wo Fluchtwege enden (evtl. kann dies von der Polizei durchgeführt werden)
+
+==== Kommunikation & Einsatzleitung ====
+
+  * Liegt der Tunnel auf der Gemarkung mehrerer Gemeinden ist im Vorfeld festzulegen welche Feuerwehr die Einsatzleitung inne hat
+  * Sprechverbindung zwischen den Tunnelportalen, der Einsatzleitung und den Einsatzkräften im Tunnel muss sichergestellt sein
+      * 1 Kanal Einsatzleitung
+      * Mind. 2 Kanäle für Abschnitte & Einsatzkräfte im Tunnel (Portal 1 + 2)
+
+==== Einsatzmittel / Ausrüstung ====
+
+  * Eindringtiefe bis 200 m: Pressluftatmer
+  * Eindringtiefe über 200 m: Pressluftatmer mit 6-Liter Doppelflaschen (PA-Lang)
+  * 1 Wärmebildkamera pro Staffel
+  * 4 Handsprechfunkgeräte (1 Staffelführer, 1 Maschinist, 1 Angriffstrupp, 1 Wassertrupp)
+  * Markierungsleuchten
+      * 2 blaue für Wasser (Wasserentnahme, Verteiler)
+      * 6 grüne für Ausgänge
+      * 4 gelbe für Markierung abgesuchter Bereiche und gefundener Personen
+  * Hilfsmittel für die Menschenrettung und den Materialtransport z.B. Rolltragen oder Loren
+  * Suchstöcke zum aufrechten und schnellen Absuchen größerer Flächen z.B. Blindenstöcke
+
+==== Tunnel mit 2 Röhren ====
+
+  * Durch die saubere Röhre anfahren und bei jedem Übergang (Fluchttür, Abstand i.d.R. jeweils in ca. 150 m voneinander) in die andere Röhre kontrollieren wo sich die Brandstelle befindet. Sobald sich eine Tür vor dem Brand befindet (in Richtung der Rauchausbreitung gesehen), durch diese Tür den Löschangriff vortragen.
+  * Fahrzeugaufstellung: auf der linken Spur abstellen, um rechts mit weiteren Fahrzeugen vorbeifahren zu können
+
+==== Tunnel mit 1 Röhre ====
+
+  * Angriff evtl. über parallel verlaufenden Servicetunnel oder Fluchtweg möglich?
+
+==== besondere Gefahren ====
+
+  * lange Wege
+  * abplatzende Betonstücke
+  * Autofahrer fahren trotz roter Ampel weiter in den Tunnel ein, auch wenn sich bereits Einsatzkräfte darin befinden bzw. gerade anfahren
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Personen in KFZ können ca. 15 min überleben wenn die Türen bzw. Fenster geschlossen bleiben und die Lüftung aus ist
+  * Fahrbahnrandmarkierungen und Fluchtwegkennzeichnung (Blitzleuchten!) können von den AGT als Orientierungshilfe genutzt werden.
+  * Abwasser aus dem Tunnel wird zuerst in Tanks gesammelt -> Entleerungspumpen deaktivieren um Löschwasser/Gefahrstoffe zurückzuhalten
+  * Ein Wiedereinschalten nach Deaktivierung bzw. Richtungsänderung der Strahlventilatoren dauert sehr lange (ca. 10 min), Luftmassen strömen auch nach Abschaltung noch einige Zeit wie zuvor weiter
+  * Aktueller Wetterzustand (Windverhältnisse etc.) hat i.d.R. keinen Einfluss auf die Luftströmung im Tunnel
+  * Die Tunnelzentrale kann den Tunnel per Video überwachen, Durchsagen über Lautsprecher im Tunnel tätigen und im Bereich des Tunnels die Radiosender übersprechen
+
+==== Tunnel mit 2 Röhren ====
+
+  * Wenn eine Feuerwehr-Überfahrt (FÜF) vor den Tunnelportalen vorhanden, sollten die Einsatzkräfte die auf der Seite der schmutzigen Röhre angefahren sind auf die saubere Seite wechseln und gegen die Fahrtrichtung in den Tunnel einfahren und zu den anderen Einsatzkräften stoßen\\ Ausnahme: Brandereignis nur kurz (wenige Schlauchlängen) hinter der Tunneleinfahrt
+
+===== Quellenangabe =====
+
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * [[http://www.lfs-bw.de/Fachthemen/Einsatztaktik-fuehrung/Sonstiges/Documents/AK_Tunneleinsatz_Einsatztaktik_in_Stra%C3%9Fentunneln.pdf|Einsatztaktik in Straßentunneln]], Landesfeuerwehrschule Baden-Württemberg

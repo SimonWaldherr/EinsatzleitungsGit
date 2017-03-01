@@ -1,0 +1,14 @@
+====== Luftvergleichszahl ======
+
+Die Luftvergleichszahl kann herangezogen werden um zu ermitteln ob ein Stoff schwerer oder leichter als Luft ist. Die Luftvergleichszahl beträgt ~ 29 g/mol. Ist die [[cbrn:allgemein:cbrn-lexikon:molare_masse|molare Masse]] eines Gases oder Dampfs bekannt, kann daraus folgender Schluss gezogen werden:
+
+  * Ist die molare Masse des Stoffs kleiner als 29 g/mol, so wird sich dieser nach oben verflüchtigen, da er leichter als Luft ist.
+  * Ist die molare Masse des Stoffs größer als 29 g/mol, so wird sich dieser am Boden sammeln und in Senken, Keller, etc. eindringen.
+
+Diese Betrachtung geht jedoch davon aus, dass der austretende Stoff die gleiche Temperatur wie die Umgebung hat. Besonders unter hohem Druck gespeicherte Gase sind nach dem Austritt sehr kalt, haben deswegen eine höhere Dichte und bleiben deswegen, auch wenn sie eine geringere molare Masse als Luft haben, ggf. einige Zeit am Boden bis sie erwärmt sind und aufsteigen.
+
+Desweiteren ist zu beachten, das Windströmungen den Stoff in unerwartete Richtungen treiben.
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

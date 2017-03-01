@@ -1,0 +1,52 @@
+====== ARGON, TIEFGEKÜHLT, FLÜSSIG - UN 1951 - Gefahrnr. 22 - ERICard-Nr. 2-48 - UN1951 ======
+|Stoff | ARGON, TIEFGEKÜHLT, FLÜSSIG   |
+|UN-Nummer | 1951   |
+|[[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Gefahrnummer]] | 22   |
+|ADR-Gefahrzettel |  {{cbrn:2-2.png?nolink&100}}    |
+|ADR-Klasse | 2   |
+|Klassifizierungscode | 3A   |
+|[[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]] |    |
+|ERI-Card | 2-48   |
+
+==== Unfall-Hilfeleistung ====
+===== Tiefgekühltes verflüssigtes Gas, erstickend =====
+==== 1. Eigenschaften. ====
+  * In flüssiger Form hat der Stoff sehr tiefe Temperaturen.
+  * Erstickend! Das Gas wirkt ohne vorherige Wahrnehmung!
+  * Nicht entzündbar
+==== 2. Gefahren. ====
+  * Erwärmung des Behälters führt zu Druckanstieg und Berstgefahr mit schlagartiger Freisetzung einer Dampfwolke, die sich mit einer Druckwelle ausbreiten kann (Gefahr eines [[cbrn:allgemein:begriffsklaerungen#bleve|BLEVE]]).
+  * Kontakt mit dem flüssigen Stoff läßt viele Materialien einschließlich der Schutzkleidung spröde werden.
+  * Das Gas kann unsichtbar sein, in Kanalisation und Kellerräume eindringen oder die Atemluft in geschlossenen Räumen verdrängen.
+==== 3. Persönlicher Schutz. ====
+  * Umluftunabhängiger Atemschutz
+==== 4. Einsatz-Massnahmen. ====
+=== 4.1 Allgemeine Massnahmen. ===
+  * Mit dem Wind vorgehen.
+=== 4.2 Massnahmen bei Stoffaustritt. ===
+  * Lecks wenn möglich schließen.
+  * Gaswolke mit Sprühstrahl niederschlagen oder verwirbeln.
+  * Falls der Stoff in offenes Gewässer oder Kanalisation gelangt, zuständige Behörde informieren.
+=== 4.3 Massnahmen bei Feuer (falls Stoff betroffen). ===
+  * Behälter mit Wasser kühlen.
+  * Kein Wasser auf Leckstellen oder Sicherheitseinrichtungen geben.
+  * Brandgase wenn möglich mit Sprühstrahl niederschlagen.
+  * Aus Umweltschutzgründen [[brand:allgemein:loeschwasserrueckhaltung|Löschmittel zurückhalten]].
+==== 5. Erste Hilfe. ====
+  * Falls der Stoff in die Augen gelangt ist, mindestens 15 Minuten mit Wasser spülen und Personen sofort medizinischer Behandlung zuführen.
+==== 6. Besondere Vorsichtsmassnahmen bei der Bergung von Havariegut. ====
+  * Bergung des Produkts kann nicht mit Standardausrüstung durchgeführt werden! Sofort [[cbrn:allgemein:tuis|Fachberater hinzuziehen]].
+==== 7. Vorsichtsmassnahmen nach dem Hilfeleistung-Einsatz. ====
+=== 7.1 Ablegen der Schutzkleidung. ===
+  * Kontaminierte Kleidung so schnell wie möglich, noch vor dem Verlassen der Einsatzstelle, ablegen.
+=== 7.2 Reinigung der Ausrüstung. ===
+  * Keine besonderen Vorsichtsmaßnahmen erforderlich.
+===== Quelle und Copyright =====
+
+Bitte nehmen Sie die Verwendungshinweise zu den ERI-Cards auf der [[cbrn:ericards:start#allgemeine_hinweise|ERI-Card Übersichtsseite]] zur Kenntnis.
+
+Diese ERICard kann im Original unter folgendem Link aufgerufen werden: [[http://www.ericards.net/psp/ericards.psp_ericard?lang=3&subkey=19511095]]
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

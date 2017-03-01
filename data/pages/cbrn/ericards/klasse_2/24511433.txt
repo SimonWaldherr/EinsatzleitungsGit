@@ -1,0 +1,61 @@
+====== STICKSTOFFTRIFLUORID - UN 2451 - Gefahrnr. 25 - ERICard-Nr. 2-54 - UN2451 ======
+|Stoff | STICKSTOFFTRIFLUORID   |
+|UN-Nummer | 2451   |
+|[[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Gefahrnummer]] | 25   |
+|ADR-Gefahrzettel |  {{cbrn:2-2.png?nolink&100}} + {{cbrn:5-1.png?nolink&100}}    |
+|ADR-Klasse | 2   |
+|Klassifizierungscode | 2O   |
+|[[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]] |    |
+|ERI-Card | 2-54   |
+
+==== Unfall-Hilfeleistung ====
+===== Verflüssigtes Gas, brandfördernd =====
+==== 1. Eigenschaften. ====
+  * Das Gas kann wirken ohne vorher wahrgenommen zu werden.
+  * Brandfördernd
+  * Nicht entzündbar
+==== 2. Gefahren. ====
+  * Erwärmung des Behälters führt zu Druckanstieg und Berstgefahr mit schlagartiger Freisetzung einer Dampfwolke, die sich mit einer Druckwelle ausbreiten kann (Gefahr eines [[cbrn:allgemein:begriffsklaerungen#bleve|BLEVE]]).
+  * Kontakt mit brennbaren Stoffen kann einen Brand oder eine Explosion verursachen.
+  * Das Gas kann unsichtbar sein, in Kanalisation und Kellerräume eindringen oder die Atemluft in geschlossenen Räumen verdrängen.
+  * Verstärkt die Brandgefahr bei brennbaren Stoffen, insbesondere bei Kleidungsstücken.
+==== 3. Persönlicher Schutz. ====
+  * Umluftunabhängiger Atemschutz
+==== 4. Einsatz-Massnahmen. ====
+=== 4.1 Allgemeine Massnahmen. ===
+  * Nicht rauchen, Zündquellen ausschließen.
+  * Mit dem Wind vorgehen. Schutzausrüstung bereits vor dem Betreten des [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]]s anlegen.
+  * Zahl der Einsatzkräfte im [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] beschränken.
+  * Den Kontakt mit brennbaren Stoffen (z.B. Benzin) vermeiden.
+=== 4.2 Massnahmen bei Stoffaustritt. ===
+  * Lecks wenn möglich schließen.
+  * Gaswolke mit Sprühstrahl niederschlagen oder verwirbeln.
+  * Zur Leckabdichtung keine Stopfen/Keile aus organischem Material (z.B. Holz) verwenden.
+  * Falls der Stoff in offenes Gewässer oder Kanalisation gelangt, zuständige Behörde informieren.
+  * Falls keine Gefahren für Einsatzkräfte oder die Öffentlichkeit entstehen, Kanalisation und Kellerräume belüften.
+=== 4.3 Massnahmen bei Feuer (falls Stoff betroffen). ===
+  * Behälter mit Wasser kühlen.
+  * Falls ohne Risiko möglich, Gaszufuhr absperren.
+  * Aus geschützter Stellung arbeiten, um Gefährdung der Einsatzkräfte zu reduzieren. Mobile Wasserwerfer verwenden.
+  * Brandgase wenn möglich mit Sprühstrahl niederschlagen.
+  * Aus Umweltschutzgründen [[brand:allgemein:loeschwasserrueckhaltung|Löschmittel zurückhalten]].
+==== 5. Erste Hilfe. ====
+  * Falls der Stoff in die Augen gelangt ist, mindestens 15 Minuten mit Wasser spülen und Personen sofort medizinischer Behandlung zuführen.
+  * Personen, die mit dem Stoff in Berührung gekommen sind oder Dämpfe eingeatmet haben, sofort medizinischer Behandlung zuführen. Dabei alle verfügbaren Stoffinformationen mitgeben.
+==== 6. Besondere Vorsichtsmassnahmen bei der Bergung von Havariegut. ====
+  * Bergung des Produkts kann nicht mit Standardausrüstung durchgeführt werden! Sofort [[cbrn:allgemein:tuis|Fachberater hinzuziehen]].
+==== 7. Vorsichtsmassnahmen nach dem Hilfeleistung-Einsatz. ====
+=== 7.1 Ablegen der Schutzkleidung. ===
+  * Kontaminierte Kleidung so schnell wie möglich, noch vor dem Verlassen der Einsatzstelle, ablegen.
+=== 7.2 Reinigung der Ausrüstung. ===
+  * Vor Abtransport von der Einsatzstelle mit Wasser abspülen.
+  * Zum nächstmöglichen Zeitpunkt und vor Wiederverwendung [[cbrn:allgemein:tuis|Fachleute hinzuziehen]].
+===== Quelle und Copyright =====
+
+Bitte nehmen Sie die Verwendungshinweise zu den ERI-Cards auf der [[cbrn:ericards:start#allgemeine_hinweise|ERI-Card Übersichtsseite]] zur Kenntnis.
+
+Diese ERICard kann im Original unter folgendem Link aufgerufen werden: [[http://www.ericards.net/psp/ericards.psp_ericard?lang=3&subkey=24511433]]
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

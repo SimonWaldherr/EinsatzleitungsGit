@@ -1,0 +1,28 @@
+<WRAP column>
+====== Allgemeine Hilfe ======
+{{simplenavi>allgemeine_hilfe}}
+</WRAP>
+
+<WRAP column>
+===== Verkehrsunfall =====
+
+[[allgemeine_hilfe:verkehrsunfall:start|Verkehrsunfall Hauptseite]]
+
+{{simplenavi>allgemeine_hilfe:verkehrsunfall}}
+</WRAP>
+
+<WRAP column>
+===== Hilfeleistungen allgemein =====
+{{simplenavi>allgemeine_hilfe:allgemein}}
+</WRAP>
+
+<WRAP column>
+===== Geräte für Hilfeleistungen =====
+{{simplenavi>allgemeine_hilfe:geraete}}
+</WRAP>
+
+<WRAP clear/>
+
+===== Stichworte =====
+
+Technische Hilfe

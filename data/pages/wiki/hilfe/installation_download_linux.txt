@@ -1,0 +1,75 @@
+====== Download und Installation unter Linux ======
+
+Da Wiki-Systeme eigentlich für den Betrieb auf (Internet-)Servern entwickelt wurden, muss für die Nutzung des Einsatzleiterwikis eine entsprechende Server-Software installiert werden, falls diese auf dem Computer nicht bereits vorhanden ist. Um Aktualisierungen einfacher zu gestalten, werden die Programm- und die Datenbasis des Einsatzleiterwikis getrennt angeboten. Somit müssen insgesamt drei Schritte werden:
+
+  - Server-Software (falls noch nicht vorhanden)
+  - Wiki-Programm (DokuWiki) mit entsprechenden Erweiterungen
+  - Daten des Einsatzleiterwikis
+
+Im weiteren Verlauf des Artikels wird das Vorgehen zur Installation Schritt für Schritt erklärt. Dabei werden die nötigen Kommandos für das Terminal angegeben, mit denen auch eine Installation ohne grafische Oberfläche möglich ist, wenn Sie z.B. über SSH zu Ihrem Internet-Server verbunden sind.
+
+===== Installation der Server-Software =====
+
+Unter Linux reicht es aus, einfach das Apache- und PHP-Paket zu installieren. Benutzen Sie dafür am besten Ihr entsprechendes Paketverwaltungsprogramm. Beachten Sie, dass das Apache- und PHP-Paket in Ihrer Distribution eventuell einen anderen Namen besitzt den Sie anpassen müssen!
+
+Unter Debian und Ubuntu können Sie im Terminal z.B. einfach eingeben (lassen Sie das Terminal danach für weitere Installationsschritte geöffnet):
+
+<code>
+sudo apt-get install apache2 php5
+</code>
+
+Damit wäre die Installation der Server-Software beendet.
+
+===== Installation der Wiki-Software =====
+
+Als nächstes wird die Wiki-Software installiert. Dafür muss diese als erstes heruntergeladen werden (Es wird hierbei ins tmp-Verzeichnis zwischengespeichert welches beim nächsten Neustart geleert wird. Möchten Sie die Installationsdatei behalten, so speichern Sie die Datei bitte z.B. in Ihr Home-Verzeichnis):
+
+<code>
+wget http://www.einsatzleiterwiki.de/public_download/einsatzleiterwiki.zip -O /tmp/einsatzleiterwiki.zip
+</code>
+
+Nun wird das heruntergeladene Archiv entpackt (sudo ist nötig da Administratorrechte benötigt werden um in das Server-Verzeichnis zu schreiben). Beachten Sie auch hier, dass der Webserver-Pfad (unter Ubuntu /var/www/) in Ihrer Distribution eventuell anders lautet.
+
+<code>
+sudo unzip /tmp/einsatzleiterwiki.zip -d /var/www/
+</code>
+
+===== Installation der Einsatzleiterwiki-Daten =====
+
+Im nächsten Schritt müssen die Einsatzleiterwiki-Daten heruntergeladen werden. Dies geschieht wie auch schon bei der Wiki-Software mit dem Befehl:
+
+<code>
+wget http://sync.einsatzleiterwiki.de/einsatzleiterwiki_daten.zip -O /tmp/einsatzleiterwiki_daten.zip
+</code>
+
+Zum Entpacken der Daten verwenden Sie folgenden Befehl:
+
+<code>
+sudo unzip /tmp/einsatzleiterwiki_daten.zip -d /var/www/einsatzleiterwiki/
+</code>
+
+Die Nachfrage ob Sie bestehende Dateien überschreiben wollen bestätigen Sie mit **A** (was für **Alle Dateien** steht).
+
+===== Installation abschließen =====
+
+Als letztes muss als Eigentümer der eben entpackten Dateien der Benutzer eingetragen werden unter dem der Apache-Server betrieben wird. Unter Ubuntu ist dies der Benutzer **www-data**. Die geschieht mit dem Befehl
+
+<code>
+sudo chown -R www-data:www-data /var/www/einsatzleiterwiki/
+</code>
+
+===== Administrator-Benutzerkonto erstellen und erster Start =====
+
+Rufen Sie in Ihrem Browser die URL [[http://127.0.0.1/einsatzleiterwiki/install.php]] auf.
+
+Füllen Sie die Felder auf der linken Seite aus:
+
+  * Wiki-Name: Der Name des Einsatzleiterwikis, welcher später in der Titelleiste Ihres Browsers angezeigt wird. Tragen Sie hier z.B. ein: "Einsatzleiterwiki Feuerwehr XY"
+  * Die Felder Administrator Benutzername, Voller Name, E-Mail und Passwort sollten selbsterklärend sein.
+  * Klicken Sie nun auf Speichern. Auf der sich nun öffnenden Seite finden Sie den Link zur Startseite Ihres Einsatzleiterwikis. Alternativ können Sie dies jederzeit unter folgender Adresse aufrufen: [[http://127.0.0.1/einsatzleiterwiki/doku.php]].
+
+===== Suchindex erstellen =====
+
+Als letztes müssen Sie noch den Suchindex erstellen, wie auf der Seite [[wiki:hilfe:plugins:searchindex|Datenbank der Volltextsuchfunktion neu erzeugen]] beschrieben.
+
+Viel Spaß mit Ihrem Einsatzleiterwiki unter Linux!

@@ -1,0 +1,67 @@
+====== Löschanlagen ======
+
+===== Sprinkleranlagen =====
+
+==== zu treffende Maßnahmen Sprinkleranlagen ====
+
+  - Aufsuchen der Sprinklerzentrale (Feuerwehrplan, Alarmglocke, Pförtner fragen, Schilder)
+  - Bestimmung der ausgelösten Alarmventilstation, mögliche Indizien:
+    * über [[brand:bma|BMZ]]
+    * Sprinklerglocke
+    * Kondenswasserbildung
+    * Temperaturunterschied ober-/unterhalb Alarmventilstation
+    * Vibration (der Verrohrung)
+    * Manometer; Zeiger bewegen sich, Leuchtanzeigen
+    * Wasser strömt aus Glocke
+  - Bestimmung des Schutzbereiches (Übersichtsplan)
+  - Kontrolle des Schutzbereiches
+  - Verständigung des verantwortlichen Betriebsangehörigen
+  - Bedienung und Steuerung der Sprinkleranlage
+  - Evtl. Außerbetriebnahme (nur bei Fehlalarm!)\\ (Sprinklerpumpe am Schaltschrank abschalten, Entwässerungsventil öffnen, Absperrschieber betätigen)
+
+===== CO₂-Löschanlagen =====
+
+Für allgemeine Aussagen zum Löschmittel CO<sub>2</sub> siehe die Seite [[brand:allgemein:co2]].
+
+==== zu treffende Maßnahmen CO₂-Löschanlagen ====
+
+=== Anfahrt ===
+
+Ist mit ausgelöster Anlage zu rechnen, gilt es bei der Fahrzeugaufstellung zu beachten:
+  * Anfahrt mit dem Wind/Witterung allgemein beachten
+  * nicht in Senken halten, sicheren Abstand zum Objekt wahren
+
+=== an der Einsatzstelle ===
+
+{{ :brand:allgemein:co2-loeschanlage.png?nolink&200|Schild "CO<sub>2</sub>-Löschanlage"}}
+
+  * CO<sub>2</sub>-Löschanlage vorhanden? (auch im Feuerwehrplan falls vorhanden, ggf. Kopplung mit [[brand:bma|BMA]]), Kennzeichnung mit nebenstehendem Schild
+  * hat die Anlage ausgelöst? (äußere Erkennungszeichen: Nebelbildung an Wändern und Dächern an den Druckentlastungsöffnungen, teilweise wird CO₂ mit Duftstoff versetzt)
+  * Wo befindet sich der Löschbereich der Anlage? Befinden sich noch Personen dort?
+  * Verletzte Personen außerhalb des Löschbereichs, insbesondere mit Atembeschwerden oder bewusstlos? Bei größerer Anzahl ggf. [[allgemein:manv|MANV]]!
+  * Wo ist die Branderkennungs- und die Steuerungseinrichtung verbaut?
+  * Innenerkundung, auch die Bedienung der BMZ, bei ausgelöster Anlage nur unter umluftunabhängigem Atemschutz!
+  * Überprüfung von Gruben und Senken sowie angrenzende Nachbarobjekte auf CO₂.
+  * Alle Einsatzkräfte auf Gefahr hinweisen!
+  * ggf. nachfordern:
+    * CO₂-Messgeräte
+    * Umluftunabhängige Atemschutzgeräte und Atemschutzgeräteträger, wenn größere Bereiche zu kontrollieren sind.
+    * [[brand:allgemein:belueftung|Belüftungsgeräte]], wenn die CO₂-Wolke nicht von alleine abzieht
+    * Polizei zum weiträumigen Absperren des Gefahrenbereichs.
+
+=== besondere Gefahren ===
+
+  * überschüssiges Löschmittel tritt durch Entlastungsöffnungen aus und kann in andere, unbeteiligte Bereiche eindringen
+  * Sichtbehinderungen
+  * Erfrierungsgefahr durch kaltes Gas, insbesondere an Bauteilen der Löschanlage
+
+==== Allgemeine (Vorgehens-)Hinweise CO₂-Löschanlagen ====
+
+  * je nach Anlagenart bis zu 50t CO<sub>2</sub>
+  * löschwirksame Konzentration muss für mindestens 10 Minuten erhalten bleiben
+  * Messung auf Nichtvorhandensein von CO₂ nur über die Sauerstoffkonzentration, wenn der gemessene Wert für Sauerstoff bei 21% liegt. Bei darunterliegenden Sauerstoffkonzentrationen kann bereits eine gefährliche oder tödliche CO₂-Konzentration erreicht sein obwohl sich noch genug Sauerstoff in der Umgebungsluft befindet. Dann darf die Messung nur mit einem CO₂-Messgerät erfolgen.
+
+===== Quellenangabe =====
+
+  * {{:brand:allgemein:hinweise_co2-loeschanlagen.pdf|Hinweise zu Einsätzen in Verbindung mit Kohlenstoffdioxidlöschanlagen. Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2009.}}
+  * {{:allgemein:kleine_merkhilfe_fuer_den_feuerwehreinsatz_1.03.pdf|Kleine Merkhilfe für den Feuerwehreinsatz: Zusammenstellung für Führungskräfte der Feuerwehr}}, Florian Pernpeintner, basierend auf:\\ "Führungslehrgang I". Unveröffentlicht. LFS / AGBF Baden-Württemberg. 04/1999

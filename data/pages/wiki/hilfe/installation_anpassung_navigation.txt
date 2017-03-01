@@ -1,0 +1,3 @@
+====== Anpassung des Navigations-Menüs am linken Rand ======
+
+Sämtliche Punkte, die sich auf der linken Seite unterhalb der Überschrift //Navigation// befinden, können sehr einfach editiert werden. Sie werden als normale Wiki-Seite gespeichert. Öffnen Sie für eine Änderung einfach die Seite [[wiki:navigation|wiki:navigation]] und nehmen Sie die gewünschten Anpassungen vor.

@@ -1,0 +1,83 @@
+====== Klasse 2: gasförmige Stoffe ======
+
+===== zu treffende Maßnahmen =====
+
+[[cbrn:ericards:klasse_2:start]]
+
+  * Absperrungen bei Flüssiggastankwagen, Druckgaskesselwagen und Industrietanks:
+    * <wrap danger>Gefahrenbereich: 300 Meter</wrap>
+    * <wrap safety>Absperrbereich: 1.000 Meter</wrap>
+  * [[cbrn:allgemein:koerperschutzformen|Atem- und Körperschutz]] tragen (nach Erfordernis)
+  * Gaswolke mit Sprühstrahl niederschlagen
+  * Bei Brandeinwirkung auf Druckbehälter: siehe zusätzliche Maßnahmen unter [[cbrn:chemisch:klasse_2:brandeinwirkung_auf_druckgasbehaelter]]
+  * brennendes Gas nicht löschen sondern Zufuhr absperren
+  * bei Lecks an Flüssiggastanks kein Wasser auf den Behälter geben (Behälter wird erwärmt und Gasaustritt damit verstärkt)
+  * Austretendes Gas ist u.U. mit [[allgemein:geraete:waermebildkamera|Wärmebildkamera]] sichtbar
+  * nicht in verflüssigtes Gas spritzen
+  * Evtl. verflüssigtes Gas mit [[brand:allgemein:schaum|Schaum]] abdecken um Verdunstungsrate zu reduzieren
+  * Kanalisation und tiefergelegene Räume/Bereiche sichern
+  * Messgeräte einsetzen (auf [[cbrn:geraete:ex-messgeraet|Ex-Atmosphäre]] und Giftigkeit prüfen)
+  * Windrichtungswechsel beachten
+
+==== besondere Gefahren ====
+
+  * Behälterzerknall, Bruchstücke können selbst Beton durchschlagen.\\ Stirnseiten des Druckgasbehälters bzw. Eisenbahnkesselwagens sind besonders gefährdeter Bereich
+  * Explosion von Gas-Luft-Gemischen
+  * Erfrierungsgefahr bei verflüssigtem Gas
+  * Brandgase können giftig sein
+  * Bei Flüssiggas [[cbrn:allgemein:cbrn-lexikon:bleve|BLEVE]] möglich
+  * Gase können einzeln oder in Kombination erstickend, giftig, brennbar, brandfördernd oder ätzend sein
+  * elektrostatische Aufladung oder elektrische Geräte können Zündquelle sein (z.B. Funkgeräte, Handscheinwerfer, FME, Handy, ...)
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+Abhängig von Lager- bzw. Transportform:
+
+==== verdichtet ====
+
+  * Druck bis 300 bar
+  * Gefahr des Behälterzerknalls bei starker Erwärmung (Beflammung) --> vor Feuer schützen
+  * Stoffbeispiele: Sauerstoff, Stickstoff, Wasserstoff, Argon, Helium, Druckluft (PA-Flaschen)
+
+==== druckverflüssigt ====
+
+  * Druck bis 60 bar
+  * Lagerung des Gases in flüssigem Zustand
+  * Gefahr des Behälterzerknalls bei
+    * mäßiger Überfüllung und geringer Erwärmung
+    * normalem Füllstand und erheblicher Erwärmung
+  * Stoffbeispiele: Propan, Butan, Kohlendioxid, Ammoniak, Lachgas
+  * Sicherheitseinrichtungen:
+    * integriertes Sicherheitsventil bei Propangasflaschen
+    * viele Kohlendioxid- und einige Lachgasflaschen besitzen eine Berstscheibe am Flaschenventil
+
+[[cbrn:chemisch:klasse_2:fluessiggasberechnungen]]
+
+==== tiefkalt verflüssigt: kryogene Gase ====
+
+  * Tank ist isoliert und nur für geringen Druck ausgelegt
+  * Gefahren durch
+    * Verstopfung von Anlagenteilen und Sicherheitseinrichtungen
+    * Freiwerden von tiefkalten Flüssigkeiten und Gasen: Versprödung der Schutzbekleidung und Erfrierungen auf der Haut
+  * Vorgehenshinweise:
+    * Kontakt vermeiden
+    * Spritzschutz für Augen erforderlich
+    * kein Wasser in austretenden Stoff spritzen, ansonsten Verspritzungen möglich
+    * Vereisung von Sicherheitseinrichtungen durch Löschwasser möglich, welche zu Druckanstieg und Berstgefahr führen
+  * Stoffbeispiele: Sauerstoff, Stickstoff, Argon, Helium, Wasserstoff, Erdgas
+
+==== besondere Stoffe der Klasse 2 ====
+
+{{simplenavi>cbrn:chemisch:klasse_2:stoffe}}
+
+===== Weblinks =====
+
+  * [[wpde>Berstscheibe|Wikipedia: Berstscheibe]]
+
+===== Quellenangabe =====
+
+  * Lehrgangsunterlagen ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+  * FwDV 500 Stand 2012
+  * [[cbrn:allgemein:adr|ADR]]
+  * Linde Gas AG
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr

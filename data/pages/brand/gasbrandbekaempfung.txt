@@ -1,0 +1,19 @@
+====== Gasbrandbekämpfung ======
+
+===== zu treffende Maßnahmen =====
+
+  * Löschen des Brandes durch Abstellen der Gasversorgung
+  * Löschen der Flamme mittels Löschmittel nur, wenn das Leck abgedichtet bzw. der weitere Gasaustritt gestoppt werden kann
+    * Löschmöglichkeit bei brennend austretenden Flüssiggasen: [[brand:geraete:strahlrohre|Strahlrohr]] mit Vollstrahl quer zur Austrittsrichtung auf das Leck richten.
+    * [[brand:allgemein:pulver|Pulverlöscher]], wenn eine Annäherung bis ca. 2 Meter an die Brandstelle möglich ist
+  * Umgebung kühlen und abschirmen
+
+==== besondere Gefahren ====
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Speziellere Hinweise für Erdgasbrände im [[cbrn:chemisch:klasse_2:stoffe:erdgas|entsprechenden Artikel]]
+
+===== Quellenangabe =====
+
+  * [[http://www.sfs-w.de/lehr-und-lernmittel/merkblaetter-broschueren/abwehrender-brandschutz.html?no_cache=1&download=05_02_Internet_2011-07-19.pdf&did=33|Merkblatt Löschmittel-Löschverfahren]], Staatliche Feuerwehrschule Würzburg

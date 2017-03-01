@@ -1,0 +1,111 @@
+====== Morsecode ======
+
+Der Code verwendet drei Symbole, die Punkt ( ''·'' ), Strich (''−'') und Pause (  ) genannt werden, gesprochen als //dit//, //dah// (oder //doh//) und „//Schweigen//“. Die Länge eines //Dit// bestimmt die Geschwindigkeit, mit der gesendet werden kann, und ist die grundlegende Zeiteinheit.
+
+Genauer gilt Folgendes:
+
+  * Ein //Dah// ist dreimal so lang wie ein //Dit//.
+  * Die Pause zwischen zwei gesendeten Symbolen ist ein //Dit// lang.
+  * Zwischen Buchstaben in einem Wort wird eine Pause von der Länge eines //Dah// (oder drei //Dits//) eingeschoben.
+  * Die Länge der Pause zwischen Wörtern entspricht sieben //Dits//.
+
+===== Code-Tabelle =====
+
+<WRAP group>
+<WRAP column>
+^  Lateinische Buchstaben  ^^
+^  Buchstabe  ^  Code  ^
+|  A  |  ''· −''  |
+|  B  |  ''− · · ·''  |
+|  C  |  ''− · − ·''  |
+|  D  |  ''− · ·''  |
+|  E  |  ''·''  |
+|  F  |  ''· · − ·''  |
+|  G  |  ''− − ·''  |
+|  H  |  ''· · · ·''  |
+|  I  |  ''· ·''  |
+|  J  |  ''· − − −''  |
+|  K  |  ''− · −''  |
+|  L  |  ''· − · ·''  |
+|  M  |  ''− −''  |
+|  N  |  ''− ·''  |
+|  O  |  ''− − −''  |
+|  P  |  ''· − − ·''  |
+|  Q  |  ''− − · −''  |
+|  R  |  ''· − ·''  |
+|  S  |  ''· · ·''  |
+|  T  |  ''−''  |
+|  U  |  ''· · −''  |
+|  V  |  ''· · · −''  |
+|  W  |  ''· − −''  |
+|  X  |  ''− · · −''  |
+|  Y  |  ''− · − −''  |
+|  Z  |  ''− − · ·''  |
+</WRAP>
+
+<WRAP column>
+^  Sonder- und Satzzeichen  ^^
+^  Zeichen  ^  Code  ^
+|  À, Å  |  ''· − − · −''  |
+|  Ä  |  ''· − · −''  |
+|  È  |  ''· − · · −''  |
+|  É  |  ''· · − · ·''  |
+|  Ö  |  ''− − − ·''  |
+|  Ü  |  ''· · − −''  |
+|  ß  |  ''· · · − − · ·''  |
+|  CH  |  ''− − − −''  |
+|  Ñ  |  ''− − · − −''  |
+|  .  |  ''· − · − · −''  |
+|  ,  |  ''− − · · − −''  |
+|  :  |  ''− − − · · ·''  |
+|  ;  |  ''− · − · − ·''  |
+|  ?  |  ''· · − − · ·''  |
+|  -  |  ''− · · · · −''  |
+|  _  |  ''· · − − · −''  |
+|  (  |  ''− · − − ·''  |
+|  )  |  ''− · − − · −''  |
+|  '  |  ''· − − − − ·''  |
+|  =  |  ''− · · · −''  |
+|  +  |  ''· − · − ·''  |
+|  /  |  ''− · · − ·''  |
+|  @  |  ''· − − · − ·''  |
+</WRAP>
+
+<WRAP column>
+^  Ziffern  ^^
+^  Ziffer  ^  Code  ^
+|  0  |  ''− − − − −''  |
+|  1  |  '' · − − − −''  |
+|  2  |  ''· · − − −''  |
+|  3  |  ''· · · − −''  |
+|  4  |  ''· · · · −''  |
+|  5  |  ''· · · · ·''  |
+|  6  |  ''− · · · ·''  |
+|  7  |  ''− − · · ·''  |
+|  8  |  ''− − − · ·''  |
+|  9  |  ''− − − − ·''  |
+
+^  Signale  ^^
+^  Zeichen  ^  Code  ^
+|  KA\\ ''(Spruchanfang)''  |  ''− · − · −''  |
+|  BT\\ ''(Pause)''  |  ''− · · · −''  |
+|  AR\\ ''(Spruchende)''  |  ''· − · − ·''  |
+|  VE\\ ''(verstanden)''  |  ''· · · − ·''  |
+|  SK\\ ''(Verkehrsende)''  |  ''· · · − · −''  |
+|  SOS\\ ''(internationaler\\ (See-)Notruf)''  |  ''· · · − − − · · ·''  |
+|  HH\\ ''(Fehler; Irrung;\\ Wiederholung\\ ab letztem\\ vollständigen Wort)''  |  ''· · · · · · · ·''  |
+</WRAP>
+</WRAP>
+
+===== Morsetafel als Decodierhilfe =====
+
+{{:allgemein:morse-tafel.png?direct&500|Morsetafel}}
+
+===== Quellenangabe =====
+
+  * Wikipedia-Artikel [[wpde>Morsezeichen]], veröffentlicht unter Creative Commons Attribution-ShareAlike 3.0 Unported-Lizenz
+  * Grafik [[wpde>Datei:Morse-Tafel.png|Morsetafel]]: Veröffentlich vom Wikipedia-User [[wpde>Benutzer:Praxelius|Praxelius]] unter Creative Commons Attribution-ShareAlike 3.0 Unported-Lizenz
+
+===== Stichwörter =====
+
+morsen

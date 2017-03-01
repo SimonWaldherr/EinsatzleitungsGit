@@ -1,0 +1,49 @@
+====== Besondere Funktionen ======
+
+
+Mit bestimmten Schlüsselwörtern können verschiedene Spezialaktionen ausgelöst werden. Diese können Sie aus folgender Übersicht übernehmen. Tragen Sie den Code, der im grau hinterlegten Bereich angezeigt wird, in die entsprechende Stelle im Artikel ein, an der Sie die Sonderfunktion einbinden möchten.
+
+
+===== Weiterleitung auf anderen Artikel =====
+
+
+In bestimmten Fällen möchten Sie möglicherweise, dass Sie beim Aufruf eines Artikels auf eine andere Seite weitergeleitet werden, beispielsweise um in den automatisch erzeugten Verzeichnissen einen Synonym-Eintrag zu erzeugen. Bei Aufruf der Seite erfolgt nach einer Wartezeit von 5 Sekunden automatisch eine Weiterleitung.
+
+
+Schreiben Sie an eine beliebige Stelle in einem Artikel
+
+
+<code>
+~~GOTO>namensraum:artikel~~
+</code>
+
+
+um in diesem Fall auf den Artikel "Artikelname" im Namensraum "Namensraum" zu verlinken. Am einfachsten ist dies, wenn Sie zuerst auf die Seite gehen, auf die Sie weiterleiten möchten, und aus der Adressezeile Ihres Internetanzeigeprogramms den entsprechenden Teil einfach herauskopieren.
+
+
+Würden Sie auf diese Seite verlinken wollen, müssten Sie aus der Adresszeile folgenden Teil herauskopieren (fett markiert):\\  wiki.einsatzleiterwiki.de/doku.php?id=**wiki:hilfe:artikel_besondere_funktionen** \\  und dann auf der Seite welche auf diese hier weiterleiten soll folgenden Code einfügen:
+
+
+<code>
+~~GOTO>wiki:hilfe:artikel_besondere_funktionen~~
+</code>
+
+
+**Wichtig:** Sie können auf der Seite die die Weiterleitung darstellen soll den kompletten Inhalt bis auf die oberste Überschrift löschen, da diese als Linkname z.B. in automatisch erstellten Verzeichnissen verwendet wird.
+
+
+===== Auflistung aller Artikel eines Namensraumes =====
+
+Um alle Artikel aufzulisten, die sich innerhalb eines Namensraums befinden, können Sie folgenden Code verwenden:
+
+<code>
+{{simplenavi>namensraum:unternamensraum}}
+</code>
+
+Dabei werden nur die Artikel des gewählten Namens- bzw. Unternamensraums angezeigt. Etwaige Unternamensräume werden als Link aufgeführt, und bei Klick darauf die jeweilige Eingangsseite des Unternamensraums aufgerufen. Um Beispielsweise alle Artikel im Namensraum Brandeinsatz, Unternamensraum Allgemein anzuzeigen, würden Sie schreiben:
+
+<code>
+{{simplenavi>brand:allgemein}}
+</code>
+
+Diese Funktion wird übrigens auf beinahe allen Seiten verwendet, auf denen mehrere Artikel aus einem Bereich aufgeführt werden.

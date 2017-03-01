@@ -1,0 +1,116 @@
+====== Amtshilfe ======
+
+Die Amtshilfe ist im Artikel 35 des Grundgesetzes und in den Paragraphen 4 bis 8 des Verwaltungsverfahrensgesetzes geregelt.
+
+
+===== Definition =====
+
+Eine Behörde ersucht eine andere, ihr bei der Erledigung einer Aufgabe Hilfe zu leisten. Werden bei der Erledigung der Aufgabe Zwangsmittel angewandt, so wird von Vollzugshilfe gesprochen.
+
+===== Voraussetzungen =====
+
+Die ersuchende (anfordernde) Behörde ist dafür zuständig, dass die Maßnahme rechtmäßig ist und durchgeführt werden kann. Die ersuchte (angeforderte) Behörde legt die Art und Weise der Durchführung fest und trägt die Verantwortung für diese.
+
+Eine der folgende Bedingungen ist für die Anforderung einer Behörde zur Amtshilfe erforderlich:
+
+Die ersuchende Behörde
+
+  * kann oder darf die Maßnahme nicht selbst vornehmen.
+  * besitzt nicht die erforderliche Kenntnis über Sachverhalte und kann diese auch nicht selbst ermitteln.
+  * kann die Maßnahme selbst nur mit wesentlich größerem Aufwand durchführen.
+
+Die ersuchte Behörde ist verpflichtet Amtshilfe zu leisten, sofern diese nicht abgelehnt werden kann.
+
+===== Ablehnung der Amtshilfe =====
+
+Es gibt einerseits Amtshilfegesuche die abgelehnt werden müssen, andererseits solche deren Erfüllung im Ermessen der ersuchten Behörde liegt.
+
+==== Entscheidung über Ablehnung ====
+
+In folgenden Fällen **kann** die ersuchte Behörde (hier explizit Feuerwehr) selbst entscheiden ob sie der Anforderung nachkommt oder diese ablehnt:
+
+  * Das Amtshilfeersuchen steht nicht im Bezug zur Feuerwehr\\ Beispiel: Die Polizei fordert eine Drehleiter zur Verfolgung eines Straftäters an.
+  * Die Amtshilfe kann von einer anderen Behörde wesentlich leichter oder mit geringerem Aufwand leisten.
+  * Die Amtshilfe kann nur mit unverhältnismäßig großem Aufwand geleistet werden
+  * Die Erfüllung der eigenen Aufgaben der ersuchten Behörde würde erheblich gefährdet werden\\ Beispiel: Der Grundschutz kann nicht mehr sichergestellt werden.
+
+Die ersuchte Behörde darf die Amtshilfe nicht aus einem anderen als diesen Gründen verweigern. Auch wenn sie die Maßnahme für unzweckmäßig hält ist dies keine Begründung.
+
+Hält sich die ersuchte Behörde nicht für zuständig und die ersuchende Behörde besteht auf die Amtshilfe, so trifft eine gemeinsam fachlich zuständige Aufsichtsbehörde oder die für die ersuchte Behörde fachlich zuständige Aufsichtsbehörde die Entscheidung über die Pflicht zur Amtshilfe.
+
+==== Zwingende Ablehnung ====
+
+In den folgenden Fällen **muss** das Amtshilfeersuchen abgelehnt werden:
+
+Die Amtshilfe
+
+  * darf aus rechtlichen Gründen nicht geleistet werden.
+  * würde dem Wohl des Bundes oder eines Bundeslandes schaden.
+
+
+===== Gesetzestexte =====
+
+==== Grundgesetz (GG) ====
+
+=== Art. 35 ===
+
+(1) Alle Behörden des Bundes und der Länder leisten sich gegenseitig Rechts- und Amtshilfe.
+
+==== Verwaltungsverfahrensgesetz (VwVfG) ====
+
+=== § 4 Amtshilfepflicht ===
+
+(1) Jede Behörde leistet anderen Behörden auf Ersuchen ergänzende Hilfe (Amtshilfe).
+
+(2) Amtshilfe liegt nicht vor, wenn
+  - Behörden einander innerhalb eines bestehenden Weisungsverhältnisses Hilfe leisten;
+  - die Hilfeleistung in Handlungen besteht, die der ersuchten Behörde als eigene Aufgabe obliegen.
+
+=== § 5 Voraussetzungen und Grenzen der Amtshilfe ===
+
+(1) Eine Behörde kann um Amtshilfe insbesondere dann ersuchen, wenn sie
+  - aus rechtlichen Gründen die Amtshandlung nicht selbst vornehmen kann;
+  - aus tatsächlichen Gründen, besonders weil die zur Vornahme der Amtshandlung erforderlichen Dienstkräfte oder Einrichtungen fehlen, die Amtshandlung nicht selbst vornehmen kann;
+  - zur Durchführung ihrer Aufgaben auf die Kenntnis von Tatsachen angewiesen ist, die ihr unbekannt sind und die sie selbst nicht ermitteln kann;
+  - zur Durchführung ihrer Aufgaben Urkunden oder sonstige Beweismittel benötigt, die sich im Besitz der ersuchten Behörde befinden;
+  - die Amtshandlung nur mit wesentlich größerem Aufwand vornehmen könnte als die ersuchte Behörde.
+
+(2) Die ersuchte Behörde darf Hilfe nicht leisten, wenn
+
+  - sie hierzu aus rechtlichen Gründen nicht in der Lage ist;
+  - durch die Hilfeleistung dem Wohl des Bundes oder eines Landes erhebliche Nachteile bereitet würden.
+
+Die ersuchte Behörde ist insbesondere zur Vorlage von Urkunden oder Akten sowie zur Erteilung von Auskünften nicht verpflichtet, wenn die Vorgänge nach einem Gesetz oder ihrem Wesen nach geheim gehalten werden müssen.
+
+(3) Die ersuchte Behörde braucht Hilfe nicht zu leisten, wenn
+
+  - eine andere Behörde die Hilfe wesentlich einfacher oder mit wesentlich geringerem Aufwand leisten kann;
+  - sie die Hilfe nur mit unverhältnismäßig großem Aufwand leisten könnte;
+  - sie unter Berücksichtigung der Aufgaben der ersuchenden Behörde durch die Hilfeleistung die Erfüllung ihrer eigenen Aufgaben ernstlich gefährden würde.
+
+(4) Die ersuchte Behörde darf die Hilfe nicht deshalb verweigern, weil sie das Ersuchen aus anderen als den in Absatz 3 genannten Gründen oder weil sie die mit der Amtshilfe zu verwirklichende Maßnahme für unzweckmäßig hält.
+
+(5) Hält die ersuchte Behörde sich zur Hilfe nicht für verpflichtet, so teilt sie der ersuchenden Behörde ihre Auffassung mit. Besteht diese auf der Amtshilfe, so entscheidet über die Verpflichtung zur Amtshilfe die gemeinsame fachlich zuständige Aufsichtsbehörde oder, sofern eine solche nicht besteht, die für die ersuchte Behörde fachlich zuständige Aufsichtsbehörde.
+
+=== § 6 Auswahl der Behörde ===
+
+Kommen für die Amtshilfe mehrere Behörden in Betracht, so soll nach Möglichkeit eine Behörde der untersten Verwaltungsstufe des Verwaltungszweigs ersucht werden, dem die ersuchende Behörde angehört.
+
+=== § 7 Durchführung der Amtshilfe ===
+
+(1) Die Zulässigkeit der Maßnahme, die durch die Amtshilfe verwirklicht werden soll, richtet sich nach dem für die ersuchende Behörde, die Durchführung der Amtshilfe nach dem für die ersuchte Behörde geltenden Recht.
+
+(2) Die ersuchende Behörde trägt gegenüber der ersuchten Behörde die Verantwortung für die Rechtmäßigkeit der zu treffenden Maßnahme. Die ersuchte Behörde ist für die Durchführung der Amtshilfe verantwortlich.
+
+=== § 8 Kosten der Amtshilfe ===
+
+(1) Die ersuchende Behörde hat der ersuchten Behörde für die Amtshilfe keine Verwaltungsgebühr zu entrichten. Auslagen hat sie der ersuchten Behörde auf Anforderung zu erstatten, wenn sie im Einzelfall 35 Euro übersteigen. Leisten Behörden desselben Rechtsträgers einander Amtshilfe, so werden die Auslagen nicht erstattet.
+
+(2) Nimmt die ersuchte Behörde zur Durchführung der Amtshilfe eine kostenpflichtige Amtshandlung vor, so stehen ihr die von einem Dritten hierfür geschuldeten Kosten (Verwaltungsgebühren, Benutzungsgebühren und Auslagen) zu.
+
+===== Quellenangabe =====
+
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * Fernstudium "Fachkunde Feuerwehrwesen", Oberregierungsrat Norbert Rosenwick
+  * [[http://www.gesetze-im-internet.de/gg/art_35.html|Artikel 35 Grundgesetz - Amtshilfe]]
+  * [[http://www.gesetze-im-internet.de/vwvfg/|§§ 4 bis 8 des Verwaltungsverfahrensgesetzes]]

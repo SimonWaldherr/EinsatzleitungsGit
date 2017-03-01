@@ -1,0 +1,53 @@
+====== SCHÄUMBARE POLYMER-KÜGELCHEN, entzündbare Dämpfe abgebend - UN 2211 - Gefahrnr. 90 - ERICard-Nr. 9-06 - UN2211 ======
+|Stoff | SCHÄUMBARE POLYMER-KÜGELCHEN, entzündbare Dämpfe abgebend   |
+|UN-Nummer | 2211   |
+|[[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Gefahrnummer]] | 90   |
+|ADR-Gefahrzettel |     |
+|ADR-Klasse | 9   |
+|Klassifizierungscode | M3   |
+|[[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]] | III   |
+|ERI-Card | 9-06   |
+
+==== Unfall-Hilfeleistung ====
+===== Polymer, enthält entzündbare, flüssige Stoffe =====
+==== 1. Eigenschaften. ====
+  * Leicht oder spontan entzündbar.
+  * [[cbrn:allgemein:begriffsklaerungen#flammpunkt|Flammpunkt]] über 60°C oder nicht entzündbar.
+==== 2. Gefahren. ====
+  * Entwickelt giftige und reizende Dämpfe bei starker Erwärmung oder Brand.
+  * Erwärmung von Behältern kann zum Druckanstieg und Bersten führen.
+==== 3. Persönlicher Schutz. ====
+  * Umluftunabhängiger Atemschutz
+==== 4. Einsatz-Massnahmen. ====
+=== 4.1 Allgemeine Massnahmen. ===
+  * Mit dem Wind vorgehen.
+  * Nicht rauchen, Zündquellen ausschließen.
+=== 4.2 Massnahmen bei Stoffaustritt. ===
+  * Lecks wenn möglich schließen.
+  * Ausgetretenes Produkt mit allen verfügbaren Mitteln auffangen.
+  * Falls der Stoff in offenes Gewässer oder Kanalisation gelangt, zuständige Behörde informieren.
+=== 4.3 Massnahmen bei Feuer (falls Stoff betroffen). ===
+  * Behälter mit Wasser kühlen.
+  * Mit Sprühstrahl löschen
+  * Nicht mit Vollstrahl löschen.
+  * Brandgase wenn möglich mit Sprühstrahl niederschlagen.
+  * Aus Umweltschutzgründen [[brand:allgemein:loeschwasserrueckhaltung|Löschmittel zurückhalten]].
+==== 5. Erste Hilfe. ====
+  * Kontaminierte Kleidung sofort entfernen und betroffene Haut mit viel Wasser spülen.
+  * Bei Verbrennungen die betroffenen Hautbereiche sofort und so lange wie möglich mit kaltem Wasser kühlen. An der Haut haftende Kleidung nicht entfernen.
+==== 6. Besondere Vorsichtsmassnahmen bei der Bergung von Havariegut. ====
+  * Keine besonderen Vorsichtsmaßnahmen erforderlich.
+==== 7. Vorsichtsmassnahmen nach dem Hilfeleistung-Einsatz. ====
+=== 7.1 Ablegen der Schutzkleidung. ===
+  * Keine besonderen Vorsichtsmaßnahmen erforderlich.
+=== 7.2 Reinigung der Ausrüstung. ===
+  * Keine besonderen Vorsichtsmaßnahmen erforderlich.
+===== Quelle und Copyright =====
+
+Bitte nehmen Sie die Verwendungshinweise zu den ERI-Cards auf der [[cbrn:ericards:start#allgemeine_hinweise|ERI-Card Übersichtsseite]] zur Kenntnis.
+
+Diese ERICard kann im Original unter folgendem Link aufgerufen werden: [[http://www.ericards.net/psp/ericards.psp_ericard?lang=3&subkey=22111217]]
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

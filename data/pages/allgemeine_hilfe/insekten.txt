@@ -1,0 +1,114 @@
+====== Insekten ======
+
+===== zu treffende Maßnahmen =====
+
+  * [[erste_hilfe:insektenstich|Erste-Hilfe-Maßnahmen nach Insektenstichen]]
+  * Insekten nicht anhauchen, sie werden durch das Kohlenstoffdioxid in der Ausatemluft aggressiv, ebenso wenn nach ihnen geschlagen wird.
+  * Feuerwehr ist nur zuständig, wenn eine Gefahr für die öffentliche Sicherheit vorliegt (z.B. bei Schulen, Kindergärten, Spielplätzen, Kranken- und Altenheimen, ...), dann:
+    * Absperrung des Nests in einem Umkreis von ca. 5 m, Zutritt von Einsatzkräften in den Gefahrenbereich nur in Imkeranzug (gilt ebenfalls für "Helfer" die z.B. eine Leiter sichern). Annäherung mit ruhigen Bewegungen.
+    * angrenzende Fenster schließen und geschlossen halten
+    * Benachrichtigung von Fachleuten zum Umsetzen (außer bei Wespen)
+
+==== besondere Gefahren ====
+
+  * Lebensgefahr für Allergiker die gestochen werden
+  * Stiche in Mund und Rachen auch für nicht allergische Menschen lebensgefährlich (Schwellungen)
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Bienen, Hummeln und Hornissen sind nach der Bundesartenschutzverordnung eine besonders geschützte Art, die <wrap important>Nester dürfen deswegen nicht vernichtet werden!</wrap> In begründeten Ausnahmefällen kann das Nest von einer geschulten Person umgesetzt werden, die erforderliche Genehmigung erteilt die zuständige Gemeinde- oder Kreisverwaltung.
+  * für die Beseitigung eines Insektennests ist i.d.R. dann der Grundstückseigentümer zuständig
+  * Eigenmächtige Zerstörung des Nests bei geschützten Arten (durch den Grundstückseigentümer) stellt eine Ordnungswidrigkeit dar und ist mit Strafen bis in den fünfstelligen Bereich (abhängig vom Bundesland) belegt!
+
+----
+
+==== Wespen ====
+
+{{ :allgemeine_hilfe:insekten:deutsche_wespe.jpg?direct&300|Deutsche Wespe}}
+
+  * Wespen sind nicht besonders geschützt, unterliegen aber dem allgemeinen Naturschutz. Eine Vernichtung von Wespen und deren Nest darf nur bei einer konkreten Gefahr mit einem Insektenvernichtungsmittel erfolgen (Sicherheitshinweise des Insektenschuztmittels beachten)! Das bloße Vorhandensein eines Nestes stellt keine konkrete Gefahr dar!
+  * Geruchsstoffe beim Stich locken weitere Wespen an.
+  * die Königin überwintert ohne Volk
+  * Königin beginnt ab etwa April/Mai mit dem Aufbau eines Volks
+  * maximale Größe des Volks ca. 7.000 Wespen
+  * Das Volk stirbt im Spätherbst, spätestens beim ersten Nachtfrost, nur die Königin überlebt.
+
+=== Gefahren durch Wespen ===
+
+  * stechen mehrfach, ohne Stachel zu verlieren
+  * Nicht anhauchen, CO<sub>2</sub> macht Wespen aggressiv
+
+----
+
+==== Hornissen ====
+
+{{ :allgemeine_hilfe:insekten:hornisse-vespa_crabro.jpg?direct&300|Hornisse (Vespa Crabro)}}
+
+  * Das Gift ist weniger giftig als das von Bienen oder Wespen - der Stich an sich wegen dem größeren Stachel aber schmerzhafter.
+  * Hornissen verteidigen ihr Nest in einem Umkreis von 2 bis 6 Metern, sind aber ansonsten friedlich wenn sie nicht angepustet/angehaucht werden.
+  * Das Sprichwort //7 Stiche töten ein Pferd, 3 Stiche einen Menschen// ist nicht korrekt.
+  * Die Königin beginnt ab etwa April/Mai mit dem Aufbau eines Volks.
+  * Die Größe des Volks beträgt 400 bis 700 Tiere.
+  * Das Volk stirbt im Spätherbst, spätestens beim ersten Nachtfrost, nur die Königin überlebt.
+  * Nester können __von Spezialisten__ umgesiedelt werden
+
+----
+
+==== Hummeln ====
+
+{{ :allgemeine_hilfe:insekten:hummel_bombus.jpg?direct&200|Hummel (Bombus)}}
+
+  * Hummeln stechen nur äußerst selten, sie brummen vor einem Stich laut.
+  * Die Größe des Volks beträgt 50 bis 600 Tiere
+  * Das Volk stirbt im September, nur die Königin überlebt.
+  * Nutzung des Nestes i.d.R. nur für ein Jahr, nur in Ausnahmefällen mehrfach.
+  * Nester können __von Spezialisten__ umgesiedelt werden
+
+=== Gefahren durch Hummeln ===
+
+  * Hummel stechen nur, wenn sie gedrückt / grob behandelt werden
+
+----
+
+==== Bienen ====
+
+  * leben als komplettes Volk, auch im Winter. Das Volk wird mehrere Jahre alt.
+  * Brutbeginn im frühen Frühjahr, maximale Stärke des Bienenvolks etwa gegen Juli, ca. 7.000 Bienen
+  * ab Ende August Verminderung der Aktivität und Vorbereitung auf Überwinterung
+
+Es gibt viele verschiedene, unterschiedlich aussehende heimische Bienenarten, daher wurde hier keine Biene abgebildet.
+
+=== Gefahren durch Bienen ===
+
+  * Stachel mit Giftblase entfernen, da diese weiterpumpt
+
+=== Bienenschwarm einfangen ===
+
+  * Schutzkleidung anlegen und alle Öffnungen sorgfältig verschließen
+  * Schwarmkasten öffnen
+  * Schwarm mit Wasser besprühen -> Bienen bleiben eher sitzen
+  * Schwarm mit Besen in Bienenkasten kehren
+  * Bienenkasten mit offenem Flugloch in der Nähe im Schatten lassen, damit restliche Bienen zu diesem (der Königin) finden
+  * Ist die Königin nicht im Kasten, fliegen die Bienen wieder aus
+
+----
+
+===== Weblinks =====
+
+  * [[http://www.schwarmboerse.de]]: Portal zur Vermittlung von Imkern, die kostenlos herrenlose Bienenschwärme einfangen und mitnehmen
+
+===== Quellenangabe =====
+
+  * Abschnittsarbeit //Einsatzgrundlagen zu „Tier in Notlage“//, HBM Andreas Heinrich, Berliner Feuerwehr, 2006
+  * Abschnittsarbeit //Einsatz der Berliner Feuerwehr bei Notlagen von Tieren//, BOI-A Martin Kröber, Berliner Feuerwehr, 2006
+  * [[http://www.kfv-hassberge.de/fileadmin/downloads/MTA/MTA_11_-_Hilfeleistungseisatz/11.4/MTA_11-4_Text.pdf|Modulare Truppausbildung: Einheiten im Hilfeleistungseinsatz]], Staatliche Feuerwehrschule Würzburg
+  * [[wpde>Hornisse|Wikipedia-Eintrag für Hornissen]]
+  * [[wpde>Hummeln|Wikipedia-Eintrag für Hummeln]]
+  * [[wpde>Gemeine_Wespe|Wikipedia-Eintrag für die Gemeine Wespe]]
+  * Bild Hornisse: [[https://commons.wikimedia.org/wiki/File:Vespa_crabro_80708.jpg]], veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/w/index.php?title=User:Accipiter|Accipiter]] unter CC BY 3.0-Lizenz
+  * Bild Hummel: [[https://commons.wikimedia.org/wiki/File:Bombus_hypnorum_male_-_side_%28aka%29.jpg]], veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:Aka|Aka]] unter CC BY-SA 2.5-Lizenz
+  * Bild Wespe: [[https://commons.wikimedia.org/wiki/File:European_wasp_white_bg.jpg]], veröffentlicht vom Wikipedia-User [[https://en.wikipedia.org/wiki/User:Fir0002|Fir0002/Flagstaffotos]] unter CC BY-NC-Lizenz
+
+===== Stichwörter =====
+
+Hymenoptere, Hymenopteren, Hautflügler, Bienen, Biene, Wespen, Wespe, Hornissen, Hornisse, Hummeln, Hummel

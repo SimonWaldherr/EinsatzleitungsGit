@@ -1,0 +1,23 @@
+====== CBRN-Lexikon ======
+
+Auf dieser Seite finden Sie Erklärungen für im CBRN-Bereich verwendete Begriffe und Abkürzungen, alphabetisch sortiert. Beachten Sie, dass die teils wissenschaftlichen Definitionen zum besseren bzw. schnelleren Verständnis sinngemäß eingekürzt wurden.
+
+<WRAP col3>
+
+{{simplenavi>cbrn:allgemein:cbrn-lexikon}}
+
+</WRAP>
+===== Quellenangabe =====
+
+  * Vorlesung Schadstoffausbreitung, Studiengang "Sicherheit und Gefahrenabwehr - Bachelor", Wintersemester 2009/2010, Hochschule Magdeburg-Stendal
+  * Vorlesung Brand- und Explosionsschutz, Studiengang "Sicherheit und Gefahrenabwehr - Bachelor", Sommersemester 2009, Otto-von-Guericke-Universität Magdeburg
+  * Vorlesung Chemie der Brände und Löschmittel, Studiengang "Sicherheit und Gefahrenabwehr - Bachelor", Sommersemester 2009, Otto-von-Guericke-Universität Magdeburg
+  * Vorlesung bautechnischer Explosionsschutz, Studiengang "Sicherheit und Gefahrenabwehr - Bachelor", Sommersemester 2009, Hochschule Magdeburg-Stendal
+  * Lehrgangsunterlagen ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+  * FwDV 500 Stand 2012
+  * Fertig ausgearbeitete Schulungsbausteine für die laufende Ausbildung in der Freiwilligen Feuerwehr, Wolfgang Gabler, WEKA Verlag
+  * Lehrgangsunterlage GABC-Führen, Hessische Landesfeuerwehrschule
+
+===== Stichwörter =====
+
+Sicherheitstechnische Kennzahlen

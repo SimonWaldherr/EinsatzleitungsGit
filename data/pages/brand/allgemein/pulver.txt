@@ -1,0 +1,28 @@
+====== Löschmittel Pulver ======
+
+==== besondere Gefahren ====
+
+  * Löschpulver bildet elektrisch leitende Beläge
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== ABC-Löschpulver (Flammen- und Glutbrände, Kennung PG) ====
+
+  * für Brände von festen Stoffen, Flüssigkeits- und Gasbränden ([[brand:allgemein:brandklassen|Brandklassen]] A, B und C)
+  * Löschwirkung: Inhibitionseffekt, erstickend, Austritt von brennbaren Gasen aus dem Stoff wird verhindert
+
+==== BC-Löschpulver (Flammenbrände, Kennung P) ====
+
+  * für Flüssigkeits- und Gasbrände ([[brand:allgemein:brandklassen|Brandklassen]] B und C)
+  * Löschwirkung: Inhibitionseffekt, keine Kühlwirkung.\\ Ggf. zusätzlich kühlendes Löschmittel einsetzen, um Gefahr der Rückzündung zu vermeiden.
+  * Einsatz in [[allgemein:elektrische_anlagen|elektrischen Anlagen]] nur wenn diese trocken bleiben
+  * BC-Pulver ist in einer mit [[brand:allgemein:schaum|Löschschaum]] verträglichen Variante erhältlich (Schaum wird ansonsten durch Pulver zerstört)
+
+==== Löschpulver für Metallbrände (Metallbrände, Kennung PM) ====
+
+  * Löschwirkung: erstickend; Zeitverzögerung von mindestens 5 min bis der Brand unter der Kruste verlöscht
+  * während des Löschens können giftige Stoffe freigesetzt werden, in geschlossenen Räumen Atemschutz tragen!
+
+===== Quellenangabe =====
+
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln

@@ -1,0 +1,39 @@
+====== Verdünnen von Säuren und Laugen und Einleitung in die Kanalisation ======
+
+siehe auch den Hauptartikel: [[cbrn:chemisch:klasse_8:start]]
+
+===== zu treffende Maßnahmen =====
+
+  * Um den [[cbrn:allgemein:cbrn-lexikon:ph-wert|pH-Wert]] um 1 zu erhöhen (Säuren) bzw. zu senken (Laugen), ist jeweils die zehnfache Menge Wasser notwendig.\\ Beispiel: Um einen Liter einer Säure mit dem pH-Wert 2 auf den pH-Wert 4 zu verdünnen sind 100 Liter Wasser notwendig, für eine Verdünnung auf den pH-Wert 6 sogar 10.000 Liter.
+  * Eine Verdünnung ist maximal bis zum neutralen pH-Wert 7 möglich.
+  * Gemisch auffangen / erst nach Rücksprache mit Klärwerk in Kanalisation einleiten (siehe unten)
+
+^Anzahl der Stufen, die der [[cbrn:allgemein:cbrn-lexikon:ph-wert|pH-Wert]] in Richtung des Werts 7 geändert werden soll|  1  |  2  |  3  |  4  |  5  |  6  |
+^Erforderliche Menge Wasser in Litern pro Liter Säure/Lauge|  10  |  100  |  1.000  |  10.000  |  100.000  |  1.000.000  |
+
+==== besondere Gefahren ====
+
+  *  Beim Verdünnen konzentrierter Säuren äußerste Vorsicht! Es können Temperaturen von über 100 °C entstehen. Kunststoffbehälter und/oder Rohrleitungen können dabei schmelzen.
+  * Die Säure/Lauge kann während des Verdünnungsvorgangs unkontrolliert aus dem Behälter spritzen.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Einleitung in die Kanalisation ====
+
+<WRAP center round important 100%>
+Einleitung in die Kanalisation immer erst nach Rücksprache mit den Abwasserbetrieben
+</WRAP>
+
+  * Stoffe der [[cbrn:allgemein:cbrn-lexikon:wassergefaehrdungsklasse|Wassergefährdungsklassen]] 0 und 1 können i.d.R. stark verdünnt eingeleitet werden
+
+Allgemein gilt:
+
+^  pH-Wert  ^  Einleitung  ^  Einleitung möglich  |
+|  6 - 8  |Unbedenklich  |  JA  |
+|  4 - 6 bzw. 8 - 10  |Bedenklich  |  JA  |
+|  2 - 4 bzw. 10 - 12  |Kritisch  |  NEIN  |
+|  < 2 bzw. > 12  |Besonders kritisch|  NEIN  |
+
+===== Quellenangabe =====
+
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr

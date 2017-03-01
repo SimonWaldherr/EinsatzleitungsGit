@@ -1,0 +1,242 @@
+====== Taktische Zeichen ======
+
+  * Das System der taktischen Zeichen ist nicht starr, sondern kann bei Bedarf angepasst und erweitert werden. Die Grundzüge sollten im Sinne der allgemeinen Verständlichkeit jedoch beibehalten werden.
+  * Kurzbezeichnungen und Ergänzungen können in oder neben dem taktischen Zeichen platziert werden.
+
+===== Grundzeichen =====
+
+<WRAP group>
+<WRAP column>
+^  Zeichen  ^  Bedeutung  ^
+|  {{:allgemein:taktische_zeichen:1-1_taktische_formation.png?nolink&100|Taktische Formation}}  | Taktische Formation |
+|  {{:allgemein:taktische_zeichen:1-2_befehlsstelle.png?nolink&100|Befehlsstelle / Führungsstelle}}  | Befehlsstelle\\ Führungsstelle |
+|  {{:allgemein:taktische_zeichen:1-3_stelle_einrichtung.png?nolink&100|Stelle / Einrichtung}}  | [[#einrichtungen_beispielhaft|Stelle / Einrichtung]] |
+|  {{:allgemein:taktische_zeichen:1-4_person.png?nolink&100|Person}}  | Person, siehe auch:\\ [[#personen-_und_tiere|Personen als Betroffene]] |
+|  {{:allgemein:taktische_zeichen:1-5_gebiet_flaeche.png?nolink&100|Gebiet / Fläche}}  | [[#gebiete_flaechen|Gebiet / Fläche]] |
+</WRAP>
+
+<WRAP column>
+^  Zeichen  ^  Bedeutung  ^
+|  {{:allgemein:taktische_zeichen:1-16_massnahme_allgemein.png?nolink&100|Maßnahme}}  | Maßnahme |
+|  {{:allgemein:taktische_zeichen:1-17_ereignis.png?nolink&100|Ereignis}}  | Ereignis |
+|  {{:allgemein:taktische_zeichen:1-18_gefahr.png?nolink&100|Gefahr}}  | Gefahr\\ (mit näherer Beschreibung) |
+|  {{:allgemein:taktische_zeichen:1-19_ortsfest.png?nolink&100|ortsfest}}  | ortsfest |
+|  {{:allgemein:taktische_zeichen:1-20_gebaeude.png?nolink&100|Gebäude}}  | Gebäude |
+</WRAP>
+</WRAP>
+
+
+<WRAP group>
+<WRAP column>
+===== Größenordnungen =====
+
+^  Zeichen  ^  Bedeutung  ^
+|  {{:allgemein:taktische_zeichen:4-1-1_trupp.png?nolink&100|Trupp}}  | Trupp |
+|  {{:allgemein:taktische_zeichen:4-1-2_staffel.png?nolink&100|Staffel}}  | Staffel |
+|  {{:allgemein:taktische_zeichen:4-1-3_gruppe.png?nolink&100|Gruppe}}  | Gruppe |
+|  {{:allgemein:taktische_zeichen:4-1-4_zug.png?nolink&100|Zug}}  | Zug |
+|  {{:allgemein:taktische_zeichen:4-1-5_zugtrupp.png?nolink&100|Zugtrupp}}  | Zugtrupp |
+|  {{:allgemein:taktische_zeichen:4-2-1_bereitschaft.png?nolink&100|Bereitschaft (Verband I)}}  | Bereitschaft\\ (Verband I) |
+|  {{:allgemein:taktische_zeichen:4-2-2_abteilung.png?nolink&100|Abteilung (Verband II)}}  | Abteilung\\ (Verband II) |
+|  {{:allgemein:taktische_zeichen:4-2-3_grossverband.png?nolink&100|Großverband (Verband III)}}  | Großverband\\ (Verband III) |
+</WRAP>
+
+<WRAP column>
+===== Verwaltungsstufen =====
+
+^  Zeichen  ^  Bedeutung  ^
+|  {{:allgemein:taktische_zeichen:4-3-1_gemeinde.png?nolink&100|Gemeinde, kreisangehörige Stadt}}  | Gemeinde\\ kreisangehörige Stadt |
+|  {{:allgemein:taktische_zeichen:4-3-2_kreis.png?nolink&100|(Land-) Kreis, kreisfreie Stadt}}  | (Land-) Kreis\\ kreisfreie Stadt |
+|  {{:allgemein:taktische_zeichen:4-3-3_bezirk.png?nolink&100|Bezirk}}  | Bezirk |
+|  {{:allgemein:taktische_zeichen:4-3-4_land.png?nolink&100|Land / Freistaat}}  | Land\\ Freistaat |
+|  {{:allgemein:taktische_zeichen:4-3-5_bund.png?nolink&100|Bundesrepublik Deutschland}}  | Bundesrepublik Deutschland |
+|  {{:allgemein:taktische_zeichen:4-3-6_eu.png?nolink&100|Europäische Union}}  | Europäische Union |
+</WRAP>
+</WRAP>
+
+===== Fahrzeuge =====
+
+<WRAP group>
+<WRAP column>
+^  Zeichen  ^  Bedeutung  ^
+|  {{:allgemein:taktische_zeichen:6-1-1_landfahrzeug.png?nolink&100|Landfahrzeug}}  | Landfahrzeug |
+|  {{:allgemein:taktische_zeichen:6-1-2_kfz.png?nolink&100|Kraftfahrzeug}}  | Kraftfahrzeug |
+|  {{:allgemein:taktische_zeichen:6-1-3_gelaendefzg.png?nolink&100|Kraftfahrzeug, geländegängig oder -fähig}}  | Kraftfahrzeug,\\ geländegängig oder -fähig |
+|  {{:allgemein:taktische_zeichen:6-1-4_wechsellader.png?nolink&100|Wechselladerfahrzeug}}  | Wechselladerfahrzeug |
+|  {{:allgemein:taktische_zeichen:6-1-5_ab.png?nolink&100|Abrollbehälter, Container}}  | Abrollbehälter\\ Container |
+|  {{:allgemein:taktische_zeichen:6-1-6_anhaenger.png?nolink&100|Anhänger}}  | Anhänger |
+|  {{:allgemein:taktische_zeichen:6-1-7_schienenfzg.png?nolink&100|Schienenfahrzeug}}  | Schienenfahrzeug |
+|  {{:allgemein:taktische_zeichen:6-1-8_kettenfzg.png?nolink&100|Kettenfahrzeug}}  | Kettenfahrzeug |
+</WRAP>
+
+<WRAP column>
+^  Zeichen  ^  Bedeutung  ^
+|  {{:allgemein:taktische_zeichen:6-1-9_krad.png?nolink&100|Kraftrad}}  | Kraftrad |
+|  {{:allgemein:taktische_zeichen:6-1-10_fahrrad.png?nolink&100|Fahrrad}}  | Fahrrad |
+|  {{:allgemein:taktische_zeichen:6-1-11_raeumfzg.png?nolink&100|Räumgerät}}  | Räumgerät |
+|  {{:allgemein:taktische_zeichen:6-1-12_hebegeraet.png?nolink&100|Hebegerät}}  | Hebegerät |
+|  {{:allgemein:taktische_zeichen:6-1-13_bagger.png?nolink&100|Bagger}}  | Bagger |
+|  {{:allgemein:taktische_zeichen:6-2-1_wasserfzg.png?nolink&100|Wasserfahrzeug}}  | Wasserfahrzeug |
+|  {{:allgemein:taktische_zeichen:6-3-1_flugzeug.png?nolink&100|Flugzeug}}  | Flugzeug |
+|  {{:allgemein:taktische_zeichen:6-3-2_hubschrauber.png?nolink&100|Hubschrauber}}  | Hubschrauber |
+</WRAP>
+</WRAP>
+
+===== Farbkennzeichnung von Organisationen =====
+
+^  Farbe  ^^  Organisation  ^
+| {{:allgemein:farben:rot_ff0000.jpg?nolink&100|rot}} |  rot  | Feuerwehr |
+| {{:allgemein:farben:blau_ral_5005.jpg?nolink&100|blau}} |  blau  | THW |
+| {{:allgemein:farben:weiss.jpg?nolink&100|weiß}} |  weiß  | Hilfsorganisationen und die Bundeswehr |
+| {{:allgemein:farben:gelb_ffff00.jpg?nolink&100|gelb}} |  gelb  | Führungseinrichtungen |
+| {{:allgemein:farben:gruen_ral_6032.jpg?nolink&100|grün}} |  grün  | Polizei, Bundespolizei, Zoll |
+| {{:allgemein:farben:orange_ral_2010.jpg?nolink&100|orange}} |  orange  | Sonstige Einrichtungen zur Gefahrenabwehr; Behörden, beauftragte Firmen, ... |
+
+===== Aufgaben =====
+
+<WRAP group>
+<WRAP column>
+^  Zeichen  ^  Bedeutung  ^
+|  {{:allgemein:taktische_zeichen:5-1-1_fuehrungskraft.png?nolink&100|Führungskraft}}  | Führungskraft, kombiniert mit einer\\ Angabe der [[#groessenordnungen|Größenordnung]] |
+|  {{:allgemein:taktische_zeichen:5-2-1_person_sonderfunktion.png?nolink&100|Person mit Sonderfunktion}}  | Person mit Sonderfunktion,\\ z.B. Fachberater |
+|  {{:allgemein:taktische_zeichen:3-1-1_brandbekaempfung.png?nolink&100|Brandbekämpfung}}  | Brandbekämpfung |
+|  {{:allgemein:taktische_zeichen:3-1-2_hoehenrettung.png?nolink&100|Retten aus Höhen und Tiefen}}  | Retten aus Höhen und Tiefen |
+|  {{:allgemein:taktische_zeichen:3-1-3_wasserversorgung.png?nolink&100|Wasserversorgung und -förderung}}  | Wasserversorgung und -förderung |
+|  {{:allgemein:taktische_zeichen:3-1-4_technische_hilfe.png?nolink&100|Technische Hilfe}}  | Technische Hilfe |
+|  {{:allgemein:taktische_zeichen:3-1-5_heben_von_lasten.png?nolink&100|Heben von Lasten}}  | Heben von Lasten |
+|  {{:allgemein:taktische_zeichen:3-1-6_bergung.png?nolink&100|Bergung}}  | Bergung |
+|  {{:allgemein:taktische_zeichen:3-1-7_raeumung.png?nolink&100|Räumen}}  | Räumen |
+|  {{:allgemein:taktische_zeichen:3-1-8_kampfmittelraeumung.png?nolink&100|Kampfmittelräumung}}  | Kampfmittelräumung |
+|  {{:allgemein:taktische_zeichen:3-1-9_sprengen.png?nolink&100|Sprengen}}  | Sprengen |
+|  {{:allgemein:taktische_zeichen:3-1-10_transport.png?nolink&100|Transport}}  | Transport |
+|  {{:allgemein:taktische_zeichen:3-1-11_beleuchtung.png?nolink&100|Beleuchtung}}  | Beleuchtung |
+|  {{:allgemein:taktische_zeichen:3-1-12_luftfahrzeuge.png?nolink&100|Einsatz von Luftfahrzeugen}}  | Einsatz von Luftfahrzeugen |
+|  {{:allgemein:taktische_zeichen:3-1-13_wasserfahrzeuge.png?nolink&100|Einsatz von Wasserfahrzeugen}}  | Einsatz von Wasserfahrzeugen |
+|  {{:allgemein:taktische_zeichen:3-1-14_rettungshunde.png?nolink&100|Suchen und Orten mit Rettungshunden}}  | Suchen und Orten mit Rettungshunden |
+|  {{:allgemein:taktische_zeichen:3-1-15_waserrettung.png?nolink&100|Wasserrettung / Rettungstaucher}}  | [[allgemeine_hilfe:wasserrettung|Wasserrettung]]\\ Rettungstaucher |
+|  {{:allgemein:taktische_zeichen:3-1-16_pumpen.png?nolink&100|Pumpen / Beseitigen von Wasserschäden}}  | Pumpen\\ Beseitigen von Wasserschäden |
+|  {{:allgemein:taktische_zeichen:3-1-17_deichverteidigung.png?nolink&100|Abwehr von Wassergefahren / Deichverteidigung}}  | Abwehr von Wassergefahren\\ Deichverteidigung |
+</WRAP>
+
+<WRAP column>
+^  Zeichen  ^  Bedeutung  ^
+|  {{:allgemein:taktische_zeichen:3-1-18_abc-schutz.png?nolink&100|ABC- / CBRN- Schutz}}  | ABC- / CBRN- Schutz |
+|  {{:allgemein:taktische_zeichen:3-1-19_abc_messen.png?nolink&100|Messen und Spüren}}  | Messen und Spüren |
+|  {{:allgemein:taktische_zeichen:3-1-20_abc_dekon.png?nolink&100|Dekontamination}}  | Dekontamination |
+|  {{:allgemein:taktische_zeichen:3-1-21_oelschadenbekaempfung.png?nolink&100|Beseitigung von Gewässerverschmutzungen, Ölschadenbekämpfung}}  | Beseitigung von Gewässerverschmutzungen\\ Ölschadenbekämpfung |
+|  {{:allgemein:taktische_zeichen:3-2-1_rettungswesen.png?nolink&100|Rettungs-, Sanitäts- und Gesundheitswesen}}  | Rettungs-, Sanitäts-\\ und Gesundheitswesen |
+|  {{:allgemein:taktische_zeichen:3-2-2_aerztliche_versorgung.png?nolink&100|Ärztliche Versorgung}}  | Ärztliche Versorgung |
+|  {{:allgemein:taktische_zeichen:3-3-1_betreuung.png?nolink&100|Betreuung}}  | Betreuung |
+|  {{:allgemein:taktische_zeichen:3-3-2_unterbringung.png?nolink&100|Unterbringung}}  | Unterbringung |
+|  {{:allgemein:taktische_zeichen:3-4-1_logistik.png?nolink&100|Versorgung, Logistik}}  | Versorgung\\ Logistik |
+|  {{:allgemein:taktische_zeichen:3-4-2_verpflegung.png?nolink&100|Verpflegung}}  | [[allgemein:verpflegung|Verpflegung]] |
+|  {{:allgemein:taktische_zeichen:3-4-3_versorgung_betriebsstoffe.png?nolink&100|Versorgung mit Verbrauchsgütern / Betriebsstoffen}}  | Versorgung mit\\ Verbrauchsgütern / Betriebsstoffen |
+|  {{:allgemein:taktische_zeichen:3-4-4_versorgung_trinkwasser.png?nolink&100|Versorgung mit Trinkwasser}}  | Versorgung mit Trinkwasser |
+|  {{:allgemein:taktische_zeichen:3-4-5_versorgung_brauchwasser.png?nolink&100|Versorgung mit Brauchwasser}}  | Versorgung mit Brauchwasser |
+|  {{:allgemein:taktische_zeichen:3-4-6_versorgung_elektrizitaet.png?nolink&100|Versorgung mit Elektrizität}}  | Versorgung mit Elektrizität |
+|  {{:allgemein:taktische_zeichen:3-4-7_instandhaltung.png?nolink&100|Instandhaltung}}  | Instandhaltung |
+|  {{:allgemein:taktische_zeichen:3-5-1_veterinaerwesen.png?nolink&100|Veterinärwesen}}  | Veterinärwesen |
+|  {{:allgemein:taktische_zeichen:3-5-2_schlachten.png?nolink&100|Schlachten}}  | Schlachten |
+|  {{:allgemein:taktische_zeichen:3-6-1_fuehrung.png?nolink&100|Führung, Leitung, Stab}}  | Führung, Leitung, Stab |
+|  {{:allgemein:taktische_zeichen:3-6-2_iuk.png?nolink&100|Information und Kommunikation, Fernmeldewesen}}  | Information und Kommunikation\\ Fernmeldewesen |
+|  {{:allgemein:taktische_zeichen:3-6-3_erkundung.png?nolink&100|Erkundung}}  | Erkundung |
+|  {{:allgemein:taktische_zeichen:3-6-4_warnen.png?nolink&100|Warnen}}  | Warnen |
+</WRAP>
+</WRAP>
+
+===== Einrichtungen (beispielhaft) =====
+
+<WRAP group>
+<WRAP column>
+^  Zeichen  ^  Bedeutung  ^
+|  {{:allgemein:taktische_zeichen:10-6-1-8_verpflegungsstelle.png?nolink&100|Verpflegungsstelle}}  | Verpflegungsstelle |
+|  {{:allgemein:taktische_zeichen:10-6-1-9_materialerhaltungsstelle.png?nolink&100|Instandhaltungsstelle}}  | Instandhaltungsstelle |
+|  {{:allgemein:taktische_zeichen:10-6-1-10_versorgungsstelle_verbrauchsgueter.png?nolink&100|Versorgungsstelle für Verbrauchsgüter}} | Versorgungsstelle für\\ Verbrauchsgüter und\\ Betriebsstoffe |
+|  {{:allgemein:taktische_zeichen:10-6-1-13_bereitstellungsraum.png?nolink&100|Bereitstellungsraum}}  | [[allgemein:bereitstellungsraum|Bereitstellungsraum]] |
+|  {{:allgemein:taktische_zeichen:10-6-1-16_hubschrauberlandeplatz.png?nolink&100|Hubschrauberlandeplatz}}  | [[allgemein:hubschrauberlandeplatz|Hubschrauberlandeplatz]] |
+|  {{:allgemein:taktische_zeichen:10-6-1-17_leitstelle.png?nolink&100|Leitstelle}}  | Leitstelle |
+</WRAP>
+
+<WRAP column>
+^  Zeichen  ^  Bedeutung  ^
+|  {{:allgemein:taktische_zeichen:10-3-12_patientenablage.png?nolink&100|Patientenablage}}  | Patientenablage |
+|  {{:allgemein:taktische_zeichen:10-3-14_behandlungsplatz.png?nolink&100|Behandlungsplatz}}  | Behandlungsplatz |
+|  {{:allgemein:taktische_zeichen:10-3-16_krankenhaus.png?nolink&100|Krankenhaus}}  | Krankenhaus |
+|  {{:allgemein:taktische_zeichen:10-3-22_sammelstelle.png?nolink&100|Sammelstelle}}  | Sammelstelle |
+|  {{:allgemein:taktische_zeichen:10-3-23_sammelplatz_betroffene.png?nolink&100|Sammelplatz für Betroffene}}  | Sammelplatz für Betroffene |
+|  {{:allgemein:taktische_zeichen:10-3-24_betreuungsstelle.png?nolink&100|Betreuungsstelle}}  | Betreuungsstelle |
+</WRAP>
+</WRAP>
+
+===== Schadendarstellung =====
+
+<WRAP group>
+<WRAP column>
+|  {{:allgemein:taktische_zeichen:9-1_vermutung.png?nolink&100|Hinweis auf Vermutung}}  | Hinweis auf Vermutung |
+</WRAP>
+
+<WRAP column>
+|  {{:allgemein:taktische_zeichen:9-2_akute_situation.png?nolink&100|Hinweis auf akute Situation}}  | Hinweis auf akute Situation |
+</WRAP>
+</WRAP>
+
+<WRAP group>
+<WRAP column>
+==== Personen- und Tiere ====
+
+^  Zeichen  ^  Bedeutung  ^
+|  {{:allgemein:taktische_zeichen:10-9-2_verletzte_person.png?nolink&100|verletzte Person}}  | verletzte Person |
+|  {{:allgemein:taktische_zeichen:10-9-3_tote_person.png?nolink&100|tote Person}}  | tote Person |
+|  {{:allgemein:taktische_zeichen:10-9-4_vermisste_person.png?nolink&100|vermisste Person}}  | vermisste Person |
+|  {{:allgemein:taktische_zeichen:10-9-5_verschuettete_person.png?nolink&100|verschüttete Person}}  | verschüttete Person |
+|  {{:allgemein:taktische_zeichen:10-9-6_gerettete_person.png?nolink&100|gerettete Person}}  | gerettete Person |
+|  {{:allgemein:taktische_zeichen:10-9-7_zu_transportierende_person.png?nolink&100|zu transportierende Person}}  | zu transportierende Person |
+|  {{:allgemein:taktische_zeichen:10-9-8_transportierte_person.png?nolink&100|transportierte Person}}  | transportierte Person |
+|  {{:allgemein:taktische_zeichen:10-9-9_verletztes_tier.png?nolink&100|verletztes Tier}}  | verletztes Tier |
+|  {{:allgemein:taktische_zeichen:10-9-10_totes_tier.png?nolink&100|totes Tier}}  | totes Tier |
+</WRAP>
+
+<WRAP column>
+==== Sachschäden ====
+
+^  Zeichen  ^  Bedeutung  ^
+|  {{:allgemein:taktische_zeichen:10-9-11_angeschlagen.png?nolink&100|angeschlagen, beschädigt}}  | angeschlagen\\ beschädigt |
+|  {{:allgemein:taktische_zeichen:10-9-12_teilzerstoert.png?nolink&100|teilzerstört, teilweise zusammengebrochen}}  | teilzerstört, teilweise zusammengebrochen |
+|  {{:allgemein:taktische_zeichen:10-9-13_total_zerstoert.png?nolink&100|total zerstört, total zusammengebrochen}}  | total zerstört\\ total zusammengebrochen |
+|  {{:allgemein:taktische_zeichen:10-9-14_teilblockiert.png?nolink&100|schwierig befahrbar / teilblockiert}}  | schwierig befahrbar\\ teilblockiert |
+|  {{:allgemein:taktische_zeichen:10-9-15_blockiert.png?nolink&100|nicht befahrbar / blockiert}}  | nicht befahrbar\\ blockiert |
+|  {{:allgemein:taktische_zeichen:10-9-17_entstehungsbrand.png?nolink&100|Entstehungsbrand}}  | Entstehungsbrand |
+|  {{:allgemein:taktische_zeichen:10-9-18_fortentwickelter_brand.png?nolink&100|fortentwickelter Brand}}  | fortentwickelter Brand |
+|  {{:allgemein:taktische_zeichen:10-9-19_vollbrand.png?nolink&100|Vollbrand}}  | Vollbrand |
+</WRAP>
+</WRAP>
+
+===== Gebiete / Flächen =====
+
+<WRAP group>
+<WRAP column>
+^  Zeichen  ^  Bedeutung  ^
+|  {{:allgemein:taktische_zeichen:1-5_gebiet_flaeche.png?nolink&100|Gebiet / Fläche allgemein}}  | Gebiet / Fläche\\ allgemein |
+|  {{:allgemein:taktische_zeichen:1-6_flaechenbrand.png?nolink&100|Flächenbrand}}  | Flächenbrand |
+|  {{:allgemein:taktische_zeichen:1-7_ueberschwemmtes_gebiet.png?nolink&100|Überschwemmtes Gebiet}}  | Überschwemmtes Gebiet |
+|  {{:allgemein:taktische_zeichen:1-8_duerregebiet.png?nolink&100|Dürregebiet}}  | Dürregebiet |
+|  {{:allgemein:taktische_zeichen:1-9_ausfall_der_versorgung.png?nolink&100|Einschränkung / Ausfall der Versorung}}  | Einschränkung / Ausfall\\ der Versorung |
+</WRAP>
+
+<WRAP column>
+^  Zeichen  ^  Bedeutung  ^
+|  {{:allgemein:taktische_zeichen:1-10_sonstige_grossflaechige_schadensgebiete.png?nolink&100|Sonstiges großflächiges Schadensgebiet}}  | Sonstiges großflächiges Schadensgebiet |
+|  {{:allgemein:taktische_zeichen:1-11_kontaminiertes_gebiet.png?nolink&100|Kontaminiertes Gebiet}}  | Kontaminiertes Gebiet |
+|  {{:allgemein:taktische_zeichen:1-15_kats-alarm.png?nolink&100|KatS-Alarm}}  | KatS-Alarm im umrandeten Gebiet |
+|  {{:allgemein:taktische_zeichen:1-12_drohende_gefahr.png?nolink&100|Drohende Gefahr}}  | Drohende Gefahr, hier:\\ hochwassergefährdetes Gebiet welches noch nicht betroffen ist. |
+|  {{:allgemein:taktische_zeichen:1-14_ehemals_betroffenes_gebiet.png?nolink&100|Noch oder ehemals betroffenes Gebiet}}  | Noch oder ehemals betroffenes Gebiet, hier z.B.:\\ fallendes Hochwasser |
+</WRAP>
+</WRAP>
+
+===== Quellenangabe =====
+
+<WRAP center round important 100%>
+Die Inhalte dieser Seite dürfen nicht für gewerbliche Zwecke verwendet werden. Das Urheberrecht liegt bei der Ständigen Konferenz für Katastrophenvorsorge und Bevölkerungsschutz (SKK), siehe nachfolgend verlinkte Publikation!
+</WRAP>
+
+  * {{:allgemein:empfehl_takt_zeichen_im_bevsch.pdf|Empfehlungen für Taktische Zeichen im Bevölkerungsschutz}}, herunterladbar auf der [[http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Empfehlungen_Takt_Zeichen_im_BevSch.html|Internetseite des BBK]], herausgegeben vom Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe (BBK) und der SKK

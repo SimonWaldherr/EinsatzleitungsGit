@@ -1,0 +1,47 @@
+====== Kulturgut ======
+
+{{ :allgemein:schild_kulturgut.png?nolink&100|Schild Kulturgut}}Kulturgüter sind Gegenstände von künstlerischem, historischem oder ar­chäologischem Interesse, wie Kunstwerke, Manuskripte, Bücher, Archivalien, Reproduktionen sowie wissen­schaftliche Sammlungen.\\
+Ggf. wird auf Kulturgüter im Feuerwehrplan hingewiesen.
+
+Unbewegliche Kulturgüter werden mit dem hier gezeigten Schild gekennzeichnet. Diese Kennzeichnung ist allerdings nicht verpflichtend und wird nicht in allen Bundesländern angewendet.
+
+===== zu treffende Maßnahmen =====
+
+==== Erkundung ====
+
+<WRAP info round>Im Brandfall und bei technischen Hilfeleistungen sind die Gefährdungslagen und die Schutzmöglichkeiten für das Kulturgut durch die erste eintreffende Führungskraft in Zusammenarbeit mit einem Ortskundigen zu erkunden.</WRAP>
+
+  * Art der betroffen Kulturgüter
+  * Wertigkeiten der Kulturgüter
+  * Anlagentechnische und betriebliche Vorsorgemaßnahmen zur Unterstützung der Feuerwehrmaßnahmen
+  * Sichere Unterbringungsmöglichkeiten für geborgene Kulturgüter
+  * <wrap help>Welche Techniken, Werkzeuge und Hilfsmittel müssen zur Bergung, zum Schutz und zur Sicherung von Kulturgut angewandt werden?</wrap>
+  * Anzahl der benötigten Einsatzkräfte
+
+==== Taktische Einsatzmaßnahmen ====
+
+<WRAP important round>Grundsatz: Bergen vor Schützen !!!</WRAP>
+
+  * Maßnahmen mit Verantwortlichen abstimmen
+  * Ggf. Bildung Einsatzabschnitten „Kultur­gutbergung, Kulturgutschutz und/oder Kultur­gutsicherung“
+  * Vorrangig An­griffswege vom Freien, durch Flure und geschützte Treppenräume wählen (Schadensvermeidung)
+  * Einsatz­stelle auf ein räumliches Mini­mum begrenzen
+  * Tü­ren ge­schlossen halten bzw. schließen
+  * Rauchabzüge aktivieren
+  * Druckbelüftung nur unter Vermeidung einer unkontrollierten Rauchausbreitung in dem Kulturgutobjekt
+  * Kulturgut ent­sprechend seiner Wertigkeit bergen
+  * Kulturgut ist ggf. durch Folien, De­cken, feste Ver­schalungen zu schützen bzw. sichern.
+  * Schmuckrahmen vor Be­schädigungen bewahren
+  * Gerahmtes Kulturgut ist stehend zu lagern und nicht zu stapeln
+  * Bauteile, die selbst kein Kulturgut darstellen, können zum Bergen von Kul­turgut zerstört werden, z.B. stabili­sierende Holzgerüste, Drahtaufhängungen etc.
+
+<WRAP info round>Bis zum Eintreffen der Polizei ist die Feuerwehr in Hilfszuständigkeit für die Sicherung von geborgenem Kulturgut zu­ständig.</WRAP>
+
+===== Quellenangabe =====
+
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr
+  * [[http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Kulturgut_16-Beispiele.pdf?__blob=publicationFile|Geschütztes Kulturgut in Deutschland]], Broschüre des Bundesamts für Bevölkerungsschutz und Katastrophenhilfe (BBK)
+
+===== Stichwörter =====
+
+Artefakte, Ausstellungsstücke, Bilder, Denkmal, Denkmäler

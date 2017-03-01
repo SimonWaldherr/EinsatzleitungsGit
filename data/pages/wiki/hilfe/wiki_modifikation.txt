@@ -1,0 +1,73 @@
+====== Modifikation der DokuWiki-Software ======
+
+Für das Einsatzleiterwiki-Projekt müssen Teile des als [[wpde>Freie_Software|Freie Software]] erhältlichen DokuWikis angepasst werden. Dieser Vorgang war/ist vor der ersten Veröffentlichung sowie nach jedem Update der DokuWiki-Software nötig.
+
+Der Arbeitsvorgang wird vom Entwickler des DokuWikis vorgenommen. Der Anwender kommt mit dieser Tätigkeit nicht in Berührung. Diese ist an dieser Stelle nur zur vollständigen Dokumentation des Projekts ausgeführt.
+
+  - [[http://www.splitbrain.org/projects/dokuwiki|Download]] der aktuellen DokuWiki-Software.
+  - Überprüfung der verwendeten Plugins auf Aktualität; Download bei Aktualisierungen.\\ Bei Updates von für das DokuWiki angepassten Plugins muss die [[wiki:hilfe:technik_plugins|Anpassung]] neu vorgenommen werden. ''manager''-Dateien aus den Plugin-Ordnern löschen.
+  - Überprüfung des Vector-Templates auf Aktualität, auch hier sehr wahrscheinlich erneute Anpassung nötig.
+  - Kopieren der zusätzlich verwendeten Plugins und des Templates in die entsprechenden Ordner.
+  - Anpassung der Konfigurationsdateien ''conf/dokuwiki.php'', ''conf/mime.conf'', ''conf/acronyms.conf'' und ''lib/tpl/vector/conf/default.php''.
+  - Im ''data''-Ordner die Unterordner ''pages'' und ''media'' leeren und mit Dummy-Datei aus anderem Verzeichnis ersetzen.
+  - Erzeugung des Archivs einsatzleiterwiki.tar.gz
+  - Profildatei ''sync.profiles'' für die Synchronisation in den Ordner ''data/meta/'' kopieren.
+  - Erzeugung des Archivs einsatzleiterwiki.zip und Upload der Archive in das Downloadverzeichnis.
+
+===== Anpassung der dokuwiki.php =====
+
+Folgende Einträge werden geändert um diese standardmäßig zu setzen:
+
+<code>
+$conf['lang']        = 'de';
+$conf['title']       = 'Einsatzleiterwiki';
+$conf['template']    = 'vector';
+$conf['license']     = 'cc-by-sa';
+$conf['dformat']     = '%d.%m.%Y %H:%M';
+$conf['useheading']  = 1;
+$conf['useacl']      = 1;
+$conf['superuser']   = '@admin';
+$conf['updatecheck'] = 0;
+$conf['recent_days'] = 730;
+$conf['target']['interwiki'] = '_blank';
+$conf['target']['extern']    = '_blank';
+$conf['target']['media']     = '_blank';
+//inclform
+$conf['formdir'] = 'data/media/berechnungen';
+</code>
+
+Danach muss der MD5-Hashwert der dokuwiki.php mittels des Kommandos ''md5sum /conf/dokuwiki.php'' (unter Linux) ermittelt und in die install.php eingefügt werden, da sonst die Installation nicht funktioniert.
+
+===== Anpassung der lib/tpl/vector/conf/default.php =====
+
+Folgende Einträge werden geändert um diese standardmäßig zu setzen:
+
+<code>
+$conf["vector_userpage"]    = false; //TRUE: use/show user pages
+$conf["vector_discuss"]    = false; //TRUE: use/show discussion pages
+$conf["vector_sitenotice"]          = false; //TRUE: use/show sitenotice
+$conf["vector_toolbox"]          = false; //TRUE: use/show toolbox
+$conf["vector_copyright"]          = false; //TRUE: use/show copyright notice
+$conf["vector_donate"]          = false; //TRUE: use/show donation link/button
+if (!empty($_SERVER["HTTP_HOST"])){
+  $conf["vector_cite_author"] = "Autoren von einsatzleiterwiki.de"; //name to use for the author on the citation page (hostname included)
+} else {
+  $conf["vector_cite_author"] = "Autoren von einsatzleiterwiki.de"; //name to use for the author on the citation page
+}
+</code>
+
+===== Anpassung der lib/tpl/vector/user/buttons.php =====
+
+//Feuerwehr Kaiserslautern//-Button nach ''lib/tpl/vector/user'' kopieren
+
+In ''lib/tpl/vector/user/buttons.php'' einfügen:
+
+<code>
+//Feuerwehr Kaiserslautern button
+$_vector_btns["valid_xhtml"]["img"]      = DOKU_TPL."user/button-fw-kl.png";
+$_vector_btns["valid_xhtml"]["href"]     = "http://www.feuerwehr-kaiserslautern.de";
+$_vector_btns["valid_xhtml"]["width"]    = 171;
+$_vector_btns["valid_xhtml"]["height"]   = 15;
+$_vector_btns["valid_xhtml"]["title"]    = "Feuerwehr Kaiserslautern";
+$_vector_btns["valid_xhtml"]["nofollow"] = true;
+</code>

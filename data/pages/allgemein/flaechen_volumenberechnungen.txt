@@ -1,0 +1,16 @@
+~~NOCACHE~~
+
+====== Flächen- und Volumenberechnungen ======
+
+===== Volumen und Gewicht eines Quaders =====
+
+Die Dichte ist keine Pflichtangabe, lassen Sie das Feld einfach leer um nur das Volumen zu berechnen. Dichtewerte für verschiedene Stoffe können aus den [[allgemein:dichtetabelle|Dichtetabellen]] entnommen werden.
+
+~~INCLFORM=volumen_quader~~
+
+===== Quellenangabe =====
+
+Noch keine Quellen eingetragen.
+
+===== Stichwörter =====
+

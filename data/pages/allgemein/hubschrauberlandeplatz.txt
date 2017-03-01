@@ -1,0 +1,100 @@
+====== Hubschrauberlandeplatz ======
+
+Der Hubschrauberlandeplatz ist in jedem Fall außerhalb der Gefahrenzone und mit An- und Abfahrtsmöglichkeit zu wählen.
+
+===== zu treffende Maßnahmen =====
+
+<WRAP center round tip 100%>
+Gibt es schon vorbereitete Landeplätze, die statt dem Aufbau eines eigenen Landeplatzes besser genutzt werden können? Bsp.: Klinik, Sportplatz oder Parkplatz (mit Beleuchtung), vorbereitete Einsatzunterlagen?
+</WRAP>
+
+==== Anforderungen ====
+
+  * Hindernisfreie Fläche von 20m x 20m bis zu 80m x 80m, je nach Hubschraubertyp
+  * Fester Untergrund, z.B. Beton, Asphalt oder feste Wiese, bestenfalls mit KFZ befahrbar
+  * Bewuchs nicht höher als 30cm hoch, frei von Staub, Sand und losem Schnee
+  * Keine losen Gegenstände bis ca. 100m Entfernung, auch nicht zur Markierung des Landeplatzes
+  * Hangneigung von max. 10 Grad, bei Nachtlandungen keine Neigung
+  * Keine engen Mulden oder Senken
+  * keine Stromleitungen, Masten, Schornsteine oder Bäume im gesamten An- und Abflugbereich, Mindestabstand 300m
+
+==== Vorbereitung ====
+
+{{ :allgemein:landeplatz.png?nolink&400|Aufbau Landeplatz}}
+
+  * Windrichtung feststellen
+  * Landeplatz absperren (ggf. durch Polizei), nicht mit Absperrband!\\ Bei Landung auf Straßen:
+    * zweispurige Straße voll sperren
+    * vierspurige Straße/Autobahn: evtl. Gegenfahrbahn für Landung und Start sperren
+    * sechsspurige Straße/Autobahn: i.d.R. Sperrung einer Fahrtrichtung ausreichend
+  * nicht mit Fahrzeugen auf den Landeplatz fahren
+  * Brandschutz muss im Normalfall nicht sichergestellt werden.\\ Bei länger andauernder Nutzung:
+    * 500 l Wasser und Schaummittel (zur Herstellung von [[brand:allgemein:schaum|Schwerschaum]]), Ausstoßrate Wasser/Schaummittelgemisch min. 250 l/min
+    * min. 24 kg [[brand:allgemein:pulver|Pulver]]
+    * zusätzlich ggf. [[brand:allgemein:co2|CO₂]]
+  * Rauchverbot!
+
+=== Ausleuchtung bei Nacht ===
+
+  * frühzeitig Blaulicht an einem Fahrzeug einschalten
+  * Landeplatz durch Fahrzeuge oder Lichtmasten in den Landeplatzecken ausleuchten, Aufbau gegen die Windrichtung
+  * Lichtquellen tief, flach und blendfrei aufbauen (Stativ nicht ausziehen)
+  * Hindernisse anleuchten (Bäume, Freileitungsmasten, Antennen)
+  * nie den Hubschrauber anleuchten/blenden
+  * Evtl. winkende Person zur Landeplatzerkennung einsetzen
+
+==== Einweisung ====
+
+  * Wind im Rücken des Einweisers
+  * Einweiser soll eine Funkverbindung zum Piloten haben, womit er diesem markante Punkte und eventuelle Gefahren des Landeplatzes hinweist.
+  * Einweiser nimmt bei Sichtkontakt zum Piloten beide Arme nach oben, Handflächen nach innen (Y-Stellung)
+  * Einweiser darf sich nicht mehr von der Stelle rühren. Besonders im Winter, weil der Pilot den Bezug zum Erdboden verliert (sog. White-out). Er ist für den Piloten ein Bezugspunkt zum Boden.
+  * Einweiser sollte Augenschutz und darf keine lose Kopfbedeckung tragen.
+
+==== nach der Landung ====
+
+  * Annäherung erst wenn Rotoren stillstehen oder auf Zeichen des Piloten
+  * Annäherung in gebückter Haltung, nur von vorne oder schräg seitlich, immer im Blickfeld des Piloten. <wrap important>Bei Annäherung von hinten Lebensgefahr! Heckrotor!</wrap>
+  * Anfahrt mit Fahrzeugen nur in Rücksprache mit Pilot!
+  * Nur auf Anweisung des Piloten nach Stillstand der Rotoren mit Fahrzeugen heranfahren
+  * Zugang nur für Einsatzkräfte, Zuschauer fernhalten
+
+==== Vor dem Start ====
+
+  * Beleuchtung für Start mit dem Piloten absprechen
+  * Gefahrenbereich wieder absperren
+
+==== Landeplätze für mehrere Hubschrauber bei Großschadenslagen (z.B. MANV) ====
+
+  * Flächenbedarf für bis zu 4 gleichzeitig landende Hubschrauber: ca. 2.500 m²
+  * ungehinderte An- und Abfahrt von mehreren Rettungsmitteln ermöglichen, möglichst Ausschildern
+  * ELW 1 als Verbindung zur Einsatz(abschnitts)leitung vorsehen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Mindest-Landeplatzgröße nach Hubschraubermodell gemäß Typenblatt ====
+
+  * EC 135: 20 x 20 m
+  * EC 145: 20 x 20 m
+  * H 145: 20 x 20 m
+  * BK 117-B2: 20 x 20 m
+
+===== Weblinks =====
+
+  * [[https://www.rth.info/stationen.db/stationen.php|Standorte von Rettungshubschraubern]] auf http://www.rth.info
+
+===== Quellenangabe =====
+
+  * Abschnittsarbeit Thorsten Petry, BF Trier
+  * Hilfe bei Flugunfällen, General Flugsicherheit in der Bundeswehr
+  * [[http://www.sfs-w.de/lehr-und-lernmittel/winterschulung.html?no_cache=1&download=winterschulung2007_folien.pdf&did=122|Winterschulung 2007/2008: Nachtlandung eines Rettungshubschrauber]], Staatliche Feuerwehrschule Würzburg
+  * [[http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Downloads/GesBevS/Hilfekonzept_bei_MANV.pdf?__blob=publicationFile|Konzept zur überörtlichen Hilfe bei MANV]], Arbeitsgruppe der Hilfsorganisationen im Bundesamt für Bevölkerungsschutz und Katastrophenhilfe
+  * [[https://www.vfdb.de/fileadmin/download/merkblatt/MB0602_Checkliste_Landung_Hubschrauber.pdf|Checkliste „Landung eines Rettungshubschraubers“]], Vereinigung zur Förderung des Deutschen Brandschutzes e.V.
+  * [[https://www.drf-luftrettung.de/sites/default/files/aircraft-pdf/2015_04_14_typenblatt_ec135_0.pdf|Typenblatt EC 135 Rettungshubschrauber]], DRF Luftrettung
+  * [[https://www.drf-luftrettung.de/sites/default/files/aircraft-pdf/2015_04_14_typenblatt_ec145.pdf|Typenblatt EC 145 Intensivtransporthubschrauber]], DRF Luftrettung
+  * [[https://www.drf-luftrettung.de/sites/default/files/aircraft-pdf/2015_04_14_typenblatt_h145.pdf|Typenblatt H 145 Intensivtransporthubschrauber]], DRF Luftrettung
+  * [[https://www.drf-luftrettung.de/sites/default/files/aircraft-pdf/2015_04_14_typenblatt_bk117-b2.pdf|Typenblatt BK 117-B2 Intensivtransporthubschrauber]], DRF Luftrettung
+
+===== Stichwörter =====
+
+Hubschrauber, Helikopter, Helicopter

@@ -1,0 +1,27 @@
+====== Geschlossenes Wiki einrichten ======
+
+In verschiedenen Fällen kann es erforderlich sein, dass das Wiki nicht standardmäßig für jeden Benutzer der es öffnet lesbar ist. Daher ist hier beschrieben, wie Sie es einrichten können, dass nur angemeldete Benutzer im Wiki lesen (und folglich auch schreiben) dürfen. Dies ist vor allem interessant, wenn Sie Ihr lokales Einsatzleiterwiki im Internet verfügbar machen möchten oder sich mit fremden Personen in einem Netzwerk befinden.
+
+===== direkt bei der Installation =====
+
+Entweder haben Sie bereits bei der Installation des Wikis auf der Einrichtungsseite ''install.php'' den Punkt //closed wiki// bzw. //geschlossenes Wiki// gewählt. Damit wäre Ihr Wiki von Anfang an passwortgeschützt.
+
+===== nachträglich =====
+
+Andernfalls können Sie dies auch sehr einfach nachträglich ändern:
+
+Melden Sie sich als Administrator an und klicken Sie oben rechts auf //Admin//. Klicken Sie nun auf //Zugangsregeln//. Legen Sie die Zugriffsrechte wie auf folgendem Bild fest (//user// stellt normale Benutzer ohne besondere Privilegien dar wie es die meisten Ihrer Mitarbeiter sein werden, dort können Sie selbst entscheiden welche Rechte Sie diesen einräumen):
+
+{{:wiki:hilfe:installation:closed_wiki.png?direct&500|Zugriff nur Benutzern gestatten}}
+
+Klicken Sie danach auf den Knopf //Updaten//.
+
+Ab sofort können nur noch angemeldete Benutzer im Wiki lesen und schreiben. Alle Personen, die die Seite unangemeldet aufrufen, bekommen einen Hinweis angezeigt dass eine Anmeldung erforderlich ist.
+
+===== weiterführende Informationen =====
+
+Weitere Informationen zum Thema Benutzerrechte finden Sie auf der entsprechenden Informationsseite des DokuWiki-Projekts. Die englische Dokumentation ist besser ausgeführt als die deutsche Hilfe, die deutsche ist allerdings immer noch genügend informativ um die Berechtigungsstufen zu verstehen falls Sie der englischen Sprache nicht mächtig sind.
+
+[[http://www.dokuwiki.org/acl|Englische Dokumentation zum Thema Benutzerrechte]]
+
+[[http://www.dokuwiki.org/de:acl|Deutsche Dokumentation zum Thema Benutzerrechte]]

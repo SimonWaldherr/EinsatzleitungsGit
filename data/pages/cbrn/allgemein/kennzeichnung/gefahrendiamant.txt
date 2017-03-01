@@ -1,0 +1,54 @@
+====== Gefahrendiamant ======
+
+System zur Beurteilung der Gefährlichkeit von Gefahrgütern. Vor allem auf Versandstücken aus den USA zu finden, wurde dort als //NFPA 704// entwickelt.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+{{  cbrn:allgemein:gefahrendiamant.png?nolink|Beispiel für eine Kennzeichnung durch einen Gefahrendiamant}}
+
+Der Gefahrendiamant besitzt vier Felder.
+
+Die farbigen Felder oben, links und rechts geben die Gesundheitsgefahr (blau), die Brandgefahr (rot) und die Reaktionsgefahr (gelb) an. Dabei können die Felder jeweils mit den Ziffern von 0 bis 4 belegt sein. Je höher der Wert der Ziffer, desto höher die Gefahr. Das vierte Feld in der Farbe weiß gibt Zusatzanweisungen. Die einzelnen Werte besitzen folgende Bedeutung:
+
+==== blaues Feld: Gesundheitsgefahr ====
+
+^Ziffer ^blaues Feld: Gesundheitsgefahr. |
+^ 0 |Ohne besondere Gefahr. |
+^ 1 |Geringe Gefahren, Atemschutzgerät wird empfohlen. |
+^ 2 |Gefährlich! Aufenthalt im Gefahrenbereich nur mit Atemschutzgerät und einfacher Schutzkleidung. |
+^ 3 |Sehr gefährlich! Aufenthalt im Gefahrenbereich nur mit voller Schutzkleidung und Atemschutzgerät. |
+^ 4 |Äußerst gefährlich! Jeden Kontakt mit Dämpfen oder Flüssigkeiten ohne speziellen Schutz vermeiden. |
+
+==== rotes Feld: Brandgefahr ====
+
+^Ziffer ^rotes Feld: Brandgefahr |
+^ 0 |Keine Entzündungsgefahr unter üblichen Bedingungen. |
+^ 1 |Entzündungsgefahr nur bei Erhitzung. |
+^ 2 |Entzündungsgefahr bei Erwärmung. |
+^ 3 |Entzündungsgefahr bei normalen Temperaturen. |
+^ 4 |Entzündungsgefahr bei allen Temperaturen. |
+
+==== gelbes Feld: Reaktionsgefahr ====
+
+^Ziffer ^gelbes Feld: Reaktionsgefahr |
+^ 0 |Unter normalen Bedingungen keine Gefahr. |
+^ 1 |Wird bei Erhitzen unstabil, Schutzmaßnahmen erforderlich. |
+^ 2 |Heftige chemische Reaktion möglich. Verstärkte Schutzmaßnahmen. Löschangriff nur aus sicherem Abstand. |
+^ 3 |Explosionsgefahr bei Hitzeeinwirkung oder starker Erschütterung durch Schlag u.a.. Sicherheitszone bilden. Löschangriffe nur aus sicherer Deckung. |
+^ 4 |Große Explosionsgefahr! Sicherheitszone bilden. Bei Brand gefährdetes Gebiet sofort räumen. |
+
+==== weißes Feld: Zusatzhinweise ====
+
+^Symbol ^weißes Feld: Zusatzhinweise |
+^ (leer) |Wasser als Löschmittel zulässig. |
+^ <del>W</del> |Kein Wasser zum Löschen verwenden. |
+^ OX |Der Stoff wirkt oxidierend. |
+^ ☢ |Bei Freiwerden des Stoffes Gefahr der ionisierenden Strahlung. |
+
+Hinweis: Laut der NFPA sind für das Feld zur Kennzeichung der Zusatzgefahren eigentlich nur <del>W</del> und OX vorgesehen. Üblicherweise werden aber weitere Kennzeichnungen vorgenommen, die darüber hinausgehen.
+
+===== Quellenangabe =====
+
+  * http://www.nfpa.org/faq.asp?categoryID=928#23092
+  * Dokumentation des Arbeitskreises Gefahrstoffzüge Pfalz
+  * Bildquelle: [[http://commons.wikimedia.org/wiki/File:NFPA_704_ex.svg?uselang=de]], vom Benutzer Kaneiderdaniel als gemeinfrei veröffentlicht

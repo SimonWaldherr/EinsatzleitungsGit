@@ -1,0 +1,87 @@
+====== Elektro-/Hybridfahrzeuge ======
+
+===== zu treffende Maßnahmen =====
+
+==== Erkundung ====
+
+Bei Verdacht auf Elektrofahrzeug:
+
+  * Nachsehen ob [[rettungsdatenblaetter:start|Rettungskarte]] vorhanden
+  * Bei [[allgemeine_hilfe:verkehrsunfall:airbag|Airbagauslösung]] wird das Hochvoltsystem normalerweise automatisch deaktiviert
+
+==== Maßnahmen ====
+
+  * Fahrzeug kann sich unvermittelt in Bewegung setzen:
+    * System über Trennschalter in Motorraum oder Armaturenbrett deaktivieren bzw. Zündung ausschalten
+    * Schalthebel auf "P" bzw. Gang einlegen
+    * Hand- bzw. Parkbremse anziehen
+    * Schlüssel abziehen und mindestens 5 Meter entfernt vom Fahrzeug aufbewahren ("Keyless-Entry"-Systeme)
+  * Hochvoltanlage außer Betrieb nehmen und gegen Wiedereinschalten sichern (siehe [[rettungsdatenblaetter:start|Rettungsdatenblatt]])
+  * Vorsicht bei Arbeit mit hydraulischen Rettungsgeräten - nicht in dicke (orangene) Kabel schneiden!
+  * Einsatzkräfte auf besondere Gefahren hinweisen
+  * vollständige Schutzkleidung tragen
+
+=== Brandbekämpfung ===
+
+  * Spannungen bis 1.000 V möglich. [[allgemein:elektrische_anlagen|Strahlrohrabstände einhalten]]!
+  * Akku kann im Brandfall am besten mit viel Wasser gelöscht und gekühlt werden, hierbei kann [[cbrn:chemisch:klasse_2:stoffe:wasserstoff|Wasserstoff]] entstehen (Wasserstoffflamme ist nicht sichtbar, [[allgemein:geraete:waermebildkamera|Wärmebildkamera]]!). Löschmittelzusätze führen i.d.R. zu schnellerem Löscherfolg.
+  * bei nicht sicher deaktiviertem System [[allgemein:elektrische_anlagen#wasser|Strahlrohrabstände]] einhalten
+  * Sand/Metallbrandpulver ist eher nicht geeignet
+
+=== ausgelaufene Batterie ===
+
+  * bei ausgelaufenem Nickel-Metall-Hydrid-Akku [[cbrn:allgemein:koerperschutzformen|Körperschutz Form 2]] und umluftunabhängigen Atemschutz.
+  * ggf. ausgelaufene Batterieflüssigkeit von Nickel-Metall-Hydrid-Akkus mit Öl- oder Chemikalienbinder aufnehmen. Bei Vermischung mit [[brand:allgemein:loeschwasserrueckhaltung|Löschwasser dieses auffangen]]. \\ Alternative zu Bindemittel: Neutralisation mit
+    * verdünnter Borsäurelösung (800 g Borsäure auf 20 l Wasser) oder
+    * Essig
+  * ggf. findet sich bei der Batterie auch Kühlmittel die auch auslaufen können
+
+==== besondere Gefahren ====
+
+  * Spannung in PKW bis zu 300 V, in Bussen bis zu 700 V. Es dauert bis zu 5 Minuten bis sich die Spannung in den Kabeln abgebaut hat.
+  * Fahrzeug kann geräuschlos, aber trotzdem fahrbereit sein. Der Verbrennungsmotor kann bei niedriger Batteriespannung selbsttätig starten.
+  * ab 100°C können Akkus aufplatzen, dann wird Wasserstoff frei
+  * toxische Gase im Brandfall
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Akkumulatoren ====
+
+Akkus können durch Kühlflüssigkeit gekühlt werden.
+
+Je nach verwendeter Akku-Technologie ergeben sich verschiedene Eigenschaften:
+
+  * Lithium-Ionen-Akku: siehe [[cbrn:chemisch:klasse_9:stoffe:lithium-ionen-akkumulatoren]]
+  * Nickel-Metall-Hydrid-Akku: Batterieflüssigkeit ist stark alkalisch, [[cbrn:allgemein:cbrn-lexikon:ph-wert|pH-Wert]] 13,5! Bestandteile sind
+    * [[cbrn:ericards:klasse_8:18141008|ERICard Kaliumhydroxid (UN-Nr. 1814)]]
+    * [[cbrn:ericards:klasse_8:18241015|ERICard Natriumhydroxid (UN-Nr. 1824)]]
+
+==== Nach dem Einsatz ====
+
+  * Elektro- und Hybridfahrzeuge können auch Stunden nach dem Unfall noch in Brand geraten. Abschleppunternehmen und Polizei darauf hinweisen!
+  * Beschädigte Hochvolt-Batterien sind Gefahrgut und sind nur von Berechtigten zu verladen, zu transportieren und zu lagern.
+
+==== Merkmale Elektro- und Hybridfahrzeuge ====
+
+=== Merkmale Hybridfahrzeuge ===
+
+  * Versuchen alle Komponenten des Systems zu lokalisieren
+    * Akku ist i.d.R. im Heck des Fahrzeugs; unter Kofferraumboden und unter Fahrzeug nachsehen. Dabei auf Warnhinweise ("Gefahr durch Strom") achten. Batteriegehäuse unter keinen Umständen öffnen oder gar entfernen!
+    * auf dicke (orange) Kabel im Schweller/unter dem Fahrzeug achten
+    * Elektromotoren können auch direkt an den Rädern sein
+
+=== zusätzliche Merkmale reiner Elektrofahrzeuge ===
+
+  * Meist Werbeaufkleber vorhanden
+  * kein Auspuff und andere typische Elemente von Verbrennungsmotoren
+
+===== Quellenangabe =====
+
+  * [[http://www.lfs-bw.de/Fachthemen/Einsatztaktik-fuehrung/Sonstiges/Documents/LithiumIonenAkkus.pdf|Einsatzhinweise für Elektrofahrzeuge. Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2011.]]
+  * [[http://vfdb.de/Download-Bereich.111.0.html?&no_cache=1&L=0&tx_abdownloads_pi1[action]=getviewclickeddownload&tx_abdownloads_pi1[uid]=319&tx_abdownloads_pi1[cid]=192|vfdb-Merkblatt "Einsätze an Kraftfahrzeugen mit alternativen Antriebsarten und -kraftstoffen", Oktober 2007]]
+  * [[http://publikationen.dguv.de/dguv/pdf/10002/i-8664.pdf|BGI/GUV-I 8664: Rettungs- und Löscharbeiten an PKW mit alternativer Antriebstechnik]], Deutsche Gesetzliche Unfallversicherung e.V. (DGUV) 2012
+  * Gerhard Schmöller, Tim Pelzl, Rolf Erbe: Einsatz an Fahrzeugen mit alternativen Antrieben. In: Brandschutz 2/2013, S. 96 ff.
+
+Hinweis zur Wartung des Artikels: bei Aktualisierung mit Informationen auf der Seite [[allgemeine_hilfe:verkehrsunfall:erkennung_alternativer_fahrzeugantriebe]] abgleichen.
+
+===== Stichwörter =====

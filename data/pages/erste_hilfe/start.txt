@@ -1,0 +1,13 @@
+====== Erste Hilfe ======
+
+{{ :erste_hilfe.png?nolink|Erste Hilfe}}
+
+{{simplenavi>erste_hilfe}} 
+
+===== Erste Hilfe allgemein =====
+
+{{simplenavi>erste_hilfe:allgemein}}
+
+===== siehe auch =====
+
+Weblink: [[http://www.erste-hilfe-beim-hund.de|Erste Hilfe beim Hund]]

@@ -1,0 +1,29 @@
+====== Störfallanlagen ======
+
+===== zu treffende Maßnahmen =====
+
+  * ggf. [[allgemein:warnung_bevoelkerung|Warnung der Bevölkerung]]
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Betreiber von Störfallanlagen mit erweiterten Pflichten müssen externe Gefahrenabwehrpläne erstellen in denen Notfallmaßnahmen festgeschrieben sind nach denen von der Feuerwehr verfahren werden kann.
+
+==== Melderaster zur Kategorisierung und Abgrenzung der Ereignisfälle =====
+
+Für die Festlegung der Maßnahmen werden die Meldestufen D1 bis D4 definiert. Diese werden z.B. durch einen Notfallmanager des Betriebs selbst oder die Feuerwehr festgelegt. Die Meldestufen sind sind im Allgemeinen wie folgt festgelegt, können sich im Detail jedoch von Bundesland zu Bundesland unterscheiden:
+
+^ Kategorie ^ Charakterisierung und Abgrenzung der Ereignisse und deren Auswirkungen ^ Auswirkungen ^
+^  D1  | **Keine Auswirkungen** außerhalb der Werkgrenzen und keine Belastungen des Grundwassers zu besorgen.\\ Dazu gehören auch Ereignisse, bei denen eine Gefahr außerhalb objektiv nicht besteht, die aber von der Nachbarschaft wahrzunehmen sind und für gefährlich gehalten werden können (z. B. starke Geräusche; Abfackeln von Gasen; schwache, begrenzte Geruchseinwirkung). | Gegenseitige Information von Anlagenbetreiber, Polizei und Feuerwehr.\\ **Keine Maßnahmen der Behörden zur Gefahrenabwehr erforderlich**. |
+^  D2  | **Auswirkungen** und Belastungen des Grundwassers außerhalb der Werkgrenzen **nicht auszuschließen**. Dazu gehören auch Ereignisse, bei denen eine großflächige oder anhaltende Geruchseinwirkung festzustellen ist, eine Gefährdung der Gesundheit aber nicht besteht. | Feststellende Maßnahmen durch Polizei und Feuerwehr.\\ Gegebenenfalls abgestimmte Information an die betroffene Bevölkerung durch die Behörden.\\ Begrenzte Maßnahmen der Behörden.\\ Behördeninformation nach Plan. |
+^  D3  | **Gefährdung** außerhalb der Werkgrenzen **wahrscheinlich** oder **bereits gegeben**. | Maßnahmen wie D2.\\ Warnung der betroffenen Bevölkerung durch die Behörden.\\ Einsatz von Polizei, Feuerwehr und Rettungsdienst. |
+^  D4  | **Schwerer D3-Fall** oder **Katastrophenfall**. | Maßnahmen wie D3.\\ Gegebenenfalls Maßnahmen nach Katastrophenschutzplan. |
+
+===== Weblinks =====
+
+  * [[http://www.gesetze-im-internet.de/bimschv_12_2000/|Störfallverordnung (12. Bundesimmissionsschutzverordnung)]]
+
+===== Quellenangabe =====
+
+  * [[http://www.kas-bmu.de/publikationen/sfk/sfk_gs_45.pdf|Leitfaden Schnittstelle Notfallplanung]] von der STÖRFALLKOMMISSION beim Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit, Bonn 2005
+
+===== Stichwörter =====

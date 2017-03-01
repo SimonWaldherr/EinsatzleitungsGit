@@ -1,0 +1,92 @@
+====== Aufzugsunfall ======
+
+===== zu treffende Maßnahmen =====
+
+==== Allgemein ====
+
+  * Erkundung des genauen Standorts der Kabine
+  * Wie ist der gesundheitliche Zustand der Betroffenen? Betreuung und ggf. Erstversorgung!
+  * Triebwerkraum von Hausmeister öffnen lassen, Öffnung durch Feuerwehr wenn dieser nicht verfügbar
+  * Aufzug auf jeden Fall vor Beginn der Hilfeleistung am Hauptschalter stromlos schalten; dabei wird nur der Motor abgeschaltet, Beleuchtung etc. ist davon nicht betroffen
+  * kein Eingriff der Feuerwehr in die elektrische Steuerungsanlage!
+
+==== Befreien eingeklemmter Personen zwischen Schachtwand und Fahrkorb ====
+
+  * Maschinenraum besetzt lassen (gegen Wiedereinschalten sichern, Bremse aktiviert lassen)
+  * keine Rücksicht auf Aufzugsanlage nehmen!
+  * in leichteren Fällen kann ein Brecheisen und Holzkeile zur Befreiung ausreichen
+  * ansonsten untere Führung des Fahrkorbs abschrauben und Korb wegschwenken
+  * als letztes Mittel weitere Werkzeuge einsetzen (z.B. sägen, stemmen, ...)
+
+==== bei Einsatzende ====
+
+  * Aufzug bleibt außer Betrieb; Hauptschalter aus!
+  * Fahrschachttüren mit "Außer Betrieb"-Schildern versehen lassen
+  * am Aufzugsmotor und -getriebe aufgesetze Werkzeuge wieder abziehen
+  * Triebwerkraum verschließen
+  * offene Fahrschachttüren gegen Absturz sichern
+  * zuständige Fachfirma, Hausmeister oder Hausverwaltung benachrichtigen
+
+==== besondere Gefahren ====
+
+  * Absturzgefahr für Personen
+  * Angstreaktion der eingeschlossenen Personen
+  * Verletzungsgefahr durch bewegliche Teile und Drahtseile im Fahrschacht
+  * insbesondere bei älteren Aufzügen offenliegende Elektrik
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Während eine Fahrschachttür geöffnet ist wird durch eine Sicherheitsschaltung verhindert dass sich der Aufzug bewegt
+
+==== Unterscheidung aufgrund Bauart ====
+
+Aufzüge werden technisch unterschieden in
+
+  * Treibscheibenaufzüge
+    * Getriebemaschinen (Drehstrom- oder Gleichstrommotor, Antrieb über Schneckengetriebe), Erkennungsmerkmal: Motor und Treibscheibe stehen in rechtem Winkel zueinander
+    * getriebelose Maschinen (Gleichstrommotor, Direktantrieb), Erkennungsmerkmal: Motor und Treibscheibe liegen parallel nebeneinander
+  * hydraulische Aufzüge
+    * direkter Antrieb (i.d.R. bis zu einer Höhe von 3 Geschossen)
+    * indirekter Antrieb (Umlenkrolle auf Kolbenkopf)
+
+==== Verfahren des Fahrkorbs ====
+
+**Grundsatz: Kabine nur bis zum nächsten Stockwerk fahren!**
+
+Erkundung:
+
+    * ob Fangvorrichtung ausgelöst ist; in diesem Fall Bewegung zuerst nur nach oben möglich (min. 20 cm)
+    * welche Technik verwendet wird
+    * wie groß die Last im Fahrkorb ist
+    * in welche Richtung der Fahrkorb bewegt werden muss: bei Belastung von mehr als 50% der Tragfähigkeit immer nach unten
+
+Vor Beginn der Arbeiten überprüfen ob Hauptschalter ausgeschaltet ist. \\ Ausnahme: Treibscheibenaufzüge mit getriebelosen Maschinen; hier wird der Aufzug mit der elektrischen Rückholsteuerung bewegt. Hauptschalter vor Öffnen von Türen aber auch hier ausschalten!
+
+Fahrschachttüren älterer Aufzüge können möglicherweise nicht in jedem Geschoss von Außen geöffnet werden. Dies ist aber von Innen aus möglich.
+
+Der Aufzug kann nur elektrisch bewegt werden wenn alle Türen verschlossen sind, dies ist bei Handbetrieb nicht erforderlich.
+
+=== Bewegen von Treibscheibenaufzügen ===
+
+Bewegung direkt von Hand ist nur bei Aufzügen mit **Schneckengetriebe** möglich (Treibscheibenmaschine mit Getriebe):
+  * vor Bewegung muss die Bremse belüftet werden; dafür ist spezielles Werkzeug erforderlich dass sich direkt an der Bremse oder im Maschinenraum befindet
+  * **ACHTUNG**: Bei Gleichstromanlagen ist die Bremse nur für stehende Fahrkörbe ausgelegt. Gerät dieser ohne Strom in Bewegung kann er nicht mehr ausreichend gebremst werden.
+
+Bei direkt angetriebenen Aufzügen kann der Aufzug nach Stromabschaltung nicht mehr verfahren werden. Nur eine Fachfirma darf dann den Aufzug bewegen.
+
+Kabinen von direkt angetriebenen Aufzügen können Ausstiegstüren am Korb haben.
+
+Wenn das Seil durch die Treibscheiben rutscht, Seilklemmen (im Triebwerkraum zu finden) einsetzen. Keine Lappen o.ä. auf die Treibscheibe legen, das Seil könnte aus den Rillen springen!
+
+=== Bewegen von hydraulischen Aufzügen ===
+
+  * Absenken über Notablassvorrichtung (in Nähe des Öltanks), gekennzeichnet durch Schild oder besonderen Anstrich
+  * Notablassvorrichtung wird von Hand betätigt, bis der Aufzug bündig an einem Stockwerk steht. Dies wird durch eine Leuchtanzeige angezeigt.
+
+===== Quellenangabe =====
+
+  * Rettung eingeklemmter Personen aus Aufzügen und Fahrtreppen, Landesfeuerwehrschule Hamburg 1998
+
+===== Stichwörter =====
+
+Fahrstuhl, Lift

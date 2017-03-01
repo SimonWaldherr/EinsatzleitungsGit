@@ -1,0 +1,43 @@
+====== Schneelasträumung ======
+
+Eine Schneelasträumung stellt in den meisten Fällen keine Pflicht-, sondern eine freiwillige Aufgabe der Feuerwehr dar!
+
+===== zu treffende Maßnahmen =====
+
+Schneelastmessung durch Statiker, Bauaufsicht o.ä. beurteilen lassen und weitere Maßnahmen besprechen, teilweise auch durch THW möglich. Berechnung mittels Volumen und Dichte **nicht** möglich! Mögliche Ergebnisse:
+  * kein Einsatz der Feuerwehr erforderlich -> Einsatzende
+  * Standsicherheit gefährdet, Einsatz möglich -> Schneeräumung möglich
+  * Standsicherheit gefährdet, Einsatz nicht mehr möglich -> Gebäude sperren, Einsatzende
+
+Falls Feuerwehr tätig wird:
+
+  * Sicherung der Einsatzkräfte gegen Absturz; Sicherung per Haltegurt im Absturzgefährdeten Bereich **nicht** ausreichend!
+  * Einsatzkräfte vor Beginn gründlich einweisen, auf Gefahren hinweisen
+  * Personenzahl auf dem Dach begrenzen, keine schweren Geräte wie Schneefräsen einsetzen (zusätzliche Last)
+  * Streng nach Räumplan arbeiten (siehe Vorgehenshinweise)
+  * Schnee nicht auf tiefergelegene Gebäude schieben, keine unnötigen Schneehäufen am Boden erzeugen
+  * Überprüfung ob Tauwasser abfließen kann
+
+==== besondere Gefahren ====
+
+  * Absturz
+  * Stolpern über Aufbauten wie Blitzschutzanlagen
+  * Durchbrechen durch Lichtkuppeln
+  * verdeckte Schächte
+  * Unterkühlung und Dehydration der Einsatzkräfte; auf ausreichende Verpflegung achten
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Sicherung gegen Absturz ====
+
+Die Sicherung gegen Absturz darf mittels Feuerwehrgurt und Feuerwehrleine nur erfolgen, wenn die Einsatzkraft dadurch nicht in einen Bereich (z.B. Rand des Dachs, Durchbruch durchs Dach) gelangen kann in dem ein Absturz möglich ist. Falls ein Absturz nicht ausgeschlossen werden kann, muss die Sicherung mittels [[allgemein:absturzsicherung|Gerätesatz Absturzsicherung]] (Kernmanteldynamikseil, Klettergurt, ...) erfolgen.
+
+==== Räumplan ====
+
+Vor Beginn der Arbeiten ist in Zusammenarbeit mit dem Statiker o.ä. ein Räumplan zu erstellen, der an die Tragkonstruktion angepasst ist. Der Schnee muss erst streifenweise geräumt werden, um eine ungleichmäßige Belastung des Dachs zu verhinden. Dabei wird z.B. ein Streifen von zwei Metern geräumt, weitere zwei Meter bleiben vorerst mit Schnee bedeckt, dann wird wieder ein Streifen geräumt usw.; Aussehen von oben gesehen dann wie ein Zebrastreifen.
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Einsatz__Loeschmittel_und_Umweltschutz/FE_Einsatzstrategien_Schneelastraeumung.pdf|Fachempfehlung Nr. 2 "Schneelastmessung und Schneeräumung" des Deutschen Feuerwehrverbands vom 2. Dezember 2011]]
+
+===== Stichwörter =====

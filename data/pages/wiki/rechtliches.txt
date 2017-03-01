@@ -1,0 +1,80 @@
+====== Kontakt/Rechtliches ======
+
+Das Einsatzleiterwiki wurde im Rahmen einer Bachelorarbeit im Studiengang "Sicherheit und Gefahrenabwehr" in Kooperation mit der [[http://www.feuerwehr-kaiserslautern.de/|Feuerwehr Kaiserslautern]] und der [[http://www.hs-magdeburg.de/|Hochschule Magdeburg-Stendal]] entwickelt.
+
+===== Kontakt =====
+
+==== Betrieb des Systems ====
+
+Christoph Ziehr\\
+Torstr. 7b\\
+10119 Berlin
+
+Mobil: 0172 / 27 35 889
+
+[[info@einsatzleiterwiki.de|info@einsatzleiterwiki.de]]
+
+Bei Kontaktaufnahme, insbesondere Telefon, bitte beachten: Das Einsatzleiterwiki ist ein rein ehrenamtlich betriebenes Projekt, eine Erreichbarkeit während der üblichen Bürozeiten kann daher nicht garantiert werden.
+
+Weitere Informationen wie die __**Datenschutzerklärung**__ für das Online-Angebot erhalten Sie unter folgender Adresse:
+
+[[http://www.einsatzleiterwiki.de/index.php/kontaktrechtliches|http://www.einsatzleiterwiki.de/index.php/kontaktrechtliches]]
+
+==== Ansprechpartner für die Weiterentwicklung durch die Feuerwehr Kaiserslautern ====
+
+{{ :wiki:fw_kl.png?nolink&|}}
+Referat Feuerwehr und Katastrophenschutz der Stadt Kaiserslautern\\
+Dipl.-Ing. (FH) Mike Kopp\\
+Abteilungsleiter Personal- und Einsatzplanung\\
+An der Feuerwache 6\\
+67663 Kaiserslautern
+
+Telefon: 0631 / 316 052 3711
+
+[[m.kopp@feuerwehr-kaiserslautern.de|m.kopp@feuerwehr-kaiserslautern.de]] 
+
+===== Haftungsausschluss =====
+
+Das Einsatzleiterwiki soll eine Unterstützung für den Einsatzdienst sein und den Einsatzleiter in seiner Entscheidungsfindung unterstützen. Alle Inhalte werden sorgfältig und mehrfach überprüft. Trotzdem kann keine Garantie für Fehlerfreiheit übernommen werden. Der Einsatzleiter ist für seine Entscheidung komplett selbst verantwortlich.
+
+===== Lizenz der Wiki-Inhalte =====
+
+Soweit einzelne Wiki-Artikel (beispielsweise Rettungsdatenblätter) nicht anders gekennzeichnet sind, unterliegen diese der //CC Attribution-Share Alike 3.0 Unported//-Lizenz. Diese erlaubt Ihnen eine Nutzung und Veröffentlichung der Inhalte, auch für kommerzielle Zwecke, solange Sie das Einsatzleiterwiki als Quelle angeben und Ihre Arbeit unter die gleiche oder eine vergleichbare Lizenz stellen. Ausnahmen sind möglich, wenden Sie sich in diesem Fall bitte an den oben genannten Kontakt.
+
+Die Herkunft von Grafiken ist in einer der folgenden Weisen deklariert:
+
+  * verwendete Grafiken sind in der Quellenangabe der jeweiligen Wiki-Seite i.d.R. unter Angabe der Lizenz bzw. Angabe der Primärquelle nachgewiesen
+  * Grafiken ohne Nachweis wurden vom Autor des Einsatzleiterwiki selbst erstellt und stehen ebenso wie die textlichen Inhalte unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz
+
+Die in den einzelnen Artikeln verlinkten Dateien sind in der Regel urheberrechtlich geschützt und dürfen nicht frei für jeden Zweck genutzt werden, eine Verwendung im Einsatzleiterwiki wurde in diesem Fall vom Autor gestattet.
+
+Eine weiterführende Information zur "CC Attribution-Share Alike 3.0 Unported"-Lizenz können Sie unter folgender Internetadresse einsehen: [[http://creativecommons.org/licenses/by-sa/3.0/deed.de|http://creativecommons.org/licenses/by-sa/3.0/deed.de]].
+
+Den vollständigen, in englischer Sprache abgefassten Lizenz-Text können Sie unter dieser Internetadresse einsehen: [[http://creativecommons.org/licenses/by-sa/3.0/legalcode|http://creativecommons.org/licenses/by-sa/3.0/legalcode]]
+
+===== Danksagung =====
+
+Ein großer Teil der Inhalte des Einsatzleiterwikis basiert auf Unterlagen von Dritten. An dieser Stelle möchten wir uns bei den Institutionen, Firmen und Personen bedanken, die uns Ihre Unterlagen auf eine Anfrage hin explizit für eine Weiternutzung zur Verfügung gestellt haben. Die Nennung erfolgt jeweils in alphabetischer Reihenfolge.
+
+Weitere Kennzeichnungen befinden sich in den einzelnen Artikeln.
+
+Besitzen Sie Unterlagen die für das Einsatzleiterwiki interessant sein könnten und die Sie dem Projekt zur Verfügung stellen würden? Melden Sie sich bitte unter [[info@einsatzleiterwiki.de]]. 
+
+==== Allgemeine Einsatz- und Ausbildungsunterlagen ====
+
+  * [[http://www.abc-gefahren.de|abc-gefahren.de - André Schild]]
+  * [[http://www.berliner-feuerwehr.de/ueber-uns/ausbildung-an-der-bfra/|Berliner Feuerwehr- und Rettungsdienstakademie (BFRA)]]
+  * [[http://www.deutschebahn.com|Deutsche Bahn AG]]
+  * [[http://www.draeger.com|Drägerwerk AG & Co. KGaA]]
+  * {{:allgemein:kleine_merkhilfe_fuer_den_feuerwehreinsatz_1.03.pdf|Kleine Merkhilfe für den Feuerwehreinsatz: Zusammenstellung für Führungskräfte der Feuerwehr}}, Florian Pernpeintner
+  * [[http://www.lfs-bw.de|Landesfeuerwehrschule Baden-Württemberg]]
+
+==== Rettungsdatenblätter für Kraftfahrzeuge ====
+
+Von 2011 bis 2015 waren die Rettungsdatenblätter einiger Hersteller direkt in das Einsatzleiterwiki integriert. Auch wenn diese mittlerweile entfernt sind, gilt unser Dank den Fahrzeughersteller die uns unterstützt haben:
+
+Chevrolet, Citroën, CS Reisemobile, Dacia, Daimler AG, Honda, Infiniti, Isuzu, Kia, LADA, LUIS, Mazda, Mitsubishi, Nissan, Peugeot, Porsche, Renault und Seat.
+
+===== verwendete Software =====
+
+Als Wiki-Software wird [[http://www.dokuwiki.org|DokuWiki]] von Andreas Gohr, veröffentlicht unter der GPL-Lizenz, verwendet.

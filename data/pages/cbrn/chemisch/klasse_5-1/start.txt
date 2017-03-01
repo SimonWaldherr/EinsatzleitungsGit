@@ -1,0 +1,29 @@
+====== Klasse 5.1 Entzündend (oxidierend) wirkende Stoffe ======
+
+Stoffe der Klasse 5.1 enthalten gebundenen Sauerstoff, den sie an andere Stoffe abgeben können. Diese können dann bei geringeren Temperaturen und heftiger brennen. Der Stoff der Klasse 5.1 an sich ist dabei oft nicht brennbar. 
+
+===== zu treffende Maßnahmen =====
+
+[[cbrn:ericards:klasse_5-1:start]]
+
+==== besondere Gefahren ====
+
+  * Brand- und Explosionsgefahr bei Kontakt mit brennbaren Stoffen
+  * Selbstzersetzung bei Licht- oder Wärmeeinwirkung möglich
+  * heftige Reaktion mit Wasser und Säuren
+  * Bei Brand Bildung giftiger und ätzender Gase
+  * erstickende Löschmittel meist unwirksam (Stoff selbst gibt Sauerstoff ab)
+  * Druckanstieg in Tanks durch Gasentwicklung
+  * meist ätzend
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Brandbekämpfung mit großen Mengen Wasser aus sicherer Entfernung (Wasserwerfereinsatz)
+  * kein organisches/brennbares Bindemittel verwenden
+  * Ausgetretene Stoffe nicht mit brennbaren Stoffen in Kontakt bringen
+
+===== Quellenangabe =====
+
+  * Lehrgangsunterlagen ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+  * FwDV 500 Stand 2012
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr

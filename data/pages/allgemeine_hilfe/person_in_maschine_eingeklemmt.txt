@@ -1,0 +1,44 @@
+====== Person in Maschine eingeklemmt ======
+
+===== zu treffende Maßnahmen =====
+
+  * Maschine in sicheren Zustand bringen
+    * Not-Aus betätigen
+    * Energieversorgung abstellen, bei [[allgemein:elektrische_anlagen#sicherheitsregeln|elektrischen Anlagen die 5 Sicherheitsregeln einhalten]]
+    * Gegen Wiederinbetriebnahme sichern (ggf. Einschaltstelle mit Personal besetzen)
+    * Maschine gegen Bewegungen sichern (z.B. mit Keilen)
+  * Befreiung der Person
+    * Nur nach Rücksprache mit Notarzt/Rettungsdienst
+    * Fachkundiges Bedienpersonal des Betriebs mit einbeziehen soweit möglich
+  * Ggf. Nachalarmierung von TH-Spezialkräften
+  * Brandschutz sicherstellen
+  * Bei Gewerbebetrieben Information von Arbeitsschutzbehörde/Gewerbeaufsicht (normalerweise über Polizei)
+  * [[allgemein:psnv:start|Psychologische Betreuung]] Angehöriger und Einsatzkräfte
+
+==== besondere Gefahren ====
+
+  * <wrap danger>Verbluten nach Entlastung der Einklemmung</wrap>
+  * Verformte Anlagenteile welche unter Spannung stehen und Ausschlagen können
+  * Selbstständiges Wiederanlaufen der Maschine
+  * Ölige oder andersweitig rutschige Oberflächen (ggf. [[allgemein:absturzsicherung|Absturzsicherung]] anlegen)
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Möglichkeiten zur Befreiung des Patienten ====
+
+  * Demontage, nach Möglichkeit in Zusammenarbeit mit fachkundigem Betriebspersonal.
+  * Entlastung des Patienten durch Eintreiben von Keilen, Einsatz von hydraulischem Rettungsgerät, [[allgemeine_hilfe:geraete:hebekissen|Hebekissen]], etc.\\ Oftmals reicht bereits eine geringe Entlastung, um den Patienten aus seiner Einklemmung zu befreien und herausziehen zu können.
+  * **Bei Schneidarbeiten**, die z.B. mit Trennschleifer oder Schneidbrenner durchgeführt werden, ist die Hitzeentwicklung und Wärmeleitung (besonders in Metall) zu beachten.\\ Ggf. ist während des Trennvorgangs eine **Kühlung der Maschinenteile** notwendig.
+  * Eine Befreiung der Person durch **Rückwärtsfahren der Maschine sollte unbedingt vermieden werden**. Ist keine Alternative möglich, so sollte das Zurückfahren möglichst von Hand erfolgen!
+
+==== Falls der Patient sterben wird ====
+
+Wenn absehbar ist, dass der Patient im Laufe des Einsatzes versterben wird (beispielsweise durch Auseinanderfahren von Maschinenteilen), den Familie/Angehörigen die Möglichkeit zum Abschied nehmen geben, siehe dazu [[allgemein:psnv:umgang_mit_sterbenden|Umgang mit Sterbenden]]
+
+===== Quellenangabe =====
+
+  *  B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+
+===== Stichwörter =====
+
+Maschinenunfall

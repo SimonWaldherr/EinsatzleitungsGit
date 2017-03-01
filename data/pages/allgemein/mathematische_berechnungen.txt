@@ -1,0 +1,29 @@
+~~NOCACHE~~
+
+====== Mathematische Berechnungen ======
+
+===== Winkelfunktionen =====
+
+{{:allgemein:winkelfunktionen.png?nolink&500|Winkelfunktionen}}
+
+{{:allgemein:tan.png?nolink|Tangens}}
+
+{{:allgemein:sin.png?nolink|Sinus}}
+
+{{:allgemein:cos.png?nolink|Cosinus}}
+
+~~INCLFORM=winkelfunktionen~~
+
+===== lineare Interpolation =====
+
+~~INCLFORM=lineare_interpolation~~
+
+===== Quellenangabe =====
+
+  * [[wpde>Sinus_und_Kosinus]]
+  * [[wpde>Tangens_und_Kotangens]]
+  * [[http://commons.wikimedia.org/wiki/File:RechtwinkligesDreieck.svg|Dreieck mit Bezeichnungen für die Winkelfunktionen]], angefertigt vom Wikipedia-User [[http://commons.wikimedia.org/wiki/User:PaterSigmund|PaterSigmund]], veröffentlicht unter CC BY-SA 2.5-Lizenz
+
+===== Stichwörter =====
+
+interpolieren

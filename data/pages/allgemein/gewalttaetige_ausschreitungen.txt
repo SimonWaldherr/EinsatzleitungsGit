@@ -1,0 +1,64 @@
+====== Gewalttätige Ausschreitungen ======
+
+Bei sozialen Unruhen, Demonstrationen oder Großveranstaltungen, welche einen gewalttätigen Verlauf nehmen, können auch Einsatzmittel und Personal angegriffen werden, insbesondere wenn diese als Unterstützung von Polizeimaßnahmen angesehen werden.
+
+===== zu treffende Maßnahmen =====
+
+<WRAP important round>
+Grundsatz bei Gefährdung von Einsatzkräften:
+  * Menschenrettung unter größtmöglichen Eigenschutz
+  * Sicherung von Sachwerten ggf. unterlassen
+</WRAP>
+
+<WRAP important round>Kontaktaufnahme und Abstimmung aller Maßnahmen mit der Polizei, dennoch keine Einbeziehung in Polizeimaßnahmen (ggf. [[allgemein:recht:amtshilfe|Amtshilfe]] ablehnen)</WRAP>
+
+  * Fahrzeugscheiben stets geschlossen halten
+  * Ggf. Fahrzeugtüren von innen verriegeln
+  * Rolläden/Geräteräume verschließen
+  * Feuerlöscher im Fahrzeuginnenraum bereithalten
+  * Fahrzeugaufstellung in Fluchtrichtung
+  * Signalhorn bei Annäherung ausschalten
+  * Zusätzlich zur kompletten Schutzausrüstung Atemschutzmaske mit Filter mit sich führen (Tränengas)
+  * Alle Einsatzaufträge nur truppweise durchführen
+  * Besonnenes, defensives Verhalten der Einsatzkräfte
+  * Private Bewaffnung (Stichwaffen, Pfefferspray, Schlagstöcke etc.) der Einsatzkräfte sofort unterbinden
+  * Bewaffnung mit Feuerwehrausrüstung (z.B. Feuerwehraxt) ebenfalls unterlassen
+  * Bei Einsatz von Wurfgeschossen, Fahrzeug nicht Verlassen, Rückzug antreten
+  * Keine Überlassung von Feuerwehrkleidung oder Fahrzeugen zu Polizeizwecken (Tarnung für Polizisten), lediglich Einsatzgerät (Kettensäge o.Ä.) für Polizei zur Verfügung stellen
+
+==== besondere Gefahren ====
+
+=== Häufige Gefahren durch Teilnehmer ===
+
+  * Wurfgeschosse (Flaschen, Steine, etc. sind insbesondere Nachts eine große Gefahr)
+  * Feuerwerkskörper bzw. Rauchbomben
+  * Direkte körperliche Gewalt
+
+=== Extremfallgefahren durch Teilnehmer ===
+
+  * Hieb- und Stichwaffen
+  * Schleudereinsatz (ggf. mit Stahlkugeln)
+  * Molotowcocktails
+  * Chemikalien
+  * Schusswaffen
+
+=== Gefahren durch Maßnahmen der Polizei ===
+
+  * Tränengas (wird u.U. Wasserwerfern zugesetzt)
+  * Pfefferspray
+  * Massenpanik und flüchtende Menschenmassen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * U.U. Maßnahmen für [[allgemein:manv|MANV]] treffen (massive Auseinandersetzung, Tränengaseinsatz, ...)
+  * Führungsdienst auf Wache im betroffenen Gebiet stationieren, sammeln von Informationen und Weiterleitung an Leitstelle
+  * Wache(n) im betroffenen Gebiet sichern
+  * Erkunder einsetzen (Lagebild, befahrbare Straßen, etc.)
+
+===== Quellenangabe =====
+
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr
+
+===== Stichwörter =====
+
+Aufstand, Aufstände, Demonstration, Demonstrationen, Unruhe, Unruhen

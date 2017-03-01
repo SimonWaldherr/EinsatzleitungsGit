@@ -1,0 +1,47 @@
+====== Hitzeschutzkleidung ======
+
+Hitzeschutzkleidung (auch Wärmeschutzkleidung) wird in drei verschiedene Formen eingeteilt. Das Tragen der Hitzeschutzkleidung zusammen mit einem Atemschutzgerät ist obligatorisch. 
+
+<WRAP group>
+<WRAP third column>
+===== Form I =====
+
+  * Kopfhaube
+  * Handschuhe mit Stulpen
+
+{{ :brand:allgemein:hitzeschutz_form_i.jpg?nolink |Hitzeschutzkleidung Form I}}
+
+</WRAP>
+
+<WRAP third column>
+===== Form II =====
+
+  * Mantel mit fest angebrachter Kopfhaube / Kaputze
+  * Handschuhe mit Stulpen
+
+{{ :brand:allgemein:hitzeschutz_form_ii.jpg?nolink |Hitzeschutzkleidung Form II}}
+
+</WRAP>
+
+<WRAP third column>
+===== Form III =====
+
+  * kompletter Anzug, ein- oder zweiteilig (Jacke / Hose)
+  * Kopfhaube
+  * Handschuhe
+  * (Über-)Schuhe
+
+{{ :brand:allgemein:hitzeschutz_form_iii.jpg?nolink |Hitzeschutzkleidung Form III}}
+
+</WRAP>
+</WRAP>
+
+===== Quellenangabe =====
+
+  * Foto Form I: [[https://commons.wikimedia.org/wiki/File:Hitzeschutzanzug_form1.jpg]], veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:Magmer|Magmer]] unter Creative Commons Attribution-Share Alike 2.0-Lizenz
+  * Foto Form II: [[https://commons.wikimedia.org/wiki/File:Hitzeschutz.jpg]], vom Urheber Andreas Meyr, FFW Weichs (Oberbayern), zur weiteren Verwendung freigegeben
+  * Foto Form III: [[https://commons.wikimedia.org/wiki/File:Fire_fighters_practice_with_spraying_equipment,_March_1981.jpg]], veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:Tom|Tom]] unter Public-Domain-Lizenz
+
+===== Stichwörter =====
+
+Hitzeschutzbekleidung, Wärmeschutzbekleidung, Asbestanzug

@@ -1,0 +1,197 @@
+====== Brandverhalten von Baustoffen und Bauteilen ======
+
+===== Baustoffe =====
+
+==== Stahl ====
+
+  * nicht brennbar
+  * sehr guter Wärmeleiter, gleichmäßige Erwärmung
+  * nimmt Zug- und Druckbelastungen auf
+  * bis zu gewissen Grenzen elastisch (geht nach Belastung in die ursprüngliche Form zurück)
+
+im Brandfall:
+
+  * starke Wärmeausdehnung
+    * Berechnung: Wärmeausdehnungskoeffizient · erhitze Länge (Spannweite) · Temperaturdifferenz\\ Beispiel: 25 m Spannweite, Erwärmung um 600 °C (bzw. Kelvin)\\ 0,01 mm/(m·K) · 25 m · 600 K = 150 mm = 15 cm!
+    * sich ausdehnende Träger können angrenzende Konstruktionen verschieben/umstoßen,
+    * entwickeln enorme Kräfte wenn die Ausdehnung behindert wird
+    * können beim Erkalten (bzw. beim schnellen Abkühlen durch Löschmittel) herunterfallen, wenn Sie das Auflager im erhitzten Zustand weggedrückt haben und danach "zu kurz" sind
+  * verliert bei Erwärmung seine Festigkeit
+    * 50% bei ca. 500°C
+    * 2/3 bei ca. 700°C
+    * bei noch höheren Temperaturen ist mit Einsturz zu rechnen, da die Tragfähigkeit dann nicht einmal mehr für das Eigengewicht ausreicht.
+  * Brandübertragung durch Wärmeleitung
+  * schlagartiger Einsturz, kündigt sich nicht an
+
+=== wichtige Daten ===
+
+{{:brand:allgemein:gluehfarben.png?nolink |Glühfarben}}
+
+| Dichte | ca. 7,85 kg/dm³ |
+| Wärmeleitfähigkeit | ca. 60 W/(m·K) |
+| Wärmeausdehnungskoeffizient | ca. 0,01 mm/(m·K) |
+
+==== Beton ====
+
+  * nicht brennbar
+  * geringe Wärmeleitfähigkeit
+  * nur auf Druck belastbar
+
+im Brandfall:
+
+  * Erwärmung zunächst nur in den äußeren Schichten -> Abplatzungen durch Ausdehnung des eingelagerten Wassers und von Zuschlagstoffen
+
+=== wichtige Daten ===
+
+| Dichte | ca. 0,2 bis 2,8 kg/dm³ |
+| Wärmekapazität | ca. 0,08 kJ/(kg·K) |
+| Wärmeleitfähigkeit | ca. 0,5 bis 2,1 W/(m·K) |
+| Wärmeausdehnungszahl | ca. 0,01 mm/(m·K) |
+
+==== Stahlbeton ====
+
+  * nicht brennbar
+  * auf Druck und Zug belastbar
+
+Die sonstigen Daten entsprechen denen von normalem Beton.
+
+im Brandfall:
+
+  * sobald die Stahleinlagen freiliegen -> weitere Betonschichten platzen durch die stärkere Erwärmung des Stahls ab -> Tragfähigkeitsverlust -> Einsturz
+
+Sonderfall Spannbeton:
+
+  * durch die schlankeren Querschnitte werden die Bauteile schneller durchwärmt
+  * kritische Temperatur der Stahleinlage bei 350 °C
+
+==== Holz ====
+
+  * schlechter Wärmeleiter
+  * keine Längenausdehnung
+
+im Brandfall:
+
+  * Einsturzgefahr ab 50%-tigem Verlust des tragenden Querschnitts
+  * Einsturz kündigt sich durch Knacken und Knirschen an
+  * Einsturz tragender Teile kann durch Löschen/Kühlen verhindert bzw. verzögert werden.
+
+=== Nagelplattenbinder ===
+
+<WRAP group>
+<WRAP half column>
+Vorsicht bei Nagelplattenbindern (2. Bild): Diese werden oftmals z.B. bei **Discountern (Aldi, Lidl, Netto, usw.)** für die **Dachkonstruktion** verwendet. Es gibt <wrap danger>keine statischen Reserven</wrap>, was beim Versagen eines Binders eine Kettenreaktion hervorruft da die weiteren Binder die Last nicht aufnehmen können. Bei Hitzeeinwirkung <wrap danger>versagen diese erfahrungsgemäß nach 10 bis 15 Minuten</wrap>, was in der Folge zum <wrap danger>Einsturz der kompletten Dachkonstruktion</wrap> führt. Da das Versagen vom metallenen Nagelplattenbinder und nicht von der Holzkonstruktion ausgeht **kündigt sich ein Einsturz nicht an**!
+
+Für konkrete Einsatzhinweise siehe [[brand:dachstuhlbrand#nagelplattenbinder|Dachstuhlbrand]].
+</WRAP>
+
+<WRAP half column>
+{{:brand:allgemein:lidl.jpg?nolink|LIDL-Markt mit Nagelplattenbinder-Dach}}
+
+{{:brand:allgemein:nagelplattenbinder.jpg?nolink|Nagelplattenbinder}}
+</WRAP>
+</WRAP>
+
+
+=== wichtige Daten ===
+
+| Rohdichte | ca. 0,45 bis 0,83 kg/dm³ |
+| Wärmeleitfähigkeit | ca. 0,14 bis 0,23 W/(m·K) |
+| [[cbrn:allgemein:cbrn-lexikon:zuendtemperatur|Zündtemperatur]] | ca. 270 bis 340 °C |
+| Zersetzungstemperatur | ca. 110 °C |
+| Verbrennungstemperatur | ca. 1100 °C |
+| Abbrandgeschwindigkeit | ca. 0,4 bis 1,1 mm/min |
+
+==== künstliche Steine ====
+
+aus Lehrm, Ton, Zement, Kalk, usw.
+
+  * nicht brennbar
+  * geringe Wärmeleitfähigkeit
+  * geringe Wärmeausdehnung
+  * nur auf Druck belastbar
+
+im Brandfall:
+
+  * Abplatzungen, aber geringer als bei natürlichen Steinen
+  * sehr widerstandsfähig gegen Brand
+
+==== Natürliche Steine ====
+
+  * druckfest
+  * gute Wärmeleitfähigkeit
+  * nicht brennbar
+
+im Brandfall:
+
+  * Abplatzungen durch Materialspannungen und Wassereinschlüsse, insbesondere beim schlagartigen Abkühlen mit Löschwasser
+  * bei starker Erwärmung Zerstörung der Struktur (z.B. Kalkstein) -> Steine zerfalllen bzw. zerbröseln
+
+==== Kunststoffe ====
+
+  * geringe Dichte
+  * isolieren
+  * geringe Wärmeleitfähigkeit
+  * hoher Heizwert
+
+im Brandfall:
+
+  * Entstehung sehr giftige Brandgase und von dichtem schwarzem Rauch
+  * oftmals Verlust der Festigkeit und in der Folge (brennendes) Abtropfen
+
+==== Aluminium ====
+
+  * vergleichsweise geringe Dichte
+  * gute Festigkeit
+  * guter Wärmeleiter
+
+im Brandfall:
+
+  * Festigkeitsverlust schon bei 150 °C
+  * schmilzt bei ca. 650 °C und tropft ab
+
+==== Glas ====
+
+  * nicht brennbar
+  * bei Verwendung als Bauteil mit brandschutztechnischer Anforderung entweder Einsatz von G- oder F-Verglasung
+    * G-Verglasung stellt den Raumabschluss über die angegebene Zeit sicher (z.B. G30-Verglasung), lässt aber Strahlungswärme durch
+    * F-Verglasung erhält den Raumabschluss und verhindert über aufschäumende Schichten zwischen den Scheiben auch den Durchtritt von Strahlungswärme
+
+im Brandfall:
+
+  * Widerstandsfähigkeit von normalen Verglasungen (nicht F und G) eher gering
+
+==== Gusseisen ====
+
+  * nicht brennbar
+  * nur auf Druck belastbar
+  * sehr spröde
+  * zur Erhöhung der Feuerbeständigkeit ggf. (nachträglich) mit Beton ausgegossen
+
+im Brandfall:
+
+  * bei hohen Temperaturen schlagartiger Festigkeitsverlust
+  * Zerspringt bei schlagartiger Abkühlung
+
+==== Mineralwolle (Glas- oder Steinwolle) ====
+
+  * nicht brennbar
+
+==== Bitumen ====
+
+  * brennbar
+  * nicht wasserlöslich
+  * schmilzt bei Wärmeeinwirkung
+
+im Brandfall:
+
+  * heftiges Brandverhalten
+  * Starke Rauchentwicklung
+  * Schwer zu löschen (in geschmolzenem Zustand brennbare Flüssigkeit)
+
+===== Quellenangabe =====
+
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * Bild LIDL-Markt: https://commons.wikimedia.org/wiki/File:Lidl.JPG, veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:Joho345|joho345]] als gemeinfrei (public domain)
+  * Bild Nagelplattenbinder: http://commons.wikimedia.org/wiki/File:FEMA_-_1135_-Project_Impact_principles_-_roof_reinforcements.jpg
+  * Tabelle Glühfarben: [[wpde>Glühen]], nach Ulrich Fischer: Tabellenbuch Metall. 41. Auflage. Verlag Europa-Lehrmittel Nourney, Vollmer, 2001, ISBN 3-8085-1721-2, S. 128B.

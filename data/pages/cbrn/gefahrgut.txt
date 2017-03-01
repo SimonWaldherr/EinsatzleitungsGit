@@ -1,0 +1,115 @@
+====== Gefahrgut-/-stoffeinsatz ======
+
+===== zu treffende Maßnahmen =====
+
+auch [[allgemein:massnahmen_groessere_einsaetze|Maßnahmen für größere Einsätze]] beachten!
+
+==== GAMS-Regel ====
+
+=== Gefahr erkennen ===
+
+  * [[cbrn:allgemein:kennzeichnung:start|Kennzeichnung]] (bei [[cbrn:start|Transporten nach ADR]]) und ggf. Begleitpapiere
+  * ggf. Messung/Nachweis mit Mitteln der Feuerwehr (z.B. [[cbrn:geraete:pruefroehrchen|Prüfröhrchen]])
+  * Stoffrecherche in [[cbrn:allgemein:gefahrstoffdatenbank|Gefahrstoffdatenbank(en)]] - {{cbrn:allgemein:formular_c1.pdf|Informationsabfrageformular Gefahrgut}}
+    * Welche Reaktionsprodukte können entstehen?
+    * Ist die eingesetzte (Schutz-)Ausrüstung beständig gegen die Stoffe?
+    * Können gasförmige Stoffe und Dämpfe über die Haut aufgenommen werden?
+  * bei der Erkundung insbesondere achten auf:
+    * Eindringen/Ausbreitung des Stoffs in Erdreich, Gewässer, Luft, Kanalisation, tieferliegende Räume und Versorgungsleitungen
+    * Gefährdung der Nachbarschaft
+  * Angriffstrupp zur Erkundung einsetzen; folgende Punkte zum Stoffaustritt erkunden lassen:
+    * Was tritt aus? 
+    * Wie viel tritt aus?
+    * Wohin breitet sich der ausgetretene Stoff aus?
+    * Warum kam es zum Stoffaustritt?
+    * Wie groß ist die Gesamtmenge des gefährlichen Stoffs?
+      * Füllstände von Tanks ggf. mit [[allgemein:geraete:waermebildkamera|Wärmebildkamera]] feststellen
+      * In welcher Behälterart befindet sich der Gefahrstoff (z.B. [[cbrn:chemisch:klasse_2:start|Gefahr durch Gasflaschen]]!)?
+  * ermittelte Informationen hinterfragen (Angaben plausibel?)
+
+=== Absichern der Einsatzstelle ===
+  * Bei unbekannter Gefahr mindestens 50 m Abstand halten ([[cbrn:allgemein:gefahrenbereich|Gefahren- und Absperrbereiche einrichten]]), Gefahrenbereich aufgrund des Erkundungsergebnisses anpassen!
+  * Verhaltensanweisungen an gefährdete Personen und Passanten geben:
+    * Abwägen ob Gebäude evakuiert werden oder die Personen im Gebäude verbleiben sollten\\ ggf. nur in bestimmten Bereichen aufhalten (z.B. in oberen Stockwerken aufhalten wenn Gefahrstoff schwerer als Luft)
+    * [[allgemein:warnung_bevoelkerung|Bevölkerung warnen]]?
+      * Lüftungen und Klimaanlagen abschalten lassen
+      * Fenster und Türen schließen
+  * Schadstoffwolken ggf. niederschlagen
+  * Zündquellen vermeiden/beseitigen
+  * Brandbekämpfung vorbereiten; 3-fachen Brandschutz ([[brand:allgemein:pulver|Pulver]], [[brand:allgemein:loeschmittel_wasser|Wasser]], [[brand:allgemein:schaum|Schaum]]) an der Grenze des Gefahrenbereichs bereitstellen. Schlauchleitung ungefüllt mitführen, um keine Gefährdung durch Unverträglichkeit des Stoffs mit Wasser einzugehen.
+  * [[brand:allgemein:loeschwasserrueckhaltung|Löschwasserrückhaltung einrichten]] falls abfließendes Wasser zur Ausbreitung führen kann.
+
+=== Menschenrettung unter Eigenschutz durchführen ===
+
+Abwägung: Erfolgsaussichten gegenüber der Eigengefährdung -> nur vertretbares Risiko eingehen
+
+  * [[cbrn:allgemein:koerperschutzformen|geeignete Schutzkleidung]] anlegen, Menschenrettung mindestens unter PA und Form 1
+  * [[cbrn:allgemein:dekontamination:start|Dekon-Platz]] aufbauen, zumindest für Not-Dekon
+  * zur Eigensicherung mindestens Pulverlöscher mit in den Gefahrenbereich nehmen
+  * Bei bestimmten Objekten der [[cbrn:allgemein:gefahrengruppen|Gefahrengruppe III]] ist auch für Menschenrettung im Rahmen der GAMS-Maßnahmen eine anwesende fachkundige Person erforderlich (z.B. Bereiche mit Kernbrennstoffen, Bio-Laboren der Risikogruppe 4, militärischen Anlagen)!
+
+== bei kontaminierten Personen ==
+
+  * lebensrettende Sofortmaßnahmen haben Vorrang vor Dekontamination
+  * vor eigener Kontamination / Kontaminationsverschleppung schützen
+  * ggf. Maßnahmen zur Dekon mit Notarzt absprechen, dabei [[cbrn:allgemein:cbrn-lexikon:inkorporation|Inkorporation]] vermeiden!
+  * ggf. möglichst vorab Rettungsdienst und Zielkrankenhaus über Kontamination(-verdacht) informieren.
+
+=== Spezialkräfte alarmieren ===
+  * Rückmeldung geben – Nachalarmieren
+    * ABC-Zug beansprucht etwa 500 m² (ca. 8 Fahrzeuge/30 Einsatzkräfte)
+  * sachverständige Stellen hinzuziehen
+    * [[cbrn:allgemein:atf|ATF]] bei unbekannten Stoffen
+    * [[cbrn:allgemein:tuis|TUIS]] zur Beratung und Unterstützung
+    * Fachberater
+    * bei [[cbrn:allgemein:gefahrengruppen|Gefahrengruppe III]] fachkundige Person 
+  * zuständige Behörden informieren
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Führungsstruktur aufbauen (Einsatzabschnittsbildung), Einsatzabschnitte z.B.: Gefahrenabwehr, Dekon, Messen, Warnen, RD/MANV
+
+==== Fahrzeugaufstellung ====
+
+  * Nachrückende Fahrzeuge einweisen, Fahrzeugaufstellung planen, [[allgemein:bereitstellungsraum|Bereitstellungsraum]] einrichten
+  * mit dem Wind anfahren, auf windzugewandter Seite bleiben, auf Windrichtungsänderungen achten
+  * bei kalten oder schweren Gasen Fahrzeug nicht in Senken aufstellen
+  * auf Gefälle im Gelände achten
+  * Fahrzeuge nicht im Gefahrenbereich aufstellen
+
+Gelangen Fahrzeuge während des Einsatzverlaufs in den Gefahrenbereich, gelten diese als kontaminiert bis das Gegenteil bewiesen werden kann.
+
+==== Abschließende Maßnahmen ====
+
+  * Aufräumungsarbeiten
+    * nur im Rahmen der Gefahrenabwehr
+    * Interessen der Spurensicherung (Strafvervolgungsbehörden) beachten
+  * Übergabe der Einsatzstelle
+    * im ABC-Einsatz werden Einsatzstellen nicht durch die Feuerwehr freigegeben, sondern immer an die zuständige Behörde übergeben.\\ Ist diese nicht erreichbar, wird die Einsatzstelle an die zuständige Ordnungsbehörde übergeben wenn keine Gefahr mehr von ihr ausgehen kann.
+  * Ausrüstung
+    * Kontaminierte Ausrüstungsgegenstände [[cbrn:allgemein:dekontamination:dekon-g|grob dekontaminieren falls möglich]], verpacken und kennzeichnen. Über fachgerechte Reinigung und Entsorgung entscheiden.
+  * Überwachung der Einsatzkräfte
+    * Einsatzkräfte einem geeigneten Arzt vorstellen falls diese
+      * kontaminiert wurden
+      * im Strahlenschutzeinsatz eine [[cbrn:atomar:start#nach_dem_einsatz|Dosisüberschreitung]] vorliegt
+      * Verdacht auf [[cbrn:allgemein:cbrn-lexikon:inkorporation|Inkorporation]] besteht
+    * besondere Vorkommnisse dokumentieren und mindestens 30 Jahre aufbewahren, z.B.:
+      * Verletzungen
+      * Einwirkungen von Gefahrstoffen auf Einsatzkräfte durch [[cbrn:allgemein:cbrn-lexikon:kontamination|Kontamination]], [[cbrn:allgemein:cbrn-lexikon:inkorporation|Inkorporation]] oder Einwirkungen von außen
+  * Kontaminationsverschleppung vermeiden
+
+===== Kontaktdaten/Ansprechpartner =====
+
+  * [[cbrn:allgemein:tuis]]
+  * [[cbrn:allgemein:atf]]
+
+===== Quellenangabe =====
+
+  * FwDV 500, Stand 2012
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * [[http://www.feuerwehrschulen.niedersachsen.de/download/82135|ABC-Konzept Niedersachsen]]
+
+===== Stichwörter =====
+
+Gefahrgut, Gefahrgüter, Gefahrstoff, Gefahrstoffe

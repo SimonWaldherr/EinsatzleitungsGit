@@ -1,0 +1,25 @@
+====== Anthrax ======
+
+===== zu treffende Maßnahmen =====
+
+Zu finden auf der {{cbrn:biologisch:stoffe:lfs_bw_kampfstoffe_anthrax.pdf|Einsatzleiterkarte Anthrax}} der Landesfeuerwehrschule Baden-Württemberg.
+
+==== besondere Gefahren ====
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * ein vorläufiger vor-Ort Nachweis ist nur [[:cbrn:allgemein:atf|ATF-Standorten]] Berlin, Essen und München möglich. Zusätzlich ist bei einem bestätigten Verdacht ein Labornachweis notwendig
+
+
+===== Weblinks =====
+
+  * [[wpde>Milzbrand|Wikipedia: Anthrax (Milzbrand)]]
+
+===== Quellenangabe =====
+
+  * {{cbrn:allgemein:hinweise_abc_kampfstoffe.pdf|Einsatzleiterkarten für den Einsatz mit ABC-Kampfstoffen, Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2011}}. Nutzung mit freundlicher Genehmigung.
+  * Lehrgang „Führer im ABC-Einsatz“, Staatliche Feuerwehrschule Regensburg
+
+===== Stichwörter =====
+
+Milzbrand, Bacillus anthracis

@@ -1,0 +1,68 @@
+====== Kampfmittelfund ======
+
+<WRAP center round info 100%>
+Zuständig für die Sicherung von Kampfmitteln ist Ordnungsamt und Polizei, die widerrum den Kampfmittelbeseitigungsdienst nachfordert (Ausnahme: Hamburg).
+</WRAP>
+
+===== zu treffende Maßnahmen =====
+
+<WRAP center round important 100%>
+Kampfmittel nicht berühren! Niemals Veränderungen daran vornehmen!
+</WRAP>
+
+  * Kampfmittel bis zum Eintreffen der Polizei sichern.
+  * Bereich je nach Art des Kampfmittels [[cbrn:allgemein:gefahrenbereich|absperren]] (Kampfmittelarten siehe Abschnitt "Allgemeine (Vorgehens-)Hinweise" unten). Eine konkrete Festlegung der Grenzen findet durch den Kampfmittelräumdienst statt.
+  * [[allgemein:bereitstellungsraum|Bereitstellungsraum]] für nachrückende Kräfte einrichten
+  * ggf. Bereitstellung Brandschutz/Rettungsdienst für Entschärfungsteam - jedoch nicht im Gefahrenbereich!
+  * ggf. Unterstützung bei der [[allgemein:raeumung|Räumung]]/[[allgemein:evakuierung|Evakuierung]]
+  * [[allgemein:pressearbeit|Presseauskünfte]] durch die Polizei
+  * Verpflegung/Ablösung der Einsatzkräfte
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Kampfmittel-Arten ====
+
+<WRAP center round box 100%>
+=== Besonders gefährliche Kampfmittel ===
+
+  * mit chemischen Kampfstofffüllungen
+  * die chemischen Veränderungen oder Alterungsprozessen unterlagen (Korrosion)
+  * die Bränden oder mechanischen Belastungen ausgesetzt waren
+  * Fliegerbomben die eine Lageänderung erfahren haben
+  * Unkonventionelle Spreng- und Brandvorrichtungen (USBV), also selbstgebaute Apparate, die ggf. auch nicht (direkt) als solche erkennbar sind
+
+-> weiträumige [[allgemein:raeumung|Räumung]] des Fundortes und angrenzender Gebäude sowie des Durchgangsverkehrs im Nahbereich
+</WRAP>
+
+
+<WRAP center round box 100%>
+=== Handhabungsunsichere Kampfmittel ===
+
+  * Zünder (Detonatoren)
+  * Granaten aller Kaliber (Gewehrgranaten) 
+  * Militärische Sprengkörper (Handgranaten)
+  * Minen 
+  * Raketen (Panzerfaust)
+  * Kampfmittel mit Kampfstofffüllung
+
+-> Nahbereich sperren (50-Meter-Radius)
+</WRAP>
+
+
+<WRAP center round box 100%>
+=== Handhabungssichere Kampfmittel ===
+
+  * Kurz- und Langwaffen (Gewehre, Pistolen, o.Ä.)
+  * Übliche Gewehr- und Pistolenmunition
+
+-> Gegen Berührung sichern (um Polizei Spurensicherung zu ermöglichen)
+</WRAP>
+
+===== Quellenangabe =====
+
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr
+  * {{ :cbrn:chemisch:klasse_1:16_kmbd_identkatalog.pdf |Identifizierungskatalog für Munition und Kampfmittel beider Weltkriege und Neuzeit}}, Kampfmittelbeseitigungsdienst des Landes Baden-Württemberg
+
+===== Stichwörter =====
+
+Bombe, Bomben, Bombenfund, USBV, IED, Blindgänger, Munition, Fundmunition, Kampfmittelräumdienst, Kampfmittelbeseitigungsdienst, Munitionsbergungsdienst

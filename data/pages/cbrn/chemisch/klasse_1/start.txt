@@ -1,0 +1,79 @@
+====== Klasse 1: Explosionsgefährliche Stoffe ======
+
+Unterteilung in 6 Unterklassen:
+
+  * 1.1 Massenexplosionsfähig (fast die komplette Ladung explodiert auf einmal, z.B. Sprengstoff, Munition)
+  * 1.2 Gefahr der Bildung von Splittern
+  * 1.3 Feuergefahr mit beträchtlicher Strahlungswärme (kaum Splitter)
+  * 1.4 geringer Explosionsgefahr, nur das Versandstück ist betroffen (z.B. Feuerwerk)
+  * 1.5 unempfindliche massenexplosionsfähige Stoffe (kaum zündfähig, Detonation unwahrscheinlich)
+  * 1.6 extrem unempfindliche Gegenstände (nicht massenexplosionsfähig) 
+
+Bei Transporten mit Ausnahme der Klasse 1.4 wird das Fahrzeug lediglich mit der leeren orangenen Warntafel gekennzeichnet.
+
+===== zu treffende Maßnahmen =====
+
+[[cbrn:ericards:klasse_1:start]]
+
+  * Im Brandfall betroffenen Bereich entsprechend der Kennzeichnung [[allgemein:raeumung|räumen]] (beachte Unterschied Klasse 1.4 zu den anderen Klassen)
+  * zur Erkundung Fernglas nutzen
+  * Aus der Deckung arbeiten, z.B. Wasserwerfer verwenden
+  * möglichst wenig Personal im Gefahrenbereich einsetzen
+  * Löschmaßnahmen bei explodierenden Produkten einstellen und zurückziehen (zu gefährlich)
+  * Auf Innenangriff verzichten
+  * Ausgedehnten Fahrzeugbrand nicht mehr löschen
+  * Experten hinzuziehen bzw. befragen (z.B. Bundeswehr, Kampfmittelräumdienst, ...)
+
+==== besondere Gefahren ====
+
+  * Druckwelle
+  * Feuerball, Hitzeentwicklung
+  * Splitterbildung
+  * Starke Rauchbildung, Sichtbehinderung
+  * Brandausbreitung
+  * Giftige Brandgase und Rückstände
+  * Explosionen auch nach „Feuer aus“ möglich
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Einteilung von Absperr- und Gefahrenbereich nach FwDV 500 ====
+
+^  Gefahren-\\ klasse  ^  ADR-Kennzeichnung  ^  entsprechende\\ Munitionsbrandklasse  ^  Hauptgefahr  ^  Absperr-\\ bereich  ^  Gefahren-\\ bereich  ^
+^  1.1  |  {{ cbrn:1.png?nolink&100 |Gefahrenklasse 1}}  |  {{ cbrn:chemisch:klasse_1:klasse1.png?nolink&100 |Munitionsbrandklasse 1}}  |  Druck  |  1000m  |  500m  |
+^  1.2  |  {{ cbrn:1.png?nolink&100 |Gefahrenklasse 1}}  |  {{ cbrn:chemisch:klasse_1:klasse2.png?nolink&100 |Munitionsbrandklasse 2}}  |  Splitter  |  1000m  |  500m  |
+^  1.3  |  {{ cbrn:1.png?nolink&100 |Gefahrenklasse 1}}  |  {{ cbrn:chemisch:klasse_1:klasse3.png?nolink&100 |Munitionsbrandklasse 3}}  |  Feuer  |  1000m  |  500m   |
+^  1.4  |  {{ cbrn:1-4.png?nolink&100 |Gefahrenklasse 1.4}}  |  {{ cbrn:chemisch:klasse_1:klasse4.png?nolink&100 |Munitionsbrandklasse 4}}  |  |  **100m**  |  **50m**   |
+^  1.5  |  {{ cbrn:1-5.png?nolink&100 |Gefahrenklasse 1.5}}  |  (keine)  |  |  1000m  |  500m  |
+^  1.6  |  {{ cbrn:1-6.png?nolink&100 |Gefahrenklasse 1.6}}  |  (keine)  |  |  1000m  |  500m  |
+
+Hinweis zu den hier gezeigten schematischen Gefahrenklassen-Piktogrammen: Sternchen in der unteren Ecke bedeuten:
+
+%%*%% Angabe der Verträglichkeitsgruppe, keine Angabe wenn explosive Eigenschaft die Nebengefahr darstellt.
+%%**%% Angabe der Unterklasse, keine Angabe wenn explosive Eigenschaft die Nebengefahr darstellt.
+
+==== Verträglichkeitsgruppen ====
+
+^  A  |Zündstoff|
+^  B  |Gegenstand mit Zündstoff und weniger als zwei wirksamen Sicherungsvorrichtungen. Eingeschlossen sind einige Gegenstände, wie Sprengkapseln, Zündeinrichtungen für Sprengungen und Anzündhütchen, selbst wenn diese keinen Zündstoff enthalten.|
+^  C  |Treibstoff oder anderer deflagrierender explosiver Stoff oder Gegenstand mit solchem explosiven Stoff.|
+^  D  |Detonierender explosiver Stoff oder Schwarzpulver oder Gegenstand mit detonierendem explosivem Stoff, jeweils ohne Zündmittel und ohne treibende Ladung, oder Gegenstand mit Zündstoff mit mindestens zwei wirksamen Sicherungsvorrichtungen.|
+^  E  |Gegenstand mit detonierendem explosivem Stoff ohne Zündmittel mit treibender Ladung (andere als solche, die aus entzündbarer Flüssigkeit oder entzündbarem Gel oder Hypergolen bestehen).|
+^  F  |Gegenstand mit detonierendem explosivem Stoff mit seinem eigenen Zündmittel, mit treibender Ladung (andere als solche, die aus entzündbarer Flüssigkeit oder entzündbarem Gel oder Hypergolen bestehen) oder ohne treibende Ladung.|
+^  G  |Pyrotechnischer Stoff oder Gegenstand mit pyrotechnischem Stoff oder Gegenstand mit sowohl explosivem Stoff als auch Leucht-, Brand-, Augenreiz- oder Nebelstoff (außer Gegenständen, die durch Wasser aktiviert werden oder die weißen Phosphor, Phosphide, einen pyrophoren Stoff, eine entzündbare Flüssigkeit oder ein entzündbares Gel oder Hypergole enthalten).|
+^  H  |Gegenstand, der sowohl explosiven Stoff als auch weißen Phosphor enthält.|
+^  J  |Gegenstand, der sowohl explosiven Stoff als auch entzündbare Flüssigkeit oder entzündbares Gel enthält.|
+^  K  |Gegenstand, der sowohl explosiven Stoff als auch giftigen chemischen Wirkstoff enthält.|
+^  L  |Explosiver Stoff oder Gegenstand mit explosivem Stoff, der ein besonderes Risiko darstellt (z.B. wegen seiner Aktivierung bei Zutritt von Wasser oder wegen der Anwesenheit von Hypergolen, Phosphiden oder eines pyrophoren Stoffes) und eine Trennung jeder einzelnen Art erfordert.|
+^  N  |Gegenstand, der nur extrem unempfindliche detonierende Stoffe enthält.|
+^  S  |Stoff oder Gegenstand, der so verpackt oder gestaltet ist, dass jede durch nicht beabsichtigte Reaktion auftretende Wirkung auf das Versandstück beschränkt bleibt, außer das Versandstück wurde durch Brand beschädigt; in diesem Falle müssen die Luftdruck- und Splitterwirkung auf ein Maß beschränkt bleiben, dass Feuerbekämpfungs- oder andere Notmaßnahmen in der unmittelbaren Nähe des Versandstückes weder wesentlich eingeschränkt noch verhindert werden..|
+
+===== Quellenangabe =====
+
+  * Lehrgangsunterlagen ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+  * FwDV 500 Stand 2012
+  * [[cbrn:allgemein:adr|ADR]]
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr
+
+===== Stichwörter =====
+
+Bombe, Deflagration

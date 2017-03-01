@@ -1,0 +1,45 @@
+====== Eisenbahnkennzeichnung ======
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Anschriften an Gefahrgut-Kesselwagen ====
+
+Die Anschriften an Gefahrgut-Kesselwagen entsprechen den [[allgemeine_hilfe:eisenbahn#fahrzeuganschriften|Anschriften normaler Eisenbahnwagen]] (z.B. Wagennummer, Fassungsvermögen, Gewichtsangaben, ...).
+
+Zusätzlich ergeben sich noch folgende Informationen aus der Anschrift:
+
+  * [[cbrn:start|ADR-Klasse]]
+  * Name des transportierten Stoffs (auf dem Bild //Gemisch C//)
+  * [[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|orangene Gefahrentafel]]
+  * [[cbrn:allgemein:kennzeichnung:eisenbahn#rangierzettel|Rangierzettel]]
+
+{{cbrn:allgemein:kennzeichnung:anschrift_gefahrgut.jpg?nolink&600|Anschrift Gefahrgut-Kesselwagen}}
+
+==== Druckgaskesselwagen ====
+
+{{cbrn:allgemein:kennzeichnung:druckgaswagen.jpg?nolink&300 |Druckgaskesselwagen}}
+
+Kesselwagen für verflüssigte, tiefgekühlt verflüssigte oder gelöste Gase sind mit einem durchgehenden, etwa 30 cm breiten orangefarbenen Streifen gekennzeichnet, der den Tank in etwa halber Höhe umschließt.
+
+Die Be- und Entladung erfolgt in der Regel durch Ventile am Kesselboden, die von dort aus bedient werden können.
+
+==== Mineralölkesselwagen mit Zwangsbelüftungssystem ====
+
+{{cbrn:allgemein:kennzeichnung:mineraloelkesselwagen.jpg?nolink&300 |Mineralölkesselwagen}}
+
+Mineralölkesselwagen mit einer senkrechten weißen Bauchbinde besitzen ein Zwangsbelüftungssystem. Sie werden in der Regel von oben befüllt und unten entleert. Die Zwangsbelüftung sorgt dabei dafür, dass mit dem Öffnen des Entleerungsventils gleichzeitig ein Ventil oben am Tank geöffnet wird welches den entstehenden Unterdruck ausgleicht.
+
+==== Rangierzettel ====
+
+^  Kennzeichnung  ^  Bedeutung  ^
+|{{cbrn:allgemein:kennzeichnung:vorsichtig_verschieben.png?nolink&150|vorsichtig verschieben}}|Vorsichtig verschieben.|
+|{{cbrn:allgemein:kennzeichnung:ablaufverbot.png?nolink&150|Abstoß- und Ablaufverbot}}|Abstoß- und Ablaufverbot\\ Muss von einem Triebfahrzeug beigestellt werden. Darf nicht auflaufen und muss gegen das Auflaufen anderer Wagen geschützt werden.|
+
+===== Quellenangabe =====
+
+  * [[allgemeine_hilfe:allgemein:leitfaden_hilfeleistungseinsaetze_bahn]], {{allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_00_deckblatt-impressum.pdf|Nutzung für nichtkommerzielle Zwecke im Impressum gestattet}}. Das Bild welches die Anschrift von Gefahrgutkesselwagen zeigt wurde dem Leitfaden entnommen und unterliegt daher dem Copyright bzw. der Nutzungslizenz der DB.
+  * [[http://www.otif.org/fileadmin/user_upload/otif_verlinkte_files/07_veroeff/99_geschuetzt/RID_2011_d/RID_2011_D.pdf|RID 2011]]
+  * [[https://commons.wikimedia.org/wiki/File:Druckgaswagen.jpg|Foto Druckgaskesselwagen]]: veröffentlicht vom Wikipedia-User [[wpde>User:Thoeddel|Th. Jung]] unter Public-Domain-Lizenz
+  * [[https://commons.wikimedia.org/wiki/File:Szeged-R%C3%B3kus_D-GATXD_Zas_7956_382-5_tart%C3%A1lykocsi_2013-03-22.JPG|Foto Mineralölkesselwagen]]: veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:Beroesz|Beroesz]] unter Attribution-Share Alike 2.5 Hungary-Lizenz
+
+===== Stichwörter =====

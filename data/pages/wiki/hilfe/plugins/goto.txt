@@ -1,0 +1,19 @@
+====== Weiterleitung auf andere Seite (goto-Plugin) ======
+
+Es besteht die Möglichkeit, mittels einem Befehls beim Aufruf einer Seite automatisch nach einer Zeit von 5 Sekunden auf eine andere Seite weiterzuleiten. Somit kann ein Synonym erstellt werden welches dann auf die gewünschte Seite weiterleitet. So wird beispielsweise der Artikel [[brand:altenheim|Altenheim]] in der Kategorie Brand auf den Artikel [[brand:krankenhaus|Krankenhaus]] in der gleichen Kategorie weitergeleitet.
+
+Es ist zwar möglich, aber nachvollziehbarer Weise nach nicht sinnvoll auf einer Seite mehr als die Überschrift und das Kommando zur Weiterleitung zu platzieren.
+
+Schreiben Sie folgenden Befehl mittels des Editors in den normalen Inhalte eines Artikels, um eine Weiterleitung auf eine andere Seite zu realisieren:
+
+<code>~~GOTO>brand:krankenhaus~~</code>
+
+//brand// wäre in diesem Fall die Kategorie (auch //Namensraum// genannt) in der sich der Artikel befindet, //krankenhaus// der Name des Artikels. Indem Sie die Zielseite aufrufen finden Sie heraus , welchen Pfad Sie eingeben müssen, beim Aufrufen des Artikels Krankenhaus steht in der Adresszeile des Browsers in etwa:
+
+<code>http://127.0.0.1/doku.php?id=brand:krankenhaus</code>
+
+Der Pfad befindet sich hinter dem Ausdruck ''doku.php?id='', Sie können Ihn einfach dort heraus- und in den Artikel, in dem Sie eine Weiterleitung erstellen wollen, hineinkopieren.
+
+Um auf diesen gerade betrachteten Hilfe-Artikel zur Seitenweiterleitung eine Weiterleitung zu erstellen, müssten Sie also schreiben:
+
+<code>~~GOTO>wiki:hilfe:plugins:goto~~</code>

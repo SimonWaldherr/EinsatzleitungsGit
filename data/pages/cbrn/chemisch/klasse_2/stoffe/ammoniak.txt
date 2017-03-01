@@ -1,0 +1,146 @@
+====== Ammoniak ======
+
+===== zu treffende Maßnahmen =====
+
+  * Anfahrt mit dem Wind, Fahrzeugaufstellung organisieren, [[allgemein:bereitstellungsraum|Bereitstellungsraum]] (für ABC-Zug) einrichten
+  * [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] im Umkreis von 50 Metern sofort [[allgemein:raeumung|räumen]] und absperren
+    * Absperrung je nach Lagermenge anpassen
+    * Fenster und Türen schließen und Klimaanlagen abstellen lassen
+    * Nachbargebäude nur [[allgemein:raeumung|räumen]] wenn unbedingt notwendig
+    * tiefer gelegene Räume in Ausbreitungsrichtung kontrollieren und abdichten
+    * danach permanent die Ausbreitung beachten und Absperrung anpassen
+  * Vorgehen unter [[cbrn:allgemein:koerperschutzformen|CSA]]
+  * Zündquellen beseitigen
+  * [[cbrn:geraete:pruefroehrchen|Prüfröhrchen-]] und [[cbrn:geraete:ex-messgeraet|Ex-Messungen]] durchführen
+  * Dämpfe mit Wasserschleier (ersatzweise Sprühstrahl) niederschlagen, ggf. Hydroschilder und Wasserwerfer einsetzen.
+    * Wasser auf [[cbrn:allgemein:cbrn-lexikon:ph-wert|pH-Wert]] kontrollieren, ggf. [[brand:allgemein:loeschwasserrueckhaltung|auffangen]]
+  * Hinweise in betrieblichem Gefahrenabwehrplan beachten
+  * ggf. Anforderung [[cbrn:allgemein:tuis|TUIS]]
+
+==== Ausströmen von gasförmigem Ammoniak ====
+
+  * bei Austritt in geschlossenen Räumen:
+    * Gebäude [[allgemein:raeumung|räumen]]
+    * Raum und Gebäude möglichst dicht verschließen
+    * Zündquellen ausschließen
+    * Gebäude stromlos schalten lassen
+  * Bei Ammoniak-Nebel Kanaleinläufe abdichten und Senken kontrollieren\\ Beim Eintritt in Kanalisation den Kanalbetreiber verständigen
+  * Behälter abdichten und ggf. ins Freie bringen
+
+==== Ausströmen von flüssigem Ammoniak (zusätzliche Maßnahmen zu gasförmig) ====
+
+  * <wrap important>Nicht auf Behälter oder Leckstelle spritzen (Gasentwicklung wird beschleunigt)!</wrap>
+  * Kälteschutz im CSA tragen
+  * <wrap important>keine CSA aus PVC verwenden (wird brüchig)</wrap>
+  * Leck abdichten oder Flasche in Gasflaschen-Bergebehälter einbringen
+  * Austrittsstelle abdecken (z.B. mit PE-Folie oder Mittelschaum; Schaumdecke vereist)
+
+==== Gefahren ====
+
+  * Atemgift mit Reiz- und Ätzwirkung
+  * wassergefährdend
+  * brennbar nach Erwärmung, schon bei geringer Zündenergie ist eine Zündung des Gas-Luft-Gemischs möglich
+  * bei Kontakt mit flüssigem Ammoniak schwere Erfrierungen und Zerstörung des üblichen [[cbrn:allgemein:koerperschutzformen|CSA]]
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * [[cbrn:allgemein:dekontamination:start|Dekontamination]] von Personal und Geräten mit Wasser, mit Universalindikatorpapier (pH-Papier) auf Erfolg kontrollieren
+  * zuständige Wasserbehörde und Polizei informieren soweit noch nicht verständigt
+  * ggf. [[allgemein:warnung_bevoelkerung|Bevölkerung warnen/informieren]]
+  * auf [[allgemein:pressearbeit|Presseanfragen]] vorbereiten
+
+==== Erste Hilfe / Rettungsdienst ====
+
+  * nach Haut-/Augenkontakt betroffene Stelle sofort für 15 min mit viel Wasser spülen (davor kontaminierte Kleidung entfernen)
+  * Versorgung durch Notarzt wenn Ammoniak eingeatmet wurde (Reizung der oberen Atemwege)
+  * Mund-zu-Mund-/Mund-zu-Nase-Beatmung vermeiden, Beatmungsgeräte verwenden
+  * Sauerstoff geben
+  * durch flüssigen Ammoniak erfrorene Körperteile vorsichtig mit kaltem Wasser auftauen
+  * ggf. Maßnahmen mit [[cbrn:allgemein:giftnotrufzentralen|Giftnotrufzentrale]] abgleichen
+  * Person in ruhiges Umfeld bringen
+  * Wärmeerhalt (Rettungsdecke)
+  * bei größerer Zahl betroffener Personen [[allgemein:manv|MANV]] auslösen
+
+==== Nachweis ====
+
+  * stechender Geruch
+  * [[cbrn:geraete:pruefroehrchen|Prüfröhrchen]] für Ammoniak
+  * angefeuchtetes Universalindikatorpapier (pH-Papier) verfärbt sich blau
+
+==== Eigenschaften ====
+
+  * wird meist als verflüssigtes Gas transportiert/gelagert
+    * ist bei 8,6 bar verflüssigt
+    * bei einer Freisetzung wird aus 1 Liter flüssigem Ammoniak ungefähr 1.000 l gasförmiger
+
+==== Stoffdaten ====
+
+^ Identifikation ^^^^^
+^ Alternative Namen                            | R717 ||||
+^ CAS-Nr.                                      | 7664-41-7 ||||
+^ Gefahrgutbezeichnung                         | [[cbrn:ericards:klasse_2:10050369|UN 1005: AMMONIAK, WASSERFREI]] | UN 1043: DÜNGEMITTEL, Lösung, mit freiem Ammoniak | [[cbrn:ericards:klasse_2:20731195|UN 2073: AMMONIAKLÖSUNG in Wasser, relative Dichte kleiner als 0,880 bei 15 °C, mit mehr als 35 %, aber höchstens 50 % Ammoniak]] | [[cbrn:ericards:klasse_8:26721590|UN 2672: AMMONIAKLÖSUNG in Wasser, relative Dichte zwischen 0,880 und 0,957 bei 15 °C, mit mehr als 10 %, aber höchstens 35 % Ammoniak]] |
+^ [[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Nummer zur Kennzeichnung der Gefahr]] |  {{cbrn:chemisch:klasse_2:stoffe:268-1005_ammoniak.png?nolink&100|Gefahrentafel 268-1005}}  |  -  |  {{cbrn:chemisch:klasse_2:stoffe:20-2073_ammoniak-loesung.png?nolink&100|Gefahrentafel 20-2073}}  |  {{cbrn:chemisch:klasse_8:stoffe:80-2672_ammoniak-loesung.png?nolink&100|Gefahrentafel 80-2672}}  |
+^ UN-Nr.                                       |  :::  |  :::  |  :::  |  :::  |
+^ Gefahrzettel                                 | {{cbrn:2-3.png?nolink&100|Gefahrzettel 2.3}}  {{cbrn:8.png?nolink&100|Gefahrzettel 8}}  {{cbrn:allgemein:kennzeichnung:pollution.png?nolink&100|Fisch und Baum}} ||||
+^ ADR-Klasse                                   | [[cbrn:chemisch:klasse_2:start|2 - gasförmige Stoffe]] ||||
+^ [[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]]  | - ||||
+^ [[cbrn:allgemein:kennzeichnung:gasflaschenkennzeichnung|Gasflaschenkennzeichnung]] | {{cbrn:allgemein:gasflasche_giftig_aetzend.png?nolink&100|giftige und/oder ätzende Gase}} \\ giftige und/oder ätzende Gase ||||
+^ ERICard                                      | [[cbrn:ericards:klasse_2:10050369|2-42]] | - | [[cbrn:ericards:klasse_2:20731195|2-57]] | [[cbrn:ericards:klasse_8:26721590|8-03]] |
+^ Summenformel                                 | NH<sub>3</sub> ||||
+^ [[cbrn:allgemein:begriffsklaerungen#molare_masse|molare Masse]] | 17,03 g/mol ||||
+^ Charakterisierung ^^^^^
+^ Aggregatszustand                             | gasförmig ||||
+^ Farbe                                        | farblos (im flüssigen wie im gasförmigen Zustand) ||||
+^ Geruch                                       | stechend, Geruchsschwellenwert 0,02 - 70 ppm\\ Schon bei ungefährlichen Konzentrationen zu riechen! ||||
+^ Brennbarkeit                                 | Schwer brennbares Gas. Risiko einer Entzündung vorhanden, jedoch nur bei besonderen Zündbedingungen in begrenzten Bereichen. Flamme erlischt ohne Wärmezufuhr sofort. ||||
+^ Verhalten an Luft                            | In Reinform leichter als Luft, <wrap important>aber beim Ausströmen großer Mengen oder der Flüssigphase bilden sich Nebel (Bindung an Luftfeuchtigkeit), die Schwergasverhalten zeigen (fließt auf dem Boden bzw. in Senken). Je höher die Luftfeuchtigkeit am Austrittsort, desto mehr Nebel werden sich bilden.</wrap> ||||
+^ physikalisch-chemische Eigenschaften ^^^^^
+^ Schmelzpunkt                                 | -78 °C ||||
+^ Siedepunkt                                   | -33 °C ||||
+^ Dichte                                       | 0,77 kg/m³ bei 0 °C und 1013 mbar\\ Dichte der flüssigen Phase am Siedepunkt: 0,68 kg/l  ||||
+^ [[cbrn:allgemein:begriffsklaerungen#dampfdruck|Dampfdruck]] | 8,57 bar bei 20 °C\\ 11,7 bar bei 30 °C\\ 20,3 bar bei 50 °C ||||
+^ [[cbrn:allgemein:begriffsklaerungen#flammpunkt|Flammpunkt]] | - ||||
+^ [[cbrn:allgemein:begriffsklaerungen#brennpunkt|Brennpunkt]] | - ||||
+^ Zersetzungstemperatur                        | thermisch sehr stabil. Geringe Zersetzung oberhalb 840 °C ||||
+^ Zersetzungsprodukte                          | Stickstoff, [[cbrn:chemisch:klasse_2:stoffe:wasserstoff|Wasserstoff]] ||||
+^ [[cbrn:allgemein:begriffsklaerungen#zuendtemperatur|Zündtemperatur]] | 630 °C ||||
+^ [[cbrn:chemisch:temperaturklasse|Temperaturklasse]] | T1 ||||
+^ [[cbrn:allgemein:begriffsklaerungen#explosionsgrenzen|Explosionsgrenzen]] | UEG: 15,4 Vol.-%\\ OEG: 33,6 Vol.-% ||||
+^ [[cbrn:allgemein:begriffsklaerungen#relative_dichte_zu_luft|Relative Gasdichte]] (zu Luft) | 0,6 ||||
+^ [[cbrn:allgemein:begriffsklaerungen#wasserloeslichkeit|Wasserlöslichkeit]] | sehr gut, 541 g/l bei 20 °C, auch bei starker Verdünnung ätzend ||||
+^ [[cbrn:allgemein:cbrn-lexikon:ph-wert|pH-Wert]] | wässrige Lösungen sind alkalisch ||||
+^ [[cbrn:allgemein:begriffsklaerungen#wassergefaehrdungsklasse|Wassergefährdungsklasse]] | 2 ||||
+^ Explosionsgefahr bei Reaktion mit            | starken Oxidationsmitteln; Quecksilber; Wasserstoffperoxid; Antimonwasserstoff (Hitze); Calcium; Chlorazid; Chlordinitrobenzol; Chlorformamidiniumnitrat; Chloriten; Chlornitrobenzol (Wärme); Dichlorethan (flüssiger Ammoniak); Dichloroxid; Difluortrioxid; Gold; Goldchlorid; Halogene außer Brom; Kohlenwasserstoffe/Luft; Luft/Feuer; Magnesiumperchlorat/Gas; Natriumhypochlorit (trocken); [[cbrn:chemisch:klasse_1:stoffe:pikrinsaeure|Pikrinsäure]]; Quecksilberhypoiodid; Sauerstoff/Katalysator; Schwefel; Silber; Silberchlorid; Silbernitrat; Silberoxid; Stickstofftrichlorid; Sulfinylchlorid; Tellurhalogeniden ||||
+^ gefährliche Reaktion mit                     | Brom; Säuren; Stickoxiden; Fluor; Acetaldehyd; Acrolein; Barium; Bor; Borhalogeniden; Brompentafluorid; Bromwasserstoff; Chlorverbindungen; Chromtrioxid; Dimethylsulfat; Distickstoffoxid; Ethenoxid; Fluorwasserstoff; Kohlenstoffoxide; Methan; Methylmercaptan; Phosgen; Phosphoroxide; Phosphorwasserstoff; Platinkatalysatoren; Schwefeldioxid; Schwefelwasserstoff; Siliciumwasserstoff; Stickstoffoxide; Tetramethylammoniumamid ||||
+^ Maßnahmen bei Bränden ^^^^^
+^ [[brand:allgemein:brandklassen|Brandklasse]] | {{:brand:allgemein:brandklasse_c.png?nolink&100|Brandklasse C}} ||||
+^ geeignete Löschmittel                        | Alle bekannten Löschmittel ||||
+^ ungeeignete Löschmittel                      | - ||||
+^ gefährliche Zersetzungsprodukte beim Löschen | Nitrose Gase (Stickoxide) ||||
+^ Grenzwerte ^^^^^
+^ [[cbrn:chemisch:grenzwerte#etw-wert|ETW-Wert]] | 1h: 160 ppm\\ 4h: 110 ppm ||||
+^ [[cbrn:chemisch:grenzwerte#agw-wert|AGW-Wert]] | 20 ppm ||||
+^ [[cbrn:allgemein:kennzeichnung:ghs|GHS-Einstufung und Kennzeichnung]] ^^^^^
+^ [[cbrn:allgemein:kennzeichnung:ghs#piktogramme|GHS-Piktogramm(e)]] | {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_bottle.png?nolink&100|Gasflasche}}  {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_skull.png?nolink&100|Totenkopf}}  {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_acid_red.png?nolink&100|ätzend}}  {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_aquatic-pollut-red.png?nolink&100|umweltgefährdend}} ||||
+^ GHS-Signalwort                               | Gefahr ||||
+^ [[cbrn:allgemein:kennzeichnung:ghs#gefahrenhinweise_h-saetze|GHS-Gefahrenhinweise (H-Sätze)]] | H221: Entzündbares Gas.\\ H280: Enthält Gas unter Druck; kann bei Erwärmung explodieren.\\ H331: Giftig bei Einatmen.\\ H314: Verursacht schwere Verätzungen der Haut und schwere Augenschäden.\\ H400: Sehr giftig für Wasserorganismen.\\ EUH071: Wirkt ätzend auf die Atemwege.||||
+^ [[cbrn:allgemein:kennzeichnung:ghs#sicherheitshinweise_p-saetze|GHS-Sicherheitshinweise (P-Sätze)]] | P210: Von Hitze, heißen Oberflächen, Funken, offenen Flammen und anderen Zündquellen fernhalten. Nicht rauchen.\\ P260: Gas/Dampf nicht einatmen.\\ P280: Schutzhandschuhe/Schutzkleidung/Augenschutz/Gesichtsschutz tragen.\\ P273: Freisetzung in die Umwelt vermeiden.\\ P304+P340: BEI EINATMEN: An die frische Luft bringen und in einer Position ruhigstellen, die das Atmen erleichtert.\\ P303+P361+P353: BEI KONTAKT MIT DER HAUT (oder dem Haar): Alle beschmutzten, getränkten Kleidungsstücke sofort ausziehen. Haut mit Wasser abwaschen/duschen.\\ P305+P351+P338: BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser spülen. Vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.\\ P315: Sofort ärztlichen Rat einholen / ärztliche Hilfe hinzuziehen.\\ P377: Brand von ausströmendem Gas: Nicht löschen, bis Undichtigkeit gefahrlosbeseitigt werden kann.\\ P381: Alle Zündquellen entfernen, wenn gefahrlos möglich.\\ P405: Unter Verschluss aufbewahren.\\ P403: An einem gut belüfteten Ort aufbewahren. ||||
+^ [[cbrn:allgemein:kennzeichnung:gefahrensymbole|Einstufung nach Stoffrichtlinie]] (R- und S-Sätze) ^^^^^
+^ [[cbrn:allgemein:kennzeichnung:gefahrensymbole|Piktogramm]] | {{cbrn:allgemein:kennzeichnung:gefahr_t.png?nolink&100|Giftig}}  {{cbrn:allgemein:kennzeichnung:gefahr_n.png?nolink&100|Umweltgefährlich}} ||||
+^ Risiko-Sätze (R-Sätze)                       | R 10: Entzündlich\\ R 23: Giftig beim Einatmen\\ R 34: Verursacht Verätzungen\\ R 50: Sehr giftig für Wasserorganismen ||||
+^ Sicherheitssätze (S-Sätze)                   | S 1/2: Unter Verschluss und für Kinder unzugänglich aufbewahren.\\ S 9: Behälter an einem gut gelüfteten Ort aufbewahren.\\ S 16: Von Zündquellen fernhalten – Nicht rauchen.\\ S 26: Bei Berührung mit den Augen gründlich mit Wasser abspülen und Arzt konsultieren.\\ S 36/37/39: Bei der Arbeit geeignete Schutzkleidung, Schutzhandschuhe und Schutzbrille/Gesichtsschutz tragen.\\ S 45: Bei Unfall oder Unwohlsein sofort Arzt hinzuziehen (wenn möglich, das Etikett vorzeigen).\\ S 61: Freisetzung in die Umwelt vermeiden. Besondere Anweisungen einholen/Sicherheitsdatenblatt zu Rate ziehen. ||||
+^ [[cbrn:allgemein:kennzeichnung:warnzeichen|Warnzeichen]] ^^^^^
+| {{cbrn:allgemein:kennzeichnung:warnung_vor_giftigen_stoffen.png?nolink&100|Warnung vor giftigen Stoffen}} | Warnung vor giftigen Stoffen ||||
+| {{cbrn:allgemein:kennzeichnung:warnung_vor_aetzenden_stoffen.png?nolink&100|Warnung vor ätzenden Stoffen}} | Warnung vor ätzenden Stoffen ||||
+| {{cbrn:allgemein:kennzeichnung:warnung_vor_gasflaschen.png?nolink&100|Warnung vor Gasflaschen}} | Warnung vor Gasflaschen ||||
+
+**Lizenzhinweis**: Die Daten aus dem Bereich "Stoffdaten" stammen zu großen Teilen aus der GESTIS-Stoffdatenbank und dürfen daher ausschließlich für nichtkommerzielle Zwecke des Arbeitssschutzes verwendet werden.
+
+===== Quellenangabe =====
+
+  * [[http://www.vfdb.de/fileadmin/download/MB_Ammoniak2009_06.pdf|vfdb-Merkblatt "Empfehlung für den Feuerwehreinsatz bei Gefahr durch Ammoniak" (Juni 2009)]]
+  * [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/001100.xml?f=templates&fn=default.htm|Eintrag für Ammoniak in der Gestis Stoffdatenbank]]
+
+===== Stichwörter =====
+
+UN1005, UN1043, UN2073, UN2672

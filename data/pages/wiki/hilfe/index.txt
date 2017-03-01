@@ -1,0 +1,9 @@
+====== Index ======
+
+Der Index, zu erreichen über den Link **Seitenindex** in der linken Navigation, gibt eine schnelle Übersicht über alle existierenden Seiten (ggf. in der eigenen Installation erst erreichbar nachdem sich ein Benutzer angemeldet hat). Der Index ist nach einer Baumstruktur organisiert und dabei nach [[wiki:hilfe:namensraeume|Namensräumen]] sortiert.
+
+Im Einsatzleiterwiki ist das Plugin [[wiki:hilfe:plugins:simplenavi|Simplenavi]] installiert, mit dem sich automatisiert alle Unternamensräume und Seiten innerhalb eines (Unter-)Namensraumes anzeigen lassen. Die Verwendung dieser Funktion ist im Artikel [[wiki:hilfe:artikel_besondere_funktionen&#auflistung_aller_artikel_eines_namensraumes|besondere Funktionen]] beschrieben.
+
+===== Quellenangabe =====
+
+[[doku>de:index]], veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

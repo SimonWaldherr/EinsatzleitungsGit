@@ -1,0 +1,21 @@
+====== Staphylokokken-Enterotoxin B ======
+
+===== zu treffende Maßnahmen =====
+
+Zu finden auf der {{cbrn:biologisch:stoffe:lfs_bw_kampfstoffe_staphylokokken-enterotoxin.pdf|Einsatzleiterkarte Staphylokokken-Enterotoxin B}} der Landesfeuerwehrschule Baden-Württemberg.
+
+==== besondere Gefahren ====
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+===== Weblinks =====
+
+  * [[wpde>Staphylokokkus_aureus|Wikipedia: Staphylokokken-Enterotoxin B]]
+
+===== Quellenangabe =====
+
+  * {{cbrn:allgemein:hinweise_abc_kampfstoffe.pdf|Einsatzleiterkarten für den Einsatz mit ABC-Kampfstoffen, Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2011}}. Nutzung mit freundlicher Genehmigung.
+
+===== Stichwörter =====
+
+Bakterium Staphylokokkus aureus, SEB

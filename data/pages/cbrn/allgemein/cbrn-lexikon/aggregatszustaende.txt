@@ -1,0 +1,9 @@
+====== Aggregatszustände ======
+
+{{cbrn:allgemein:aggregatzustaende.png?nolink&400|Aggregatszustände}}
+
+===== Quellenangabe =====
+
+  * [[https://commons.wikimedia.org/wiki/File:Aggregatzust%C3%A4nde_schematisch.png|Grafik Aggregatszustände]]: veröffentlicht vom Wikipedia-User [[wpde>Benutzer:Wiki-Hypo|Wiki-Hypo]] unter Creative Commons Attribution-Share Alike 3.0 Unported-Lizenz
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

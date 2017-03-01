@@ -1,0 +1,9 @@
+====== Datensicherung ======
+
+Die Daten des Portals zum Projekt, des bearbeitbaren Wikis sowie die des zur Synchronisation verwendeten geschlossenen Wikis im Internet werden täglich automatisiert gesichert.
+
+Die Daten des eigenen Wikis müssen lediglich nach einer Änderung der eigenen, also der lokalen Daten gesichert werden. Alle anderen Inhalte können im Falle eines Defekts wieder aus dem Internet heruntergeladen werden.
+
+Kopieren Sie am Besten den kompletten Ordner. Falls das System nicht mehr funktioniert oder Ihr Computer defekt ist, können Sie direkt auf einem anderen Computer weiterarbeiten, nachdem Sie die Daten dorthin überspielt haben.
+
+**Beachten Sie**: Speichern Sie Ihre Datensicherung nicht auf der gleichen Festplatte, auf der sich die normale Version befindet. Benutzen Sie eine zweite bzw. eine externe Festplatte oder einen USB-Stick, da bei einem Festplattendefekt Ihre Datensicherung ebenfalls nicht mehr lesbar wäre!

@@ -1,0 +1,118 @@
+====== Bio-Einsatz ======
+
+===== zu treffende Maßnahmen =====
+
+Die eigentliche Zuständigkeit liegt beim Gesundheitsamt, die Feuerwehr wird nur in Amtshilfe tätig!
+
+==== Erkundung ====
+
+  * welche Materialien/Mikroorganismen handelt es sich?
+     * entsprechende Risikogruppe (Kennzeichnung)?
+       * medizinischische Bereiche sind von der Kennzeichnungspflicht ausgenommen, hier besonders gründliche Erkundung
+       * bei unzureichenden Erkundungsergebnisse Trupps in [[cbrn:allgemein:koerperschutzformen|Körperschutzform]] 3 ausrüsten
+     * Eigenschaften?
+       * Ansteckungsgefahr
+       * Übertragungswege
+       * Infektionswege
+       * Überlebensbedingungen
+       * Gefährlichkeit für Menschen, Tiere und Umwelt
+     * Welche Art und Menge?
+  * Standorte von Kühl-, Gefrier- und Brutschränken, Sicherheitswerkbänken
+  * ggf. weitere chemische oder [[cbrn:atomar:start|radioaktive]] Gefahrstoffe?
+  * Art und Werkstoff des Aufbewahrungsbehälters
+  * wirksame [[cbrn:allgemein:dekontamination:desinfektion|Desinfektion]]? Lagerort des vom Labor vorgehaltenen Desinfektionsmittels?
+  * Funktion von Schleusen und Lüftungssystem
+  * Rückhalteeinrichtungen gegen Ausbreitung in Atmosphäre und über Abwasser vorhanden? ggf. [[brand:allgemein:loeschwasserrueckhaltung|(Lösch-)Wasserrückhaltung einrichten]]
+
+==== Vorgehen ====
+
+[[cbrn:ericards:klasse_6-2:start]]
+
+Maßnahmen entsprechend Szenario:
+  * Labore entsprechend ihrer [[cbrn:biologisch:risikogruppen_schutzstufen|Schutzstufe]]
+  * Transportunfälle wie [[cbrn:allgemein:gefahrengruppen|Gefahrengruppe 2]] behandeln
+  * potentielle [[cbrn:biologisch:biologische_kampfstoffe|terroristische Anschläge]] wie [[cbrn:allgemein:gefahrengruppen|Gefahrengruppe 3]]
+
+  * Vorgehen nach [[cbrn:gefahrgut#gams-regel|GAMS-Regel]]
+    * Menschenrettung aus S4-Laboren nur in Absprache mit dem zuständigen Erlaubnisinhaber oder einem vorab bestimmten fachkundigen Person
+  * Evtl. Einsatz von Langzeit-PAs (z.B. Doppelflaschengeräte), um eine Desinfektion durchführen zu können ohne von PA auf Filter wechseln zu müssen
+  * (Schaden-)Ausbreitung, insbesondere von den B-Gefahrstoffen, verhindern durch
+    * verbringen in nicht gefährdeten Bereich oder Desinfektion
+    * Geschlossene Behälter, Verpackungen, Schränke mit unbekanntem Inhalt oder B-Gefahrstoffen nicht öffnen!
+    * Fenster und Türen nur Öffnen wenn unbedingt notwendig, danach sofort wieder schließen!
+      * Beim Vorhandensein von Schleusen die Einsatzstelle nur durch diese Betreten und Verlassen
+      * Deaktivierung von Schleusen nur in Rücksprache mit fachkundiger Person
+    * sparsamer Löschmitteleinsatz
+    * beim Auftreten von Flüssigkeiten außerhalb des [[cbrn:allgemein:gefahrenbereich|Gefahrenbereichs]] diesen Vergrößern
+  * Not-Aus-Taster neben Labortüren betätigen
+  * Zum Umgang mit Verletzten siehe [[cbrn:allgemein:dekontamination:desinfektion#kontaminationsverdacht_bei_personen|Desinfektion]]
+  * Tiere nur nach Rücksprache mit Laborbetreiber retten
+
+==== Brandbekämpfung ====
+
+  * Schleusen nicht durch Schläuche außer Funktion setzen
+  * vorzugsweise trag- oder fahrbare Löschgeräte verwenden (Feuerlöscher, Kübelspritze, ...)
+  * Fenster zum Belüften nur nach Absprache öffnen
+  * Entstehungsbrände möglichst mit [[brand:allgemein:co2|Kohlenstoffdioxid]] löschen
+  * Wasser nur sparsam und vorsichtig verwenden
+
+==== besondere Gefahren ====
+
+  * Risikobeurteilung nur schwer möglich
+  * Ansteckungsgefahr (eigenständige Übertragung auf weitere Personen); Seuchen-/Epidemiegefahr
+    * biologische Arbeitsstoffe sind vermehrungsfähig (ab [[cbrn:biologisch:risikogruppen_schutzstufen|Schutzstufe]] 2)
+  * Krankheitserreger können mit den Mitteln der Feuerwehr nicht nachgewiesen werden
+  * weitere Labor-spezifische Gefahren möglich:
+    * Einrichtung (Gefahrstoffe, Zentrifugen, Brutschränke,...)
+    * Fluchterschwernis durch verriegelnde Türen und Unterdruck
+    * evtl. ausgelöste [[brand:allgemein:loeschanlagen|Löschanlagen]]
+
+==== bei Einsatzende ====
+
+  * genauste Dokumentation, Einsatzkräfte namentlich festhalten
+  * verstärkte Einsatzhygiene
+  * Einsatzkräfte unter Angabe des vorgefundenen B-Gefahrstoffs einem geeigneten Arzt vorstellen bei Einsatz in
+    * Gefahrengruppe 2 bei besonderen Vorkommnissen
+    * Gefahrengruppe 3
+    * Erkrankung nach dem Einsatz, die damit in Zusammenhang stehen könnte; dann erneute Vorstellung aller beteiligter Personen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Wird Rettungsdienstpersonal im Gefahrenbereich eingesetzt, steht dieses nicht für den Transport des Patienten ins Krankenhaus zur Verfügung. In diesem Fall müssen also die erforderlichen Rettungsmittel doppelt angefordert werden.
+  * Die Inkubationszeit kann mehrere Tage betragen
+    * Personen im Wirkradius müssen sich nicht unbedingt anstecken, vor allem wenn sie PSA tragen oder z.B. geimpft sind
+  * Personen und Geräte gelten bis zur [[cbrn:allgemein:dekontamination:desinfektion|Desinfektion]] und Reinigung als kontaminiert
+  * Umwelt-/ Wassergefährdung
+  * Kontamination von Lebensmitteln in der Umgebung
+  * Labore ab Schutzstufe 2 sollten in Absprache mit der Feuerwehr geeignetes Desinfektionsmittel vorhalten
+
+==== Kennzeichnung bei Gefahrguttransporten ====
+
+Es gibt nur 5 UN-Nummern, die bei Gefahrguttransporten von biologischen Stoffen in Frage kommen:
+
+^  UN-Nummer  ^  ADR-Klasse  ^  Bezeichnung (unterlegt mit dem Link zur entsprechenden ERICard soweit vorhanden)  ^
+|  2814       |  6.2         | [[cbrn:ericards:klasse_6-2:28141715|Ansteckungsgefährlicher Stoff, gefährlich für Menschen]]|
+|  2900       |  6.2         | [[cbrn:ericards:klasse_6-2:29001765|Ansteckungsgefährlicher Stoff, nur gefährliche für Tiere]]|
+|  3245       |  9           | gentechnisch veränderte Mikroorganismen|
+|  3291       |  6.2         | [[cbrn:ericards:klasse_6-2:32912081|Klinischer Abfall, unspezifiziert, n.a.g. oder (bio)medizinischer Abfall, n.a.g. oder vorschriftsgemässer medizinischer Abfall, n.a.g.]]|
+|  3373       |  6.2         | [[cbrn:ericards:klasse_6-2:33732148|biologischer Stoff, Kategorie B]]|
+
+==== weitere Seiten im Bereich Bio-Einsatz ====
+
+{{simplenavi>cbrn:biologisch}}
+
+===== Weblinks =====
+
+  * Auf der Seite [[cbrn:allgemein:gefahrstoffdatenbank#gestis-datenbank_fuer_biologische_arbeitsstoffe|Gefahrstoffdatenbanken]] ist die GESTIS-Biostoffdatenbank verlinkt, die Informationen zu biologischen Arbeitsstoffen (z.B. entsprechende Risikogruppe, Desinfektionsmaßnahmen, ...) enthält.
+
+===== Quellenangabe =====
+
+  * Lehrgangsunterlagen ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+  * Ausbildungsunterlagen B-Einsatz, Feuerwehr Kaiserslautern
+  * FwDV 500, Ausgabe 2012
+  * [[http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/PublikationenForschung/BioGef-I_3Auflage.pdf?__blob=publicationFile|Biologische Gefahren I: Handbuch zum Bevölkerungsschutz]], 3. Auflage, Bundesamt für Bevölkerungsschutz und Katastrophenhilfe, Bonn 2007
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+
+===== Stichwörter =====
+
+B-Einsatz

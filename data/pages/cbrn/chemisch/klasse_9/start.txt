@@ -1,0 +1,28 @@
+====== Klasse 9: Verschiedene gefährliche Stoffe und Gegenstände ======
+
+Die Gefahren von Stoffen der Klasse 9 unterscheiden sich stark und können nicht verallgemeinert werden.
+
+===== zu treffende Maßnahmen =====
+
+[[cbrn:ericards:klasse_9:start]]
+
+  * bei Bedarf Atem- und [[cbrn:allgemein:koerperschutzformen|Körperschutz]]
+  * bis zum Vorliegen genauerer Informationen gelten die allgemeinen [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich- und Absperrgrenzen]]:
+    * <wrap danger>Gefahrenbereich: 50 Meter</wrap>
+    * <wrap safety>Absperrbereich: 100 Meter</wrap>
+  * [[cbrn:allgemein:auslaufende_stoffe|Ausbreitung freiwerdender Stoffe verhindern]]
+  * Umweltbehörde verständigen
+
+==== besondere Gefahren ====
+
+  * Umweltgefahr
+  * weitere, stoffspezifische Gefahren
+
+===== Quellenangabe =====
+
+  * Lehrgangsunterlagen ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+  * FwDV 500 Stand 2012
+
+===== Stichwörter =====
+
+Erwärmter Stoff, Umweltgefährdender Stoff (Transport)

@@ -1,0 +1,61 @@
+====== Erdgas-Fahrzeuge (CNG und LNG) ======
+
+===== zu treffende Maßnahmen =====
+
+[[allgemeine_hilfe:verkehrsunfall:start|Vorgehensweise bei Verkehrsunfällen allgemein]] ist ebenfalls zu beachten!
+
+==== Hilfeleistungen ====
+
+  * Brandschutz sicherstellen
+  * [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] unter Beachtung der Windrichtung festlegen
+  * Gas ungehindert ausströmen lassen (Erdgas ist leichter als Luft)
+  * Gas mit Drucklüfter verwirbeln (EX-Schutz beachten)
+  * Fahrzeuginnenraum belüften, dafür ggf. Scheibe einschlagen, keine Türen öffnen!
+  * Konzentrationen ständig mit Messgeräten kontrollieren
+  * Zündquellen vermeiden (u.a. Motor und Zündung abstellen)
+  * bei LNG Erfrierungsgefahr
+  * manuelle Tankabsperrung schließen (siehe dafür [[rettungsdatenblaetter:start|Rettungsdatenblätter]])
+  * Wiederinbetriebnahme des Fahrzeugs nur durch entsprechende Fachwerkstatt
+
+==== Brandeinsätze ====
+
+  * brennend austretendes Gas nur im Notfall (Menschenrettung, Ausbreitung) löschen, sonst kontrolliert abbrennen lassen und Umgebung kühlen
+  * punktuelle Beflammung über längerem Zeitraum kann zum Bersten führen
+  * wenn möglich manuelle Tankabsperrung schließen (siehe dafür [[rettungsdatenblaetter:start|Rettungsdatenblätter]])
+
+==== besondere Gefahren ====
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * siehe auch [[cbrn:chemisch:klasse_2:stoffe:erdgas]]
+  * [[cbrn:ericards:klasse_2:19711114|ERICard für unter Druck gespeichertes Erdgas (UN 1971)]]
+  * [[cbrn:ericards:klasse_2:19721115|ERICard für tiefkalt verflüssigtes Erdgas (UN 1972)]]
+
+
+==== Speicherung des Erdgases ====
+
+  * CNG (Compressed Natural Gas): unter Druck bei 200 bar gespeichert
+  * LNG (Liquified Natural Gas): verflüssigt bei -165 °C gespeichert
+
+==== Merkmale Erdgasfahrzeuge ====
+
+  * Erdgastank
+    * zylindrische Form
+    * keine Schweißnähte (da Prüfdruck 600 bar)
+    * Einfüllstutzen hinter normaler Tankklappe, in Stoßfängern oder generell an Karosserie
+    * Tankvolumen bei Nutzfahrzeugen bis 2.000 Liter, oft mehrere Flaschen die sich in Umhausungen oder auf dem Dach befinden
+  * Erdgas-Fahrzeuge unterliegen grundsätzlich keiner Kennzeichnungspflicht, aber:
+    * Nutzfahrzeuge und Busse müssen mit CNG-Aufkleber gekennzeichnet werden
+    * derzeit noch oft Kennzeichnung durch Werbeaufkleber
+    * Herstellerspezifische Bezeichnungen: CNG, NGT, ECOFuel, Natural Power, BiFuel
+  * nach Öffnen der Motorhaube zusätzliche Einspritzanlage erkennbar
+  * typischer Geruch von austretendem Erdgas durch Odorierungsstoff
+
+===== Quellenangabe =====
+
+  * Gerhard Schmöller, Tim Pelzl, Rolf Erbe: Einsatz an Fahrzeugen mit alternativen Antrieben. In: Brandschutz 2/2013, S. 96 ff.
+  * [[http://publikationen.dguv.de/dguv/pdf/10002/i-8664.pdf|BGI/GUV-I 8664: Rettungs- und Löscharbeiten an PKW mit alternativer Antriebstechnik]], Deutsche Gesetzliche Unfallversicherung e.V. (DGUV) 2012
+
+Hinweis zur Wartung des Artikels: bei Aktualisierung mit Informationen auf der Seite [[allgemeine_hilfe:verkehrsunfall:erkennung_alternativer_fahrzeugantriebe]] abgleichen.
+
+===== Stichwörter =====

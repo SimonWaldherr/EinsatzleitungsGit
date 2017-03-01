@@ -1,0 +1,79 @@
+====== Kontaminationsnachweis (A-Dekon) ======
+
+siehe [[cbrn:allgemein:dekontamination:start|Dekontamination]] für die Dekontamination und den Dekon-Platz allgemein
+
+===== zu treffende Maßnahmen =====
+
+  * Kontamination liegt bei Überschreitung der dreifachen Nullrate vor.
+  * Kontaminierte Kleidung ist zu entfernen
+  * Eine Kontamination der Haut kann in der Regel durch Waschen mit lauwarmen Wasser beseitigt werden. Dieses Vorgehen ist aber mit dem Fachberater abzuklären.
+  * Kontaminationsverschleppung auf nicht betroffene Hautpartien vermeiden
+  * Wundversorgung
+  * Wunden vor der Personendekontamination dicht abkleben
+  * Kontaminierte Gegenstände und Kleidung am Kontaminationsnachweisplatz in Foliensäcke und Fässer dicht verpacken; Entsorgung über fachkundiges Personal
+  * Kontaminationsfreiheit einer zuvor kontaminierten Person muss durch Fachbehörde bestätigt werden.
+
+==== Schutzausrüstung für Dekon-Personal ====
+
+  * [[cbrn:geraete:atemfilter|ABEK2-P3-Filter]]
+  * [[cbrn:allgemein:koerperschutzformen|Kontaminationsschutzanzug (Form 2)]] oder Reaktorschutzanzug in Kombination mit Gummihandschuhen, untergezogenen Innenhandschuhen und Gummistiefeln
+  * Gleitschattenfilmdosimeter
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * wenn möglich Kontaminationsnachweisplatz nicht direkt an den Gefahrenbereich angrenzen lassen sondern zusätzlichen Abstand einhalten:
+    * um im Falle einer Ausbreitung nicht den ersten Platz verlassen und einen weiteren Platz aufbauen zu müssen
+    * um am K-Nachweisplatz eine Beeinflussung der Kontaminationsnachweisgeräte durch den eigentlichen Strahler zu vermeiden
+  * Platz vor Aufbau auf Kontaminationsfreiheit prüfen (Kontamination bei Überschreitung der 3-fachen Nullrate)
+  * möglichst einen Korridor von der Einsatzstelle zum Kontaminationsnachweisplatz kennzeichnen, um die Kontamination möglichst gering zu halten
+
+==== Hinweise für den laufenden Betrieb ====
+
+  * zurückkommenden Trupp auch während des Wartens am K-Nachweisplatz weiterhin durch Atemschutzüberwachung kontrollieren
+  * bei Körperkontakt mit dem [[cbrn:atomar:strahlenschutzmessgeraete#kontaminationsnachweisgeraet|Kontaminationsnachweisgerät]] muss dieses mit einem zweiten K-Nachweisgerät freigemessen werden bevor es weiter eingesetzt wird um eine Kontamination auszuschließen.
+
+==== Hinweise zum Entkleiden ====
+
+  * [[cbrn:atomar:strahlenschutzmessgeraete#dosiswarngeraet|Dosiswarner]] aus Tasche nehmen, ablesen und Wert dokumentieren
+
+==== Reinigung der Schutzkleidung ====
+
+  * radioaktive Partikel ggf. mit Sprühkleber (ersatzweise auch Haarspray) auf Schutzkleidung fixieren oder absaugen
+  * wenn keine Dekontamination durch Entkleiden möglich: vorsichtig mit Wasser und neutralem Reinigungsmittel abwaschen
+
+==== Medizinische Erstversorgung ====
+
+  * Festlegung der Reihenfolge der Dekontamination verletzter Personen in Absprache mit dem Leitenden Notarzt (Triage)
+  * Unmittelbare Übergabe von Schwerverletzten an den Rettungsdienst
+  * Dekontamination unverletzter Personen; auch diese Personen an Rettungsdienst übergeben
+  * Kontaminierte Kleidung am Dekon-Platz belassen; dort dicht verpacken (Vermeidung der Kontaminationsverschleppung in die Klinik)
+  * Frühzeitige Information der Klinik/Strahlenschutzzentrum über die Art des vorliegenden radioaktiven Stoffes
+  * Psychologische Betreuung
+
+Weitere Verfahrensweise mit dem Leitenden Notarzt absprechen.
+
+==== Unterscheidung der Strahlungsarten ====
+
+Mithilfe des Diskriminatorblechs (der Abdeckplatte am Einfallsfenster des Messgeräts) und der Tasten am Messgerät können die Strahlungsarten unterschieden werden:
+
+  * Alpha-Strahlung durch Schalten des Geräts in den Messmodus "nur Alpha-Strahlung"
+  * Gamma-Strahlung durch Schalten des Geräts in den Messmodus "Alpha-Beta-Gamma" und Einsatz des Diskriminatorblechs
+  * Beta-Strahlung durch Schalten des Geräts in den Messmodus "Alpha-Beta-Gamma" minus der gemessenen Werte für Alpha und Gamma
+
+Geräte mit zählgasfreien Plastikszintillationsdetektor können α- und β-/γ-Kontaminationen parallel anzeigen.
+
+
+===== Kontaktdaten/Ansprechpartner =====
+
+  * [[cbrn:atomar:strahlenschutzzentren]]
+
+===== Quellenangabe =====
+
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * {{cbrn:atomar:lfs_bw_kampfstoffe_radioaktive_stoffe.pdf|Einsatzleiterkarte "Radioaktive Stoffe"}} (Abschnitt "medizinische Erstversorgung" und "Dekontamination" wörtlich übernommen), entnommen aus {{cbrn:allgemein:hinweise_abc_kampfstoffe.pdf|Einsatzleiterkarten für den Einsatz mit ABC-Kampfstoffen, Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2011}}. Nutzung mit freundlicher Genehmigung.
+  * {{cbrn:allgemein:dekontamination:empfehlung_a_komponente_dekon_lkw_p.pdf|Empfehlung für den Aufbau und Betrieb der A-Komponente Dekon-Lkw P, Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2013}}. Nutzung mit freundlicher Genehmigung.
+  * vfdb-Richtlinie 10/04, Vereinigung zur Förderung des Deutschen Brandschutzes e.V
+
+===== Stichwörter =====
+
+K-Nachweis, K-Nachweisplatz

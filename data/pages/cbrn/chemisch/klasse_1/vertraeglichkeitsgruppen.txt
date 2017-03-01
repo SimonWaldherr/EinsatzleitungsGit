@@ -1,0 +1,24 @@
+====== Verträglichkeitsgruppen ======
+
+{{cbrn:chemisch:klasse_1:1-5_d.png?nolink&150 |Placard 1.5 D}} Bei der Gefahrgutkennzeichnung von Explosivstoffen muss auf dem Gefahrzettel (Placard) neben der Unterklasse auch die so genannte Verträglichkeitsgruppe angegeben werden. Diese gibt einen weiteren Aufschluss über die Eigenschaften des Explosivstoffs und dem Transporteur Hinweise welche verschiedenen Explosivstoffe zusammen transportiert werden dürfen.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+^  Buchstabe  ^  Bedeutung  ^
+|  A  | Zündstoff |
+|  B  | Gegenstand mit Zündstoff und weniger als zwei wirksamen Sicherungsvorrichtungen. Eingeschlossen sind einige Gegenstände, wie Sprengkapseln, Zündeinrichtungen für Sprengungen und Anzündhütchen, selbst wenn diese keinen Zündstoff enthalten |
+|  C  | Treibstoff oder anderer deflagrierender explosiver Stoff oder Gegenstand mit solchem explosiven Stoff |
+|  D  | Detonierender explosiver Stoff oder Schwarzpulver oder Gegenstand mit detonierendem explosivem Stoff, jeweils ohne Zündmittel und ohne treibende Ladung, oder Gegenstand mit Zündstoff mit mindestens zwei wirksamen Sicherungsvorrichtungen |
+|  E  | Gegenstand mit detonierendem explosivem Stoff ohne Zündmittel mit treibender Ladung (andere als solche, die aus entzündbarer Flüssigkeit oder entzündbarem Gel oder Hypergolen bestehen) |
+|  F  | Gegenstand mit detonierendem explosivem Stoff mit seinem eigenen Zündmittel, mit treibender Ladung (andere als solche, die aus entzündbarer Flüssigkeit oder entzündbarem Gel oder Hypergolen bestehen) oder ohne treibende Ladung |
+|  G  | Pyrotechnischer Stoff oder Gegenstand mit pyrotechnischem Stoff oder Gegenstand mit sowohl explosivem Stoff als auch Leucht-, Brand-, Augenreiz- oder Nebelstoff (außer Gegenständen, die durch Wasser aktiviert werden oder die weißen Phosphor, Phosphide, einen pyrophoren Stoff, eine entzündbare Flüssigkeit oder ein entzündbares Gel oder Hypergole enthalten) |
+|  H  | Gegenstand, der sowohl explosiven Stoff als auch weißen Phosphor enthält |
+|  J  | Gegenstand, der sowohl explosiven Stoff als auch entzündbare Flüssigkeit oder entzündbares Gel enthält |
+|  K  | Gegenstand, der sowohl explosiven Stoff als auch giftigen chemischen Wirkstoff enthält |
+|  L  | Explosiver Stoff oder Gegenstand mit explosivem Stoff, der ein besonderes Risiko darstellt (z.B. wegen seiner Aktivierung bei Zutritt von Wasser oder wegen der Anwesenheit von Hypergolen, Phosphiden oder eines pyrophoren Stoffes) und eine Trennung jeder einzelnen Art erfordert |
+|  N  | Gegenstand, der nur extrem unempfindliche detonierende Stoffe enthält |
+|  S  | Stoff oder Gegenstand, der so verpackt oder gestaltet ist, dass jede durch nicht beabsichtigte Reaktion auftretende Wirkung auf das Versandstück beschränkt bleibt, außer das Versandstück wurde durch Brand beschädigt; in diesem Falle müssen die Luftdruck- und Splitterwirkung auf ein Maß beschränkt bleiben, dass Feuerbekämpfungs- oder andere Notmaßnahmen in der unmittelbaren Nähe des Versandstückes weder wesentlich eingeschränkt noch verhindert werden |
+
+===== Quellenangabe =====
+
+  * [[cbrn:allgemein:adr|ADR]], Kapitel 2.2.1.1.6

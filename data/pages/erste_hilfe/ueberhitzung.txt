@@ -1,0 +1,38 @@
+====== Überhitzung (Hyperthermie) ======
+
+===== Unterscheidungen =====
+
+==== Hitzererschöpfung ====
+
+  * Ursache: mangelnde Flüssigkeitsversorgung, langes Stehen bei warmen Außentemperaturen
+  * Symptome: Übelkeit, Schwindel, Kopfschmerzen, heiße und trockene Haut, sinkender Blutdruck -> kurze Bewusstlosigkeit
+
+==== Hitzschlag ====
+
+  * Ursache: Körpertemperatur über 40°C -> Anschwellen des Hirngewebes
+  * Symptome: Bewusstseinseintrübung, kein Schweiß, darauffolgend häufig Krämpfe\\ -> **lebensbedrohliche Situation!** Sofort Rettungsdienst alarmieren!
+
+==== Sonnenstich ====
+
+  * Ursache: lange Sonneneinstrahlung auf ungeschützten Kopf und Nacken
+  * Symptome: heißer und hochroter Kopf, Kopfschmerzen, steifer Nacken, Schwindel, Übelkeit, Erbrechen\\ -> Nacken mit nassen Tüchern kühlen, Rettungsdienst alarmieren!
+
+===== zu treffende Maßnahmen =====
+
+  * Patient in den Schatten bringen
+  * Enge Kleidung öffnen, aber nicht vollständig entkleiden (Gefahr der [[erste_hilfe:unterkuehlung|Unterkühlung]])
+  * in Schocklage (Beine hoch) bringen wenn nicht bewusstlos
+  * Mit Flüssigkeit versorgen: Am Besten isotonische Getränke, ansonsten Fruchtschorle oder Wasser, **keinesfalls Alkohol!**
+  * **Keine** intensive Abkühlung wie z.B. kalt duschen!
+  * Ggf. ärztlicher Behandlung zuführen
+  * im Zweifel, bei Bewusstseinseintrübung oder Bewusstlosigkeit sofort Rettungsdienst (nach-) alarmieren!
+
+Bei Bewusstlosigkeit:
+
+  * in stabile Seitenlage bringen
+  * permanent Vitalfunktionen prüfen
+  * bei Atemstillstand direkt mit [[erste_hilfe:wiederbelebung|Wiederbelebung]] beginnen
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_Hitzeschaeden.pdf|Erste-Hilfe kompakt - Notfallstichwort: Sonnenstich, Sonnenbrand und Co.]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband

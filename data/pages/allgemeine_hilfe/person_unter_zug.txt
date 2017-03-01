@@ -1,0 +1,36 @@
+====== Person unter Zug ======
+
+siehe auch [[allgemeine_hilfe:eisenbahn]] für weitere Maßnahmen
+
+===== zu treffende Maßnahmen =====
+
+  * Notfallmanager verständigen wenn noch nicht durch Leitstelle erfolgt
+  * Bahnverkehr einstellen lassen. Freischaltung der Fahrleitung i.d.R. nicht notwendig, aber Stromabnehmer herunter fahren lassen.\\ ggf. werden Nachbargleise von anderen Eisenbahnbetreibern betrieben
+    * Sperrung von "normalen" DB-Strecken und S-Bahn-Strecken muss seperat erfolgen
+    * evtl. auch komplett anderer Gleisbetreiber
+  * Betreuung von Augenzeugen, ggf. auch rettungsdienstliche Versorgung für diese nötig
+  * Lokführer befragen, je nach psychischem Zustand
+  * Betreuung/Information von Passagieren im Zug
+    * evtl. Verletzte durch Notbremsung
+    * besonders im Sommer/Winter: Heizung/Klimaanlage funktioniert nicht bei abgeschalteter Fahrspannung
+  * ggf. Bildung von Einsatzabschnitten
+  * ggf. Leiche abdecken um Einsatzkräfte und Passanten vor dem Anblick zu schützen
+
+==== besondere Gefahren ====
+
+  * lange Bremswege von Schienenfahrzeugen
+
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Zuständigkeit auf Bahnanlagen liegt bei der Bundespolizei
+  * Unfallaufnahme durch Kripo, danach evtl. [[allgemein:recht:amtshilfe|Amtshilfe]] bei Leichenbergung
+  * Der Lokführer darf nach einer Person unter Zug nicht mehr weiterfahren, kann aber eingebunden werden (Helfen bei Evakuierung, Aufschließen von abgesperrten Klappen, ...)
+
+===== Quellenangabe =====
+
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+
+===== Stichwörter =====
+
+Bahn, S-Bahn, Suizid, Selbstmord

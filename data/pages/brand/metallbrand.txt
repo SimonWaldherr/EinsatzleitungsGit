@@ -1,0 +1,78 @@
+====== Metallbrand ======
+
+{{ :brand:allgemein:brandklasse_d.png?nolink&100|Symbol Brandklasse D}}
+
+===== zu treffende Maßnahmen =====
+
+  * Löschen nur durch Ersticken möglich, Löschmittel:
+    * Metallbrandpulver (Löschpulver für Brandklasse D), muss drucklos aufgebracht werden
+    * **trockener** Sand
+    * trockener Zement
+    * trockenes Salz
+    * trockene rostfreie Graugussspäne
+  * ggf. werden in metallverarbeitenden Betrieben spezielle Löschmittel vorgehalten
+  * vollständige Schutzkleidung und Atemschutz tragen, ggf. [[brand:allgemein:hitzeschutzkleidung|Hitzeschutzkleidung]] anlegen, nicht in die Flammen schauen / Schutzbrille tragen
+  * Umgebung vor der hohen Hitzestrahlung schützen; Riegelstellung, z.B. mit Wasserwerfer, Hydroschild, ...
+  * Ggf. Schutzwall aus Sand um Brandgut legen
+  * Brandgut ins Freie bringen, dort abdecken oder kontrolliert abbrennen lassen
+  * lange Zeit erforderlich bis das Metall unter der Löschmittelschicht ausreichend abgekühlt ist
+
+==== besondere Gefahren ====
+
+  * [[brand:allgemein:loeschmittel_wasser#dissoziation_von_wasser|Dissoziation]] (Aufspaltung von Wasser) bei feuchten Löschmitteln, durch die Wasserstoff und Sauerstoff freigesetzt wird -> Explosionsgefahr!
+  * Verbrennungsprodukte sind giftig und ätzend
+  * helles Licht / UV-Strahlung schädigt die Augen
+  * sehr hohe Verbrennungstemperaturen von mindestens 1.000 °C, je nach Metall bis über 4.000 °C
+  * Aufbringung des Löschmittels bei größeren Bränden schwierig, da die nötige Annäherung an den Brand aufgrund der Hitze fraglich ist
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+<WRAP center round tip 100%>
+Faustregel:\\ 1 kg brennendes Metall benötigt ca. 2 kg Löschmittel
+</WRAP>
+
+==== Löschmittel ====
+
+  * **Metallbrandpulver**
+  * **trockener Sand**, feiner Sand nimmt schneller Wärme auf als grober\\ Bezugsquelle: z.B. Eisengießerei, Sandwerk
+  * **Zement**\\ Bezugsquelle: z.B. Baumarkt, ggf. kompletten Silo-Lastzug von Zementwerk anfordern
+  * **trockenes Salz**\\ Bezugsquelle: z.B. Straßenmeisterei (Streusalz)
+  * **trockene rostfreie Graugussspäne**\\ Bezugsquelle: z.B. Drehereien, Fräsereien
+
+==== NICHT geeignete Löschmittel ====
+
+  * **Wasser und Schaum**: Explosionsgefahr durch Aufspaltung von Wasser in Wasserstoff und Sauerstoff
+  * **Kohlenstoffdioxid**: Kein Löscheffekt, die Verbrennung wird durch die Bestandteile Kohlenstoff und Sauerstoff noch unterstützt
+  * **Stickstoff**: bei den hohen Verbrennungstemperaturen reagiert Stickstoff ähnlich wie Sauerstoff mit dem Metall; die Verbrennung läuft weiter
+  * **ABC- und BC-Löschpulver**: die hohen Temperaturen lösen chemisch gebundenen Sauerstoff im Pulver; kein Löscheffekt
+
+==== Unterteilung von brennbaren Leichtmetallen in zwei Gruppen ====
+
+  * Leichtmetalle, die im kalten Zustand mit Wasser deutlich reagieren:
+    * Alkalimetalle:
+      * Lithium ([[cbrn:ericards:klasse_4-3:14150686|ERICard Lithium]])
+      * Natrium ([[cbrn:ericards:klasse_4-3:14280693|ERICard Natrium]])
+      * Kalium ([[cbrn:ericards:klasse_4-3:22571253|ERICard Kalium]])
+      * Rubidium ([[cbrn:ericards:klasse_4-3:14230692|ERICard Rubidium]])
+      * Cäsium ([[cbrn:ericards:klasse_4-3:14070683|ERICard Caesium]])
+    * Erdalkalimetalle
+      * Calcium ([[cbrn:ericards:klasse_4-3:14010679|ERICard Calcium]])
+      * Strontium
+      * Barium ([[cbrn:ericards:klasse_4-3:14000678|ERICard Barium]])
+
+  * Leichtmetalle, die im brennenden Zustand mit Wasser heftig reagieren:
+    * Aluminium
+    * Magnesium ([[cbrn:chemisch:klasse_4-1:stoffe:magnesium|Magnesium allgemein]] und [[cbrn:ericards:klasse_4-1:18691049|ERICard Magnesium]])
+    * und deren Legierungen
+
+===== Quellenangabe =====
+
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * {{:allgemein:kleine_merkhilfe_fuer_den_feuerwehreinsatz_1.03.pdf|Kleine Merkhilfe für den Feuerwehreinsatz: Zusammenstellung für Führungskräfte der Feuerwehr}}, Florian Pernpeintner
+  * //Gefahren-ABC: Metallbrände//, Stefan Schönhacker, erschienen in BRANDAUS 05/2003
+  * //Gefahren-ABC: Löschmittel für Metallbrände//, Stefan Schönhacker, erschienen in BRANDAUS 01/2005
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr
+
+===== Stichwörter =====
+
+Metallbrände, Leichtmetall, Leichtmetallbrand, Leichtmetallbrände

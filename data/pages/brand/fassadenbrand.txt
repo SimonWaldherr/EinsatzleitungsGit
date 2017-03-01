@@ -1,0 +1,33 @@
+====== Fassadenbrand ======
+
+Dieser Artikel behandelt den Fassadenbrand von Wärmedämmverbundsystemen, die bei der energetischen Sanierung und insbesondere bei Passivhäusern eingesetzt werden.
+
+Es sind auch die allgemeinen Hinweise zum [[brand:gebaeudebrand|Gebäudebrand]] zu beachten!
+
+===== zu treffende Maßnahmen =====
+
+  * Fahrzeugaufstellung: [[allgemein:drehleiter|Drehleiter]] direkt vor Gebäude, ggf. Platz freihalten
+  * Übergang zum Dach kontrollieren. Vorsicht Kamineffekt!
+  * Fassade nach Ablöschen großflächig öffnen ([[allgemein:geraete:waermebildkamera|Wärmebildkamera]] nicht ausreichend!)
+  * Auch Kontrolle von eigentlich nicht brennbarer Dämmung!
+  * Nachkontrolle zu späterem Zeitpunkt: Weiterglimmen auch noch nach 24 Stunden möglich!
+
+==== besondere Gefahren ====
+
+  * massive Rauchentwicklung und -ausbreitung
+  * Überspringen von Brandriegeln möglich; ggf. Brandausbreitung in andere Geschosse
+  * (nicht direkt sichtbarer) Brand in Hohlraum zwischen Wand und Dämmschicht möglich
+  * Fassadenteile fallen herunter oder tropfen brennend ab
+  * Ist die Wärmedämmung nicht verputzt, so erfolgt die Brandausbreitung noch schneller
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Die Dämmstoffe können eine Dicke von bis zu 35 cm aufweisen und aus mehreren Schichten bestehen
+
+===== Quellenangabe =====
+
+  * Vortrag [[http://thfv.feuerwehr-thueringen.de/fileadmin/bilder/Downloads/ThFV/2Fachkongress/v05bachmeier.pdf|Energieeffiziente Bauweisen – Konsequenzen für den Brandschutz?]], Dipl. Ing. (FH) Peter Bachmeier, Branddirektor Branddirektion München
+
+===== Stichwörter =====
+
+Wärmedämmverbundsystem, WDVS

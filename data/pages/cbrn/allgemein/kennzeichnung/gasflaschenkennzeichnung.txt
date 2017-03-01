@@ -1,0 +1,71 @@
+====== Gasflaschenkennzeichnung ======
+
+gilt nicht für Bündel- und Trailerflaschen, Gasflaschen für Flüssiggas und Feuerlöscher.
+
+Siehe die Seite [[cbrn:allgemein:volumenabschaetzung#technische_daten_von_druckgasbehaeltern_gasflaschen|Volumen- und Volumenstromabschätzung]] für technische Details zu Gasflaschen.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Gefahrgutaufkleber ====
+
+{{cbrn:allgemein:gefahrgutaufleber.png?nolink&700|Gefahrgutaufkleber}}
+
+  - Gefahren- und Sicherheitshinweise
+  - Gefahrzettel nach ADR/RID
+  - Handelsname des Gaseherstellers
+  - z.B. Zusammensetzung des Gasgemisches oder Reinheitsangabe des Gases
+  - EG-Nummer bei Einzelstoffen. Entfällt bei Gasgemischen.
+  - UN-Nummer und Benennung des Stoffes
+  - Hinweise des Gaseherstellers
+  - Name, Anschrift und Telefon­nummer des Herstellers
+  - Signalwort
+
+==== Kennzeichnung der Flaschenschulter ====
+
+Die Kennzeichnung **N** zur Kennzeichnung von Gasflaschen auf der Flaschenschulter, die nach den neuen Farbcodes lackiert sind, waren nur in der Übergangszeit bis 2006 vorgeschrieben. Diese können aber noch bis 2021 auf der Flaschenschulter vorgefunden werden.
+
+Die Farbe ist nur für die Flaschenschulter festgelegt. Der zylindrische Flaschenmantel hat keine festgelegte Farbe, die Mitgliedsfirmen des Industriegaseverbandes lackieren diesen aber grau. Ausnahme bilden medizinische und Inhalationsgase, hier ist der Flaschenmantel weiß.
+
+=== Gase, die nicht näher spezifiziert sind ===
+
+^  Eigenschaften  ^  Schulterfarbe  ^  Beispiele  ^ 
+|giftig und/oder ätzend |  {{cbrn:allgemein:gasflasche_giftig_aetzend.png?nolink&100|gelb}}\\ gelb  |Ammoniak, Chlor, Arsin, Fluor, Kohlenmonoxid, Stickoxid, Schwefeldioxid |
+|entzündbar |  {{cbrn:allgemein:gasflasche_entzuendbar.png?nolink&100|rot}}\\ rot  |Wasserstoff, Methan, Ethylen, Formiergas Stickstoff/Wasserstoffgemisch |
+|oxidierend |  {{cbrn:allgemein:gasflasche_oxidierend.png?nolink&100|hellblau}}\\ hellblau  |Sauerstoff-, Lachgasgemische (außer Inhalationsgemische) |
+|erstickend (inert) |  {{cbrn:allgemein:gasflasche_erstickend.png?nolink&100|leuchtendes grün}}\\ leuchtendes grün  |Krypton, Xenon, Neon, Schweißschutzgas­gemische, Druckluft technisch. |
+
+=== gebräuchliche Gase ===
+
+^  Schulterfarbe  ^^  Gas  ^
+^  alt\\ (bis 2006)  ^  neu  ^  :::  ^
+|  {{cbrn:allgemein:gasflasche_giftig_aetzend.png?nolink&100|gelb}}\\ gelb  |  {{cbrn:allgemein:gasflasche_acetylen.png?nolink&100|kastanienbraun}}\\ kastanienbraun  |Acetylen |
+|  {{cbrn:allgemein:gasflasche_kohlendioxid.png?nolink&100|grau}}\\ grau  |  {{cbrn:allgemein:gasflasche_argon.png?nolink&100|dunkelgrün}}\\ dunkelgrün  |Argon |
+|  {{cbrn:allgemein:gasflasche_argon.png?nolink&100|dunkelgrün}}\\ dunkelgrün  |  {{cbrn:allgemein:gasflasche_stickstoff.png?nolink&100|schwarz}}\\ schwarz  |Stickstoff |
+|  {{cbrn:allgemein:gasflasche_distickstoffoxid.png?nolink&100|blau}}\\ blau  |  {{cbrn:allgemein:gasflasche_sauerstoff.png?nolink&100|weiß}}\\ weiß  |Sauerstoff |
+|  {{cbrn:allgemein:gasflasche_kohlendioxid.png?nolink&100|grau}}\\ grau  |  {{cbrn:allgemein:gasflasche_kohlendioxid.png?nolink&100|grau}}\\ grau  |Kohlendioxid |
+|  {{cbrn:allgemein:gasflasche_kohlendioxid.png?nolink&100|grau}}\\ grau  |  {{cbrn:allgemein:gasflasche_helium.png?nolink&100|grau}}\\ braun  |Helium |
+|  {{cbrn:allgemein:gasflasche_kohlendioxid.png?nolink&100|grau}}\\ grau  |  {{cbrn:allgemein:gasflasche_distickstoffoxid.png?nolink&100|blau}}\\ blau  |Distickstoffoxid (Lachgas) |
+
+=== Inhalationsgemische ===
+
+Nach der alten Kennzeichnung waren Inhalationsgemische immer **blau**
+
+^  Schulterfarbe  ^  Gas  ^ 
+|  {{cbrn:allgemein:gasflasche_atemluft.png?nolink&100|weiß/schwarz}}\\ weiß/schwarz  |Synthetische Luft / Druckluft für Atemzwecke. Für Sauerstoffkonzentrationen zwischen 20 und 23%. |
+|  {{cbrn:allgemein:gasflasche_sauerstoff_helium.png?nolink&100|weiß/braun}}\\ weiß/braun  |Gemisch Sauerstoff/Helium. Für alle Sauerstoffkonzentrationen. |
+|  {{cbrn:allgemein:gasflasche_sauerstoff_kohlendioxid.png?nolink&100|weiß/grau}}\\ weiß/grau  |Gemisch Sauerstoff/Kohlendioxid. Für alle Sauerstoffkonzentrationen. |
+|  {{cbrn:allgemein:gasflasche_sauerstoff_distickstoffoxid.png?nolink&100|weiß/blau}}\\ weiß/blau  |Gemisch Sauerstoff/Distickstoffoxid. Für alle Sauerstoffkonzentrationen. |
+
+=== Schutzgasgemische ===
+
+Dies sind Beispiele und keine abschließende Aufzählung.
+
+^  Schulterfarbe  ^  Gas  ^ 
+|  {{cbrn:allgemein:gasflasche_kohlendioxid_stickstoff.png?nolink&100|grau/schwarz}}\\ grau/schwarz  |Kohlendioxid/Stickstoff |
+|  {{cbrn:allgemein:gasflasche_kohlendioxid_sauerstoff.png?nolink&100|grau/weiß}}\\ grau/weiß  |Kohlendioxid/Sauerstoff |
+|  {{cbrn:allgemein:gasflasche_argon_sauerstoff.png?nolink&100|dunkelgrün/weiß}}\\ dunkelgrün/weiß  |Argon/Sauerstoff |
+|  {{cbrn:allgemein:gasflasche_argon_stickstoff.png?nolink&100|dunkelgrün/schwarz}}\\ dunkelgrün/schwarz  |Argon/Stickstoff |
+
+===== Quellenangabe =====
+
+Die Grafiken und Informationen wurden aus dem Faltblatt [[http://www.linde-gas.de/internet.lg.lg.deu/de/images/Flaschenkennzeichnung_Gasflaschen_Flyer565_71523.pdf?v=4.0|Informationen zur Euro-Norm DIN EN 1089-3. Farbkennzeichnung von Gasflaschen in Deutschland]] der Firma Linde entnommen.

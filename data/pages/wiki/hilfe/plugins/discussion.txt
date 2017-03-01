@@ -1,0 +1,27 @@
+====== Plugin: Discussion ======
+
+Dieses Plugin bietet sich für große (Berufs-)Feuerwehren an, bzw. wenn das Wiki innerhalb von einem größeren Nutzerkreis eingesetzt wird, z.B. von vielen Feuerwehren innerhalb eines Landkreises.
+
+===== Grundlegendes =====
+
+  * Unterhalb des Artikels können Kommentare hinterlassen werden, Antworten auf einzelne Beiträge sind möglich, werden entsprechend sortiert/zugeordnet (eingerückt) -> vergleichbar mit einem einfachen Forum
+  * Diskussionen können individuell pro Seite (de-)aktiviert werden
+  * Mailbenachrichtigung an Admin/Moderator bei neuen Kommentaren
+  * Möglichkeit, neue Kommentare erst durch einen Moderator freischalten zu müssen bevor diese angezeigt werden
+
+===== Erfahrungen =====
+
+  * Das Discussion-Plugin wird im bearbeitbaren Online-Wiki seit mehreren Jahre eingesetzt
+  * Es wird dort wesentlich häufiger genutzt als die direkte Artikelbearbeitung. Offenbar besteht bei direkten Artikelbearbeitungen die Angst „den Artikel kaputt zu machen“. Die Hemmschwelle einen Artikel "nur" zu kommentieren ist anscheinend wesentlich geringer.
+
+===== Nutzung =====
+
+Da das Discussion-Plugin eher für einen geringen Nutzerkreis von Interesse ist, wurde hier nicht die Arbeit investiert die unten genannte Dokumentation zum Plugin komplett zu übersetzen. Sie liegt unter dem Link auf Englisch vor.
+
+Sollten Sie Probleme mit der Umsetzung haben, dann nehmen sie [[wiki:rechtliches|Kontakt mit uns]] auf.
+
+===== Download und Installation =====
+
+Download auf der folgenden Seite: https://www.dokuwiki.org/plugin:discussion
+
+Anleitung zur [[wiki:hilfe:plugins:plugin_installation|Installation von Plugins]].

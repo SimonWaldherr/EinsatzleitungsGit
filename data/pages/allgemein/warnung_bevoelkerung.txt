@@ -1,0 +1,45 @@
+====== Warnung der Bevölkerung ======
+
+===== zu treffende Maßnahmen =====
+
+  * eigenen Einsatzabschnitt bilden
+  * Koordination mit Polizei
+  * Nachforderung von Fahrzeugen mit Durchsagemöglichkeit, ggf. Polizei
+  * Warntext festlegen (siehe unten), alle Fahrzeuge sollen mit gleichem Text warnen!
+  * Warngebiet festlegen, in Bereiche einteilen und diese nach Dringlichkeit ordnen
+  * Route für Warnfahrzeuge festlegen
+  * ggf. Veranlassung der Warnung in Rundfunk und Fernsehen
+  * ggf. Bürgertelefon einrichten
+  * Wirksamkeit der Warnung überprüfen
+  * Vor Entwarnung Messungen durchführen ob die Gefahr im Gebiet beseitigt wurde
+    * Bei der Entwarnung darauf hinweisen, dass nun gelüftet werden sollte:\\ Da sich der Schadstoff während der hohen Konzentration im Außenbereich ins Gebäude verteilen konnte, befindet er sich immer noch darin, auch wenn draußen die Konzentration nach Stoppen des Schadstoffaustritts schon wieder niedriger ist.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+siehe auch [[cbrn:allgemein:stoerfallanlagen|Störfallanlagen]], [[allgemein:raeumung|Räumung]] und [[allgemein:evakuierung|Evakuierung]]
+
+==== Muster für Durchsage über Funk und Fernsehen ====
+
+nach: Warnung der Bevölkerung; Durchsagen über Hörfunk und Fernsehen, Runderlass des Innenministeriums Niedersachsen
+
+^ (laufende) Nummer | |
+^ Stand | (Datum / Uhrzeit) |
+^ Wer? | Welche Behörde gibt die Durchsage ab? |
+^ Für Wen? | An welchen Bevölkerungskreis (Kreis-/Stadtgebiet oder Teile davon) richtet sich die Durchsage? |
+^ Wann? | Wann sollen die mit der Durchsage erwarteten Handlungen eintreten — ggf. wann wird der Schaden eintreten? |
+^ Was? | Welcher Art ist der entstandene oder zu erwartende Schaden? |
+^ Welche Maßnahmen? | Welche Maßnahmen sind zu treffen?\\ Welche Anweisungen der Behörde sollen an die Bevölkerung gegeben werden? |
+^ Ständige Hinweise | „Lassen Sie die Rundfunkempfangsgeräte eingeschaltet und achten Sie auf weitere Durchsagen!“\\ „Verständigen Sie bitte auch Ihre Nachbarn!“\\ Gegebenenfalls Hinweis auf ein Bürgertelefon (verbunden mit dem Hinweis nicht die Notrufnummern zu blockieren) |
+^ Art der Übertragung | Durchsage im Hörfunk und/oder im Fernsehen\\ Schrifteinblendungen im Fernsehen (Lauftext)?\\ Einstellung als Videotext-Tafel? |
+
+Achtung: insbesondere ARD und ZDF senden bundesweit das gleiche Programm und sollten nur bei entsprechend großflächigen Lagen zur Warnung der Bevölkerung eingesetzt werden.
+
+==== Vorlage zur Warnung der Bevölkerung, auch für Störfälle ====
+
+{{:allgemein:durchsagen_lsa.pdf|Vordruck zur Warnung der Bevölkerung}} nach dem Runderlass des Innenministeriums Sachsen-Anhalt
+
+===== Quellenangabe =====
+
+  * [[http://www.voris.niedersachsen.de/jportal/?quelle=jlink&docid=VVND-VVND000029418&psml=bsvorisprod.psml&max=true|Warnung der Bevölkerung; Durchsagen über Hörfunk und Fernsehen, Runderlass des Innenministeriums Niedersachsen v. 1. 11. 2010 — B.21-14610/10, Anlage: Muster für den Aufbau der amtlichen Verlautbarung]], Niedersächsisches Vorschrifteninformationssystem
+  * [[http://www.inneres.sachsen-anhalt.de/bks-heyrothsberge/bks_neu/download/gesetze/kats_erlasse/durchsagen.pdf|Durchsagen über Rundfunk und Fernsehen bei besonderen Gefahrensituationen und Katastrophenfällen]], Runderlass des Innenministeriums Sachsen-Anhalt vom 5. 5. 2009 – 43.33 – 14330/3
+  * [[http://www.kfv-schweinfurt.de/katastrophenschutz/dateien/warnung.pdf|Warnung und Information der Bevölkerung im Landkreis Schweinfurt]], Landratsamt Schweinfurt, Brand- und Katastrophenschutz

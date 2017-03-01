@@ -1,0 +1,53 @@
+====== Pikrinsäure ======
+
+Pikrinsäure ist ein giftiger und explosiver Stoff. Wird sie feucht (mit mind. 30% Wassergehalt) gelagert, ist sie im Hinblick auf die Explosionsgefahr aber handhabungssicher. Bei falscher Lagerung kann das Behältnis austrocknen und wird explosionsgefährlich. Pikrinsäure wird u.a. in Schulen und Universitäten für verschiedene Zwecke eingesetzt.
+
+Folgende **Zustände müssen als gefährlich** angesehen werden:
+
+  * Lagerung in undurchsichtigem Gefäß
+  * eindeutig eingetrocknet (Vorliegen von Brocken u.ä.)
+  * kristalline Anhaftungen im Inneren am Verschluss
+  * kein gefahrloses Öffnen des Gefäßes möglich (z.B. schwergängiger Verschluss)
+
+===== zu treffende Maßnahmen (bei gefährlichem Zustand) =====
+
+  * <wrap danger>Behälter nicht bewegen oder gar öffnen: Explosionsgefahr!</wrap>
+  * <wrap danger>Nicht mit Metall in Kontakt bringen!</wrap>
+  * in Abhängigkeit der Menge und der örtlichen Gegebenheiten [[cbrn:allgemein:gefahrenbereich|Gefahren- und Absperrbereich]] festlegen. Personen fernhalten.
+  * Abstimmung mit Ordnungsbehörden/Polizei. Ggf. Anforderung Kampfmittelräumdienst.
+
+<WRAP center round info 100%>
+Wird das Behältnis nach dem Auffinden nicht geöffnet oder bewegt, so ergibt sich daraus keine besondere Gefahrensituation. Eine [[allgemein:raeumung|Räumung]]/[[allgemein:evakuierung|Evakuierung]] ist in der Regel dann nicht nötig. Bei unklarer Lage sollte die Einschätzung durch den Kampfmittelräumdienst erfolgen.
+</WRAP>
+
+==== besondere Gefahren ====
+
+=== wenn vorschriftsmäßig feucht gelagert ===
+
+  * leichtentzündlich
+  * giftig beim Einatmen, Verschlucken und Berühren\\ -> Schutzbrille und Chemikalienschutzhandschuhe tragen
+  * <wrap danger>beim Kontakt mit Metallen, Säuren oder Lagen: Bildung hochexplosiver Pikrate!</wrap>
+
+=== wenn ausgetrocknet ===
+
+  * Sprengstoff, der empfindlich auf Reibung, Erwärmung und Schlag reagiert
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Charakterisierung des Stoffs ====
+
+  * Farbe gelb
+  * geruchlos
+  * kann pulverig, blättrig oder kristallin vorliegen
+  * Sprengkraft leicht höher als TNT
+
+
+===== Quellenangabe =====
+
+  * {{cbrn:chemisch:klasse_1:stoffe:hinweisblatt_pikrinsaeure.pdf|Hinweise für die Feuerwehren zum Umgang mit Pikrinsäure in Schulen}}, Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2013. Nutzung mit freundlicher Genehmigung.
+  * [[http://www.km.bayern.de/download/2785_pikrinsure_anlage_merkblatt.pdf|Merkblatt zu Gefahrenlagen mit Pikrinsäure]], Bayerisches Landeskriminalamt
+  * [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/041550.xml?f=templates&fn=default.htm|Eintrag für Pikrinsäure]] in der GESTIS-Gefahrstoffdatenbank
+
+===== Stichwörter =====
+
+2,4,6-Trinitrophenol, C<sub>6</sub>H<sub>3</sub>N<sub>3</sub>O<sub>7</sub>, C6H3N3O7, Melinit, Pikrinit, Ekrasit, Pertir, Schimose, Lyddit

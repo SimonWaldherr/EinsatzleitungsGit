@@ -1,0 +1,59 @@
+====== Schnelltasten ======
+
+Für eine schnellere Navigation und Formatierung können Tastenkombinationen in [[wiki:hilfe:hintergrund_einsatzleiterwiki|DokuWiki]] genutzt werden. Ob und wie sie funktionieren kommt auf den verwendeten Browser und das Betriebssystem an. In der Regel funktioniert es, wenn die Taste ''ALT'' und den jeweiligen Buchstaben dazu drückt. Auf einem Macintosh ist es ''CTRL + ⌥'' und die jeweilige Taste. Im Opera Browser, welcher schon eine ausgeklügelte Tastaturnavigation beinhaltet und um zu verhindern das Seiten benutzerspezifische Tastatureinstellungen verändern, sind die Tasten ''Shift'' und ''ESC'' erst zu aktivieren um sie benutzen zu können. In einigen Browsern wird mit Tastenkombinationen nur die Funktion/Schaltfläche fokussiert und muss noch mit ''Enter'' bestätigt werden. 
+
+Hier eine kleine Zusammenstellung. Wir werden wir probieren auf die Startseite zu kommen. Folge einfach denn einzelnen Punkten und schau was passiert.
+
+  * Drücke ''ALT + SHIFT + H''
+  * Drücke ''ALT + H''
+  * Drücke ''CTRL + H''
+  * Drücke ''ALT + H'' und dann ''Enter''
+  * Drücke ''CTRL + H'' und dann ''Enter''
+  * Drücke ''Shift + ESC'' und dann ''H''
+
+Auf MACs, sollte man ''CTRL'' + Taste probieren.
+
+Mit ALT+H kommt man bei den meisten Browsern ins Hilfemenü!
+
+----
+
+**Hinweis**: in Opera 8.51 ist die Tastenkombination ''SHIFT + ESC'' zu drücken und dann den //Accesskey// und dann nochmal ''ENTER'' für alle Accesskeys außer ''H'' und ''F''. In [[http://www.opera.com|Opera]] 9.0 wurde dieser Vorgang vereinfacht: Drücke ''SHIFT + ESC'', udn dann den //Accesskey//. 
+
+**Hinweis**: [[http://www.mozilla.com/en-US/firefox/|Firefox 2]] benutzt ''ALT + Shift + Key'' um Konfikte mit dem Tastenkombinationen im Browser zu vermeiden. Um die alten Einstellungen in Windows wiederherzustellen: ''about:config'' in die Addresszeile eingeben und die Eigenschaft //ui.key.contentAccess// auf **4** setzen.
+
+In Mozilla basierenden Browser kann die "Modifikationtaste" für die Browser-UI und HTML-Taste mit [[http://kb.mozillazine.org/Ui.key.generalAccessKey|ui.key.generalAccessKey]], [[http://kb.mozillazine.org/Ui.key.chromeAccess|ui.key.chromeAccess]] und [[http://kb.mozillazine.org/Ui.key.contentAccess|ui.key.contentAccess]] verändert werden. Linux-Benutzer möchten vielleicht die unbenutzte Windowstaste als Accesskey benutzen, durch folgende Einstellung ''ui.key.contentAccess'' = ''8''.
+
+===== Allgemeine Tasten =====
+
+Diese Tasten sind immer in DokuWiki verfügbar:
+
+| ''E'' | öffnet die aktuelle Seite im Änderungsmodus      |
+| ''V'' | öffnet die aktuelle Seite im Lesemodus (wenn im Button "Zeige Quelltext" angezeigt wird)|
+| ''O'' | zeigt die letzten Versionen der aktuellen Seite  |
+| ''R'' | zeigt die letzten Veränderungen                  |
+| ''F'' | setzt den Cursor auf das Suchfeld                |
+| ''H'' | öffnet die Startseite                            |
+| ''X'' | öffnet die Index Seite                           |
+
+===== Im Standard-Editor =====
+
+Diese zusätzlichen Tasten sind im [[wiki:hilfe:artikel_standardeditor|Standard-Editor]] verfügbar:
+
+| ''B'' | Fett                  |
+| ''I'' | kursiv                |
+| ''U'' | Unterstrichen         |
+| ''C'' | Monospace             |
+| ''D'' | durchgestrichen       |
+| ''1'' | Überschrift Level 1   |
+| ''2'' | Überschrift Level 2   |
+| ''3'' | Überschrift Level 3   |
+| ''4'' | Überschrift Level 4   |
+| ''5'' | Überschrift Level 5   |
+| ''L'' | erstelle internen Link  |
+| ''S'' | Speichern             |
+| ''P'' | Vorschau              |
+| ''Y'' | Unterschrift setzen (nur für eingeloggte Benutzer) |
+
+===== Quellenangabe =====
+
+  * [[doku>de:accesskeys]], veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

@@ -1,0 +1,107 @@
+====== Erdgas ======
+
+Bei erdgasgetriebenen Fahrzeugen siehe [[cbrn:chemisch:klasse_2:cng-fahrzeuge]]
+
+===== zu treffende Maßnahmen =====
+
+==== Allgemein ====
+
+  * Gasversorgungsunternehmen kontaktieren und Maßnahmen abstimmen
+  * weiträumig absperren, Windrichtung beachten
+
+==== nichtbrennend ====
+
+  * [[cbrn:geraete:ex-messgeraet|EX-Messungen]] vornehmen
+  * Gasaustritt eindämmen/unterbinden: Absperreinrichtungen schließen, Rohr provisorisch verstopfen, abquetschen, abknicken, eventuell offenes Erdreich mit Aushub verschließen
+  * kein offenes Feuer, Rauchverbot verhängen und kontrollieren
+  * elektrische Geräte/Anlagen als Zündquelle vermeiden (Beleuchtung, Türklingel, Telefon, ...)
+    * Klingeltableau mit Einsatzkraft besetzen
+    * Achtung bei Gasthermen die versuchen zu zünden
+  * nur Ex-geschützte Geräte verwenden (Lampe, Funkgerät, etc.). Handy, FME, etc. außerhalb des Gefahrenbereichs ablegen.
+  * Austritt im Freien:
+    * Überprüfen, ob Gas in Gebäude, Schächte, Kanäle, etc. eingedrungen ist
+    * Eindringen in Gebäude verhindern: Fenster und Türen schließen
+    * Fahrzeugmotoren abstellen
+  * Austritt in Gebäuden
+    * Türen und Fenster öffnen (Druckentlastungsöffnungen schaffen)
+    * Gebäude räumen
+    * auf Gasansammlungen achten
+    * [[brand:allgemein:belueftung|Belüftungsgeräte einsetzen]]
+
+==== brennend ====
+
+  * **brennenden Gasaustritt nicht löschen, außer wenn Menschenleben in Gefahr sind.**\\ Bevorzugtes Löschmittel: [[brand:allgemein:pulver|Pulver]].
+  * Umgebung kühlen bzw. Übergreifen auf Objekte/Gebäude verhindern
+  * Gasaustritt unterbinden: Absperreinrichtungen, Zählerhähne, Hauptabsperreinrichtungen schließen.\\ Bei Industrieanlagen abwägen ob Gasabstellung weiteren Gefahren mit sich bringen kann.
+  * Absperreinrichtung gegen Öffnen sichern. Eine Öffnung nach dem Einsatz darf nur durch Gasversorgungsunternehmen oder Vertragsinstallateur erfolgen.
+  * Brand im Gebäude:
+    * Gebäude räumen
+    * auf Gasansammlungen achten
+
+==== besondere Gefahren ====
+
+  * Nach einiger Zeit kann eine Gewöhnung des Geruchsinns an den Odorierstoff erfolgen sodass das Gas nicht mehr zu riechen ist!
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Ist bei Baustellen von Gasleitungen Gasgeruch festell-, aber messtechnisch nicht nachweisbar, so besteht die Möglichkeit, dass Ablagerungen aus dem alten, ausgebauten Rohr die nicht vollständig entfernt wurden bzw. in Staubform in der Baugrube liegen den Geruch verursachen ohne dass eine konkrete Gefahr besteht.
+
+==== Stoffdaten ====
+
+^ Identifikation ^^
+^ Alternative Namen                            | Naturgas, CNG, LNG |
+^ CAS-Nr.                                      | 8006-14-2 |
+^ Gefahrgutbezeichnung                         | Methan, verdichtet //oder// Erdgas, verdichtet, mit hohem Methangehalt |
+^ [[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Nummer zur Kennzeichnung der Gefahr]] | {{cbrn:chemisch:klasse_2:stoffe:23-1971.png?nolink&100|Gefahrentafel Erdgas}} |
+^ UN-Nr.                                       |  :::  |
+^ Gefahrzettel                                 | [[cbrn:chemisch:klasse_2:start|{{cbrn:2-1.png?100}}]] |
+^ ADR-Klasse                                   | [[cbrn:chemisch:klasse_2:start|2 - gasförmige Stoffe]] |
+^ [[cbrn:allgemein:kennzeichnung:gasflaschenkennzeichnung|Gasflaschenkennzeichnung]] | {{cbrn:allgemein:gasflasche_entzuendbar.png?nolink&100|entzündbar}} \\ entzündbar |
+^ ERICard                                      | [[cbrn:ericards:klasse_2:19711114|ERICard 2-10]] |
+^ Charakterisierung ^^
+^ Aggregatszustand                             | gasförmig |
+^ Farbe                                        | farblos |
+^ Geruch                                       | geruchlos oder odoriert |
+^ Brennbarkeit                                 | Extrem entzündbares Gas. Bildet mit Luft explosive Gemische. |
+^ Verhalten an Luft                            | leichter als Luft |
+^ physikalisch-chemische Eigenschaften ^^
+^ Siedepunkt                                   | -195 bis -155 °C |
+^ Dichte                                       | 0,7 bis 1,0 kg/m³ bei 0 °C |
+^ [[cbrn:allgemein:begriffsklaerungen#zuendtemperatur|Zündtemperatur]] | 575 bis 640 °C |
+^ [[cbrn:chemisch:temperaturklasse|Temperaturklasse]] | T1 |
+^ [[cbrn:allgemein:begriffsklaerungen#explosionsgrenzen|Explosionsgrenzen]] | UEG: 4%,  OEG: 17% |
+^ [[cbrn:allgemein:begriffsklaerungen#relative_dichte_zu_luft|Relative Gasdichte]] (zu Luft) | 0,55 bis 0,75 |
+^ [[cbrn:allgemein:begriffsklaerungen#wasserloeslichkeit|Wasserlöslichkeit]] | 0,03 bis 0,08 m³/m³ bei 20 °C |
+^ [[cbrn:allgemein:begriffsklaerungen#wassergefaehrdungsklasse|Wassergefährdungsklasse]] | keine |
+^ Explosionsgefahr bei Reaktion mit            | [[cbrn:chemisch:klasse_2:stoffe:chlor|Chlor]]; Fluor; Stickoxiden, Chlordioxid; Difluordioxid; Difluoroxid; flüssigem [[cbrn:chemisch:klasse_2:stoffe:sauerstoff|Sauerstoff]]; Stickstofftrifluorid |
+^ gefährliche Reaktion mit                     | starken Oxidationsmitteln; [[cbrn:chemisch:klasse_2:stoffe:acetylen|Acetylen]]; Brompentafluorid; Chlortrifluorid; Jodheptafluorid |
+^ Maßnahmen bei Bränden ^^
+^ [[brand:allgemein:brandklassen|Brandklasse]] | {{:brand:allgemein:brandklasse_c.png?nolink&100|Brandklasse C}} |
+^ geeignete Löschmittel                        | [[brand:allgemein:loeschmittel_wasser|Wasser (Sprühstrahl)]], [[brand:allgemein:pulver|Pulver]], [[brand:allgemein:co2|Kohlendioxid-Löscher mit Gasdüse]] |
+^ ungeeignete Löschmittel                      | Schaum |
+^ gefährliche Zersetzungsprodukte beim Löschen | [[cbrn:chemisch:klasse_2:stoffe:kohlenmonoxid|Kohlenmonoxid]], [[cbrn:chemisch:klasse_2:stoffe:kohlendioxid|Kohlendioxid]] |
+^ Grenzwerte ^^
+^ [[cbrn:allgemein:begriffsklaerungen#etw-wert|ETW-Wert]] | Abhängig von der genauen Zusammensetzung. |
+^ [[cbrn:allgemein:begriffsklaerungen#agw-wert|AGW-Wert]] | ::: |
+^ [[cbrn:allgemein:kennzeichnung:ghs|GHS-Einstufung und Kennzeichnung]] ^^
+^ [[cbrn:allgemein:kennzeichnung:ghs#piktogramme|GHS-Piktogramm(e)]] | {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_flamme.png?nolink&100 |Flamme}} {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_bottle.png?nolink&100 |Gasflasche}} |
+^ GHS-Signalwort                               | Gefahr |
+^ [[cbrn:allgemein:kennzeichnung:ghs#gefahrenhinweise_h-saetze|GHS-Gefahrenhinweise (H-Sätze)]] | H220: Extrem entzündbares Gas.\\ H280: Enthält Gas unter Druck; kann bei Erwärmung explodieren. |
+^ [[cbrn:allgemein:kennzeichnung:ghs#sicherheitshinweise_p-saetze|GHS-Sicherheitshinweise (P-Sätze)]] | P210: Von Hitze, heißen Oberflächen, Funken, offenen Flammen und anderen Zündquellen fernhalten. Nicht rauchen.\\ P377: Brand von ausströmendem Gas: Nicht löschen, bis Undichtigkeit gefahrlos beseitigt werden kann.\\ P381: Alle Zündquellen entfernen, wenn gefahrlos möglich.\\ P403: An einem gut belüfteten Ort aufbewahren. |
+^ [[cbrn:allgemein:kennzeichnung:gefahrensymbole|Einstufung nach Stoffrichtlinie]] (R- und S-Sätze) ^^
+^ [[cbrn:allgemein:kennzeichnung:gefahrensymbole|Piktogramm]] | {{cbrn:allgemein:kennzeichnung:gefahr_f.png?nolink&100 |Hochentzündlich}}\\ F+ Hochentzündlich |
+^ Risiko-Sätze (R-Sätze)                       | R 12: Hochentzündlich |
+^ [[cbrn:allgemein:kennzeichnung:warnzeichen|Warnzeichen]] | {{cbrn:allgemein:kennzeichnung:warnung_vor_explosionsfaehiger_atmosphaere.png?nolink&100|Warnung vor explosionsfähiger Atmosphäre}}\\ Warnung vor explosionsfähiger Atmosphäre\\ {{cbrn:allgemein:kennzeichnung:warnung_vor_gasflaschen.png?nolink&100|Warnung vor Gasflaschen}}\\ Warnung vor Gasflaschen|
+
+**Lizenzhinweis:** Die Daten aus diesem Bereich "Stoffdaten" stammen zu großen Teilen aus der GESTIS-Stoffdatenbank und dürfen daher ausschließlich für nichtkommerzielle Zwecke des Arbeitssschutzes verwendet werden.
+
+===== Quellenangabe =====
+
+  * [[http://www.erdgas-suedwest.de/inhalte/185/D/849/Erdgas_und_Biogas_Leitfaden_fuer_Feuerwehren.pdf|Erdgas und Biogas - Leitfaden für Feuerwehren. Erdgas Südwest GmbH, 2011.]] (nicht mehr online verfügbar)
+  * [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/090290.xml?f=templates&fn=default.htm|Eintrag für Erdgas]] in der Gestis-Gefahrstoffdatenbank.
+  * [[http://www.enercity.de/include/Downloads/Publikationen/Sicherheitsdatenblatt_Erdgas.pdf|Sicherheitsdatenblatt Erdgas]], Enercity (Stadtwerke Hannover)
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+
+===== Stichwörter =====
+
+Gasaustritt, Gasbrand

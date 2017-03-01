@@ -1,0 +1,17 @@
+====== Datenbank der Volltextsuchfunktion neu erzeugen (Plugin searchindex) ======
+
+Der Suchindex ist erforderlich damit die Suche funktioniert, andernfalls werden Sie auf eine Suchanfrage keine Ergebnisse erhalten. Diesen Schritt sollten Sie in Zukunft nach Synchronisationsvorgängen größeren Umfangs durchführen, da bei diesen der Suchindex des Quellcomputers nicht mit übertragen wird! Der Suchindex wird bei der normalen Benutzung zwar automatisch im Hintergrund erstellt, nach der Integrationen größerer Mengen Inhalt die nicht selbst eingegeben werden dauert es aber einige Zeit bis alle Seiten vom System erfasst sind.
+
+Melden Sie sich zum Erzeugen der Datenbank in Ihrem Wiki als Administrator an und klicken Sie in der rechten oberen Ecke auf //Admin//. Unter der Zwischenüberschrift //Weitere Plugins//  finden Sie einen Eintrag //Suchindex Manager//, auf den Sie klicken müssen:
+
+{{:wiki:hilfe:plugins:searchindex_adminmenu.png?direct&500|Suchindex Manager}}
+
+Klicken Sie nun auf //Index aktualisieren//.
+
+{{:wiki:hilfe:plugins:searchindex_start.png?direct&500|Index neu aufbauen}}
+
+Dies kann einige Zeit dauern. Bitte schließen Sie solange das Fenster nicht und besuchen Sie keine andere Seite (natürlich können Sie einen neuen Tab oder ein neues Fenster in Ihrem Browser öffnen und in diesem währenddessen weiterarbeiten)
+
+{{:wiki:hilfe:plugins:searchindex_aufgebaut.png?direct&500|Index wurde neu aufgebaut}}
+
+Sobald der Vorgang abgeschlossen ist erscheint wieder die Auswahl wie zu Beginn ("Index neu aufbauen" und "Index aktualisieren").

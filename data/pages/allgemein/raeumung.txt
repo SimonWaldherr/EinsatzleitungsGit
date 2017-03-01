@@ -1,0 +1,70 @@
+====== Räumung ======
+
+**Räumung:** Notfallmäßiges ungeplantes Herausbringen von Personen aus einem Gefahrenbereich.
+
+**Evakuierung:** Geplantes in-Sicherheit-bringen von Personen aus einem gefährdeten Bereich mit Vorlaufzeit.\\ -> siehe [[allgemein:evakuierung|entsprechender Artikel
+]]
+
+===== zu treffende Maßnahmen =====
+
+==== Organisation der Räumung ====
+
+  * eigenen Einsatzabschnitt bilden
+  * Sammelplatz festlegen
+  * Umfang abschätzen (Gebäudegröße, Anzahl der zu räumenden Personen)\\ -> Daraus eigenen Kräfte-, Fahrzeug-/Material- und Zeitbedarf ermitteln
+  * je nach Witterung (Regen, Kälte) Unterbringungsmöglichkeit schaffen (MTF, Omnibus, Gebäude in der Nachbarschaft, ...), bei größeren/öffentlichen Gebäuden wie Krankenhäusern ggf. Räumung auch in anderen (horizontalen) Brandabschnitt möglich
+  * Dokumentation der geräumten Personen (Wer hat wen wohin geräumt?) in Zusammenarbeit mit der Polizei
+  * Kennzeichnung und Absperrung der geräumten Bereiche zur Vermeidung von Doppelkontrollen sowie erneutem Betreten durch Dritte
+
+==== Nachalarmierung ====
+
+  * Einsatzkräfte für die Räumung
+  * Einsatzkräfte für die Betreuung und Versorgung der geräumten Personen (sofern notwendig), z.B. entsprechende SEG
+  * ggf. [[allgemein:manv|MANV]]-Alarmierung vorbereiten, Information von LNA/OrgL
+
+==== Spezialfall: Räumung von Krankenhäusern, Alten- und Pflegeheimen ====
+
+  * Alarmierung LNA/OrgL
+  * Räumung in Zusammenarbeit mit Fachpersonal der Einrichtung
+  * Einrichtungen wie Senioren-WGs oder [[allgemein:beatmete_patienten|Beatmeten-WGs]] sind unscheinbar
+  * Evakuierungstücher unter den Matratzen, Evakuierungsstühle für Treppen vorhanden?
+  * <wrap important>Stromversorgung für lebensnotwendige medizinische Geräte gewährleisten</wrap>
+  * separate Zu- und Abfahrten festlegen (zusammen mit Polizei)
+  * Aufnahmekapazität benachbarter Krankenhäuser/Heime ermitteln und diese informieren
+  * Prüfen, ob Patienten nach Hause entlassen werden können
+  * Transport von Patienten mitsamt der medizinischen Geräte, an die sie angeschlossen sind oder die in den aufnehmenden Einrichtungen benötigt werden
+  * ggf. Einrichtung von Notkrankenhäusern, aus denen die geräumten Patienten dann sobald wie möglich in reguläre Krankenhäuser weiterverlegt werden können
+
+==== Spezialfall: Räumung von Wohngebieten bei Explosionsgefahr durch brennbare Dämpfe und Gase ====
+
+  * sofortige Räumung, da Ausschalten aller möglichen Zündquellen unmöglich ist
+  * die meisten brennbaren Dämpfe sind schwerer als Luft und sammeln sich in Kellern, Schächten und Kanälen
+  * brennbare Dämpfe können in Kanälen große Strecken zurücklegen und so zu einer Ausweitung der Explosionsgefahr führen
+
+==== Spezialfall: Räumung von Wohngebieten bei Ausströmung giftiger Gase ====
+
+  * Abwägung: Räumung notwendig oder Schließen von Türen und Fenstern ausreichend?
+  * Bei Verzicht auf Räumung am Einsatzende alle Wohnungen kontrollieren
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Ggf. Information des politisch Verantwortlichen (z.B. Bürgermeister)
+  * bei Bedarf auch Personen in angrenzenden, nicht betroffenen Bereichen informieren
+  * Siehe auch [[allgemein:warnung_bevoelkerung|Warnung der Bevölkerung]].
+
+==== Räumungsprotokoll ====
+
+{{:allgemein:raeumungsprotokoll.pdf|Räumungsprotokoll öffnen}}
+
+Mit dem hier verlinkten Räumungsprotokoll kann die Räumung von Gebäuden bis zu einer mittleren Größe dokumentiert werden. Die Beschriftung sollte selbsterklärend sein.
+
+Die zweite Seite kann vom LNA/OrgLeiter verwendet werden, um die geräumten Personen zu erfassen. Durch das Eintragen der Wohnungsnummer kann die Verknüpfung zur ersten Seite hergestellt werden, d.h. aus welcher Wohnung die Person kam.
+
+===== Quellenangabe =====
+
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr
+  * Räumungsprotokoll selbst erstellt; darf unter Angabe dieser Internetseite als Quelle weiter verbreitet werden.
+
+===== Stichwörter =====
+
+räumen

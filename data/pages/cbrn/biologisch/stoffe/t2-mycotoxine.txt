@@ -1,0 +1,21 @@
+====== T2-Mycotoxine ======
+
+===== zu treffende Maßnahmen =====
+
+Zu finden auf der {{cbrn:biologisch:stoffe:lfs_bw_kampfstoffe_t2-mycotoxine.pdf|Einsatzleiterkarte T2-Mycotoxine}} der Landesfeuerwehrschule Baden-Württemberg.
+
+==== besondere Gefahren ====
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+===== Weblinks =====
+
+  * [[wpde>T-2-Toxin|Wikipedia: T-2-Toxin]]
+
+===== Quellenangabe =====
+
+  * {{cbrn:allgemein:hinweise_abc_kampfstoffe.pdf|Einsatzleiterkarten für den Einsatz mit ABC-Kampfstoffen, Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2011}}. Nutzung mit freundlicher Genehmigung.
+
+===== Stichwörter =====
+
+Pilze der Gattung Fusarium

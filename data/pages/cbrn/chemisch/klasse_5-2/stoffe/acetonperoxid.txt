@@ -1,0 +1,41 @@
+====== Acetonperoxid ======
+
+Acetonperoxid, auch TATP oder APEX genannt, ist ein organisches Peroxid.
+
+===== zu treffende Maßnahmen =====
+
+  * Kampfmittelräumdienst verständigen
+  * Behälter nicht berühren! Keine Probenahme o.ä.!
+  * [[allgemein:raeumung|Gebäude räumen]]
+
+==== besondere Gefahren ====
+
+  * Zündung des Stoffs bereits durch geringste äußere Einflüsse, z.B. Lichteinstrahlung, möglich!
+  * Reibung des Verschlusses beim Öffnen eines Gefäßes reicht zur Zündung aus!
+  * Hohe Detonationsgeschwindigkeit, Massenexplosiongefährlich
+  * [[cbrn:allgemein:cbrn-lexikon:aggregatszustaende|Sublimierendes]] Acetonperoxid kann sich im ganzen Raum wieder absetzen, auch auf Einrichtungsgegenständen, etc.
+  * Bei einer Zündung wird das Acetonperoxid nicht zwangsläufig komplett umgesetzt; nach einer Detonation befinden sich die Kristalle überall im Raum.
+  * Bildung von ätzenden Dämpfen möglich
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+{{ cbrn:chemisch:klasse_5-2:stoffe:acetonperoxid.jpg?nolink&300|Acetonperoxid}}
+
+  * Acetonperoxid kann aus Haushaltschemikalien hergestellt werden und wird am ehesten im privaten Bereich anzutreffen sein. Aufgrund der Handhabungsunsicherheit wird es im gewerblichen Bereich nicht eingesetzt, lediglich in Kleinstmengen zu Forschungszwecken.
+  * Acetonperoxid kann unter Wasser etwas sicherer gelagert werden, ist aber trotzdem nicht handhabungssicher
+
+==== Stoffeigenschaften ====
+
+  * Farblose bis gelbliche Kristalle
+  * würziger Geruch
+  * Sprengkraft entspricht der von TNT
+
+===== Quellenangabe =====
+
+  * LKA Berlin
+  * [[wpde>Acetonperoxid|Eintrag für Acetonperoxid]] bei Wikipedia
+  * [[https://commons.wikimedia.org/wiki/File:Acetone_peroxide.jpg|Foto Acetonperoxid]]: veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/w/index.php?title=User:Spatula_Tzar|Spatula_Tzar]] unter Public-Domain-Lizenz
+
+===== Stichwörter =====
+
+Sprengstoff, Explosion, Bombe

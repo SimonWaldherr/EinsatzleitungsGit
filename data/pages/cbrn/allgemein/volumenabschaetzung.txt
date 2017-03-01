@@ -1,0 +1,112 @@
+====== Volumen- und Volumenstromabschätzung ======
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Volumenstromabschätzung ====
+
+=== Tropfleckage ===
+
+ca. 1 Liter/Minute
+
+nach vfdb-Richtlinie 10/05-3
+
+=== Flanschleckage ===
+
+Undichtigkeit aufgrund versagender Dichtung oder Verschraubung:
+
+^  Nennweite\\ in mm  ^  Leckagemenge\\ Liter/Minute  ^
+|  DN 25              |  25                           |
+|  DN 50              |  50                           |
+|  DN 100             |  100                          |
+
+nach vfdb-Richtlinie 10/05-3
+
+=== Rohr- und Behälterleckage ===
+
+Abriss einer Rohrleitung oder Loch in einem Behälter:
+
+^  Nennweite\\ in mm  ^  Abschätzung  ^  Leckagemenge\\ Liter/Minute  ^
+|  DN 25   |  Fingerdick         |  125  |
+|  DN 50   |                     |  500  |
+|  DN 80   |  Armdick            |  1300  |
+|  DN 100  |  Armdick/Faustdick  |  2000  |
+|  DN 125  |  Faustdick          |  3125  |
+|  DN 150  |                     |  4500  |
+
+nach vfdb-Richtlinie 10/05-3
+
+=== Risse in Rohrleitungen ===
+
+^ Durchmesser   ^  anzunehmende Austrittsfläche  ^
+|  bis DN 100   |  0,01 x (DN)²  |
+|  über DN 100  |  100 mm²       |
+
+nach Ermittlung und Berechnung von Störfallablaufszenarien, Bundesumweltamt
+
+==== Größenordnungen von Behältern ====
+
+^  Behälter  ^  geschätztes Volumen\\ in Litern  ^
+| Kleingebinde, handelsüblich                                                         |  1 - 10  |
+| Druckgasbehälter                                                                    |  1 - 120.000  |
+| - Druckgasflaschen                                                                  |  bis 50  |
+| - Druckgastransportbehälter                                                         |  bis 500  |
+| - Druckgastankwagen - Behälter oder Flaschenbündel                                  |  bis 30.000  |
+| - Druckgaskesselwagen                                                               |  bis 120.000  |
+| Fässer                                                                              |  10 - 200  |
+| Großpackmittel (z.B. IBC, Bigbag (FIBC), ...)                                       |  100 - 4.000  |
+| ISO-Tank (Transport Straße/Schiene/Schiff)                                          |  15.000 - 30.000  |
+| Kammer eines Tankwagens (Straße)                                                    |  3.000 - 30.000  |
+| [[cbrn:chemisch:gefahrgut_eisenbahn|Kesselwagen (Eisenbahn)]] |  10.000 - 120.000  |
+| Binnenschiff                                                                        |  30.000 - 1.000.000  |
+| Tanklager                                                                           |  100.000 - 10.000.000  |
+
+nach vfdb-Richtlinie 10/05-3. Das Volumen von Eisenbahn-Kesselwagen wurde von 80.000 auf 120.000 Liter geändert, da die DB in Ihren Unterlagen für Einsatzkräfte diese Maximalmenge angibt.
+
+==== technische Daten von Druckgasbehältern (Gasflaschen) ====
+
+Siehe die Seite [[cbrn:allgemein:kennzeichnung:gasflaschenkennzeichnung|Gasflaschenkennzeichnung]] für Schulterfarben von Gasflaschen.
+
+Fa. Air Liquide (Auszug aus Tabellen)
+
+=== Einsatzbereiche der Flaschentypen und -größen ===
+
+^ für Luftgase, [[cbrn:chemisch:klasse_2:stoffe:wasserstoff|Wasserstoff]], [[cbrn:chemisch:klasse_2:methan|Methan]] und andere | 10, 20, 33 oder 50 Liter Rauminhalt mit einem Druck von 200 oder 300 bar |
+^ für Kohlendioxid                             | Füllmenge 6, 10, 20, 25 oder 30 kg |
+^ für [[cbrn:chemisch:klasse_2:stoffe:acetylen|Acetylen]]                                 | 10, 20, 40, 50 Liter Rauminhalt (die gelöste Menge an Acetylen ist abhängig von der porösen Masse und dem Lösungsmittel) |
+^ für [[cbrn:chemisch:klasse_2:stoffe:fluessiggas|Propan]]                                   | Füllmenge 5, 11, 33 kg |
+
+=== Aluminiumflaschen ===
+
+^ Rauminhalt / Flaschengröße                    ^  1 l  ^  2 l  ^  10 l  ^  40 l  ^
+^ Fülldruck (bar)                               |  200  |  200  |  200   |  200   |
+^ Gasinhalt expandiert ca. in m³ (15 °C, 1 bar) |  0,2  |  0,4  |   2    |   8    |
+
+=== Druckgasbehälter für verflüssigte Gase ( z.B. Propan / Butan ) ===
+
+^ Rauminhalt / Flaschengröße     ^  12,35 l  ^  13,4 l  ^  27,2 l  ^  79 l  ^
+^ Gasinhalt expandiert ca. in kg |  5        |  10      |   11     |   33   |
+
+=== Edelstahlflaschen ===
+
+^ Rauminhalt / Flaschengröße                    ^  10 l  ^  10 l  ^  40 l  ^  47 l  ^  50 l  ^
+^ Fülldruck (bar)                               |  40    |  200   |  200   |  40    |  40    |
+^ Gasinhalt expandiert ca. in m³ (15 °C, 1 bar) |  0,4   |   2    |   8    |   1,9  |  2     |
+
+=== Stahlflaschen ===
+
+^ Rauminhalt / Flaschengröße                    ^  0,385 l  ^  1 l  ^  2 l  ^  10 l  ^  10 l  ^  10 l  ^  20 l  ^  20 l  ^  33 l  ^  50 l  ^  50 l  ^
+^ Fülldruck (bar)                               |  200      |  200  |  200  |  150   |  200   |  300   |  200   |  300   |  300   |  200   |  300   |
+^ Gasinhalt expandiert ca. in m³ (15 °C, 1 bar) |  0,08     |  0,2  |  0,4  |  1,5   |   2    |   3    |   4    |   6    |  10    |  10    |  15    |
+
+=== Stahlflaschen für unter Druck gelöste Gase (Acetylen) ===
+
+^ Rauminhalt / Flaschengröße                    ^  10 l  ^  20 l  ^  40 l  ^  50 l  ^
+^ Fülldruck (bar)                               |  18,5  |  18,5  |  18,5  |  18,5  |
+^ Gasinhalt expandiert ca. in m³ (15 °C, 1 bar) |  1,6   |  4     |  6,3   |  10    |
+
+===== Quellenangabe =====
+
+  * vfdb-Richtlinie 10/05: Gefahrstoffnachweis im Feuerwehreinsatz, Teil 3: Qualifikation des Personals, Auswertung und Personenschutz
+  * [[https://www.umweltbundesamt.de/publikationen/ermittlung-berechnung-von-stoerfallablaufszenarien|Ermittlung und Berechnung von Störfallablaufszenarien nach Maßgabe der 3. Störfallverwaltungsvorschrift]], Umweltbundesamt
+  * [[http://www.airliquide.de/loesungen/produkte/gase/lieferformen/cylinder-versorgung.html]]
+  * [[allgemeine_hilfe:allgemein:leitfaden_hilfeleistungseinsaetze_bahn]]

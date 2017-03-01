@@ -1,0 +1,24 @@
+====== Krankenhaus / Altenheim ======
+
+===== zu treffende Maßnahmen =====
+
+  * bei tatsächlichem Brand sehr wahrscheinlich [[allgemein:manv|MANV]] -> von Anfang an An- und Abfahrtswege freihalten; Einweisung nachrückender Kräfte, evtl. Einbahnregelung vorsehen
+  * Erkundung: Besondere Gefahren beachten:
+    * [[cbrn:atomar:start|Strahlung]] --> Röntgen- und [[brand:supraleitende_magnete|CT-Anlagen]], Laseranlagen
+    * [[cbrn:biologisch:start|Biologische Gefahren]] --> infektiöses Material
+    * [[cbrn:atomar:start|Radioaktive Gefahren]] --> evtl. durch Patienten selbst (Implantate, Tumorbehandlung)
+    * [[cbrn:chemisch:klasse_2:start|Gas]] --> [[cbrn:chemisch:klasse_2:stoffe:sauerstoff|Sauerstoff]]-, bzw. Druckluftleitungen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Energieversorgung – Gas, Elektrizität, Wasser, Heizung --> Freischaltung nur in Absprache mit Klinikpersonal!
+  * Patienten zuerst horizontal in benachbarte Brandabschnitte bringen\\ Umfangreichere Hinweise im Artikel [[allgemein:raeumung#spezialfallraeumung_von_krankenhaeusern_alten-_und_pflegeheimen|Räumung]]
+  * Patientenanzahl über Zimmerbelegungslisten ermitteln
+
+===== Quellenangabe =====
+
+  * Einsatzleiterhandbuch BF Kaiserslautern
+
+===== Stichwörter =====
+
+Klinik, Spital, Altersheim, Seniorenzentrum

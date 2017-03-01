@@ -1,0 +1,150 @@
+====== 1. Kaiserslauterer Gefahrstofftag an der TU Kaiserslautern  ======
+
+====== Das Einsatzleiterwiki im Gefahrstoffeinsatz ======
+
+Begleitschrift zum Vortrag am 10.10.2015
+
+===== ​Kurzvorstellung des Einsatzleiterwikis =====
+
+Das Einsatzleiterwiki ist ein elektronisches Einsatzleiterhandbuch. Es dient dem Einsatzleiter als Gedankenstütze und Recherchebasis für selten eintretende oder schwierige Einsätze. Der Inhalt ist nach Einsatzsituationen für Brand-, Technische-Hilfe- und Gefahrstoffeinsätze unterteilt und umfasst ebenfalls weitere Unterbereiche wie allgemeine Informationen. Dabei sind die Inhalte stets daran orientiert, was der Einsatzleiter unbedingt beachten muss, damit wichtige Informationen nicht zwischen Belanglosigkeiten untergehen. Zudem können in den „lokalen Bereich“ Daten der eigenen Feuerwehr abgelegt werden.
+
+Das Projekt wurde im Rahmen einer Bachelorarbeit in Kooperation mit der Hochschule Magdeburg-Stendal und der Berufsfeuerwehr Kaiserslautern begonnen. Seit dem Ende der Bachelorarbeit im Mai 2011 wird das Programm stetig weiterentwickelt. Es ist als freie Software komplett entgeltfrei verfügbar. Seit Beginn des Projekts konnten auf der Internetseite über 330.000 Besucher verzeichnet werden. Rund 800 Nutzer haben bereits davon Gebrauch gemacht das Einsatzleiterwiki für den Offline-Betrieb auf den eigenen Computer herunterzuladen, darunter auch einige deutsche Berufsfeuerwehren.
+
+Besuchen Sie für den aktuellen Stand der Informationen bitte auch die Informationsseite zum Projekt unter http://einsatzleiterwiki.de/index.php/informationen
+
+===== ​ Anwendungsbeispiele =====
+
+Insbesondere für den Gefahrstoffeinsatz werden im Einsatzleiterwiki umfassende Informationen vorgehalten. Einige Beispiele dafür werden im Folgenden erläutert. Zuerst soll aber die Bedienoberfläche erklärt werden:
+
+==== Start des Einsatzleiterwikis und Bedienoberfläche ====
+
+Beim Start des Einsatzleiterwikis sehen Sie die Startseite, die alle Hauptkategorien zeigt:
+
+{{:wiki:hilfe:demonstration:startseite_wiki.png?nolink&600|Startseite}}
+
+Für die reine Bedienung ist die Navigation (1. bzw. 2.) und das Suchfeld für die [[wiki:hilfe:suche|Volltextsuche]] (3.) wichtig. Klicken Sie nun auf [[cbrn:start|ABC-/GSG-Einsätze]].
+
+==== Kategorie „ABC-/GSG-Einsätze“ ====
+
+Auf der Seite [[cbrn:start|ABC-/GSG-Einsätze]] sind die Inhalte, soweit möglich, nach den ADR-Klassen bzw. Maßnahmengruppen nach FwDV 500 sortiert. Somit ist ein schneller Zugriff möglich ohne die Suchfunktion nutzen zu müssen.
+
+Unterhalb dieser Tabelle sind alle weiteren Unterkategorien systematisch aufgelistet, die sich nicht in das eben genannte Schema einsortieren lassen. Dies sorgt für eine abschließende Aufzählung aller Inhalte.
+
+Öffnen Sie nun die Seite [[cbrn:chemisch:klasse_2:stoffe:acetylen|Acetylen]], die Sie unter dem Punkt „besondere Stoffe der Klasse 2“ finden.
+
+Die wichtigsten Einsatzhinweise sind unter dem Punkt „zu treffende Maßnahmen“ und den zugehörigen weiteren Unterteilungen zu finden.
+
+Im Fließtext sehen Sie immer wieder grüne Schrift. Dies sind Verlinkungen in andere Artikel. Klicken Sie nun im Artikel Acetylen auf den Auflistungspunkt [[cbrn:geraete:ex-messgeraet|bei Einsatz eines EX-Messgeräts Kalibrierung beachten/umrechnen]], und Sie gelangen zu einer der herausragenden Funktionen des Einsatzleiterwikis, den interaktiven Berechnungen.
+
+==== ​ Berechnungen für Explosionsgrenzen-Messgeräte ====
+
+Ex-Messgeräte zur Messung von explosionsgefährdeten Atmosphären sind immer auf ein bestimmtes Gas kalibriert, gängige Kalibrierstoffe sind z.B. Methan oder Nonan. Der angezeigte Messwert in % der unteren Explosionsgrenze (UEG) gilt aber nur für den Kalibrierstoff. Soll ein anderes brennbares Gas oder brennbarer Dampf gemessen werden, so muss der angezeigte Wert für diesen umgerechnet werden. Hier können teils erhebliche Abweichungen auftreten!
+
+In der Theorie gibt es für jedes Ex-Messgerät bzw. den entsprechenden Sensor Umrechnungsfaktoren für den zu messenden Stoff. In der Praxis können aber einfach die Werte der UEG des Kalibrierstoffs und des zu messenden Stoffs ins Verhältnis gesetzt werden, da die sich hieraus ergebende Abweichung vom korrekten Umrechnungsfaktor wesentlich geringer ist als die Messungenauigkeit des Ex-Messgeräts.
+
+Hier ein Rechenbeispiel:
+
+Ihr Messgerät ist auf Methan kalibriert, Sie möchten aber das Flüssiggas Propan messen. Die entsprechenden UEGs der Stoffe lauten:
+
+Methan:	4,4 Vol.-%\\
+Propan:	1,7 Vol.-%
+
+Teilt man die UEG von Methan durch die von Propan, so erhält man ein Verhältnis von ca. 2,6. Der auf dem Messgerät angezeigte Wert muss also mit 2,6 multipliziert werden, um den korrekten Messwert zu erhalten.
+
+Nimmt man einen Anzeigewert von 9% UEG an, der knapp unter der üblicherweise verwendeten ersten Alarmschwelle von 10% UEG liegt, so sind real schon 23% UEG überschritten.
+
+All diese Rechenschritte können durch das Einsatzleiterwiki erledigt werden. Die Berechnung ist auf der Seite [[cbrn:geraete:ex-messgeraet|Ex-Messgeräte]] zu finden.
+
+Dafür müssen in der Eingabemaske nur Messwert, UEG des Kalibrierstoffs und UEG des zu messenden Stoffs eingetragen werden. Optional kann noch der Grenzwert angepasst werden.
+
+{{:wiki:gefahrstofftag_kl_2015:ex-messgeraet_1.png?nolink|Eingabemaske Berechnungen für Explosionsgrenzen-Messgeräte}}
+
+Nach einem Klick auf die Schaltfläche „tatsächliche % UEG abschätzen“ werden die Berechnungsergebnisse angezeigt:
+
+{{:wiki:gefahrstofftag_kl_2015:ex-messgeraet_2.png?nolink|Ergebnisse Berechnungen für Explosionsgrenzen-Messgeräte}}
+
+==== ​ Berechnungen für den Strahlenschutzeinsatz ====
+
+Strahlenschutzeinsätze sind von vielen Einsatzkräften gefürchtet. Dies liegt nicht zuletzt auch daran, dass bei der Berechnung von einsatzrelevanten Werten mit abstrakten Größen umgegangen werden muss und hier nicht unbedingt Routine vorherrscht.
+
+Auch für den Strahlenschutzeinsatz sind im Einsatzleiterwiki mehrere Berechnungsmöglichkeiten vorhanden. Diese finden Sie auf der Seite [[cbrn:atomar:strahlenschutzberechnungen|Strahlenschutzberechnungen]].
+
+Bei diesen kann beispielsweise ausgerechnet werden, wie lange sich ein Trupp bei einer konkret gemessenen Dosisleistung an der Einsatzstelle aufhalten darf.
+
+Mindestens erforderlich ist die Angabe eines Dosisleistungs-Messwerts. Optional kann auch noch der Dosisrichtwert und die bereits verstrichene Zeit angegeben werden, die sich der Trupp schon an der Einsatzstelle befindet, um weitere Ergebnisse zu erhalten.
+
+Als Beispiel wird eine Dosisleistung von 23 mSv/h gemessen, es handelt sich um einen Einsatz zum Schutz von Sachwerten (→ Dosisrichtwert 15 mSv), und der Trupp befindet sich bereits 30 Minuten an der Einsatzstelle:
+
+{{:wiki:gefahrstofftag_kl_2015:strahlenschutz_1.png?nolink&600|Eingabemaske Berechnungen für den Strahlenschutzeinsatz}}
+
+Nach einem Klick auf die Schaltfläche zum Berechnen erscheint das Ergebnis:
+
+{{:wiki:gefahrstofftag_kl_2015:strahlenschutz_2.png?nolink|Ergebnisse Berechnungen für den Strahlenschutzeinsatz 1}}
+
+Wird nun die Aufenthaltsdauer an der Einsatzstelle von 30 auf 50 Minuten geändert, so wird der Dosisrichtwert überschritten. Dies wird vom Programm deutlich angezeigt:
+
+{{:wiki:gefahrstofftag_kl_2015:strahlenschutz_3.png?nolink|Ergebnisse Berechnungen für den Strahlenschutzeinsatz 2}}
+
+==== ​ Einfaches Ausbreitungsmodell ====
+
+Für erste Abschätzungen ist in das Einsatzleiterwiki ein einfaches Ausbreitungsmodell integriert. Es basiert auf einer Idee der Hessischen Landesfeuerwehrschule Kassel und ist auf der folgenden Seite zu finden:
+
+[[cbrn:chemisch:klasse_2:ausbreitungsmodell]]
+
+Folgende Schritte werden bei der Berechnung des Ausbreitungsmodells ausgeführt:
+
+  - Berechnung des expandierten Volumens (Behältervolumen multipliziert mit dem Behälterdruck)\\ **oder**\\ Volumenermittlung durch Masse des Stoffs multipliziert mit der molaren Masse
+  - Ermittlung des maximal gefährlichen Volumens. Dafür wird das eben ermittelte Volumen durch die niedrigste gefährliche Konzentration dividiert. Beträgt das expandierte Volumen des Behälters z.B. 5m³ und die gefährliche Konzentration 1%, so können daraus 500m³ (5m³ geteilt durch 0,01).
+  - Das so ermittelte maximale gefährliche Volumen wird nun in Form eines Zylinders gebracht. Dafür muss allerdings vom Anwender eine Schichtungshöhe vorgegeben werden. Anhand dieser wird dann der Radius berechnet, der als Gefahrenbereich ausgewiesen wird.
+
+Dieses einfache Ausbreitungsmodell unterliegt allerdings einigen Festlegungen:
+
+  * Es wird vom schlagartigen, vollständigen Stoffaustritt ausgegangen.
+  * Die Konzentration ist an jedem Punkt gleich hoch.
+  * In dieser einfachen Abschätzung wird von Windstille ausgegangen. Evtl. wird es in einer späteren Version auch eine Berechnung für Windverhältnisse geben, wo als geometrische Form statt eines Zylinders dann eine Keule zur Anwendung kommt.
+  * Die Abschätzung ist sehr konservativ, also auf Sicherheit ausgelegt. Als Konsequenz treffen die Ergebnisse bei Freisetzungen aus kleinen Behältern („Gasflaschen“) relativ gut zu, beim Versagen eines Eisenbahn-Kesselwagens werden allerdings utopische Absperrgrenzen empfohlen. Daher sollten die Ergebnisse, wie generell bei jeder Berechnung üblich, auch immer kritisch betrachtet werden.\\ Im konkreten Fall sollte bei großen Behältern eine Menge berechnet werden, die auch realistisch austreten wird, um nutzbare Berechnungsergebnisse zu erhalten.
+
+Als Rechenbeispiel wird hier nun die Freisetzung von Ammoniak angenommen. Der Einsatztoleranzwert (ETW) von Ammoniak beträgt 110 ppm. Übliche Gebinde sind Druckgasflaschen mit einem Inhalt von 26,5 kg. Da bei einer Leckage Ammoniak tiefkalt austritt und sich zusätzlich noch an die Luftfeuchtigkeit bindet, zeigt es trotz der molaren Masse von 17 g/mol ein Schwergasverhalten und wird sich am Boden sammeln. Dies sind ausreichende Informationen, um sie in das Eingabeformular für die Ausbreitungsabschätzung einzutragen:
+
+{{:wiki:gefahrstofftag_kl_2015:ammoniak_1.png?nolink|Eingabemaske einfaches Ausbreitungsmodell}}
+
+​Das Ergebnis für diese Eingabe lautet:
+
+{{:wiki:gefahrstofftag_kl_2015:ammoniak_2.png?nolink|Ergebnis einfaches Ausbreitungsmodell}}
+
+​ Zu diesem Ergebnis ist nochmals anzumerken, dass die Berechnung einerseits sehr konservativ ausgelegt ist, und andererseits von einer kompletten Freisetzung augegangen wird (bei teilweisen Freisetzungen ggf. geringere Werte eintragen). Zudem wird sich wahrscheinlich noch eine größere Schichtungshöhe einstellen.
+
+==== ​EriCards ====
+
+Im Einsatzleiterwiki sind ebenfalls die EriCards eingebunden. Diese entsprechen selbstverständlich 1:1 den Original-EriCards, allerdings sind gewisse Schlagworte mit Links unterlegt, die zu weiteren Themen im Einsatzleiterwiki führen, zum Beispiel dem Schaum-Einsatz.
+
+Um die EriCard zu einem Stoff zu finden, geben Sie am Besten die Buchstaben un gefolgt von der UN-Nummer ins Suchfeld ein, z.B. un1223 für Kerosin. Alternativ kann auch der Stoffname verwendet werden, allerdings sind keine Synonyme für die Stoffe eingepflegt, sodass die Suche nach der UN-Nummer i.d.R. bessere Ergebnisse erbringt.
+
+==== Hinterlegte Dateien, z.B. Formulare ====
+
+An vielen Stellen im Einsatzleiterwiki werden nicht nur die reinen Wiki-Inhalte vorgehalten, sondern es sind außerdem Dateien hinterlegt. Dies können entweder weitergehende Informationen sein, oder aber auch Druckvorlagen, Formulare, etc.
+
+==== ​Einsatzleiterwiki auf dem ausgegebenen USB-Sticks ====
+
+​Auf dem USB-Stick, den Sie zum Seminar erhalten haben, ist ebenfalls eine Version des Einsatzleiterwikis abgelegt welche direkt vom USB-Stick lauffähig ist.
+
+​Um das Wiki zu starten stecken Sie den USB-Stick an Ihren Computer mit Microsoft Windows an und öffnen den Ordner „EinsatzleiterwikiStick“. Darin befindet sich die Datei „start“ bzw. „start.cmd“ (je nach Ihren Anzeige-Einstellung). Klicken Sie doppelt auf diese Datei, und folgendes Fenster wird sich öffnen:
+
+{{:wiki:gefahrstofftag_kl_2015:wiki_stick_start_3.png?nolink&500|Eingabeaufforderung EinsatzleiterwikiStick}}
+
+Kurz darauf wird sich zusätzlich ein Fenster von der Windows-Firewall öffnen:
+
+{{:wiki:gefahrstofftag_kl_2015:wiki_stick_start_2.png?nolink&500|Firewall EinsatzleiterwikiStick}}
+
+Setzen Sie hier Haken bei öffentlichen und privaten Netzwerken, andernfalls können Sie das Wiki möglicherweise nicht benutzen.
+
+Zwischenzeitlich sollte im Hintergrund schon Ihr Standard-Browser (Internet Explorer, Firefox, …) geöffnet worden sein, und Sie können mit der Benutzung Ihres Wikis beginnen.
+
+Die Zugangsdaten für den Administrationsbereich lauten
+
+Benutzername: Admin\\
+Passwort: admin
+
+==== ​ Kontakt ====
+
+Bitte rufen Sie die Seite [[wiki:rechtliches]] für aktuelle Kontaktinformationen auf.

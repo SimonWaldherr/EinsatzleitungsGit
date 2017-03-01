@@ -1,0 +1,40 @@
+====== Buttersäure (Butansäure) ======
+
+Buttersäure ist der Trivialname der Butansäure. Diese ist farblos und ölig. Aufgrund des höchst unangenehmen und schwer zu bekämpfenden Geruchs (Fußschweiß, Erbrochenes) wird dieser Stoff vermehrt bei Sachbeschädigungen eingesetzt.
+
+===== zu treffende Maßnahmen =====
+
+  * Atemschutz und Säureschutzhandschuhe anlegen
+  * Absperrung und Räumung des Objektes
+  * Flüssigkeit eindeichen, Ausbreitung verhindern
+  * Verunreinigte Stellen mit angefeuchteten Lackmuspapier aufspüren
+  * „Anti-Buttersäure-Reagenz“ (siehe unten) mit entsprechender Schutzkleidung (Handschuhe und Atemschutz) auftragen
+  * siehe auch [[cbrn:ericards:klasse_8:28201720|ERICard "Buttersäure" (UN-Nr. 2820)]]
+
+==== besondere Gefahren ====
+
+  * Unangenehmer Geruch (Geruchsschwelle 0,001ppm)
+  * Atemgift mit Reiz- und Ätzwirkung
+  * Brennbar (Flammpunkt 72°C)
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Neutralisation des Geruchs ====
+
+Besprühung der Buttersäure-Kontamination durch ein Gemisch aus
+
+  * ca. 70% Ethanol und
+  * ca. 30% Ortho‑Phosphorsäure
+
+welches einen [[cbrn:allgemein:cbrn-lexikon:ph-wert|pH-Wert]] von ca. 3 besitzt, um einen Geruch nach Ananas zu erhalten.
+
+Um statt dem Ananas- einen Aprikosen-Geruch zu erhalten kann das Ethanol durch Pentanol ersetzt werden.
+
+<WRAP center round tip 100%>
+Falls keine chemisch reinen Stoffe vorhanden sind, kann statt Ethanol auch Brennspiritus und statt Ortho‑Phosphorsäure auch Cola verwendet werden.
+</WRAP>
+
+===== Quellenangabe =====
+
+  * Einsatzleiterhandbuch Feuerwehr Kaiserslautern
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr

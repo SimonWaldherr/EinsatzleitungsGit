@@ -1,0 +1,26 @@
+====== Wasserschaden ======
+
+===== zu treffende Maßnahmen =====
+
+  * ggf. [[allgemein:elektrische_anlagen#freischalten_von_gebaeuden_durch_energieversorger|Energieversorger zur Abschaltung]] überschwemmter Elektroversorgung nachfordern
+    * bei überschwemmten Wohnungen ggf. angrenzende Nutzungseinheiten ebenfalls stromlos schalten lassen
+  * Gibt es Einrichtungen im Objekt die unbedingt auf Strom-/Wasserversorgung angewiesen sind (z.B. Dialyse-Praxis)?
+
+==== besondere Gefahren ====
+
+  * Elektrischer Schlag aufgrund überschwemmter elektrischer Leitungen
+  * [[cbrn:start|gefährliche Stoffe]] im betroffenen Bereich?
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * bei überschwemmten Kellern, insbesondere wenn der Keller nicht für Wohn- oder geschäftliche Zwecke verwendet wird, sind Stromleitungen in der Regel nicht weiter herunter als in 1 m Höhe verlegt. Hierbei muss aber beachtet werden, dass eingesteckte elektrische Geräte auch eine Gefahr darstellen können wenn diese direkt auf dem Boden stehen.
+  * Feuerwehrstromerzeuger zum Betrieb der Tauchpumpe nutzen, Anschluss an Steckdosen im Schadensobjekt nur mit Fehlerstromschutzschalter
+  * Bei Schaden an der Wasserleitung: Zuständigkeit bis einschließlich der Wasseruhr liegt beim Versorger, dahinter beim Objekteigentümer
+
+===== Quellenangabe =====
+
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+
+===== Stichwörter =====
+
+Wasser im Keller

@@ -1,0 +1,21 @@
+====== Alkoholvergiftung (Alkoholintoxikation) ======
+
+===== zu treffende Maßnahmen =====
+
+  * auf Eigenschutz achten (unvorhersehbare Reaktionen des Alkoholisierten)
+
+Bei Bewusstlosigkeit:
+
+  * in stabile Seitenlage bringen
+  * Atemwege freihalten
+  * warm halten (Gefahr der [[erste_hilfe:unterkuehlung|Unterkühlung]])
+  * Sauerstoff geben falls vorhanden
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * gleichzeitige [[erste_hilfe:unterzuckerung|Unterzuckerung (Hypoglykämie)]] möglich
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_Alkoholvergiftung.pdf|Erste-Hilfe kompakt - Notfallstichwort Alkoholvergiftung]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_Vergiftung.pdf|Erste-Hilfe kompakt - Notfallstichwort Vergiftung]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband

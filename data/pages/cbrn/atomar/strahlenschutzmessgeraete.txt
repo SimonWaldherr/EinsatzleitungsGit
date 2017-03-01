@@ -1,0 +1,100 @@
+====== Strahlenschutzmessgeräte ======
+
+===== Zu treffende Maßnahmen =====
+
+  * Registrierung welche Einsatzkraft welches Messgerät mit welcher Seriennummer trägt (insbesondere bei Gleitschatten-Filmdosimetern!)
+  * Beachtung der Vorzugsrichtung (meist gekennzeichnet durch einen farbigen Punkt oder eine Einkerbung), bei Abweichung von der Vorzugsrichtung erhebliche Verfälschung der Messwerte!
+  * Darauf achten dass das Gerät nicht kontaminiert wird
+  * Verwendung der richtigen Maßeinheiten / Anzeigenskala
+  * Insbesondere bei schwachen Strahlern das Messgerät langsam bewegen, um dem Gerät genug Zeit zum Messen zu geben
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+<WRAP center round important 100%>
+Die hier abgebildeten Geräte sind beispielhaft aufgeführt. In der jeweiligen örtlichen Feuerwehr können auch andere Geräte bzw. Geräte von anderen Herstellern verwendet werden.
+</WRAP>
+
+
+==== Dosisleistungsmessgerät ====
+
+{{ cbrn:atomar:automess_ad-t.jpg?nolink&130|Teleskopsonde}} {{cbrn:atomar:automess_6150_ad_2.jpg?nolink&250 |Dosisleistungsmessgerät}}
+
+Der Einsatzbereich des Dosisleistungsmessgeräts ist die kontinuierliche Dosisleistungsmessung. Meist wird nur Gamma-Strahlung gemessen, beim Einsatz spezieller Sonden ist aber auch der Nachweis von Beta-Strahlung möglich. Die Messeinheiten sind in der Regel Sv/h, mSv/h, µSv/h und nSv/h.
+
+Bei hohen Dosisleistungswerten empfiehlt sich der Einsatz einer Teleskopsonde (Abbildung rechts). Diese ist stufenlos auf eine Länge von bis zu 4 Metern ausziehbar. Aufgrund des quadratischen Abstandsgesetzes beträgt die Dosisleistung am Standort des Messenden bei einem Meter Abstand zum Strahler nur 1/16 des Messwertes an der Spitze der Teleskopsonde (bzw. des Punkts, an dem die Einsatzkraft ohne Teleskopsonde stehen würde).
+
+==== Dosisleistungswarngerät ====
+
+{{cbrn:atomar:dlw_wiki_klein.jpg?nolink&250 |Dosisleistungswarngerät}}
+
+Das Dosisleistungswarngerät dient zur Festlegung der Grenze des Gefahrenbereichs (bei einer Dosisleistung von 25 µSv/h). Die Warnschwelle ist meist voreingestellt, kann aber teilweise geändert werden. Das Gerät registriert nur Gamma-Strahlung.
+
+==== Dosiswarngerät ====
+
+{{cbrn:atomar:dw_3_wiki_klein.jpg?nolink&250 |Dosiswarngerät}}
+
+Das Dosiswarngerät alarmiert beim Erreichen der jeweils eingestellten Alarmschwelle. Diese sind, entsprechend der [[cbrn:atomar:dosisrichtwerte|Dosisrichtwerte]], 15 mSv, 100 mSv, 250 mSv und 1 mSv. Es kann nur Gamma-Strahlung registrieren.
+
+Grundsätzlich wird immer erst die (für den Einsatz) niedrigste Stufe 15 mSv eingestellt und beim Erreichen dieser, nach Rücksprache mit dem Einheitsführer, auf die nächsthöhere Stufe weitergeschaltet.
+
+==== Gleitschatten-Filmdosimeter  ====
+
+{{cbrn:atomar:filmdosimeter.jpg?250&nolink |Filmdosimeter}}
+
+Das Gleitschatten-Filmdosimeter ist von jeder Person zu tragen, die im Strahlenschutzeinsatz tätig wird. Es wird nur Gamma-Strahlung registriert. Es ist der einzige amtliche Nachweis über die aufgenommene Dosis.
+
+Beim Einlegen des Films in das Gehäuse ist zu beachten, dass dies richtig herum geschieht. Die Nummer des Films muss durch ein Fenster oder Loch im Gehäuse zu lesen sein.
+
+Bei der Befestigung an der Kleidung muss die Seite des Dosimeters, auf der die Nummer des Films lesbar ist, nach vorne zeigen (also nicht zum Körper hin). Wurde das Filmdosimeter im Einsatz falsch herum getragen und dies wird erst nach dem Einsatz bemerkt, so muss diese Tatsache auf dem Auswertebogen vermerkt werden. Die auswertende Stelle kann dann das Ergebnis unter diesem Umstand interpretieren.
+
+Der Auswertungsbogen ist ein Dokument und muss 30 Jahre lang aufbewahrt werden.
+
+==== Kontaminationsnachweisgerät ====
+
+{{  cbrn:atomar:kn_2_wiki_klein.jpg?nolink&250}}
+
+Das Kontaminationsnachweisgerät wird genutzt, um die Oberflächenkontamination von Personen und Objekten festzustellen. Außerdem dient es der Messung der Nullrate. Die Messeinheit ist [[cbrn:allgemein:cbrn-lexikon:impulse|Impulse]] pro Sekunde (Imp/s bzw. IPS) oder gleichbedeutend 1/s.
+
+Je nach Art des Zählrohrs werden unterschiedliche Gase zur Messung verwendet; diese unterscheiden sich in der möglichen Umgebungstemperatur sowie in den messbaren Strahlungsarten:
+
+  * Propan/Butan-Zahlrohr: nur Alpha- und Beta-Strahlung messbar, aber nicht bei Umgebungstemperaturen von kälter als etwa um 0°C einsetzbar. Das Zählrohr muss vor und während der Benutzung gespült werden.
+  * Xenon-Zählrohr: Alpha-, Beta- und Gamma-Strahlung messbar. Das Zählrohr muss nicht gespült werden.
+
+Modernere Geräte nutzen den
+
+  * zählgasfreien Plastikszintillationsdetektor, Alpha-, Beta- und Gamma-Strahlung messbar. Umgebungstemperaturen je nach Ausführung -10°C (CoMo-170 F Version A) oder bis -20°C (CoMo-170 ZS bzw. CoMo-170 F Version B)
+
+Für genauere Informationen die Bedienungsanleitung zur Rate zu ziehen!
+
+Durch Kombination der verschiedenen Mess-Modi kann festgestellt werden um welche Strahlungsart(en) es sich handelt. Das Vorgehen ist auf der Seite [[cbrn:allgemein:dekontamination:kontaminationsnachweis#unterscheidung_der_strahlungsarten|Kontaminationsnachweis]] beschrieben.
+
+{{  cbrn:atomar:kn_5_wiki_klein.jpg?nolink&250}}
+
+Beim Einsatz von Kontaminationsnachweisgeräten müssen insbesondere Punkte beachtet werden:
+
+  * Folie des Einfallfensters nicht beschädigen (Gerät seitlich ablegen oder Diskriminatorblech einsetzen)
+  * Abstand nicht zu groß wählen (Reichweite Alpha-Teilchen nur wenige cm!)
+
+Beim Betrieb von Propan/Butan-Zählrohren außerdem folgendes beachten:
+
+  * Brandgefahr beim Füllen und Spülen. Von Zündquellen fernhalten!
+  * Gerät beim Befüllen ausschalten
+  * Während der Benutzung regelmäßig spülen, dabei darauf achten ob sich die Folie auch aufbläht
+
+{{ cbrn:atomar:como170.jpg?nolink&250|Kontaminationsnachweisgerät CoMo-170 mit Plastikszintillationsdetektor}}
+
+Beim Betrieb des zählgasfreien Plastikszintillationsdetektors muss ebenfalls beachtet werden, dass die Mylarfolie unbeschädigt ist. Eine Leckage der Mylarfolie, die den eigentlichen Plastikszintillationsdetektor vor Lichteinfall schützt, ist durch einen erhöhten Nulleffekt schnell festzustellen. Sie kann durch den Austausch des Folienrahmens (bei größeren Beschädigungen) oder durch Abkleben (Punktleckage) mit lichtundurchlässigem Klebeband oder Ersatzfolie behoben werden.
+
+===== Quellenangabe =====
+
+  * Ausbildungsunterlagen Lehrgang ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * Foto Dosisleistungsmessgerät: https://commons.wikimedia.org/wiki/File:Automess_6150_AD_2_%281%29.jpg, veröffentlicht vom Wikipedia-User [[wpde>Benutzer:Karl_Gruber|Karl_Gruber]] unter Public-Domain-Lizenz
+  * Foto Teleskopsonde: https://commons.wikimedia.org/wiki/File:Automess_6150_AD_2_%282%29.jpg, veröffentlicht vom Wikipedia-User [[wpde>Benutzer:Karl_Gruber|Karl_Gruber]] unter Public-Domain-Lizenz
+  * Foto Filmdosimeter: [[wpde>Datei:Filmdosimeter.jpg]], veröffentlicht vom Wikipedia-User [[wpde>Benutzer:Grabowy|Grabowy]] unter Public-Domain-Lizenz
+  * Foto Kontaminationsnachweisgerät CoMo-170: Nutzung mit freundlicher Genehmigung des Herstellers S.E.A. GmbH Strahlenschutz-Entwicklungs- und Ausrüstungs-Gesellschaft 
+
+===== Stichwörter =====
+
+Filmplakette, Personendosimeter, Phosphatglasdosimeter, Dosiswarner, Bügeleisen

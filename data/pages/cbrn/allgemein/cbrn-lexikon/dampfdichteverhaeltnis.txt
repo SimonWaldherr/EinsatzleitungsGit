@@ -1,0 +1,10 @@
+====== Dampfdichteverhältnis ======
+
+Das Dampfdichteverhältnis gibt die Dichte eines Dampfs oder eines Gases im Vergleich zur Luft an. Demnach hat Luft den Wert 1.
+
+  < 1 : Der Dampf/das Gas ist leichter als Luft
+  > 1 : Der Dampf/das Gas ist schwerer als Luft
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

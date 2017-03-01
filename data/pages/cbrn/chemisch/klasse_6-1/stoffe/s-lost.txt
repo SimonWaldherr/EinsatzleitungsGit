@@ -1,0 +1,24 @@
+====== S-Lost ======
+
+Hautkampfstoff, siehe [[cbrn:chemisch:chemische_kampfstoffe|Chemische Kampfstoffe]]
+
+===== zu treffende Maßnahmen =====
+
+Zu finden auf der {{cbrn:chemisch:klasse_6-1:stoffe:lfs_bw_kampfstoffe_s-lost.pdf|Einsatzleiterkarte S-Lost}} der Landesfeuerwehrschule Baden-Württemberg.
+
+==== besondere Gefahren ====
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+===== Weblinks =====
+
+  * [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/510748.xml?f=templates&fn=default.htm|S-Lost in der Gestis-Gefahrstoffdatenbank]]
+  * [[wpde>S-Lost#Schwefelloste_.28S-Lost.29|Wikipedia: S-Lost]]
+
+===== Quellenangabe =====
+
+  * {{cbrn:allgemein:hinweise_abc_kampfstoffe.pdf|Einsatzleiterkarten für den Einsatz mit ABC-Kampfstoffen, Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2011}}. Nutzung mit freundlicher Genehmigung.
+
+===== Stichwörter =====
+
+HD, Schwefel-Lost, Yperit, Senfgas, Dichlordiethylsilfid

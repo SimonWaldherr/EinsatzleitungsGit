@@ -1,0 +1,26 @@
+====== Letzte Änderungen ======
+
+Hier wird eine Liste der Seiten angezeigt, die zuletzt bearbeitet wurden. Für jede Seite wird folgendes aufgelistet:
+
+  * der Bearbeitungszeitpunkt
+  * welcher Benutzer es war
+  * eine [[wiki:hilfe:zusammenfassung|Zusammenfassung]] der Änderungen
+
+Es stehen für jede Seite auch Links zu den [[wiki:hilfe:diff|Seiten-Unterschieden]] und den [[wiki:hilfe:aeltere_versionen|älteren Versionen]] zur Verfügung.
+
+:!: Nur die allerletzten Veränderungen sind jeweils aufgeführt, unabhängig davon wie oft eine Seite überarbeitet wurde.
+
+Vom Standard-[[wiki:hilfe:template|Template]] aus erreicht man diese Seite, indem man auf den Link "Letzte Änderungen" klickt. Dieser wird allerdings nur angezeigt wenn ein Benutzer eingeloggt ist, um im Einsatz (ohne angemeldeten Benutzer) die Bedienoberfläche so klar wie möglich zu halten. Es kann auch die Tastenkombination "ALT+R" benutzt werden, um dorthin zu gelangen. Mehr über die DokuWiki Tastenkombinationen sind hier zu erfahren: [[wiki:hilfe:schnelltasten|Schnelltasten]]
+
+Die URL und die Tastenkombination verweisen auf die Seite ''/?do=recent''. Die Informationen auf dieser Seite stammen aus dem [[doku>devel:changelog|changelog (englische Dokumentation)]].
+
+
+===== Unterschiede zwischen Letzte Änderungen und Ältere Versionen =====
+
+Der ''Letzte Änderungen'' Link zeigt eine Liste der Änderungen __aller__ Seiten des ganzen Wikis an.
+
+Der ''Ältere Versionen'' Link zeigt eine Liste der Änderungen ("History") der aktuellen Seite an.
+
+===== Quellenangabe =====
+
+  * [[doku>de:recent_changes]], veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

@@ -1,0 +1,9 @@
+====== Zehntelwertschicht ======
+
+Die Zehntelwertschicht, auch Zehntelwertdicke, gibt an welche Schichtdicke ein Material besitzen muss, um die Intensität eines radioaktiven Stoffes auf ein Zehntel zu verringern.
+
+Weitere Informationen sind im Artikel [[cbrn:atomar:physikalische_grundlagen#abschirmung|physikalische Grundlagen Strahlenschutz]] zu finden.
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

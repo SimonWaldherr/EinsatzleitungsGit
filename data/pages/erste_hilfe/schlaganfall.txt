@@ -1,0 +1,46 @@
+====== Schlaganfall (Apoplex) ======
+
+===== Diagnose =====
+
+Die Person bitten,
+
+  * zu lächeln
+  * einen einfachen Satz zu sprechen
+  * beide Arme hoch zu heben
+  * die Zunge gerade herauszustrecken
+
+Treten hier Auffäligkeiten auf, kann es sich um einen Schlaganfall handeln!
+
+===== zu treffende Maßnahmen =====
+
+  * Vitalfunktionen permanent prüfen und ggf. reagieren
+    * stabile Seitenlage bei Bewusstlosigkeit
+    * wenn nötig [[erste_hilfe:wiederbelebung|Wiederbelebung]] einleiten
+  * Rettungsdienst **mit Notarzt** (nach-) alarmieren
+  * Patienten vor weiteren Verletzungen schützen (bewegt sich unkoordiniert etc.)
+  * wenn bei Bewusstsein: Oberkörper hoch lagern
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Symptome ====
+
+  * unklare Bewusstseinsveränderung
+  * mangelnde Kommunikationsfähigkeit
+  * Wortfindungsstörungen
+  * Verwirrtheit
+  * Taubheitsgefühle
+  * Lähmungen oder Schwäche
+  * Gangunsicherheit, Gleichgewichtsstörung, Fallneigung
+  * Sehstörung, Gesichtsfeldausfall, Doppelbilder
+  * Ggf. nur eine Körperhälfte betroffen
+  * Schwindel, Übelkeit, Erbrechen
+  * Starker Kopfschmerz
+  * **viele weitere Symptome möglich!**
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_Schlaganfall.pdf|Erste-Hilfe kompakt - Notfallstichwort Schlaganfall]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband
+
+===== Stichwörter =====
+
+Hirnschlag, Gehirnschlag, Apoplexie, apoplektischer Insult, zerebraler Insult, stroke

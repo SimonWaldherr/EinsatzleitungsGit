@@ -1,0 +1,31 @@
+====== Autobahnunfall ======
+
+Allgemeine Hinweise für [[allgemeine_hilfe:verkehrsunfall:start|Verkehrsunfälle]] beachten! 
+
+===== zu treffende Maßnahmen =====
+
+{{:allgemein:absicherung_autobahn.png?direct|Absicherung BAB nach FwDV 1}}
+
+  * [[allgemein:absicherung_einsatzstelle|Absicherung der Einsatzstelle]]
+  * Erst nachdem die Vollsperrung durch die Autobahnpolizei bestätigt wurde, ist ein (vorsichtiges) Auffahren entgegen die Fahrtrichtung möglich
+  * Ausstieg zur der Fahrbahn abgewandten Seite
+  * Warnwesten anlegen
+  * Großfahrzeug als Prellbock verwenden (ohne dass sich darin Personen aufhalten)
+  * ständige An- und Abfahrt für Rettungsfahrzeuge ermöglichen
+  * Nicht benötigte Einsatzkräfte halten sich hinter der Leitplanke auf
+  * Böschungen und Randstreifen nach evtl. herausgeschleuderten Personen absuchen (ggf. mit [[allgemein:geraete:waermebildkamera]])
+  * [[allgemein:manv|MANV]]?
+  * bei größeren Unfällen auf [[allgemein:pressearbeit|Presseanfragen]] vorbereiten
+  * [[allgemein:psnv:start|Psychologische Betreuung]] Angehöriger und Einsatzkräfte
+
+==== besondere Gefahren ====
+
+  * unaufmerksame Fahrer
+
+===== Quellenangabe =====
+
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr
+
+===== Stichwörter =====
+
+Autobahn, BAB, AB

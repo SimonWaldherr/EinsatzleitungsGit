@@ -1,0 +1,87 @@
+====== Autogas-Fahrzeuge ======
+
+===== zu treffende Maßnahmen =====
+
+==== Allgemein ====
+
+[[cbrn:ericards:klasse_2:19651108|ERICard für Autogas aufrufen]]
+
+  * Flüssiggas ist schwerer als Luft
+  * [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] von 50 Metern festlegen
+  * Brandschutz sicherstellen
+  * Nicht unbedingt erforderliches Personal aus dem Gefahrenbereich abziehen
+  * mit dem Wind vorgehen, tiefer gelegene Bereiche meiden (Fahrzeugaufstellung!)
+  * geschlossene Räume (Garagen) vor Zutritt belüften
+  * Umluftunabhängigen Atemschutz und vollständige Feuerwehrschutzkleidung tragen
+  * Durch kontinuierliche Messungen evtl. Gasausbreitung feststellen
+
+==== zusätzlich bei Leckage ====
+
+  * Gefahrenbereich absperren bis Gas sich verflüchtigt hat
+  * Gas mit Drucklüfter verwirbeln (EX-Schutz beachten)
+  * Zündquellen beseitigen;
+    * u.a. Motor und Zündung abstellen
+    * Rauchen und offenes Licht untersagen
+    * Türen des Unfallfahrzeugs nicht öffnen (Innenlicht), Fenster einschlagen.
+  * Freigewordenes Produkt nicht berühren
+  * manuelle Tankabsperrung schließen (siehe dafür [[rettungsdatenblaetter:start|Rettungsdatenblätter]])
+  * Leck möglichst abdichten
+  * Gaswolke mich Sprühstrahl niederhalten
+  * Umluftunabhängigen Atemschutz und Hitzeschutzkleidung in Kombination mit kompletter Feuerwehrschutzkleidung tragen. Kälteverbrennungen durch austretendes Gas bei unvollständiger Schutzkleidung!
+  * ggf. Menschenrettung
+  * Es dürfen nur ex-geschützte Geräte im primären Gefahrenbereich eingesetzt werden, diese nach Möglichkeit außerhalb schalten
+  * Abfließen des Gases in die Kanalisation und Vertiefungen vermeiden
+
+==== zusätzlich bei Brand ====
+
+  * am Abblasventil austretendes brennendes Gas nicht löschen (Ausnahme Menschenrettung oder Ausbreitung)
+  * Umgebung kühlen
+  * Brandlasten aus dem Gefahrenbereich entfernen oder kühlen
+  * Bei fortgeschrittener Brandeinwirkung aus Deckung kühlen
+  * Flüssiggas kann sich wie Benzin brennend ausbreiten
+  * punktuelle Beflammung über längerem Zeitraum kann zum Bersten führen
+  * wenn möglich manuelle Tankabsperrung schließen (siehe dafür [[rettungsdatenblaetter:start|Rettungsdatenblätter]])
+
+==== besondere Gefahren ====
+
+  * Brand- und Explosionsgefahr
+    * austretende Gase sind leichtentzündlich
+    * Rückzündungsgefahr durch Zündquellen aus anderen Bereichen
+    * Explosionsgefahr in Gebäuden und der Kanalisation, Ansammlung vor allem in tiefer gelegenen Bereichen
+    * bei längerer Wärmeeinwirkung (bei intensiver Beflammung ca. 7 min): Gefahr des Druckbehälterzerknalls, Tankteile fliegen bis 1000m weit
+    * schlagartige Verdampfung des Flüssiggases mit heftiger Explosion (siehe [[cbrn:chemisch:klasse_2:fluessiggasberechnungen#abschaetzung_des_spontan_verdampften_anteils_bei_schlagartiger_freisetzung|Abschätzung des spontan verdampften Anteils eines Flüssiggases bei schlagartiger Freisetzung]])
+    * kleine Gasmengen reichen aus um erhebliche Mengen zündfähiges Gemisch zu erhalten
+  * Gesundheitsgefahren
+    * Schwindel- und Erstickungserscheinungen
+    * Erfrierungen bei Berührung
+    * Atemgifte bei Brand
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * bei ausgeschalteter Zündung wird das Ventil am Behälter automatisch geschlossen
+  * Bei Unklarheiten zum Antriebssystem Unfallbeteiligte/Fahrzeugpapiere befragen
+  * bei Fahrzeugbränden kann das Sicherheitsventil intervallweise öffnen und wieder schließen und das Gas währenddessen mit Stichflamme abbrennen
+  * bei älteren ausländischen Kfz kann der Tankbehälter im Brandfall versagen und den Inhalt schlagartig freisetzen
+  * Wiederinbetriebnahme des Fahrzeugs nur durch entsprechende Fachwerkstatt
+
+==== Merkmale Autogasfahrzeuge (LPG) ====
+
+  * Keine Kennzeichnungspflicht
+    * oftmals nachgerüstet, daher nicht an Schriftzug z.B. auf Heckklappe erkennbar
+  * Flüssiggastank
+    * 
+    * Schweißnähte vom Fertigungsprozess können existieren (Betriebsdruck ca. 8 bis 10 bar, Prüfdruck ca. 30 bar, Temperaturbereich -20 °C bis +65 °C)
+    * Einfüllstutzen hinter normaler Tankklappe, in Stoßfängern oder generell an Karosserie; meist im hinteren Bereich
+    * Tankvolumen:
+      * bei PKWs ca. 60 bis 200 Liter (Zylindertanks), 40 bis 85 Liter (Rundtanks), bei Nachrüstungen meist im Kofferraum (Zylindertank) oder in Reserveradmulde (Rundtank), bei Serienfahrzeugen auch unter dem Fahrzeug möglich
+      * bei Bussen ca. 650 Liter (Zylindertanks), Tanks befinden sich auf dem Dach
+  * nach Öffnen der Motorhaube zusätzliche Einspritzanlage erkennbar
+  * teilweise Umschalter und/oder Druckanzeige im Armaturenbrett
+  * Bezeichnungen: Autogas, LPG (Liquified Petroleum Gas), GPL (Gaz Petroleum Liquide), Treibgas, Propan, Butan
+  * Flüssiggas wird odoriert, bei Gasaustritt (z.B. im/am Kofferraum) ist dieses zu riechen
+
+===== Quellenangabe =====
+
+  * [[http://vfdb.de/Download-Bereich.111.0.html?&no_cache=1&L=0&tx_abdownloads_pi1[action]=getviewclickeddownload&tx_abdownloads_pi1[uid]=319&tx_abdownloads_pi1[cid]=192|vfdb-Merkblatt "Einsätze an Kraftfahrzeugen mit alternativen Antriebsarten und -kraftstoffen (Oktober 2007)]]
+  * Gerhard Schmöller, Tim Pelzl, Rolf Erbe: Einsatz an Fahrzeugen mit alternativen Antrieben. In: Brandschutz 2/2013, S. 96 ff.
+  * [[http://www.sfs-w.de/lehr-und-lernmittel/merkblaetter-broschueren/gefaehrliche-stoffe.html?no_cache=1&download=07_08_Internet_2011-07-22.pdf&did=48|Flüssiggas - Merkblatt für die Feuerwehren Bayerns]], Staatliche Feuerwehrschule Würzburg, 08/2007

@@ -1,0 +1,30 @@
+====== Dehnfugenbrand ======
+
+===== zu treffende Maßnahmen =====
+
+  * Fahrzeugaufstellung: [[:allgemein:drehleiter|Drehleiter]] zum Erreichen der Dehnfuge?
+  * Erkundung:
+      * weitere Zugänglichkeiten vorhanden, z.B. durch darunterliegende, abgehängte Decken?
+      * Sind Bereiche auf der anderen Seite der Mauer gefährdet, z.B. durch Möbel die direkt an der Wand stehen?
+  * Dichtstoff/Dämmmaterial gründlich und großzügig um die Brandstelle herum entfernen (horizontal wie vertikal!). \\ Umliegendes Mauerwerk bei Bedarf bearbeiten, um bessere Zugänglichkeit zu erhalten. Evtl. bietet sich auch die Nutzung einer Kernlochbohrung an, um gezielt Löcher in die Wand zu bohren und dadurch die Dehnfuge zu erreichen.
+  * Löschmittel, je nach Situation und Verfügbarkeit (dabei auch beachten, wo das Löschmittel wieder austritt):
+      * Wasser mit Netzmittel
+      * Fognails (Nebellöschsystem)
+      * Inertisieren mit Gas (z.B. Stickstoff)
+  * Löscherfolg mit [[:allgemein:geraete:waermebildkamera|Wärmebildkamera / Infrarotthermometer]] überprüfen \\  evtl. Heiße Zone mit Stift markieren, um eine Brandausbreitung festzustellen.
+  * umliegende und ggf. auch weiter entfernte Bereiche, die sich in der Nähe der Dehnfuge befinden, kontrollieren, bei Bedarf [[:brand:allgemein:belueftung|belüften]]. Auch wenn kein direkter Rauch sichtbar ist, auf [[:cbrn:chemisch:klasse_2:stoffe:kohlenmonoxid|]] kontrollieren Bei Bedarf [[:allgemein:raeumung|Gebäude räumen]].
+  * ggf. Brandwache stellen / zu späterem Zeitpunkt nochmals nachkontrollieren
+
+
+==== besondere Gefahren ====
+
+  * unbemerkte Ausbreitung von gefährlichen Brandgasen in weitere Bereiche, die ggf. auch deutlich von der Brandstelle entfernt liegen
+  * Zurückbleiben von kleinen Glutnestern, die sich nach einiger Zeit wieder neu entzünden können
+
+===== Quellenangabe =====
+
+Noch keine Quellen angegeben.
+
+===== Stichwörter =====
+
+Isolierung, Dämmung

@@ -1,0 +1,110 @@
+====== Tierrettung ======
+
+<WRAP round info>Die Zuständigkeit der Feuerwehr liegt beim Retten von Tieren aus Notlagen und bei Gefahren für die öffentliche Sicherheit, **nicht aber beim Einfangen** von Tieren!
+
+Eigentümer von Tieren sind verpflichtet, Gefahren die für oder durch ihr Tier entstehen, selbst zu beseitigen. Nur wenn der Eigentümer dies nicht selbst schafft wird die Feuerweht tätig.</WRAP>
+
+Siehe auch:
+  * [[cbrn:biologisch:tierseuchen|Tierseuchen]]
+  * [[allgemeine_hilfe:insekten|Insekten]]
+  * [[allgemeine_hilfe:eichenprozessionsspinner|Eichenprozessionsspinner]]
+
+===== zu treffende Maßnahmen =====
+
+  * Wenn keine Gefahr durch das Tier an sich ausgeht, dürfen in der Regel keine Sonderrechte bei der Fahrt zur Einsatzstelle in Anspruch genommen werden.\\ Erfolgt die Anfahrt mit Sondersignal, so sollte dies schon in einigem Abstand zur Einsatzstelle ausgeschaltet werden um das Tier nicht weiter zu belasten
+  * Nachalarmierung Polizei wenn noch nicht alarmiert um ggf. Verstöße gegen das Tierschutzgesetz zu ahnden. Je nach Landesgesetzgebung ist die Polizei sowieso für Einsätze mit Tieren zuständig.
+  * Vollständige Schutzausrüstung tragen um einen besseren Schutz gegen Bisse, Krallen, etc. zu haben (Stiefel, Feuerschutzkleidung, Handschuhe, Helm mit Visier)
+  * Tierhalter darauf hinweisen, dass der Einsatz evtl. kostenpflichtig werden kann
+  * ggf. Gabe von Beruhigungsmitteln durch einen Tierarzt
+  * verletzte Tiere sind von einem Tierarzt zu begutachten
+  * Wird das Tier vermutlich unter Qualen sterben, so ist es durch den (Amts-) Tierarzt, Forstbeamten oder einen anderen Berechtigten, notfalls auch durch die Polizei, zu töten.\\ Das <wrap important>Töten durch Feuerwehrangehörige ist untersagt</wrap>, da diese nicht mit den notwendigen Techniken vertraut sind.
+  * Nach Einsatzende (Hände-) Desinfektion, ggf. weitere [[cbrn:allgemein:dekontamination:desinfektion|Desinfektionsmaßnahmen]]
+
+==== Haus- und Nutztiere ====
+
+  * Nach der Befreiung Übergabe an den Eigentümer falls anwesend, ansonsten an zuständige Tiersammelstelle (z.B. Tierheim)
+  * ggf. kann der Besitzer durch Kennzeichnungen wie z.B. die Hundemarke ausfindig gemacht werden
+
+==== Wildtiere ====
+
+  * Die Ursache für verletzte Wildtiere liegt meist in der Natur selbst, in die natürlichen Kreisläufe sollte bzw. braucht in diesen Fällen nicht eingegriffen werden. Ansonsten sind folgende Hinweise zu beachten: 
+  * Zuständigkeit: je nach Fundort:
+    * im Forst (Wald): Zuständigkeit beim Forstamt
+    * außerhalb des Forstes: Zuständigkeit bei Polizei und Feuerwehr
+  * Kann sich das verletzte Wildtier (nach evtl. Befreiung) selbst in Sicherheit bringen, so ist eine Verfolgung des Tieres verboten!
+  * Besteht der Verdacht auf Krankheiten wie z.B. Tollwut, ist der Amtstierarzt (Veterinäramt) zu verständigen!
+    * Bei Füchsen, verletzten oder toten Tieren in tollwutgefährdeten Gebieten ist der Amtstierarzt grundsätzlich zu verständigen!
+    * Sind Menschen in Kontakt mit tollwütigen Tieren gekommen, sollten sich diese in einer entsprechenden Klinik für Infektionskrankheiten vorstellen
+
+==== exotische Tiere ====
+
+z.B. Echsen, Schlangen, Lurche, Spinnen, Schildkröten, etc.
+
+  * bei Verdacht auf Verstoß gegen Tierschutzgesetzte auf jeden Fall Polizei nachfordern!
+  * ggf. Anforderung von fachkundigem Personal zum Einfangen des Tieres
+  * Nach Befreiung / Einfangen Übergabe an Tierheim oder Zoo, davor sinnvollerweise mit diesen Rücksprache halten
+
+==== Tierkadaver ====
+
+  * Zuständigkeit liegt in der Regel nicht bei der Feuerwehr, diese wird ggf. aber in [[allgemein:recht:amtshilfe|Amtshilfe]] tätig
+    * bis zum Eintreffen des Zuständigen den Kadaver sichern, am Besten mit Plastikfolie abdecken
+    * wird die Feuerwehr tätig, so sollte der Kadaver in einen Plastiksack verpackt werden. Dabei sind zum Schutz Untersuchungshandschuhe ("Latex-Handschuhe") zu tragen, bei großen Tieren evtl. auch ein [[cbrn:allgemein:koerperschutzformen|leichter CSA (Körperschutzform 2)]], Atemschutz ist aber nicht nötig.
+    * bei großen Kadavern LKW oder Wechselladerfahrzeug mit Mulde anfordern
+  * Bei Seuchenverdacht Verständigung des Amtstierarztes
+  * Werden tote Wildtiere an Ort und Stelle belassen (z.B. im Wald), so sollten diese so mit Zweig, Laub, etc. bedeckt werden dass sie von der Bevölkerung nicht mehr erkennbar sind und somit keine weiteren Anrufe folgen.
+
+==== besondere Gefahren ====
+
+  * Nicht nur Wild-, sondern auch Haus- und Nutztiere sind in einer Notlage unberechenbar, selbst wenn der Eigentümer anwesend ist!
+  * Übertragen von Krankheiten (z.B. Tollwut - hier insbesondere Vorsicht bei sehr zutraulichen Tieren!)
+  * Kosten für hinzugezogene Fachleute müssen von der Feuerwehr übernommen werden wenn kein Eigentümer ausfindig gemacht werden kann!
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * für den improvisierten Tiertransport eignet sich z.B. ein (Umzugs-) Karton
+  * Tierrettungseinsätze sind in der Regel für den Eigentümer kostenpflichtig. Daher sollten die Personalien des Tierhalters aufgenommen werden.
+
+==== Hunde ====
+
+Durch folgende Merkmale können auf das Verhalten Rückschlüsse gezogen werden:
+
+  * Ohren flach nach hinten angelegt, Schwanz zwischen den Beinen, rührt sich nicht vom Fleck -> **ängstlich**\\ kleine Hunde auf den Arm nehmen, große Hunde mittels einer Unterlage (z.B. Decke) transportieren
+  * Ohren steil nach hinten, Schwanz in einer Linie mit dem Rücken -> **aggressiv**\\ dominant auftreten, mit fester aber beruhigender Stimme sprechen, nachdem der Hund Vertrauen fasst weiter wie bei ängstlich
+  * Ohren steil nach vorne, Schwanz nach oben -> **sehr aggressiv**\\ Decke auf den Hund werfen und direkt festhalten, danach schnell in Transportkiste sperren ohne den Hund loszulassen
+
+Weblink: [[http://www.erste-hilfe-beim-hund.de|Erste Hilfe beim Hund]]
+
+==== Katzen ====
+
+Katzen sind ängstlich, fliehen sofort und wehren sich heftig.
+
+  * ruhige Bewegungen
+  * nicht in die Augen schauen
+  * Transportkiste hinstellen in die sich die Katze flüchten kann
+
+Katzen aus Bäumen herunterzuholen ist weder zur Gefahrenabwehr nötig noch als unaufschiebbare Erstmaßnahme zu sehen. Katzen verlassen den Baum in der Regel wieder von selbst. Sie können bis zu 5 Tage auf dem Baum verbringen ohne dabei Schaden zu nehmen. Meist lassen sie sich durch stark riechendes Futter vom Baum herunterlocken.
+
+==== Pferde und Kühe ====
+
+Pferde und Kühe sind ängstlich. Es besteht eine besondere Gefahr durch Tritte und das ausgeprägte Herdenverhalten (die gesamte Herde setzt sich in Bewegung!).
+
+  * zum Kopf hin (im Sichtfeld des Tieres) nähern
+  * ruhige Bewegungen
+  * mit fester und beruhigender Stimme sprechen
+  * Klopfen und Streicheln um Vertrauen herzustellen
+  * nur einzeln wegführen (sonst Gefahr durch Herdenverhalten!)
+
+==== Exotische Haustiere ====
+
+  * mit Besen o.ä. versuchen in Transportbehälter zu treiben
+  * alternativ mit Kescher fangen
+  * Schlangen fliehen vor Alkohol
+
+===== Quellenangabe =====
+
+  * Abschnittsarbeit //Einsatzgrundlagen zu „Tier in Notlage“//, HBM Andreas Heinrich, Berliner Feuerwehr, 2006
+  * Abschnittsarbeit //Einsatz der Berliner Feuerwehr bei Notlagen von Tieren//, BOI-A Martin Kröber, Berliner Feuerwehr, 2006
+
+===== Stichwörter =====
+
+Tierrettung, Tier in Notlage, Gefahr für Tiere, Gefahr durch Tiere

@@ -1,0 +1,27 @@
+====== Laubenbrand ======
+
+
+
+===== zu treffende Maßnahmen =====
+
+  * Fahrzeugaufstellung, [[allgemein:bereitstellungsraum|Bereitstellungsraum]] einrichten
+  * Evtl. schlechte Löschwasserversorgung -> z.B. [[brand:allgemein:loeschwasser_lange_wegstrecke#pendelverkehr_mit_tlf|Pendelverkehr mit TLF]] einrichten
+  * Oft mehrschichtige Decken/Wände -> ggf. schweres Gerät (Bagger, Radlader) zum Öffnen heranziehen, Fognails einsetzen wenn vorhanden
+  * Nachforderung: evtl. Versorger (Stadtwerke; Gas, Wasser, Strom, ...)
+
+==== besondere Gefahren ====
+
+  * Evtl. Anfahrt/Zugang schwierig zu finden
+  * Übernachtende Personen / Obdachlose evtl. auch in unüblichen Jahreszeiten
+  * [[cbrn:allgemein:kennzeichnung:gasflaschenkennzeichnung|Gasflaschen]] (vor allem [[cbrn:chemisch:klasse_2:stoffe:fluessiggas|Flüssiggas]])
+  * Schnelle Brandausbreitung, eng stehende Nachbargebäude
+  * Schnell Einsturzgefahr -> Innenangriff eher nicht angebracht wenn keine Personen vermutet
+  * Mangelhafte [[allgemein:elektrische_anlagen|Elektroinstallation]]
+
+===== Quellenangabe =====
+
+noch keine Quellen angegeben
+
+===== Stichwörter =====
+
+Gartenlaube, Gartenlaubenbrand, Kleingartenkolonie, Kleingartenanlage, KGA

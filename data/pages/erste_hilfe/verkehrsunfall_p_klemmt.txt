@@ -1,0 +1,23 @@
+====== Verkehrsunfall - Person eingeklemmt ======
+
+<WRAP center round important 100%>
+Diese Hinweise beziehen sich nur auf die medizinischen Maßnahmen bei einem Verkehrsunfall. Beachten Sie zusätzlich die [[allgemeine_hilfe:verkehrsunfall:start|Hinweise zur technischen Rettung]]!
+</WRAP>
+
+===== zu treffende Maßnahmen =====
+
+  * Einsatzkraft festlegen, die die besten Erste-Hilfe-Kenntnisse besitzt und sich nur um den Patienten kümmert (Inneren Retter), sowie eine weitere Einsatzkraft welche diese unterstützt
+  * Wenn möglich: Betreuung des Patienten vom Beifahrersitz, ansonsten von der Rückbank aus.\\ Patienten nicht mehr allein lassen! Dem Patienten alle weiteren Maßnahmen erklären.
+  * Vitalfunktionen prüfen (Atmung, Bewusstsein, Kreislauf)
+  * Verletzten mit Decke warmhalten, notfalls mit Einsatzjacke, auch um ihn vor Scherben, Metallstücken, etc. zu schützen
+  * Befragung:
+    * Unfallhergang?
+    * Wo und wie stark sind die Schmerzen?
+    * Können alle Gliedmaßen bewegt werden? Sind Füße/Beine eingeklemmt?
+  * Halswirbelsäulenschiene (//Stifneck//) anlegen soweit vorhanden, Wundversorgung
+  * Regelmäßige Information über den Patientenzustand an die Einsatzleitung (ggf. auch Leitstelle) weitergeben, bei Bewusstlosigkeit sofort, damit die Einsatztaktik angepasst werden kann (Sofortrettung, schnelle Rettung, schonende Rettung)
+  * Detaillierte Übergabe an den Rettungsdienst
+
+===== Quellenangabe =====
+
+  * [[http://www.feuerwehrverband.de/fileadmin/Inhalt/FACHARBEIT/FB8_Gesund_RettD_EH_kompakt/DFV_Erste_Hilfe_kompakt_Verkehrsunfaelle.pdf|Erste-Hilfe kompakt - Notfallstichwort: Eingeklemmte Person bei Verkehrsunfall]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband

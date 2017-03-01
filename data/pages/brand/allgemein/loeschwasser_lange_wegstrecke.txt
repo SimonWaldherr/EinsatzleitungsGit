@@ -1,0 +1,90 @@
+~~NOCACHE~~
+
+====== Löschwasserversorgung über lange Wegstrecken ======
+
+===== zu treffende Maßnahmen =====
+
+  * Welche Wassermenge pro Minute wird an der Einsatzstelle benötigt?
+  * Entscheidung über
+      * Pendelverkehr mit TLF
+      * Aufbau einer Schlauchleitung
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Pendelverkehr mit TLF ====
+
+  * Als Ersatz bis Schlauchleitung aufgebaut ist
+  * Bei geringem Löschwasserbedarf
+  * Wenn ein Löschen des Brandes wahrscheinlich ist bevor eine Schlauchstrecke aufgebaut wäre
+  * Bei mehreren kleineren, voneinander getrennten Brandstellen
+~~INCLFORM=pendelverkehr~~
+
+=== Zugrundeliegende Formeln: ===
+
+Füllzeit = Tankinhalt / Füllstrom
+
+Entleerungszeit = Tankinhalt / Löschwasserbedarf
+
+Zeit für einen Umlauf = Entleerungszeit + 2*Fahrtzeit + Füllzeit + Rüstzeit
+
+Anzahl benötigter Fahrzeuge = Umlaufzeit / Entleerungszeit
+
+==== Aufbau einer Schlauchleitung ====
+
+=== geschlossene Schaltreihe ===
+
+  * durchgängige Leitung von Wasserentnahme- bis Abgabestelle, nur unterbrochen durch Verstärkerpumpen
+  * Vorteile:
+      * geringerer Personal- und Materialbedarf
+      * schneller betriebsbereit als offene Schaltreihe
+  * Nachteil:
+      * sofortiger Zusammenbruch der Wasserförderung bei Pumpenausfall oder Schlauchplatzer
+
+=== offene Schaltreihe ===
+
+  * unterbrochene Leitung, vor der Pumpe wird das Wasser in einen Behälter (Fahrzeugtank oder Faltbehälter) geleitet
+  * Vorteile:
+      * keine Druckstöße
+      * Pufferung des Löschwassers
+      * größerer Abstand zwischen den Pumpen möglich, da kein Mindesteingangsdruck (1,5 bar) an der nächsten Pumpe erforderlich
+  * Nachteile:
+      * personalintensiver und materialaufwändiger als geschlossene Schaltreihe
+      * längere Aufbaudauer
+
+=== taktische Hinweise ===
+
+  * wenn möglich unerschöpfliche [[:brand:allgemein:loeschwasserversorgung|Wasserentnahmestellen]] nutzen, ansonsten Überflur- vor Unterflurhydranten verwenden. Hydrantendruck ausnutzen.
+  * Stärkste Pumpe an die Wasserentnahmestelle, Löschfahrzeug an die Brandstelle.
+  * soweit möglich, pro Leitung einen Förderstrom von 800 l/min planen (wirtschaftlichster Förderstrom bei B-Leitungen)
+  * Von beiden Richtungen aufbauen, bei Höhenunterschied bergab.
+  * Pro 100m Schlauchleitung schon beim Aufbau einen Reserveschlauch bereitlegen.
+  * Pro 3 bis 5 verwendete Pumpen eine Reservepumpe vorhalten - inbesondere bei bereits länger andauerndem Einsatz.
+  * Leitung __gerade__  am Rand der Straße verlegen um Befahrbarkeit zu erhalten, Leitung gegen Verkehr sichern, nachts beleuchten.
+  * Nur einwandfreies Material in Förderleitung einbauen.
+  * Unmittelbar vor den Druckverstärkerpumpen Druckbegrenzungsventile einbauen, soweit diese noch vorhanden sind. Den Druck auf 0,5 bar mehr einstellen als der Eingangsdruck an der Pumpe beträgt. Wenn nur ein Druckbegrenzungsventil verfügbar ist, dann dieses direkt an der Einsatzstelle vor dem Verteiler einbauen.
+  * Eigenen Einsatzabschnitt Wasserförderung einrichten, Funkkanaltrennung, Kommunikation der Maschinisten untereinander sicherstellen
+  * Schlauchleitung regelmäßig kontrollieren (abgehen/abfahren).
+  * Erfahrungswerte:
+      * Planungszeit ca. 30 min
+      * Aufbau und Inbetriebnahme min. 60 min
+      * Personal etwa in Zugstärke für Aufbau erforderlich
+  * Rechtzeitig Nachschub anfordern:
+      * Betriebsstoffe (Kraftstoff und Öl)
+      * Verpflegung
+      * Personal zur Ablösung
+
+==== Berechnung der Pumpenabstände für offene und geschlossene Schaltreihe ====
+
+Für Tabellen mit Druckverlustwerten siehe [[:brand:geraete:schlaeuche|Schläuche]].
+
+~~INCLFORM=lange_wegstrecke~~
+
+===== Quellenangabe =====
+
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * [[http://www.sfs-w.de/downloads/merkblaetter-broschueren.html?no_cache=1&download=05_008_2011-07-19.pdf&did=38|Merkblatt Wasserförderung über lange Schlauchstrecken]], Staatliche Feuerwehrschule Würzburg
+  * Powerpoint-Präsentation "Wasserförderung über lange Wegstrecke" von Markus Schmidt, BF Leverkusen (abgerufen am 05.02.2013, online nicht mehr verfügbar)
+
+===== Stichwörter =====
+
+Wasserförderung, Löschwasser, Pumpenstrecke

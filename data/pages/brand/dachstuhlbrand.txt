@@ -1,0 +1,61 @@
+====== Dachstuhlbrand ======
+
+===== zu treffende Maßnahmen =====
+
+Allgemeine Maßnahmen für [[brand:gebaeudebrand|Gebäudebrände]] beachten!
+
+  * Dachstuhlbrand versuchen innerhalb von spätestens 20 min unter Kontrolle zu bringen um Einsturz zu vermeiden
+  * ggf. Riegelstellung vorbereiten um nach Aufbrennen des Dachstuhls Nachbargebäude schützen zu können.
+  * Nachbargebäude kontrollieren und Fenster schließen.
+  * bei Reihenhäusern Innenangriff über das Treppenhaus um Brandausbreitung in angrenzende Dachstühle zu bekämpfen
+  * bei aufgebrannter Dachhaut gezieltes Löschen über [[allgemein:drehleiter|Drehleiter]] mittels C-Strahlrohr, um Wasserschäden in darunterliegenden Geschossen zu minimieren
+
+==== besondere Gefahren - Dachstuhlbrand allgemein ====
+
+  * Höhe und die begrenzten Zugänglichkeiten
+  * fehlende Öffnungen zur schnellen Abfuhr von Rauch und Wärme
+  * oftmals eine erhöhte Brandlast (Lager/Speicher) und
+  * brennbare Konstruktion
+    * nach 15 min Brandeinwirkung Einsturz der Dachziegel möglich
+    * nach 20 - 40 min Brandeinwirkung Instabilität zu den Seiten hin, in der Folge Umstürzen beider Giebelwände möglich -> Trümmerschatten am Giebel meiden!
+    * Umsturz des Schornsteins nach Brandeinwirkung auf den Dachstuhl möglich
+
+----
+
+==== Nagelplattenbinder ====
+
+{{ :brand:allgemein:lidl.jpg?nolink|LIDL-Markt mit Nagelplattenbinder-Dach}}
+
+oftmals bei Discount-Märkten wie Aldi, LIDL, Netto, ...
+
+  * Innenangriff nur in Entstehungsbrandphase und wenn Dach nicht betroffen
+  * [[allgemein:raeumung|Objekt schnellstmöglich räumen]]
+  * Umgebung schützen (Riegelstellung aufbauen)
+
+weitere Hinweise unter [[brand:allgemein:brandverhalten_baustoffe_bauteile#nagelplattenbinder|Brandverhalten von Baustoffen und Bauteilen]]
+
+==== besondere Gefahren - Nagelplattenbinder ====
+
+  * keine statischen Reserven\\ -> Zusammenbruch der kompletten Dachkonstruktion beim Versagen eines/nur weniger Binder!
+  * Einsturz kündigt sich nicht an
+  * <wrap danger>kein Feuerwiderstand (F0)</wrap>
+
+----
+
+==== Reetdachbrände ====
+
+  * Auch im Brandfall dringt Wasser kaum durch das Reetdach zum Brandherd -> Totalverlust wahrscheinlich
+  * Abdecken kaum durchführbar
+  * Reetbündel auf Dächern älterer Bauart sind mit Schnüren verbunden, die während des Brandes durchbrennen. In der Folge rutschen die Bündel vom Dach ab -> Trümmerschatten beachten!
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Im Innenangriff bei einem Dachstuhlbrand möglichst nahe der Traufkanten vorgehen, den Firstbereich meiden und so weit wie möglich Abstand zum Brandherd halten
+  * Innenangriff auch bei aufgebranntem Dachstuhl möglich
+  * Außenangriff bei geschlossener Dachhaut unsinnig
+
+===== Quellenangabe =====
+
+  * {{:brand:hinweise_dachstuhlbraende.pdf|Hinweise zu Dachstuhlbränden - Hinweise für den Einsatzleiter. Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2012.}}
+  * [[http://www.feuerwehrmagazin.de/service/tipps-wissen/schwierige-brandbekaempfung-wenn-das-reetdach-brennt-73173|Schwierige Brandbekämpfung: Wenn das Reetdach brennt]], Feuerwehrmagazin, abgerufen am 28.08.2017
+  * Bild LIDL-Markt: https://commons.wikimedia.org/wiki/File:Lidl.JPG, veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:Joho345|joho345]] als gemeinfrei

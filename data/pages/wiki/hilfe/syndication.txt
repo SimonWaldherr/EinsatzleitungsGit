@@ -1,0 +1,143 @@
+====== XML Syndikation ======
+
+Die [[wiki:hilfe:hintergrund_einsatzleiterwiki|zugrundeliegende DokuWiki-Software]] kann einen Teil der Daten als XML-Feed bereitstellen über die Datei [[this>feed.php]]. Dieser Feed kann in einem [[wpde>Feedreader|Feedreader]] abboniert werden.
+
+===== Konfig/URL Optionen =====
+
+Die Ausgaben des Feeds können durch gewisse Konfig-Optionen gesteuert werden. Wenn feed.php ohne Argumente aufgerufen wird, werden die Standardeinstellungen verwendet. Alle Optionen können jedoch durch URL Parameter überschrieben werden.
+
+==== Links ====
+
+Jeder Eintrag in erstellten Feed besitzt einen Link und dieser Paramter steuert, wohin dieser Link zeigt.
+
+  * **Konfig Option:** [[doku>config:rss_linkto]]
+  * **URL Parameter:** linkto
+  * **Standard:** diff
+  * **Zulässige Werte:**
+
+^ Wert   ^ Link Ziel ^
+| page    | die Version der Seite, als der Feed erstellt wurde |
+| current | die neueste Version der Seite |
+| rev     | die Versionsübersicht der Seite |
+| **diff**    | die Anzeige der letzten Änderungen auf der Seite |
+
+==== Feed Inhalt ====
+
+Mit dieser Option kann der angezeigte Inhalt der einzelnen Feed Einträge gesteuert werden.
+
+  * **Konfig Option:** [[doku>config:rss_content]]
+  * **URL Parameter:** content
+  * **Standard:** abstract
+  * **Zulässige Werte:**
+
+^ Wert    ^ Inhalt des Eintrags ^
+| **abstract** | Der erste Absatz der Seite |
+| diff     | Anzeige der letzten Änderungen auf der Seite aus reiner Text  |
+| htmldiff | Tabelle mit den letzten Änderungen auf der Seite HTML formatiert  |
+| html     | der komplette Seiteninhalt als HMTL |
+
+==== Feed Format ====
+
+DokuWiki kann XML Feeds in verschiedenen Formaten erstellen.
+
+  * **Konfig Option:** [[doku>config:rss_type]]
+  * **URL Parameter:** type
+  * **Standard:** rss1
+  * **Zulässige Werte:**
+
+^ Wert  ^ Feed Format ^
+| rss    | RSS 0.91 |
+| **rss1**   | RSS 1.0  |
+| rss2   | RSS 2.0  |
+| atom   | ATOM 0.3 |
+| atom1  | ATOM 1.0 |
+
+==== Listen Modus ====
+
+Die feed.php wird standardmäßig dazu verwendet, eine Liste der letzen Änderungen zu exportieren. Es können aber auch andere Listen erzeugt und exportiert werden.
+
+  * **Konfig Option:** keine
+  * **URL Parameter:** mode
+  * **Standard:** recent
+  * **Zulässige Werte:**
+
+^ Wert   ^ Listen Modus ^
+| **recent**  | listet die zuletzt geänderten Seiten auf, absteigend nach Datum |
+| list    | listet alle Seiten eines Namensraumes auf (Auswahl des Namensraums, siehe unten)  |
+| search  | listet Seiten auf, die eine durch den zusätzlichen Parameter ''q'' gegebenes Suchkriterium erfüllen |
+
+==== Namensraum Filter ====
+
+Die im Feed enthaltenen Seiten können auf einen bestimmten [[wiki:hilfe:namensraeume|Namensraum]] eingeschränkt werden.
+
+  * **Konfig Option:** keine
+  * **URL Parameter:** ns
+  * **Standard:** *
+  * **Zulässige Werte:** jeder gültige Namensraum
+
+Im [[syndication#listen_modus|Listen Modus]] ''list'', enthält der Feed nur Seiten aus dem angegebenen Namensraum, ohne die Unter-Namensräume.
+
+Im [[syndication#listen_modus|Listen Modus]] ''recent'', sind auch Unter-Namensräume inklusive.
+
+Die Eingrenzung des Namensraums wird im [[syndication#listen_modus|Listen Modus]] ''search'' nicht direkt unterstützt. Stattdessen kann man die Einschränkung des Namensraums im Suchkriterium angeben (mit der ''@'' Syntax) -- Hierbei **werden** Unter-Namensräume eingeschlossen!!
+
+==== Anzahl der Einträge ====
+
+Die Anzahl der im Feed angezeigten Einträge kann ebenfalls gesteuert werden.
+
+  * **Konfig Option:** [[doku>config:recent]]
+  * **URL Parameter:** num
+  * **Standard:** 20
+  * **Zulässige Werte:** jede Ganzzahl
+
+==== Geringfügige Änderungen ====
+
+Standardmäßig werden [[wiki:hilfe:zusammenfassung#die_kleine_aenderung|geringfügige Seitenänderungen]] nicht in im Feed angezeigt. Dies kann man per URL Parameter jedoch ändern.
+
+  * **Konfig Option:** keine
+  * **URL Parameter:** minor
+  * **Standard:** 0
+  * **Zulässige Werte:** 0 oder 1
+
+==== Caching  ====
+
+XML Feeds werden [[wpde>Caching|gecached]], um die Last im Wiki zu reduzieren. Mit diesem Parameter kann man kontrollieren, wielange Cacheeinträge gültig bleiben.
+
+  * **Konfig Option:** [[doku>config:rss_update]]
+  * **URL Parameter:** keiner
+  * **Standard:** 5*60
+  * **Zulässige Werte:** Zeit in Sekunden
+
+==== Zusammenfassungen ====
+
+Die [[wiki:hilfe:zusammenfassung|Zusammenfassung]] der Änderung an einer Seite wird normalerweise in den Titel eines Feedeintrags geschrieben. Dies kann manchmal unerwünscht sein und daher abgeschaltet werden.
+
+  * **Konfig Option:** [[doku>config:rss_show_summary]]
+  * **URL Parameter:** keiner
+  * **Standard:** 1
+  * **Zulässige Werte:** 0 oder 1
+
+===== Beispiele =====
+
+  * [[this>feed.php?type=rss2&num=5]] liefert einen [[wpde>RSS|RSS 2.0]]-Feed mit den 5 letzten Änderungen zurück
+  * [[this>feed.php?mode=list&type=atom&linkto=page&ns=wiki]] listet alle Seiten im Wiki Namensraum als ATOM 0.3-Feed. Alle Einträge verlinken direkt auf die Seite
+
+===== Feeds und ACLs =====
+
+Wenn [[wiki:hilfe:acl|ACLs (Benutzerrechte)]] aktiviert sind, werden Seiten mit Lesebeschränkungen **nicht** in öffentlichen Feeds angezeigt.
+
+Hinweis: Beim Einsatzleiterwiki gibt es standardmäßig keine Seiten mit Lesebeschränkungen!
+
+Wenn man Feeds mit zugriffsbeschränkten Seiten haben will, so muss man Benutzername und Passwort in der URL folgendermaßen übergeben: %%''http://wiki.einsatzleiterwiki.de/feed.php?u=username&p=password''%%.
+
+:!: Achtung !! Dies ist keine sichere Lösung und kann das Ausspähen ihrer Login-Informationen zur Folge haben. Wenn DokuWiki auf den Modul ''mod_php'' aufsetzt können Logindaten per HTTP Basic Auth übergeben werden, sofern der Feedreader das unterstützt.
+
+===== Weitere Informationen =====
+
+  * [[doku>de:rss|RSS/ATOM Feed Aggregation]] um externe Feeds in die eigenen DokuWiki Seiten zu integrieren
+  * Das [[doku>plugin:feed|feed plugin]] für erweiterte Möglichkeiten beim Export von [[doku>plugin:blog]] Posts via RSS
+  * Tipps fürs [[doku>tips:blogging#feed_setup|feed setup]] beim Bloggen mit DokuWiki
+
+===== Quellenangabe =====
+
+  * [[doku>de:syndication]], veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

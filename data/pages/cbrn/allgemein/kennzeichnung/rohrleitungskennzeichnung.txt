@@ -1,0 +1,33 @@
+====== Rohrleitungskennzeichnung ======
+
+{{ :cbrn:allgemein:kennzeichnung:rohrleitungskennzeichnung.png?nolink&300|Rohrleitungskennzeichnung Acetylen}}
+
+Die Kennzeichnung mit folgenden Farben gilt für nicht erdverlegte Rohre. Neben den Farben ist auf dem Etikett die Flussrichtung des Stoffs und dessen Name aufgedruckt. Ggf. sind auch die entsprechenden [[cbrn:allgemein:kennzeichnung:ghs|Gefahrensymbole]] angebracht.
+
+^  Kennzeichnung  ^  Farbe  ^  Durchflussstoff  ^
+|  {{:allgemein:farben:gruen_ral_6032.jpg?nolink|grün}}          |  grün               |  Wasser                                                                                                          |
+|  {{:allgemein:farben:rot_ral_3001.jpg?nolink|rot}}             |  rot                |  Dampf                                                                                                           |
+|  {{:allgemein:farben:grau_ral_7004.jpg?nolink|grau}}           |  grau               |  Luft                                                                                                            |
+|  {{:allgemein:farben:orange_ral_2010.jpg?nolink|orange}}       |  orange             |  [[cbrn:chemisch:klasse_8:start|Säuren]]                                                   |
+|  {{:allgemein:farben:violett_ral_4008.jpg?nolink|violett}}     |  violett            |  [[cbrn:chemisch:klasse_8:start|Laugen]]                                                   |
+|  {{:allgemein:farben:blau_ral_5005.jpg?nolink|blau}}           |  blau               |  Sauerstoff                                     |
+|  {{:allgemein:farben:braun_rot.jpg?nolink|braun-rot}}          |  braun mit rot      |  [[cbrn:chemisch:klasse_3:start|brennbare Flüssigkeiten]]                                  |
+|  {{:allgemein:farben:braun_schwarz.jpg?nolink|braun-schwarz}}  |  braun mit schwarz  |  nicht brennbare Flüssigkeiten                                                                                   |
+|  {{:allgemein:farben:gelb_rot.jpg?nolink|gelb-rot}}            |  gelb mit rot       |  brennbare [[cbrn:chemisch:klasse_2:start|Gase]]                                           |
+|  {{:allgemein:farben:gelb_schwarz.jpg?nolink|gelb-schwarz}}    |  gelb mit schwarz   |  nicht brennbare [[cbrn:chemisch:klasse_2:start|Gase]]                                     |
+^ veraltete Kennzeichnung: ^^^
+|  {{:allgemein:farben:braun_ral_8002.jpg?nolink|braun}}         |  braun              |  [[cbrn:chemisch:klasse_3:start|brennbare Flüssigkeiten]]                                  |
+|  {{:allgemein:farben:gelb_ral_1003.jpg?nolink|gelb}}           |  gelb               |  brennbare [[cbrn:chemisch:klasse_2:start|Gase]]                                           |
+|  {{:allgemein:farben:schwarz_ral_9004.jpg?nolink|gelb}}        |  schwarz            |  nicht brennbare Flüssigkeiten oder nicht brennbare [[cbrn:chemisch:klasse_2:start|Gase]]  |
+
+Achtung: In der Praxis sind des öfteren Abweichungen von der Norm zu beobachten!
+
+===== Weblinks =====
+
+  * [[wpde>DIN_2403|DIN 2403]]
+
+===== Quellenangabe =====
+
+  * Einsatzleitermappe BF Kaiserslautern
+  * http://www.etikettenwissen.de/wiki/DIN_2403 und http://www.etikettenwissen.de/wiki/Rohrleitungskennzeichnung
+  * Bildquelle Acetylen-Schild: [[wpde>Datei:Acetylen.png]], vom Benutzer [[wpde>Benutzer:Philip1307]] als gemeinfrei veröffentlicht

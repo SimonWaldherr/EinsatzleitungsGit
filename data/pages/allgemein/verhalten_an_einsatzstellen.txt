@@ -1,0 +1,58 @@
+====== Verhalten an Einsatzstellen ======
+
+===== bei Brandstellen =====
+
+  * Niemals etwas zur Brandursache sagen, auch nicht gegenüber der Schutzpolizei
+  * Polizei auf Zeugen und auffällige Personen hinweisen
+  * Beim Vorgehen achten auf:
+    * moderaten Löschmitteleinsatz um Spuren nicht wegzuspülen
+    * Sicherungen und Schalter (z.B. Licht-, Herdschalter) nicht bewegen, notfalls vor Betätigung Originalzustand dokumentieren
+    * Möbel und Gegenstände möglichst nicht verschieben oder heraustragen, ansonsten auch hier dokumentieren
+    * Verwendung von Kettensägen (führt zum Nachweis von Kraftstoff im Brandschutt, dokumentieren)
+
+===== Tatorte von Kapitalverbrechen =====
+
+Ergibt sich beim Eintreffen an der Einsatzstelle oder während des Einsatzverlaufs der Verdacht auf ein Verbrechen, sollten die folgenden Regeln eingehalten werden um für die Ermittlungen der Polizei keine Spuren zu zerstören. Sind Menschen verletzt worden ist grundsätzlich von einem Tatort auszugehen.
+
+==== Verhalten allgemein ====
+
+  * möglicherweise beteiligte Personen (Verletzte, Angehörige, Zeugen, etc.) nicht nach dem Tathergang befragen, Befragungen nur für die eigenen Aufgaben (z.B. medizinische Fragen)
+  * nicht fotografieren, Einsatzstelle abschirmen (Erhalten von Sachverhalten die Täterwissen darstellen, also die der Öffentlichkeit nicht bekannt sind)
+
+==== Beobachtungen während des Einsatzes ====
+
+  * Sind ungewöhnliche Sachverhalte aufgefallen (Angriffstrupp dafür sensibilisieren)?
+  * Bei [[allgemeine_hilfe:tueroeffnung|Türöffnungen]]:
+    * War die Tür verschlossen? Steckte der Schlüssel von innen?
+    * War die Tür zusätzlich mit Kette, Querriegel, etc. gesichert?
+    * Waren Fenster geöffnet?
+
+==== Spuren erhalten ====
+
+DNA- und Faserspuren von Einsatzkräften können die Ermittler auf eine falsche Fährte führen und kostbaren Ressourcen verschwenden. Lässt sich eine Einwirkung auf die Spuren nicht vermeiden, so ist die Polizei über die getroffenen Maßnahmen zu unterrichten.
+
+  * Grundsätzlich nichts anfassen!
+  * Untersuchungshandschuhe anziehen und im kompletten potentiellen Tatort anbehalten
+  * Türklinken am äußeren Ende mit zwei Fingern herunterdrücken (Klinke und Türgriffe möglichst nicht anfassen, auch dies kann vorhandene Spuren verwischen!). Entriegelte Tür mit dem Fuß aufstoßen.
+  * Mitgebrachte Gegenstände (Einsatzkoffer, Kleidung, etc.) nicht auf Einrichtungsgegenständen, sondern an einer unauffälligen Stelle auf dem Boden ablegen. Polizei auf die Ablagefläche hinweisen.
+  * Auf keinen Fall an der Einsatzstelle hinsetzen. Dafür notfalls ins Treppenhaus o.ä. gehen. Dies gilt ebenfalls für weitere Personen die sich normalerweise nicht in der Wohnung aufhalten.
+  * "Tatort-Tourismus" vermeiden. Einsatzkräfte ohne Auftrag aus der Wohnung herausschicken.
+  * Trampelpfad einrichten (hintereinander und nicht nebeneinander gehen, immer den gleichen Weg benutzen). Nachfolgende Kräfte ebenfalls auf den Trampelpfad einweisen
+  * Nicht durch Blutlachen laufen
+  * Nicht auf Gegenstände treten
+  * Potentielle Tatwerkzeuge/Waffen (auch Patronenhülsen) nicht bewegen, notfalls Lage unbedingt dokumentieren!
+  * Keinen Ausweis/Krankenversicherungskarte des Opfers suchen, weder bei Toten noch Verletzten.\\ Ausnahme: medizinische Gründe (z.B. Vorerkrankungen), dann aber Suche und Dokumentation durch Polizei
+  * Nur eigene Telefone benutzen ("Überschreiben" der Wahlwiederholung, nicht angenommene Anrufe werden vom Telefonanbieter nicht gespeichert!)
+  * keine Fenster öffnen (Ausnahme: Brandeinsatz oder Person kriegt schlecht Luft)
+  * Durch den Rettungsdienst hinterlassene Spuren (Verpackungen von Spritzen, etc.) nicht wegräumen.
+  * Müll auf keinen Fall im Mülleimer der Wohnung entsorgen!
+  * Nicht trinken, essen, rauchen; auch nicht direkt außerhalb der Absperrung (ggf. spätere Erweiterung des zu untersuchenden Bereichs)
+  * Die angefertigten Notizen über Sachverhalte aufbewahren (ggf. spätere Nachfrage der Ermittler)
+
+===== Weblinks =====
+
+  * [[wpde>Täterwissen|Wikipedia: Täterwissen]]
+
+===== Quellenangabe =====
+
+  * LKA Berlin

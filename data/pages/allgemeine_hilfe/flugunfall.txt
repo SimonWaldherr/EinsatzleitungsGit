@@ -1,0 +1,139 @@
+====== Flugunfall ======
+
+===== zu treffende Maßnahmen generell =====
+
+Die zu treffenden Maßnahmen unterscheiden sich teilweise je nach Unfallhergang und Flugzeugnutzung:
+
+  * Informationen über Flugzeugtyp, Passagierzahl und zusätzlicher Fracht einholen, zuständige Stellen alarmieren, z.B. Luftfahrtbundesamt (Kontaktdaten siehe unten)
+  * Sich dem Flugzeug erst nähern nachdem Info über eventuelle Fracht zur Verfügung steht (häufig auch in Passagierflugzeugen Gefahrgut!).
+  * Verletztenversorgung – Betreuung, Rettung – [[allgemein:manv|MANV]] ?
+    * Verletztensammelpunkt (Triage) einrichten und ausweisen
+    * [[allgemein:hubschrauberlandeplatz|Hubschrauberlandeplatz]] für mehrere Hubschrauber vorbereiten
+  * Zufahrtswege für Einsatzfahrzeuge freihalten – freimachen
+  * [[allgemein:bereitstellungsraum|Bereitstellungsraum]] für Einsatzkräfte einrichten und ausweisen
+  * Einsatzstelle/n weiträumig absperren. Schaulustige fernhalten.
+  * Wrackteile/Leichenteile
+    * wenn nicht zur Menschenrettung erfoderlich: nicht berühren, nicht bewegen, nichts öffnen oder ausbauen, keine Schalter oder Hebel betätigen
+    * Fundstellen sichern und markieren.
+  * ggf. [[#aussehen_von_flugdatenschreiber_und_stimmenrecorder|Flugdatenschreiber und Stimmenrecorder]] suchen
+  * Warten bis andere Anweisungen von zuständigen Stellen (Polizei, Militärpolizei oder Luftfahrbundesamt) gegeben-getroffen werden.
+
+==== Brandbekämpfung ====
+
+  * grundsätzlich [[brand:allgemein:schaum|Schaum]] einsetzen (AFFF)
+    * [[brand:allgemein:pulver|Pulver]] nur in besonderen Fällen (Behinderung von Sicht und Personenrettung)
+  * Löschangriff wenn möglich von vorne vortragen, Flammen vom Rumpf wegdrängen
+  * Zur Restablöschung und Rettung eindringen, gleichzeitig Belüften
+  * besondere Kontrolle von:
+    * Tank
+    * Fahrwerk
+    * Gepäck-/Frachtraum
+
+==== besondere Gefahren ====
+
+  * große Treibstoffmenge [[cbrn:ericards:klasse_3:12230548|Kerosin (Düsentreibstoff)]], 25 bis 220.000 Liter
+    * weite Brandausbreitung
+    * hohe Verbrennungstemperaturen, stabile Flammen
+    * tiefschwarzer Rauch
+    * Rückzündungen
+  * besondere Werkstoffe (Hauptbestandteile Aluminium und Kohlefaser)\\ -> schneller Durchbrand der Kabine
+  * schnelle Ausbreitung von giftige Gasen/Dämpfen
+  * Fracht ([[cbrn:gefahrgut|Gefahrgut]]), [[cbrn:chemisch:klasse_2:start|Druckbehälter]] (u.a.a Sauerstoffversorgung für Atemmasken) / ggf. Bewaffnung (Militärflugzeuge)
+  * Brandgefahr an Reifen nach starken Bremsmanövern aufgrund sich stauender Hitze\\ -> [[#gefahrenbereiche|explodierende Reifen, umherfliegende Felgenteile]]
+  * [[allgemeine_hilfe:allgemein:gesamtrettungssystem|Gesamtrettungssysteme]] bei Kleinflugzeugen
+
+===== zivile Flugzeuge =====
+
+==== Absturz – Bruchlandung, Passagierflugzeug ====
+
+  * Weiträumig absperren, mindestens **300 Meter**
+  * Brandbekämpfung soweit unter Eigenschutz möglich
+
+==== Absturz – Bruchlandung, Frachtflugzeug ====
+
+  * Weiträumig absperren, mindestens **500 Meter**
+  * Solange Fracht unbekannt grundsätzlich von Gefahrgut ausgehen !
+  * Brandbekämpfung – Gefahrguteinsatz soweit unter Eigenschutz möglich
+
+==== Kollision/Explosion in der Luft (Trümmerregen) ====
+
+  * Einsatzstelle kann sich über 10 Kilometer und weiter ausdehnen.
+
+===== militärische genutzte Flugzeuge =====
+
+  * [[:allgemeine_hilfe:allgemein:luftwaffe_flugunfaelle]], allgemeine Vorgehenshinweise und Rettungskarten für Flugzeuge und Hubschrauber
+
+==== Absturz – Bruchlandung, Militärflugzeug (kein Kampfflugzeug) ====
+
+  * Weiträumig absperren, mindestens **500 Meter**
+  * Bei Ladung **Munition Absperrbereich** bis auf **2500m** ausdehnen und evakuieren!
+  * Fracht Gefahrgut und/oder Munition. Bei Munition keine Annäherung!
+  * Brandbekämpfung – Gefahrguteinsatz soweit unter Eigenschutz möglich!
+
+==== Absturz – Bruchlandung, Kampfflugzeug ====
+
+  * Weiträumig absperren, mindestens **500 Meter**
+  * Bei Ladung **Munition Absperrbereich** bis auf **2500m** ausdehnen und evakuieren!
+  * Informationen über Bewaffnung und Besatzung einholen, zuständige Stellen alarmieren
+  * Sich auf keinem Fall dem Kampfflugzeug nähern !!! 100m sollten nicht unterschritten werden
+  * Sich auf keinem Fall von Vorne nähern – Bewaffnung !
+  * Falls sich die Besatzung noch im Flugzeug befindet, WARTEN bis Fachpersonal vor Ort ist. Keine Befreiungsversuche unternehmen. LEBENSGEFAHR für Einsatzpersonal
+  * Brandbekämpfung wenn überhaupt nur über Dachmonitor TLF ([[brand:allgemein:schaum|Schaum]])
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * [[allgemeine_hilfe:allgemein:rettungskarten_zivile_lfz]]
+
+==== Einsatz auf Flughafengeländen ====
+
+Niemals ohne Rückfrage/Freigabe auf Flugverkehrsflächen fahren (Start-/Landebahn, Vorfeld).\\ Von Fahrzeug mit Verbindung zum Tower "Geleitschutz" geben lassen.
+
+==== Gefahrenbereiche ====
+
+{{:allgemeine_hilfe:gefahrenbereiche_flugzeug.png?nolink&500 |Gefahrenbereiche}}
+
+Bei **noch laufenden Triebwerken** muss in jedem Fall Abstand zum Triebwerk gehalten werden; kommt eine Person in den Gefahrenbereich vor der Einlassöffnung des Triebwerks kann diese komplett eingesogen und zerstückelt werden. Hinter den Triebwerken bzw. dem kompletten Flugzeug ist ein ausreichender Abstand zu halten, da selbst Fahrzeuge ansonsten einfach fortgeblasen werden können.
+
+Um die Einlassöffnung des Triebwerks herum muss ein Abstand in einem Radius von mindestens 4 Metern gehalten werden, hinter dem Flugzeug ist ein Abstand von mindestens 100 Metern erforderlich.
+
+=== Kennzeichnung des Triebwerks ===
+
+{{:allgemeine_hilfe:triebwerk.jpg?nolink&500 |Triebwerkskennzeichnung sicherer Bereich}}
+
+Eine seitliche Annäherung ist möglich, wenn die Person nicht weiter nach vorne geht als die rote Markierung die am Triebwerk angebracht ist.
+
+=== Annäherung an Fahrwerke ===
+
+Nach Beanspruchung staut sich in Reifen/Fahrwerk Hitze an, wenn diese nicht durch Fahrtwind gekühlt werden. Brennende Reifen explodieren sehr wahrscheinlich. Kritische Punkte am Fahrwerk sind:
+
+  * Hydraulikleitungen mit Druck bis 300 bar
+  * heiße Bolzen und deren Sicherungen welche herausgeschleudert werden
+  * explodierende Reifen, Bruchstücke der Felge
+
+Ein einigermaßen sicherer Annäherungsweg ist schräg im 45°-Winkel auf das Fahrwerk zu (seitlich Gefahr durch Felgenteile/Bolzen, nach vorne und hinten durch Reifenteile).
+
+==== Aussehen von Flugdatenschreiber und Stimmenrecorder ====
+
+|  {{:allgemeine_hilfe:flugdatenschreiber.jpg?nolink&250|Flugdatenschreiber}}  |  {{:allgemeine_hilfe:stimmenrecorder.jpg?nolink&250|Stimmenrecorder}}  |
+^  Flugdatenschreiber  ^  Stimmenrecorder  ^
+
+===== Weblinks =====
+
+  * Recherchemöglichkeit zu Flugzeugtypen: [[http://www.luftfahrt-archiv.de]]
+  * Hinweis von Boeing zur [[http://www.boeing.com/assets/pdf/commercial/airports/arff/tire_safety_area.pdf|sicheren Annäherung an Fahrwerke]]
+  * [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/090150.xml?f=templates&fn=default.htm|Düsentreibstoff in der Gestis Gefahrstoffdatenbank]]
+
+===== Kontaktdaten/Ansprechpartner =====
+
+  * Deutsche Flugsicherung: Info über Flugzeugtyp und Airline\\ Wachleiter: Tel. 06103-7076200
+  * Luftfahrtbundesamt: Sollte sofort verständigt werden\\ Tel. 0531-2355-0
+  * SAR in Münster: Verfügt über Liste aller in Deutschland registrierten Flugzeuge\\ Wachleiter: Tel. 0251-135757 
+
+===== Quellenangabe =====
+
+  * Flugzeugabsturz: Allgemeine Informationen und Ratschläge für den Einsatz, Karl-Heinz Webel
+  * Feuerwehr Berliner Flughäfen
+  * Grafik Gefahrenbereich: selbst zusammengestellt Grafik, basierend auf der Grafik https://commons.wikimedia.org/wiki/File:Wing_swept.svg, veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:Steelpillow|Steelpillow]] unter Attribution-Share Alike 3.0 Unported-Lizenz
+  * Grafik Triebwerk: https://commons.wikimedia.org/wiki/File:Trent_500.JPG, veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:My_name|My name]] unter Attribution-Share Alike 3.0 Unported-Lizenz
+  * Grafik Flugdatenschreiber: https://commons.wikimedia.org/wiki/File:Flightrecorder.jpg, veröffentlicht vom Wikipedia-User [[https://en.wikipedia.org/wiki/User:Meggar|Meggar]] unter Attribution-Share Alike 3.0 Unported-Lizenz
+  * Grafik Stimmenrecorder: https://commons.wikimedia.org/wiki/File:2002-dmuseum-luftfahrt-014-650.jpg, veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:Mlucan|Michael Lucan]] unter Attribution-Share Alike 3.0 Unported-Lizenz

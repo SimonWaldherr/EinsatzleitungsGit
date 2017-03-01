@@ -1,0 +1,516 @@
+====== Standardeditor ======
+
+Der Standardeditor ist in der Regel für Benutzer mit guten Computerkenntnissen geeignet. Bei eher durchschnittlichen Kenntnissen sollten Sie eher den [[wiki:hilfe:artikel_fck-editor|FCK-Editor]] für eine komfortablere Bedienung ausprobieren. Ein Wechsel zwischen beiden Editoren ist aber jederzeit ganz einfach möglich.
+
+Das DokuWiki-System, auf welchem das Einsatzleiterwiki aufbaut, zeichnet sich u. a. durch einfache Textformatierungen aus. Dadurch bleiben die Dateien, die den Inhalt enthalten, gut lesbar. 
+In den nachfolgenden Abschnitten sind die möglichen Formatierungsarten aufgelistet, die innerhalb des Editors verwendet werden können. Einige der hier vorgestellten Formatierungen sind auch direkt über die [[#uebersicht_ueber_die_knoepfe_des_editors|Quickbuttons]] erreichbar.
+
+Zum  Ausprobieren oder Üben kann die [[playground:playground|Spielwiese]] verwendet werden.
+
+====== Texte ======
+
+===== Formatierungen =====
+
+DokuWiki unterstützt **fetten**, //kursiven//, __unterstrichenen__ und ''dicktengleichen'' ([[wpde>Dickte|Dickte]]) Text. Natürlich kann auch alles **__//''kombiniert''//__** werden.
+
+  DokuWiki unterstützt **fetten**, //kursiven//, __unterstrichenen__ und ''dicktengleichen'' Text. 
+  Natürlich kann auch alles **__//''kombiniert''//__** werden.
+
+Ebenso gibt es <sub>tiefgestellten</sub> und <sup>hochgestellten</sup> Text.
+
+  Ebenso gibt es <sub>tiefgestellten</sub> und <sup>hochgestellten</sup> Text.
+
+Text kann als <del>gelöscht</del>((wer das Tag "eingefügt" (%%<ins>%%) benötigt. kann dies über Plugins realisieren. Siehe ganz unten!)) markiert werden.
+
+  Text kann als <del>gelöscht</del> markiert werden.
+
+===== Absätze =====
+
+Einen neuen Absatz erzeugen Sie, indem Sie zweimal die Enter-Taste drücken. Einmaliges Drücken der Enter-Taste hat keinerlei Funktion. Eine neue Zeile (normaler Zeilenumbruch) kann durch zwei "Backslashes" (umgekehrte Schrägstriche: %%\\%%) gefolgt von einem Leerzeichen erzeugt werden. 
+
+Dies ist ein Beispieltext mit einigen Zeilenumbrüchen.\\ Beachte: Die zwei umgekehrten Schrägstriche
+werden nur erkannt, wenn sie am Zeilenende stehen\\
+oder wenn ihnen ein\\ Leerzeichen folgt.\\ So\\sieht es ohne Leerzeichen aus.
+
+  Dies ist ein Beispieltext mit einigen Zeilenumbrüchen.\\ Beachte: Die zwei umgekehrten Schrägstriche
+  werden nur erkannt, wenn sie am Zeilenende stehen\\
+  oder wenn ihnen ein\\ Leerzeichen folgt.\\ So\\sieht es ohne Leerzeichen aus.
+
+Natürlich können Sie zur besseren Lesbarkeit auch zusätzlich nach dem doppelten Backslash noch die Enter-Taste drücken, der mit dieser Taste erzeugte Zeilenumbruch ist aber nur im Bearbeitungsmodus zu sehen.
+
+Zeilenumbrüche durch zwei "Backslashes" (umgekehrte Schrägstriche: %%\\%%) sollten nur verwendet werden, wenn sie unbedingt notwendig sind.
+
+===== Überschriften =====
+
+Mit fünf unterschiedlichen Ebenen, getrennt durch Überschriften, kann der Inhalt einer Seite strukturiert werden.
+Die Überschriften werden mit maximal sechs "=" eingerahmt, je nach Größe.  H1 ist die Überschrift auf höchster Ebene. Am einfachsten ist es zur Erzeugung der Überschriften, die Symbolleiste zu verwenden. Das Einfügen der Überschriften erfolgt über die Buttons, die ein "H" anzeigen. 
+
+Es ist __sinnvoll__, wenn immer eine Level 1 Überschrift am Anfang eines Artikels steht.
+
+Wenn in einer Seite mehr als drei Überschriften vorkommen, wird automatisch ein Inhaltsverzeichnis erstellt, welches alle Überschriften auflistet.\\
+Soll dieses Inhaltsverzeichnis nicht erstellt werden, muss der Befehl: ''<nowiki>~~NOTOC~~</nowiki>'' mit in die Seite aufgenommen werden.
+
+  ====== Überschrift Ebene 1 ======
+  ===== Überschrift Ebene 2 =====
+  ==== Überschrift Ebene 3 ====
+  === Überschrift Ebene 4 ===
+  == Überschrift Ebene 5 ==
+
+Innerhalb von Überschriften können standardmäßig keine weiteren Formatierungen vorgenommen werden!
+
+===== unformatierte Abschnitte =====
+
+Um Text so anzuzeigen, wie er geschrieben wurde, egal ob er DokuWiki Formatierungen oder andere Formatierungen enthält, kann man jede
+Zeile mit zwei Leerzeichen beginnen (so wie es in dieser Seite angewendet wurde) oder einen der Bezeichner "code" bzw. "file" benutzen:
+
+<code>
+Mit "code": In diesem Text werden keine überflüssigen Leerzeichen entfernt: wie hier              <-- zwischen
+</code>
+
+<file plain Beispiel.txt>
+Mit dem Bezeichner "file" kann ein bestimmter Abschnitt als einzelner Bestandteil 
+auf einer Seite zum Download angeboten werden.
+</file>
+
+  <file plain Beispiel.txt>
+  Mit dem Bezeichner "file" kann ein bestimmter Abschnitt als einzelner Bestandteil 
+  auf einer Seite zum Download angeboten werden.
+  </file>
+
+Um jegliche Umwandlung durch DokuWiki abzustellen, umschließe den entsprechenden Bereich mit "nowiki" Bezeichnern oder kürzer mit doppelten Prozentzeichen ''<nowiki>%%</nowiki>''.
+
+<nowiki>
+Dieser Text enthält links wie: http://www.splitbrain.org und **Formatierungen** aber sie werden nicht umgesetzt und erscheinen als normaler Text.
+</nowiki>
+
+%%Dieser Text ist nun mit %%''<nowiki>%%</nowiki>''%% markiert und hat die gleiche Wirkung wie "nowiki".
+
+"Dieser Text enthält links wie: http://www.splitbrain.org und **Formatierungen** aber sie werden nicht umgesetzt und erscheinen als normaler Text."%%
+
+Bearbeiten Sie den Quelltext dieser Seite anschauen (den Knopf "Bearbeiten" drücken) um zu sehen, wie diese Blöcke angewendet werden.
+
+===== Zitat / Kommentar =====
+
+Um einen Text als Zitat oder Kommentar zu kennzeichnen, wird das "größer als" - Zeichen folgendermaßen verwendet:
+
+  Ich denke wir sollten es tun.
+  
+  > Nein, sollten wir nicht.
+  
+  >> Doch!
+  
+  > Wirklich?
+  
+  >> Ja!
+  
+  >>> Dann lass es uns tun!
+  
+  >>> Kommentare oder Zitate können auch über mehrere Zeilen gehen, wie dieser völlig unsinnige Text zeigt. Um einen Text als Zitat oder Kommentar zu kennzeichnen, wird das "größer als"-Zeichen folgendermaßen verwendet
+
+Ich denke wir sollten es tun
+
+> Nein, sollten wir nicht.
+
+>> Doch!
+
+> Wirklich?
+
+>> Ja!
+
+>>> Dann lass es uns tun
+
+>>> Kommentare oder Zitate können auch über mehrere Zeilen gehen, wie dieser völlig unsinnige Text zeigt. Um einen Text als Zitat oder Kommentar zu kennzeichnen, wird das "größer als"-Zeichen folgendermaßen verwendet
+ 
+===== Escapezeichen =====
+
+Will man verhindern, dass DokuWiki irgendwelche Formatierungen am bzw. Umwandlungen am Text vornimmt so kann man die Prozentzeichen benutzen
+<code>%%[[wiki:testseite|Testseite]]%%</code>
+Die Ausgabe würde dann folgendermaßen aussehen %%[[wiki:testseite|Testseite]]%%
+
+===== Übersicht über die Knöpfe des Editors =====
+
+**Die Formatierungs-Knopfleiste** wird automatisch über dem Editierfeld sichtbar, wenn der Browser das **//dafür notwendige//** JavaScript unterstützt. Die Knöpfe arbeiten ähnlich denen, die in den gängigen Textverarbeitungen benutzt werden. Bei Mozilla, Safari und Internet Explorer ist es möglich, ein Wort zu markieren und dann einen Knopf zu drücken, um das markierte Wort zu formatieren. Wenn man **ohne ** vorausgegangene //Markierung// einen Knopf betätigt, wird ein Beispielcode an der Cursorposition eingefügt.
+
+Browser, die ein Einfügen an der aktuellen Cursorposition nicht unterstützen, fügen den Beispielcode am Ende des Editierfeldes ein.
+
+^ Knopf ^ Funktion/Ergebnis  ^
+|  {{:wiki:hilfe:standard-editor:bold.png?nolink}}        | Fette Schrift |
+|  {{:wiki:hilfe:standard-editor:italic.png?nolink}}      | Kursive Schrift |
+|  {{:wiki:hilfe:standard-editor:underline.png?nolink}}   | Unterstrichene Schrift |
+|  {{:wiki:hilfe:standard-editor:mono.png?nolink}}        | Schreibmaschinen-Schrift |
+|  {{:wiki:hilfe:standard-editor:strike.png?nolink}}      | durchgestriche Schrift |
+|  {{:wiki:hilfe:standard-editor:hequal.png?nolink}}      | neue Überschrift auf der gleichen Ebene wie die aktuelle |
+|  {{:wiki:hilfe:standard-editor:hminus.png?nolink}}      | neue Überschrift eine Ebene niedriger als die aktuelle |
+|  {{:wiki:hilfe:standard-editor:hplus.png?nolink}}       | neue Überschrift eine Ebene höher als die aktuelle |
+|  {{:wiki:hilfe:standard-editor:h.png?nolink}}           | Überschrift mit zu wählender Ebene (in Verbindung mit einem der folgenden fünf aufgelisteten Knöpfe) |
+|  {{:wiki:hilfe:standard-editor:h1.png?nolink}}          | Überschrift Ebene 1 (nur zugänglich durch Klicken auf {{:wiki:hilfe:standard-editor:h.png?nolink}} )  |
+|  {{:wiki:hilfe:standard-editor:h2.png?nolink}}          | Überschrift Ebene 2 (nur zugänglich durch Klicken auf {{:wiki:hilfe:standard-editor:h.png?nolink}} ) |
+|  {{:wiki:hilfe:standard-editor:h3.png?nolink}}          | Überschrift Ebene 3 (nur zugänglich durch Klicken auf {{:wiki:hilfe:standard-editor:h.png?nolink}} ) |
+|  {{:wiki:hilfe:standard-editor:h4.png?nolink}}          | Überschrift Ebene 4 (nur zugänglich durch Klicken auf {{:wiki:hilfe:standard-editor:h.png?nolink}} ) |
+|  {{:wiki:hilfe:standard-editor:h5.png?nolink}}          | Überschrift Ebene 5 (nur zugänglich durch Klicken auf {{:wiki:hilfe:standard-editor:h.png?nolink}} ) |
+|  {{:wiki:hilfe:standard-editor:link.png?nolink}}        | Verknüpfung mit einem Artikel im Einsatzleiterwiki (Klick öffnet den Link-Assistenten). Eine Verknüpfung besteht aus zwei Teilen: <code>[[namensraum:artikelname|Link-Beschriftung]]</code> Der erste Teil verweist auf den Ort des Artikels und wird vom Link-Assistenten erzeugt. Nach der vertikalen Linie ("Verkettungszeichen") können Sie den Text angeben, der im Text anstelle des Links angezeigt wird. |
+|  {{:wiki:hilfe:standard-editor:linkextern.png?nolink}}  | Verknüpfung mit einer Internetadresse (Funktion analog wie interne Verknüpfung) |
+|  {{:wiki:hilfe:standard-editor:ol.png?nolink}}          | Aufzählungspunkt einer nummerierten Liste einfügen |
+|  {{:wiki:hilfe:standard-editor:ul.png?nolink}}          | Aufzählungspunkt einer nicht nummerierten Liste einfügen |
+|  {{:wiki:hilfe:standard-editor:hr.png?nolink}}          | horizontale Linie einfügen |
+|  {{:wiki:hilfe:standard-editor:image.png?nolink}}       | Bild oder Datei hochladen und/oder einfügen |
+|  {{:wiki:hilfe:standard-editor:smiley.png?nolink}}      | Smiley einfügen (Verwendung eher unwahrscheinlich) |
+|  {{:wiki:hilfe:standard-editor:chars.png?nolink}}       | Symbol einfügen |
+|  {{:wiki:hilfe:standard-editor:sig.png?nolink}}         | Signatur einfügen (Verwendung eher unwahrscheinlich) |
+|  {{:wiki:hilfe:standard-editor:speichern.png?nolink}}         | Artikel speichern |
+|  {{:wiki:hilfe:standard-editor:fck-editor.png?nolink}}         | Zur Bearbeitung mit dem FCK-Editor umschalten (nach dem Klick auf diese Schaltfläche befindet sich das Wiki wieder in der Lese-Ansicht, es muss erneut auf //bearbeiten// geklickt werden, nach diesem Klick öffnet sich das Bearbeiten-Fenster mit dem FCK-Editor |
+|  {{:wiki:hilfe:standard-editor:vorschau.png?nolink}}         | Vorschau des Artikels unterhalb des Bearbeitungsfensters anzeigen. Bitte überprüfen Sie das Ergebnis Ihrer Bearbeitung vor dem Speichern mit der Vorschau-Funktion, um nicht unnötig viele Revisionen eines Artikels zu erzeugen. |
+|  {{:wiki:hilfe:standard-editor:abbrechen.png?nolink}}         | Artikelbearbeitung abbrechen. **Achtung!** Alle seit dem Beginn der Bearbeitung getätigten Änderungen gehen verloren! |
+
+====== Links ======
+
+Mit DokuWiki können fünf unterschiedliche Arten von Links benutzt werden:
+
+===== Extern =====
+
+Externe Links (Verweise auf andere Webseiten oder Dateien) werden automatisch erkannt: http://www.google.com oder einfach www.google.com.
+
+Verweise können auch hinter eigenen Begriffen versteckt werden: [[http://www.google.com|hier ist google]].
+
+E-Mail Adressen werden in spitze Klammern gesetzt: <info@einsatzleiterwiki.de>.
+
+  Externe Links werden automatisch erkannt: http://www.google.com oder einfach www.google.com.
+  
+  Verweise können auch hinter eigenen Begriffen versteckt werden: [[http://www.google.com|hier ist google]].
+  
+  E-Mail Adressen werden in spitze Klammern gesetzt: <info@einsatzleiterwiki.de>.
+
+===== Intern =====
+
+Interne Links, also Verweise auf Seiten innerhalb von DokuWiki, werden in doppelten eckigen Klammern gesetzt:\\
+[[wiki:hilfe:artikel_standardeditor]]
+
+Ein Link kann auch hinter einem Begriff oder einer Beschreibung versteckt werden:\\
+[[wiki:hilfe:artikel_standardeditor|Beschreibung für einen Link]].
+
+  Interne Links werden in doppelten eckigen Klammern gesetzt:
+  [[wiki:hilfe:artikel_standardeditor]] 
+  
+  Ein Link kann auch hinter einem Begriff oder einer Beschreibung versteckt werden:
+  [[wiki:hilfe:artikel_standardeditor|Beschreibung für einen Link]].
+
+Dateinamen für neue Seiten im Wiki werden automatisch in Kleinbuchstaben umgewandelt!\\
+Umlaute sind genauso wie Sonderzeichen nicht erlaubt!
+
+Durch einen Doppelpunkt werden Namensbereiche im Wiki gekennzeichnet: [[wiki:hilfe]] 
+
+  Durch einen Doppelpunkt werden Namensbereiche im Wiki aufgelöst:[[wiki:hilfe]] 
+
+Weitere Informationen zu Namensbereichen: [[doku>de:namespaces]].
+
+==== Verwendung von "Ankern" ====
+
+Die Verlinkung zu einem speziellen Abschnitt innerhalb des Dokuments ist auch möglich (Anker). Der Abschnittsnamen wird getrennt durch ein Doppelkreuz (#) an den Seitennamen gehängt.
+
+Dieses Beispiel verlinkt zu [[wiki:hilfe:artikel_standardeditor#intern|diesem Abschnitt]].
+
+  Dieses Beispiel verlinkt zu [[wiki:hilfe:artikel_standardeditor#intern|diesem Abschnitt]].
+  
+  * Anker werden klein geschrieben,​ es werden Leerzeichen mit Unterstrichen und Umlaute mit Ihren Umschreibungen (ä = ae) verwendet.
+  * Ändert sich eine Überschrift im Zieldokument,​ führt der Anker ins Leere ohne das der Link dabei als fehlerhaft angezeigt wird.
+
+==== Existierende und nicht existierende Seiten ====
+
+Links zu [[wiki:hilfe:artikel_standardeditor|existierenden Seiten]] werden anders angezeigt als Links zu [[nicht-existierenden]] Seiten.
+
+===== Interwiki =====
+
+DokuWiki unterstützt auch Links in andere Wikis, sogenannte [[doku>de:interwiki]] Links. \\
+Ein Link zur Wikipedia Seite über Wikis:[[wpde>Wiki]]
+
+  DokuWiki unterstützt auch Links in andere Wikis, sogenannte [[doku>de:interwiki]] Links. \\
+  Ein Link zur Wikipedia Seite über Wikis:[[wpde>Wiki]]
+
+===== Windows-Freigaben =====
+
+DokuWiki kennt auch Links auf Windows-Freigaben: [[\\server\freigabe|freigegebener-Ordner]]. \\
+Dies ist allerdings nur in einer homogenen Benutzergruppe sinnvoll (siehe [[wpde>Intranet]]).
+
+  [[\\server\freigabe|this]].
+
+Hinweis:
+  * Aus Sicherheitsgründen funktioniert direktes Navigieren durch die Freigaben standardmäßig nur mit dem Internet Explorer (und das nur in der "lokalen Zone")!
+  * Für Mozilla und Firefox kann es durch die Option [[http://www.mozilla.org/quality/networking/docs/netprefs.html#file|security.checkloaduri]] eingeschaltet werden, was aber nicht empfohlen wird! (Weitere Informationen: [[http://kb.mozillazine.org/Links_to_local_pages_do_not_work|Links to local pages do not work]])
+  * Opera ignoriert als Sicherheitsfeature seit [[http://www.opera.com/windows/changelogs/754/|Version 7.54]] alle Links auf //file:// in Webseiten.
+  * Für weitere Informationen siehe: [[bug>151]]
+
+===== Bilder als Links =====
+
+Bilder können für einen Link auf eine interne oder externe Datei verwendet werden. Dazu wird die Syntax zur Anzeige von Links einfach mit der zur Anzeige von Bildern (siehe unten) kombiniert:
+
+   [[http://www.php.net|{{wiki:dokuwiki-128.png}}]]
+
+[[http://www.php.net|{{wiki:dokuwiki-128.png}}]]
+
+Bitte beachte: Bildformatierungen sind die einzigen Formatierungen, die in Linknamen benutzt werden können!
+
+====== Bilder und andere Dateien ======
+
+===== Voraussetzungen zum Hochladen von Dateien =====
+
+Um Bilder im DokuWiki speichern zu dürfen, muss der Benutzer die entsprechende Berechtigung besitzen. Zum Hochladen ist mindestens die Berechtigung "Hochladen" (engl. "Upload"), zum Löschen "Entfernen" (engl. "Delete") für den Namensraum erforderlich.
+
+===== Dateien hochladen =====
+
+Klicken Sie auf das Bilderrahmen-Symbol {{:wiki:hilfe:standard-editor:image.png?nolink|Bilder und andere Dateien hinzufügen}} um den Dateimanager zu öffnen. Dieser erscheint in einem neuen Fenster.
+
+{{:wiki:hilfe:standard-editor:mediamanager.png?direct&500|Media-Manager}}
+
+Klicken Sie in der linken Seite auf den Namensraum (und danach ggf. auf Unternamensraum), in welchen Sie die Datei hochladen möchten. Sie können jederzeit als Überschrift der rechten Spalte den aktuell ausgewählten Namensraum ablesen (hier: **:gefaehrliche_stoffe_gueter:allgemein**).
+
+Klicken Sie nun auf **Dateien auswählen** um Dateien auf Ihrem Computer auszuwählen welche Sie hochladen möchten. Sie können auch mehrere Dateien auf einmal hochladen:
+   * Drücken Sie im Dateiauswahldialog die Taste ''STRG + A'' um alle Dateien im Ordner auszuwählen.
+   * Halten Sie die STRG-Taste gedrückt während mehrere Dateien einzeln anzuklicken um diese in einem Vorgang hochzuladen.
+   * Klicken Sie eine Datei an, halten Sie die SHIFT-Taste (mit welcher man Großbuchstaben schreibt) gedrückt und klicken sie eine zweite Datei an um alle Dateien zu markieren die sich zwischen diesen beiden befinden.
+
+Nachdem Sie die Dateien ausgewählt haben klicken Sie auf {{:wiki:hilfe:standard-editor:hochladen.png?nolink|Hochladen}}. Während die Dateien hochgeladen werden sehen Sie eine Fortschrittsanzeige. Nachdem alle Dateien hochgeladen sind klicken Sie auf {{:wiki:hilfe:standard-editor:fertig.png?nolink|Fertig}}, um die rechte Spalte zu aktualisieren in der alle in diesem Namensraum gespeicherten Dateien angezeigt werden.
+
+==== Erstellen eines neuen Unter-Namensraumes ====
+
+Die Struktur der Namensräume ist stark an die Struktur der Wiki-Seiten angelegt. Wenn zu einem vergleichsweise kleinem Artikel aber viele Dateien abgelegt werden, empfiehlt es sich für diese einen neuen Unternamensraum anzulegen um die Übersichtlichkeit zu bewahren.
+
+Bewegen Sie sich dazu wie oben beschrieben in den existierenden Namensraum, in dem Sie einen Unternamensraum anlegen möchten. Wählen Sie eine Datei von Ihrer Festplatte aus. Bevor Sie jedoch {{:wiki:hilfe:standard-editor:hochladen.png?nolink|Hochladen}} anklicken, klicken Sie auf den Dateinamen ganz vorne ins Feld. Schreiben Sie den Namen des künftigen Unternamensraum in das Feld, gefolgt von einem Doppelpunkt. Danach lassen Sie den Dateinamen stehen.
+
+Ein Beispiel dazu:
+
+{{:wiki:hilfe:standard-editor:neuer_unternamensraum.png?nolink|Neuer Unternamensraum}}
+
+In diesem Fall wurde zuerst der Namensraum **:gefaehrliche_stoffe_gueter:allgemein:kennzeichnung** aufgerufen. In diesem soll ein Unternamensraum **schilder** angelegt werden. Dafür wird von der Festplatte die Datei **biogefahr.png** ausgewählt. Danach erfolgt ein Klick in das Feld, und der Text **schilder:** wird von Hand in das Feld eingetragen. Beim Klick auf {{:wiki:hilfe:standard-editor:hochladen.png?nolink|Hochladen}} wird nun der Unternamensraum **schilder** angelegt und als erste Datei die Grafik **biogefahr.png** darin abgelegt.
+
+===== Größe von Bildern  =====
+Mit geschweiften Klammern können sowohl externe als auch interne Bilder eingebunden werden. Das Bild heißt in diesem Beispiel "​dokuwiki-128.png". Optional kann deren Größe angegeben werden:
+
+Originalgröße:                      {{wiki:dokuwiki-128.png}}
+
+Eine Breite vorgeben:                {{wiki:dokuwiki-128.png?50}}
+
+Breite und Höhe vorgeben:            {{wiki:dokuwiki-128.png?200x50}}
+
+Größe für externe Bilder vorgeben:   {{http://de3.php.net/images/php.gif?200x50}}
+
+  Originalgröße:                        {{wiki:dokuwiki-128.png}}
+  Eine Breite vorgeben:                  {{wiki:dokuwiki-128.png?50}}
+  Breite und Höhe vorgeben:              {{wiki:dokuwiki-128.png?200x50}}
+  Größe für externe Bilder vorgeben:     {{http://de3.php.net/images/php.gif?200x50}}
+
+===== Ausrichten von Bildern =====
+Mit Leerzeichen zur Rechten und/oder Linken innerhalb der Klammern kann ein Bild horizontal ausgerichtet werden (Links, Zentriert, Rechts).
+
+{{ wiki:dokuwiki-128.png|Rechts}}
+
+{{wiki:dokuwiki-128.png |Links}}
+
+{{ wiki:dokuwiki-128.png |Zentriert}}
+
+  {{ wiki:dokuwiki-128.png}}
+  {{wiki:dokuwiki-128.png }}
+  {{ wiki:dokuwiki-128.png }}
+
+Bei Ausrichtung und der Verwendung eines Titels sollte man drauf achten dass der Titel nach dem Leerzeichen kommt:
+  {{ wiki:dokuwiki-128.png|Rechtsbündig}}
+  {{wiki:dokuwiki-128.png |Linksbündig}}
+  {{ wiki:dokuwiki-128.png |Zentriert }}
+
+===== Tooltips =====
+Auch Titel, in den meisten Browsern als Tooltip angezeigt, können angegeben werden.
+
+{{ wiki:dokuwiki-128.png |Dies ist ein Titel}}
+
+  {{ wiki:dokuwiki-128.png |Dies ist ein Titel}}
+
+===== Dateidownload =====
+
+Wenn eine Datei angegeben wird, die kein Bild (''gif, jpeg, png'') ist, so wird sie als Link angezeigt und so zum Download angeboten.
+
+{{ wiki:dokuwiki-128.txt |Beispiel}}
+<code>{{ wiki:dokuwiki-128.txt |Beispiel}}</code>
+
+===== Automatische Verlinkung =====
+
+Bilder werden automatisch mit einer Verlinkung zur Ihren Metadaten erstellt - Bsp.: {{wiki:dokuwiki-128.png?15}}
+
+Dieses Verhalten kann über die Option ?nolink((ggf. mit einem "&" mit anderen Optionen wie der Größenangabe kombinieren)) unterbunden werden:
+
+{{wiki:dokuwiki-128.png?15&nolink}}
+  {{wiki:dokuwiki-128.png?15&nolink}}
+
+Außerdem kann mit ?direct das Bild, z.Bsp. als Vollansicht, direkt verlinkt werden:
+
+{{wiki:dokuwiki-128.png?15&direct}}
+  {{wiki:dokuwiki-128.png?15&direct}}
+
+====== Listen ======
+
+DokuWiki kennt unsortierte und nummerierte Listen. Um einen Listeneintrag zu erzeugen, beginne eine Zeile mit zwei Leerzeichen. Diesen Leerzeichen folgt dann ein "*" für unsortierte oder ein "-" für nummerierte Listen.  
+
+  * Dies ist ein Eintrag einer unsortierten Liste
+  * Ein zweiter Eintrag
+    * Unterschiedliche Ebenen einer Liste durch Hinzufügen von weiteren zwei Leerzeichen
+  * Noch ein Eintrag
+
+  - Dies ist ein Eintrag einer nummerierte Liste
+  - Ein zweiter Eintrag
+    - Unterschiedliche Ebenen einer Liste durch Hinzufügen von weiteren zwei Leerzeichen
+  - Noch ein Eintrag
+
+<code>
+  * Dies ist ein Eintrag einer unsortierten Liste
+  * Ein zweiter Eintrag
+    * Unterschiedliche Ebenen einer Liste durch Hinzufügen von weiteren zwei Leerzeichen
+  * Noch ein Eintrag
+
+  - Dies ist ein Eintrag einer nummerierte Liste
+  - Ein zweiter Eintrag
+    - Unterschiedliche Ebenen einer Liste durch Hinzufügen von weiteren zwei Leerzeichen
+  - Noch ein Eintrag
+</code>
+
+====== Tabellen ======
+
+===== Grundlegender Aufbau =====
+
+Mit DokuWiki können Tabellen ganz einfach erstellt werden: 
+
+^ hervorgehoben       ^ zum Beispiel für                                                  ^ eine Titelzeile         ^
+| Zeile 1 Spalte 1    | Zeile 1 Spalte 2                                                  | Zeile 1 Spalte 3        |
+| Zeile 2 Spalte 1    | doppelte Spaltenbreite (beachte den doppelten senkrechten Strich) ||
+| Zeile 3 Spalte 1    | Zeile2 Spalte 2                                                   | Zeile 2 Spalte 3        |
+
+Felder einer Tabelle starten mit "|" für ein normales Feld oder mit einem "^" für hervorgehobenes Feld.
+
+  ^ hervorgehoben       ^ zum Beispiel für                                                  ^ eine Titelzeile         ^
+  | Zeile 1 Spalte 1    | Zeile 1 Spalte 2                                                  | Zeile 1 Spalte 3        |
+  | Zeile 2 Spalte 1    | doppelte Spaltenbreite (beachte den doppelten senkrechten Strich) ||
+  | Zeile 3 Spalte 1    | Zeile2 Spalte 2                                                   | Zeile 2 Spalte 3        |
+
+===== Formatierung/Ausrichtung =====
+
+=== Leerzellen ===
+
+Zellen über mehrere Spalten werden erzeugt wenn man, wie oben gezeigt, am Ende einer solchen Spalte so viele "|" oder "^" ohne Leerzeichen dazwischen hintereinander setzt, wie Spalten überbrückt werden sollen.
+Kurz gesagt: Alle Zeilen einer Tabelle müssen die gleiche Anzahl an Feldtrennern "|" oder "^" haben.
+
+Hervorgehobene Felder in Vertikaler Ausrichtung sind auch möglich.
+
+|                    ^ hervorgehoben 1           ^ hervorgehoben 2         ^
+^ hervorgehoben 3    | Zeile 1 Spalte 2          | Zeile 1 Spalte 3        |
+^ hervorgehoben 4    | Zeile 2 Spalte 2          |                         |
+^ hervorgehoben 5    | Zeile 3 Spalte 2          | Zeile 3 Spalte 3        |
+
+Wie wir sehen, entscheidet der Feldtrenner ("|" oder "^") vor einer Zelle über ihr Aussehen:
+
+  |                    ^ hervorgehoben 1           ^ hervorgehoben 2         ^
+  ^ hervorgehoben 3    | Zeile 1 Spalte 2          | Zeile 1 Spalte 3        |
+  ^ hervorgehoben 4    | Zeile 2 Spalte 2          |                         |
+  ^ hervorgehoben 5    | Zeile 3 Spalte 2          | Zeile 3 Spalte 3        |
+
+=== Zellen verbinden ===
+
+Felder über mehrere Zeilen (**vertikal verbundene Zellen**) lassen sich durch hinzufügen von '':::'' in der zu verbindenden Zelle zusammenfügen.
+
+^ Titelzeile 1        ^ Titelzeile 2                       ^ Titelzeile 3            ^
+| Zeile 1 Spalte 1    | Diese Zelle ist vertikal verbunden | Zeile 1 Spalte 3        |
+| Zeile 2 Spalte 1    | :::                                | Zeile 2 Spalte 3        |
+| Zeile 3 Spalte 1    | :::                                | Zeile 3 Spalte 3        |
+
+Außer den drei Doppelpunkten darf die zu verbindende Zelle keine weiteren Inhalte haben.
+
+  ^ Titelzeile 1        ^ Titelzeile 2                       ^ Titelzeile 3            ^
+  | Zeile 1 Spalte 1    | Diese Zelle ist vertikal verbunden | Zeile 1 Spalte 3        |
+  | Zeile 2 Spalte 1    | :::                                | Zeile 2 Spalte 3        |
+  | Zeile 3 Spalte 1    | :::                                | Zeile 3 Spalte 3        |
+
+
+Felder über mehrere Spalten (**horizontal verbundene Zellen**) lassen sich durch hinzufügen von ''^'' bzw. ''|'' in der zu verbindenden Zelle zusammenfügen.
+
+^ Titelzeile 1        ^ Titelzeile 2                       ^ Titelzeile 3            ^
+| Zeile 1 Spalte 1    | Diese Zelle ist horizontal verbunden                        ||
+| Zeile 2 Spalte 1    | Zeile 2 Spalte 2                   | Zeile 2 Spalte 3        |
+| Zeile 3 Spalte 1    | Zeile 3 Spalte 2                   | Zeile 3 Spalte 3        |
+
+Außer den drei Doppelpunkten darf die zu verbindende Zelle keine weiteren Inhalte haben.
+
+  ^ Titelzeile 1        ^ Titelzeile 2                       ^ Titelzeile 3            ^
+  | Zeile 1 Spalte 1    | Diese Zelle ist horizontal verbunden                         ||
+  | Zeile 2 Spalte 1    | Zeile 2 Spalte 2                   |    Zeile 2 Spalte 3      |
+  | Zeile 3 Spalte 1    | Zeile 3 Spalte 2                   | Zeile 3 Spalte 3         |
+
+=== Textausrichtung ===
+
+Der Inhalt einer Zelle kann horizontal innerhalb der Zelle ausgerichtet werden:
+  * Rechtsbündig - zwei Leerzeichen links vom Text
+  * Linksbündig - Leerzeichen rechts vom Text
+  * Zentriert - zwei Leerzeichen links und rechts vom Text
+
+^          Tabelle mit Ausrichtung         ^^^
+|Links         |        Rechts|  Mitte       |
+|Links         |        Rechts|    Mitte     |
+| xxxxxxxxxxxx | xxxxxxxxxxxx | xxxxxxxxxxxx |
+
+So sieht die Formatierung aus:
+
+  ^          Tabelle mit Ausrichtung         ^^^
+  |        Rechts|    Mitte     |Links         |
+  |Links         |        Rechts|    Mitte     |
+  | xxxxxxxxxxxx | xxxxxxxxxxxx | xxxxxxxxxxxx |
+
+|Hinweis zu dem senkrechten Balken-Zeichen: dieses Zeichen ist auf einer PC-Tastatur erreichbar über die Taste "<" bei zusätzlich gedrückter "AltGr"-Taste. Ist dort auch aufgedruckt. Apple-Nutzer erreichen das Zeichen mit der Wahltaste ("Alt") und der "7".|
+
+====== sonstige Formatierungen ======
+
+===== Fußnoten =====
+
+Fußnoten ((dies ist eine Fußnote)) werden durch eine doppelte runde Klammer dargestellt ((eine zweite Fußnote)). Der Text zwischen den Klammern wird an das Ende der Seite geschrieben. Die Reihenfolge und somit die Nummerierung übernimmt DokuWiki. 
+
+  Fußnoten ((dies ist eine Fußnote)) werden durch eine doppelte runde Klammer dargestellt ((eine zweite Fußnote))
+
+===== horizontale Linie =====
+Mit vier aufeinander folgenden Minuszeichen (alleine in einer Zeile) kann eine horizontale Linie erzeugt werden:
+----
+<nowiki>----</nowiki>
+
+
+===== Smileys =====
+
+DokuWiki verwandelt oft genutzte [[wpde>Emoticon]]s zu kleinen Smiley-Grafiken.\\
+Weitere Smiley-Grafiken können im Ordner "smily" abgelegt und dann in der Datei ''conf/smileys.conf'' eingetragen werden.\\
+Hier ist nun eine Übersicht der standardmäßig in DokuWiki enthaltenen Smileys:
+
+^  8-)  ^  8-O  ^  :-(  ^  :-)  ^  =)  ^  :-/  ^  :-\  ^  :-?  ^  :-D  ^  :-P  ^  :-O  ^  :-X  ^  :-|  ^  ;-)  ^  :?:  ^  :!:  ^  ''^_^''  ^  LOL  ^  FIXME  ^  DELETEME  ^
+|  %%  8-)  %%  |  %%  8-O  %%  |  %%  :-(  %%  |  %%  :-)  %%  |  %%  =)   %%  |  %%  :-/  %%  |  %%  :-\  %%  |  %%  :-?  %%  |  %%  :-D  %%  |  %%  :-P  %%  |  %%  :-O  %%  |  %%  :-X  %%  |  %%  :-|  %%  |  %%  ;-)  %%  |  %%  :?:  %%  |  %%  :!:  %%  |  %%  ^_^  %%  |  %%  LOL  %%  |  %%  FIXME  %%  |  %% DELETEME  %%  |
+
+===== Typografie =====
+
+DokuWiki kann einfache Textzeichen in ihre typografischen Entsprechungen umwandeln.
+Hier eine Liste aller Zeichen, die DokuWiki kennt:
+
+-> <- <-> => <= <=> >> << -- --- 640x480 (c) (tm) (r)
+"He thought 'It's a man's world'..."
+
+<code>
+-> <- <-> => <= <=> >> << -- --- 640x480 (c) (tm) (r)
+"He thought 'It's a man's world'..."
+</code>
+
+===== Kontroll-Makros =====
+
+Einige Syntax-Befehle beeinflussen wie Dokuwiki eine Seite beim Aufruf ausgibt. Die folgenden Kontroll-Makros sind verfügbar:
+
+^ Makro          ^ Beschreibung ^
+| %%~~NOTOC~~%%   | Wenn dieses Makro in eine Seite eingebunden ist, wird das Inhaltsverzeichnis nicht erstellt.|
+| %%~~NOCACHE~~%% | Alle Seiten werden Performancegründen zwischengespeichert. Unter bestimmten Umständen ist dieses Verhalten aber nicht gewollt. Beim Einfügen dieses Makros wird DokuWiki angewiesen, den Inhalt der Seite neu aufzubauen. |
+
+===== Syntax-Plugins =====
+Die Syntax von DokuWiki kann durch Plugins erweitert werden. Wie die einzelnen Plugins benutzt werden, steht auf den zugehörigen Beschreibungsseiten. Die folgenden Plugins sind auf dieser DokuWiki Installation verfügbar:
+
+~~INFO:syntaxplugins~~
+
+===== Quellen =====
+
+  * https://www.dokuwiki.org/de:wiki:syntax, veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz
+  * https://www.dokuwiki.org/de:toolbar, veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

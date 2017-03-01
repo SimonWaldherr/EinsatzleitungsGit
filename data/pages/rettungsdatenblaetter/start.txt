@@ -1,0 +1,57 @@
+====== Rettungsdatenblätter ======
+
+Die Rettungsdatenblätter werden nicht mehr direkt im Einsatzleiterwiki vorgehalten, sondern nur noch auf die Seite des Herstellers verlinkt. Die Begründung dafür finden Sie in der folgenden Meldung: http://einsatzleiterwiki.de/index.php/aktuelles/42-bericht-vom-anwendertreffen-am-24-06-2015-entfernung-kfz-rettungsdatenblaetter
+
+  * [[http://rk.mb-qr.com/de/|AMG]] (bei der "Rettungskarte PKW" von Mercedes-Benz enthalten)
+  * [[http://www.adac.de/_mmm/pdf/Rettungskarte-Abarth_184783.pdf|Abarth]] (Sport-Versionen von Fiat)
+  * [[http://alfaromeo.mopar.eu/alfaromeo/de/de/rettungsdatenblaetter|Alfa Romeo]]
+  * [[http://www.audi.de/de/brand/de/neuwagen/sonderfahrzeuge/einsatzfahrzeuge/leitfaden-fuer-rettungsdienste.html|Audi]]
+  * [[https://aos.bmwgroup.com/service/rescue-info|BMW]]
+  * [[http://www.ifz-berlin.de/#/rescue|Cadillac]]
+  * [[http://www.ifz-berlin.de/#/rescue|Chevrolet]]
+  * [[http://chrysler.de/ueber_chrysler/rettungsdatenblaetter/|Chrysler]]
+  * [[http://www.citroen.de/service-und-zubehoer/wissenswertes/rettungsdatenblaetter.html|Citroën]]
+  * [[http://www.cs-reisemobile.de/de/wohnmobile_service/rettungskarten.htm|CS-Reisemobile]]
+  * [[https://www.dacia.de/service-zubehoer-top-angebote-finanzierung/rettungskarten.html|Dacia]]
+  * [[http://www.daihatsu.de/fileadmin/download/pdf_rettungsdatenblaetter/daihatsu_rettungsdatenblaetter_de_at.pdf|Daihatsu]]
+  * [[http://www.dethleffs.de/service/rettungskarten/|Dethleffs Wohnmobile]]
+  * [[http://chrysler.de/ueber_chrysler/rettungsdatenblaetter/|Dodge]]
+  * [[https://www.fiat.de/rettungsdatenblaetter|Fiat]]
+  * [[http://www.fiatprofessional.de/de/Services/Rettungsdatenblatter|Fiat Transporter]]
+  * [[http://www.etis.ford.com/fordservice/rescuecards.do|Ford]]
+  * [[http://www.honda.de/cars/services/download-rettungsdatenblaetter.html|Honda]]
+  * [[https://www.hyundai.de/Service-Zubehor/Gut-informiert#Rettungsdatenbl%C3%A4tter|Hyundai]]
+  * [[https://www.adac.de/_mmm/pdf/Entwurf_Infiniti_Rettungsdatenbl%C3%A4tter_02_2014_202235.pdf|Infiniti]]
+  * [[http://www.isuzu-sales.de/fahrzeuge/fahrzeugservice/rettungsdatenblaetter/|Isuzu]]
+  * [[http://www.jaguar.de/service-und-zubehor/service-garantien/rettungskarten.html|Jaguar]]
+  * [[http://chrysler.de/ueber_chrysler/rettungsdatenblaetter/|Jeep]]
+  * [[http://www.kia.com/de/service/rettungsdienste/|Kia]]
+  * [[http://www.lada4you.de/fileadmin/pdf/kunden/LADA_Rettungskarten.pdf|Lada]]
+  * [[http://www.lancia.de/de/service-und-support/technical-support/|Lancia]]
+  * [[http://www.landrover.de/ownership/emergency.html|Land Rover]]
+  * [[http://www.lexus.de/service/informationen/zubehoer/#/Rettungskarte|Lexus]]
+  * [[http://rk.mb-qr.com/de/|Maybach]] (bei der "Rettungskarte PKW" von Mercedes-Benz enthalten)
+  * [[http://www.mazda.de/rettungskarten/|Mazda]]
+  * [[http://rk.mb-qr.com/de/|McLaren]] (bei der "Rettungskarte PKW" von Mercedes-Benz enthalten)
+  * [[http://rk.mb-qr.com/de/|Mercedes-Benz]]
+  * [[https://aos.bmwgroup.com/service/rescue-info|MINI]]
+  * [[http://www.mitsubishi-motors.de/Wartung/Rettungskarten/|Mitsubishi]]
+  * [[https://www.adac.de/_mmm/pdf/Nissan_Rettungsdatenbla%CC%88tter_12_2015_220768.pdf|Nissan]]
+  * [[http://www.ifz-berlin.de/#/rescue|Opel]]
+  * [[http://services.peugeot.de/rettungsblaetter/|Peugeot]]
+  * [[http://www.porsche.com/germany/accessoriesandservices/porscheservice/vehicleinformation/documents/|Porsche]]
+  * [[http://www.renault.de/service-privatkunden/rettungskarten/|Renault]]
+  * [[https://aos.bmwgroup.com/service/rescue-info|Rolls-Royce]]
+  * [[http://www.ifz-berlin.de/#/rescue|Saab]]
+  * [[http://www.seat.de/kontakt/downloads/service/rettungsdatenblaetter.html|Seat]]
+  * [[http://www.skoda-auto.de/service/rettenbergen|Škoda]]
+  * [[http://rk.mb-qr.com/de/|Smart]] (bei der "Rettungskarte PKW" von Mercedes-Benz enthalten)
+  * [[http://www.ssangyong.de/service/rettungsdatenblaetter|SsangYong]]
+  * [[http://www.subaru.de/subaru/sicherheit/informationen-fuer-rettungsdienste2.html|Subaru]]
+  * [[http://auto.suzuki.de/service-info/rettungskarten|Suzuki]]
+  * [[http://www.teslamotors.com/de_DE/firstresponders|Tesla]]
+  * [[http://www.adac.de/_mmm/pdf/Think_70737.pdf|Think]]
+  * [[https://www.toyota.de/service_und_zubehoer/fahrzeuginformationen/technische_unterstuetzung/rettungsdatenblaetter.json|Toyota]]
+  * [[http://www.ifz-berlin.de/#/rescue|Vauxhall]]
+  * [[http://www.volkswagen.de/de/models/sonderfahrzeuge/Rettungsfahrzeuge/Leitfaden_fuer_Rettungsdienste.html|Volkswagen]] (auf der Seite etwas herunterscrollen)
+  * [[http://www.volvocars.com/de/zubehoer-und-services/dokumente-und-hilfe/rettungsleitfaeden|Volvo]]

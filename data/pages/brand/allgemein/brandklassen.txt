@@ -1,0 +1,18 @@
+====== Brandklassen ======
+
+Verschiedene Brandklassen werden aufgrund ihres Brandverhaltens in verschiedene Brandklassen eingeteilt. Diese werden in der DIN EN 2 eingeteilt.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+^ Piktogramm                                                      ^ Brandklasse und Definition ^ Löschmittel ^
+| {{:brand:allgemein:brandklasse_a.png?nolink&100|Brandklasse A}} | **Klasse A**\\ Brände fester Stoffe, hauptsächlich organischer Natur, die normalerweise unter Glutbildung verbrennen. | [[brand:allgemein:loeschmittel_wasser|Wasser]]\\ [[brand:allgemein:schaum|Schaum]]\\ [[brand:allgemein:pulver|Pulver]] (PG) |
+| {{:brand:allgemein:brandklasse_b.png?nolink&100|Brandklasse B}} | **Klasse B**\\ Brände von flüssigen oder flüssig werdenden Stoffen. | [[brand:allgemein:schaum|Schaum]]\\ [[brand:allgemein:pulver|Pulver]] (P, PG)\\ [[brand:allgemein:co2|Kohlenstoffdioxid]] |
+| {{:brand:allgemein:brandklasse_c.png?nolink&100|Brandklasse C}} | **Klasse C**\\ Brände von Gasen. | [[brand:allgemein:pulver|Pulver]] (P, PG)\\ [[brand:allgemein:co2|Kohlenstoffdioxid]] |
+| {{:brand:allgemein:brandklasse_d.png?nolink&100|Brandklasse D}} | **Klasse D**\\ Brände von Metallen. | [[brand:allgemein:pulver|Pulver]] (PM)\\ trockener Sand (feiner Sand nimmt Wärme besser auf als grober)\\ Graugussspäne (erhältlich bei metallverarbeitenden Betrieben; Drehereien, Fräsereien, etc.)\\ Kochsalz\\ Zement (als Sackware im Baumarkt) |
+| {{:brand:allgemein:brandklasse_f.png?nolink&100|Brandklasse F}} | **Klasse F**\\ Brände von Speiseölen/-fetten (pflanzliche oder tierische Öle und Fette) in Frittier- und Fettbackgeräten und anderen Kücheneinrichtungen und -geräten | Fettbrandlöscher\\ Behälterdeckel |
+
+===== Quellenangabe =====
+
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * Bildquelle: [[wpde>Brandklasse|Wikipedia-Artikel zum Thema Brandklassen]], erstellt vom User Kǿlumbus
+  * [[http://www.sfs-w.de/lehr-und-lernmittel/merkblaetter-broschueren/abwehrender-brandschutz.html?no_cache=1&download=05_02_Internet_2011-07-19.pdf&did=33|Merkblatt Löschmittel-Löschverfahren]], Staatliche Feuerwehrschule Würzburg

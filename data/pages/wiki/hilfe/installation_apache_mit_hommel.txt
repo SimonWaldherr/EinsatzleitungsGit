@@ -1,0 +1,22 @@
+====== Installation der Server-Software falls die Gefahrstoffdatenbank Hommel interaktiv auf dem Computer zusätzlich installiert wird ======
+
+  - Deinstallieren Sie die //Hommel interaktiv//-Software, falls diese bereits installiert ist. Versichern Sie sich aber zuvor, dass Sie die Installations-CD für die spätere Neuinstallation zur Hand haben.
+  - Starten Sie die Installation der XAMPP-Software und wählen Sie die Sprache aus
+  - Geben Sie das Verzeichnis an, in welches Sie die Serversoftware installieren wollen. Es ist eine gute Idee, die Vorgabe c:\xampp zu verwenden.{{ :wiki:hilfe:installation:auswahl_verzeichnis.png?nolink& |}}
+  - Bei der Auswahl der Installationsoptionen können Sie auf das Anlegen eines Desktop-Icons verzichten, da Sie im späteren Betrieb normalerweise keine Anpassungen an der XAMPP-Software vornehmen müssen. Installieren Sie den Apache-Server zu diesem Zeitpunkt aber noch nicht als Service!{{ :wiki:hilfe:installation:shortcut_und_dienst_hommel.png?nolink& |}}
+  - Die Frage, ob Sie das Control Panel öffnen möchten, beantworten Sie mit //ja//
+  - Starten Sie den Server nun mit einem Klick auf //Start//, falls neben dem Knopf noch nicht grün hinterlegt //Running// angezeigt wird{{ :wiki:hilfe:installation:control_panel_hommel.png?nolink& |}}
+  - Falls sich nun Ihre Firewall zu Wort meldet, so gestatten Sie dem Apache-Server die Kommunikation{{ :wiki:hilfe:installation:firewall.png?nolink& |}}
+  - Öffnen Sie nun Ihren Browser (Internet Explorer, Firefox, etc.) und geben Sie in die Adressleiste ein und drücken Enter: ''127.0.0.1'' (Dies ist immer die Netzwerkadresse ihres eigenen Rechners. Sie stellen also nun eine Serveranfrage an sich selbst.) Folgende Seite sollten Sie nun sehen:{{ :wiki:hilfe:installation:kontrolle_xampp.png?direct&500 |}}
+  - Jetzt können Sie die //Hommel interaktiv//-Software neu installieren.
+  - Öffnen Sie die Eingabeaufforderung unter //Start// -> //Programme// -> //Zubehör//. Falls Sie Windows Vista, 7 oder neuer verwenden, so öffnen Sie die Eingabeaufforderung mit einem Rechtsklick und wählen Sie //Als Administrator ausführen//.
+  - Im sich nun öffnenden, schwarzen Fenster geben Sie ein und drücken danach ENTER: <code>cd c:\xampp\apache\bin</code> bzw. ändern Sie das Kommando entsprechend ab, falls Sie die Software in einen anderen Ordner als standardmäßig angegeben installiert haben.
+  - Geben Sie nun als nächstes ein: <code>httpd -k install -n "Einsatzleiterwiki"</code> und drücken Sie ENTER, um die Software für das Einsatzleiterwiki als Dienst einzurichten. Dadurch startet die Server-Software beim Systemstart automatisch mit.
+  - Starten Sie zum Abschluss der Installation Ihren Computer neu.
+  - Die Server-Software ist damit installiert und sie können mit der Installation der Wiki-Software fortfahren.
+
+===== Quellenangabe =====
+
+noch keine Quellen angegeben
+
+===== Stichwörter =====

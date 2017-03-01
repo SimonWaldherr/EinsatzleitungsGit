@@ -1,0 +1,69 @@
+====== GIFTIGER ORGANISCHER FLÜSSIGER STOFF, ÄTZEND, N.A.G. - UN 2927 - Gefahrnr. 668 - ERICard-Nr. 6-38 Wählen Sie diesen Eintrag, wenn zwei Stoffe die gleiche UN-Nummer haben und sich in der Gefahrnummer unterscheiden und Ihnen diese nicht bekannt ist - UN2927 ======
+|Stoff | GIFTIGER ORGANISCHER FLÜSSIGER STOFF, ÄTZEND, N.A.G.   |
+|UN-Nummer | 2927   |
+|[[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Gefahrnummer]] | 668   |
+|ADR-Gefahrzettel |  {{cbrn:6-1.png?nolink&100}} + {{cbrn:8.png?nolink&100}}    |
+|ADR-Klasse | 6.1   |
+|Klassifizierungscode | TC1   |
+|[[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]] | I   |
+|ERI-Card | 6-38   |
+
+
+
+==== Unfall-Hilfeleistung ====
+===== Sehr giftiger Stoff, ätzend =====
+==== 1. Eigenschaften. ====
+  * Entwickelt gefährliche Dämpfe.
+  * Ätzend, kann Haut, Augen und Atemwege schädigen.
+  * Sehr giftig bei Verschlucken, Einatmen und Hautkontakt.
+  * [[cbrn:allgemein:begriffsklaerungen#flammpunkt|Flammpunkt]] über 60°C oder nicht entzündbar.
+==== 2. Gefahren. ====
+  * Die Hitzeeinwirkung auf Behälter führt zu Druckanstieg mit Berstgefahr und nachfolgender Explosion.
+  * Entwickelt giftige und ätzende Dämpfe, auch im Brandfall.
+  * Kann Metalle angreifen, hierbei Wasserstoffgas entwickeln und mit Luft ein explosionsfähiges Gemisch bilden.
+  * Die Dämpfe können unsichtbar sein und sind schwerer als Luft. Sie breiten sich am Boden aus und können in Kanalisation und Kellerräume eindringen.
+==== 3. Persönlicher Schutz. ====
+  * [[cbrn:allgemein:koerperschutzformen#koerperschutz_form_3_chemikalienschutzanzug_csa|Chemikalienschutzanzug CSA-Vollschutz]]
+==== 4. Einsatz-Massnahmen. ====
+=== 4.1 Allgemeine Massnahmen. ===
+  * Gefahr für die Öffentlichkeit! Personen in der Nähe auffordern, in Gebäuden zu bleiben, Fenster und Türen zu schließen und Klimaanlagen abzustellen. [[allgemein:evakuierung|Evakuierung von Personen]] erwägen.
+  * Mit dem Wind vorgehen. Schutzausrüstung bereits vor dem Betreten des [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]]s anlegen.
+  * Zahl der Einsatzkräfte im [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] beschränken.
+=== 4.2 Massnahmen bei Stoffaustritt. ===
+  * Lecks wenn möglich schließen.
+  * Ausgetretenes Produkt mit allen verfügbaren Mitteln auffangen.
+  * Flüssigkeit mit Sand, Erde oder anderen geeigneten Materialien aufnehmen.
+  * Falls der Stoff in offenes Gewässer oder Kanalisation gelangt, zuständige Behörde informieren.
+  * Falls keine Gefahren für Einsatzkräfte oder die Öffentlichkeit entstehen, Kanalisation und Kellerräume belüften.
+  * Dämpfe mit Wassersprühstrahl niederschlagen.
+  * Um die Gefährdung durch giftige Dämpfe zu vermindern, Flüssigkeit mit alkoholbeständigem [[brand:allgemein:schaum|Schaum]] abdecken.
+=== 4.3 Massnahmen bei Feuer (falls Stoff betroffen). ===
+  * Behälter mit Wasser kühlen.
+  * Mit Sprühstrahl löschen
+  * Nicht mit Vollstrahl löschen.
+  * Brandgase wenn möglich mit Sprühstrahl niederschlagen.
+  * Aus Umweltschutzgründen [[brand:allgemein:loeschwasserrueckhaltung|Löschmittel zurückhalten]].
+==== 5. Erste Hilfe. ====
+  * Falls der Stoff in die Augen gelangt ist, mindestens 15 Minuten mit Wasser spülen und Personen sofort medizinischer Behandlung zuführen.
+  * Kontaminierte Kleidung sofort entfernen und betroffene Haut mit viel Wasser spülen.
+  * Personen, die mit dem Stoff in Berührung gekommen sind oder Dämpfe eingeatmet haben, sofort medizinischer Behandlung zuführen. Dabei alle verfügbaren Stoffinformationen mitgeben.
+  * Mund-zu-Mund-Beatmung vermeiden. Beatmungsgeräte anwenden.
+==== 6. Besondere Vorsichtsmassnahmen bei der Bergung von Havariegut. ====
+  * Säurebeständige Ausrüstung einsetzen.
+  * Ausgetretenes Produkt in dicht schließende Behälter aufnehmen.
+==== 7. Vorsichtsmassnahmen nach dem Hilfeleistung-Einsatz. ====
+=== 7.1 Ablegen der Schutzkleidung. ===
+  * Vor dem Ablegen von Maske und Schutzanzug kontaminierten Anzug und Atemschutzgerät mit Wasser abspülen.
+  * Beim Entkleiden von kontaminierten Einsatzkräften oder bei der Handhabung von kontaminiertem Gerät chemikalienbeständige Kleidung und umluftunabhängigen Atemschutz tragen.
+  * Kontaminierte Reinigungsflüssigkeit zurückhalten.
+=== 7.2 Reinigung der Ausrüstung. ===
+  * Vor Verlassen der Einsatzstelle [[cbrn:allgemein:tuis|Fachleute hinzuziehen]].
+===== Quelle und Copyright =====
+
+Bitte nehmen Sie die Verwendungshinweise zu den ERI-Cards auf der [[cbrn:ericards:start#allgemeine_hinweise|ERI-Card Übersichtsseite]] zur Kenntnis.
+
+Diese ERICard kann im Original unter folgendem Link aufgerufen werden: [[http://www.ericards.net/psp/ericards.psp_ericard?lang=3&subkey=29271796]]
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

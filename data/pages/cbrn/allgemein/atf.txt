@@ -1,0 +1,75 @@
+====== Analytische Task Force (ATF) ======
+
+Die Analytische Task Force ist in erster Linie für die Analyse von unbekannten Stoffen zuständig. Wird Unterstützung bei der Bewältigung eines Stoffaustritts von einem (bekannten) Stoff benötigt, sollte eher [[cbrn:allgemein:tuis|TUIS]] angefordert werden.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+Die ATF bietet der Einsatzleitung vor Ort folgende Leistungen:
+  * Beratung der Einsatzleitung bei CBRN-Lagen
+  * Detektion und Identifikation chemischer Substanzen
+  * Qualifizierte Probenahme, bzw. fachliche Begleitung der Probenahme
+  * (Präventive) Überwachung großer Areale mittels Fernerkundung
+  * Situationsbewertung und Prognose der Lageentwicklung (z.B. Zugrichtung von Gefahrstoffwolken)
+  * Empfehlung geeigneter Einsatzmaßnahmen
+
+Schwerpunkt ist die Analytik. Infrastruktur muss an der Einsatzstelle bereitgestellt werden, diese bringt die ATF nicht selbst mit!
+
+Die ATF ist wie ein Fachberater zu sehen, die Entscheidungsgewalt und -verantwortung liegt weiterhin beim Einsatzleiter.
+
+==== Derzeitige technische Ausstattung ====
+
+  * Gaschromatograph/Massenspektrometer (GC/MS) zum Erkennen von ca. 160.000 Substanzen
+  * ATR-FT-Infrarotspektrometer für Feststoffe und Flüssigkeiten zum Erkennen von ca. 4.000 Substanzen
+  * Gefahrstoffdetektorarray, bestehend u.a. aus einem Ionenmobilitätsspektrometer (IMS) und einem Photoionisationsdetektor (PID). Erkennung von Verteilungen gasförmiger Gefahrstoffe möglich.
+  * FT-Infrarot-Fernerkundungsgerät zur Nachverfolgung von Gefahrstoffwolken auf eine Entfernung von bis zu 5 km.
+
+Mehr zu den einzelnen Geräten in der verlinkten Broschüre.
+
+==== Anforderung der ATF ====
+
+GMLZ: Gemeinsames Melde- und Lagezentrum (Link siehe unten)
+
+^Land  ^Autorisierte Stelle  ^Anforderungsweg (Stand 19.7.2010)|
+|Baden-Württemberg*  |Jede / r Einsatzleiter / in  |Einsatzleitung → GMLZ|
+|Bayern*  |Leitstelle BF München  |Einsatzleitung → Leitstelle BF München → GMLZ|
+|Berlin*  |Polizeipräsident Berlin (PPr St LZ)  |Einsatzleitung → PPr St LZ → GMLZ|
+|Brandenburg  |Lagenzentrum Brand- und Katastrophenschutz (LZBK)  |Einsatzleitung → LZBK → GMLZ|
+|Bremen  |Feuerwehr- und Rettungsleitstelle der Feuerwehr Bremen  |Einsatzleitung → Leitstelle BF Bremen → GMLZ|
+|Hamburg*  |Rettungsleitstelle der Feuerwehr  |Einsatzleitung → Leitstelle BF Hamburg → GMLZ|
+|Hessen  |Lagezentrum im Ministerium des Innern und für Sport (LZ HMDIS)|Einsatzleitung → LZ HMDIS → GMLZ|
+|Mecklenburg-Vorpommern|LZ der Landesregierung  |Einsatzleitung → LZ Landesregierung → GMLZ|
+|Niedersachsen  |Jede / r Einsatzleiter / in  |Einsatzleitung → Polizeidirektionen als zuständige KatS-Behörden in Niedersachsen → GMLZ|
+|Nordrhein-Westfalen*  |LZ MI NRW  |Einsatzleitung → eigene Leitstelle → Einsatzleitstelle BF Dortmund, BF Essen bzw. BF Köln → LZ MI NRW → GMLZ|
+|Rheinland-Pfalz  |Ansprechstelle Katastrophenschutz der ADD  |Einsatzleitung → Ansprechstelle KatS der ADD → GMLZ|
+|Saarland  |Haupteinsatzzentrale der BF Saarbrücken  |Einsatzleitung → Haupteinsatzzentrale BF Saarbrücken → GMLZ|
+|Sachsen  |Verwaltungsstab im SMI  |Einsatzleitung → VwS Landkreis / kreisfr. Stadt → VwS Landesdirektion → VerwS Freistaat Sachsen → GMLZ|
+|Sachsen-Anhalt*  |LZ im Ministerium des Innern LSA  |Einsatzleitung → LZ im MI LSA → GMLZ|
+|Schleswig-Holstein  |Lage- und Führungszentrum des Innenministeriums (LFZ-IM)  |Einsatzleitung → LFZ-IM → GMLZ|
+|Thüringen  |LZ der Thüringer Landesregierung  |Einsatzleitung → LZ Landesregierung Thüringen → GMLZ|
+
+* Weiterleitung der Anforderung über das GMLZ nur wenn die ATF im eigenen Land nicht verfügbar ist. Andernfalls gelten die landesinternen Alarmierungswege.
+
+\\
+
+
+===== Weblinks =====
+
+  * [[http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/ATF.pdf?__blob=publicationFile|Broschüre "Die Analytische Task Force (ATF): Informationen zu Leistungsspektrum und Anforderungswegen]] des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe
+  * [[http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/ATF_Faxformular.pdf?__blob=publicationFile|Faxvordruck zur Anforderung der ATF über das GMLZ]]
+  * [[http://www.bbk.bund.de/DE/AufgabenundAusstattung/Krisenmanagement/GMLZ/GMLZ_einstieg.html|Gemeinsames Melde- und Lagezentrum]]
+
+===== Kontaktdaten/Ansprechpartner =====
+
+==== Kontakt GMLZ ====
+
+Direkter Kontakt nur wenn ATF vom Einsatzleiter direkt angefordert werden kann! Ansonsten Anforderung über den in der Tabelle genannten Weg!
+
+Telefonisch: +49 (0) 228 99550 2199 unter Angaben der Kontaktdetails der Ansprechstelle vor Ort sowie kurzer Beschreibung des Schadensszenarios
+
+per Fax: +49 (0) 228 99550 2189 unter Nutzung des Faxvordruckes [[https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/CBRN-Schutz/Analytische_Task_Force_Informationen_zu_Leistungsspektrum_Anforderung.pdf?__blob=publicationFile|„Anforderung einer ATF über das GMLZ“]]
+
+
+===== Quellenangabe =====
+
+  * [[https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/CBRN-Schutz/Analytische_Task_Force_Informationen_zu_Leistungsspektrum_Anforderung.html|Broschüre "Die Analytische Task Force (ATF): Informationen zu Leistungsspektrum und Anforderungswegen]] des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe
+

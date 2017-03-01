@@ -1,0 +1,12 @@
+====== Vordrucke ======
+
+===== Einsatztagebuch =====
+
+Die [[allgemein:stabsarbeit:etb|Hinweise zum Führen eines Einsatztagebuchs]] sind zu beachten!
+
+  * {{:allgemein:stabsarbeit:einsatztagebuch_handschriftlich.pdf|Einsatztagebuch als PDF-Datei zum handschriftlichen Ausfüllen}}
+  * {{:allgemein:stabsarbeit:einsatztagebuch_pc-ausfuellbar.xlsm|Einsatztagebuch als Excel-Datei zum Ausfüllen am Computer}}\\ Hinweis: Beim Öffnen der Datei müssen Makros aktiviert werden, um das automatische Einfügen des Druckdatums in die Fußzeile zu ermöglichen. Dieses wird dann automatisch beim Starten des Druckvorgangs aktualisiert.
+
+===== Selbstorganisation und Aufgabenplanung =====
+
+  * {{:allgemein:stabsarbeit:zeitstrahl.pdf|Zeitstrahl für 24 Stunden (PDF)}}\\ Auf dem Zeitstrahl kann eingetragen werden, wann Soll-Werte erreicht sein müssen und gleichzeitig können die derzeitigen Ist-Werte notiert werden. Dieses Formular eignet sich z.B. als Arbeitshilfe für den S4 zur Beschaffung von Verpflegung, Verbrauchsmitteln, etc.

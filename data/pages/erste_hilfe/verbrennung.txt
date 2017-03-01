@@ -1,0 +1,24 @@
+====== Verbrennung ======
+
+===== zu treffende Maßnahmen =====
+
+  * auf Eigensicherung achten (z.B. Unfallursache [[erste_hilfe:stromunfall|Stromunfall]]?)
+  * schnellstmöglich mit Wasser, Feuerlöscher, Decke oder notfalls durch Ausrollen löschen (siehe auch [[brand:personenbrand|Personenbrand]])
+  * brennende oder glühende Kleiderreste entfernen, wenn sie sich noch nicht mit der Haut verbunden haben. Verklebte Stellen mit Kleiderschere ausschneiden.
+  * Betroffenen Bereich ggf. kühlen (siehe nächsten Abschnitt)
+  * Wunde locker mit Brandwundenverbandtuch verbinden, keine Spezialverbände erforderlich!
+
+==== Kühlen ====
+
+Kühlung mit Leitungswasser (ca. 20 °C) nur bei kleineren Verbrennungen (bis ca. 5% der Körperoberfläche) zum Zweck der Schmerzbekämpfung. Größere Verbrennungen nach dem Ablöschen **NICHT** kühlen!
+
+  * Größe der Handinnenfläche der Person entspricht 1% der Körperoberfläche
+  * nur kühlen wenn Patient über deutliche Schmerzen klagt. Nicht bei Bewusstlosen kühlen!
+  * maximal 15 Minuten kühlen, Gefahr der [[erste_hilfe:unterkuehlung|Unterkühlung]]
+  * bei Kindern nur Extremitäten kühlen, bei mehreren Bereichen abwechselnd! Erhöhte Gefahr der Unterkühlung!
+
+<wrap info>Die Kühlung dient rein der Schmerzbekämpfung, Gewebe kann dadurch nicht gerettet werden!</wrap>
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_Brandverletzung.pdf|Erste-Hilfe kompakt - Notfallstichwort Brandverletzung]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband

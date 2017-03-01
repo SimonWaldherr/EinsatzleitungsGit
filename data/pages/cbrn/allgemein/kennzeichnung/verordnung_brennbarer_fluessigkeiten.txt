@@ -1,0 +1,19 @@
+====== Verordnung brennbarer Flüssigkeiten (VbF) ======
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+Die //Verordnung brennbarer Flüssigkeiten (VbF)// unterteilt brennbare Flüssigkeiten anhand ihres Flammpunktes und ihrer Wasserlöslichkeit. Liegt der Flammpunkt einer Flüssigkeit über 100 °C, so fällt diese nicht in die Einteilungen der VbF.
+
+Die VbF wurde mittlerweile größtenteils zurückgezogen, wird in einigen Bereichen allerdings immer noch verwendet. Zudem könnten die Bezeichnungen noch auf alten Gebinden zu finden sein.
+
+==== Einteilung nach VbF ====
+
+^  Gefahrengruppe  ^  Erläuterung  ^  Gefahrenklasse  ^  [[cbrn:allgemein:cbrn-lexikon:flammpunkt|Flammpunkt]]  ^
+|  A    |Flüssigkeiten, die einen Flammpunkt nicht über 100 °C haben und sich nicht in Wasser lösen|  A I    |  unter 21 °C           |
+|  :::  |  :::                                                                                     |  A II   |  von 21 °C bis 55 °C   |
+|  :::  |  :::                                                                                     |  A III  |  über 55 °C bis 100 °C |
+|  B    |Flüssigkeiten, die einen Flammpunkt unter 21 °C haben und sich in Wasser lösen            |  B      |  unter 21 °C           |
+
+===== Quellenangabe =====
+
+  * Vorlesung Chemie der Brände und Löschmittel, Studiengang "Sicherheit und Gefahrenabwehr - Bachelor", Sommersemester 2009, Otto-von-Guericke-Universität Magdeburg

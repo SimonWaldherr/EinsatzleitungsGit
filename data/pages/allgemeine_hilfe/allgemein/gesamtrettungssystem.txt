@@ -1,0 +1,48 @@
+====== Gesamtrettungssysteme bei Ultraleichtflugzeugen ======
+
+Bei Ultraleichtflugzeugen kann ein //Gesamtrettungssystem// verbaut sein, welches im Unglücksfall einen Fallschirm per Rakete abschießt an dem das Flugzeug dann zu Boden sinkt.
+
+Gesamtrettungssysteme werden an einem Griff per Zugseil ausgelöst. Nicht ausgelöste Gesamtrettungssysteme können Einsatzkräfte schwer oder tödlich verletzen. In der Parkposition ist die Auslöseeinrichtung mit einem Stift gesichert.
+
+===== zu treffende Maßnahmen =====
+
+Bei Brand immer erst Brandbekämpfung zur Menschenrettung, Auslösung durch Brand unwahrscheinlich. Danach wie unten fortfahren:
+
+{{ :allgemeine_hilfe:allgemein:kennzeichnung_gesamtrettungssystem.png?nolink|Kennzeichnung des Einbauorts}}
+  * Bei verunfallten kleinen Flugzeugen, bei denen kein großer, geöffneter Fallschirm zu erkennen ist, immer von unausgelöstem Gesamtrettungssystem ausgehen!
+  * [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] von 50m einrichten
+  * Erkunden wo das Gesamtrettungssystem eingebaut ist:
+    * Kein einheitlicher Einbauort
+    * Erkunden ob Auslösegriff im Cockpit
+    * Ausstoß der Rakete in alle Richtungen mit Ausnahme der Flugrichtung (nach vorne) möglich
+    * Kennzeichnung des Einbauorts mittels Aufkleber (siehe rechts), kein einheitliches Aussehen vorgegeben!
+  * Dem Flugzeug zur Erkundung von leicht schräg vorne nähern!
+    * Blickkontakt zu Pilot bzw. Insassen suchen.
+    * Auf drehende Teile (Propeller) achten!
+  * Sichern des Gesamtrettungssystem:
+    - Ausstoßrichtung mit Verkehrsleitkegeln und Absperrband sichern
+    - Zugseil (aus Draht) mittels Bolzenschneider durchtrennen,
+      * am besten direkt am Raketenmotor
+      * ersatzweise am Auslösegriff
+    - nun kann der Gefahrenbereich verkleinert werden, Bereich in Richtung der Raketenausstoßrichtung weiterhin freihalten!
+ 
+==== besondere Gefahren ====
+
+  * Gefahr durch versehentliche Auslösung durch Einsatzkräfte.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Kennzeichen des Flugzeugs
+    * Flugzeuge, deren Kennzeichnung mit D-M beginnt (also z.B. D-MUVR), haben **immer** ein Gesamtrettungssystem
+    * Flugzeuge mit Kennzeichnung D-E am Anfang können ein solches System besitzen
+  * Spontane Selbstauslösung ist sehr unwahrscheinlich.
+  * Auslösung des Raketenmotors durch Brand ebenfalls sehr unwahrscheinlich.
+
+===== Quellenangabe =====
+
+  * {{:allgemeine_hilfe:allgemein:hinweise_gesamtrettungssystem.pdf|Einsatztaktik für die Feuerwehr: "Hinweise zu Unfällen mit Ultraleichtflugzeugen mit einem Gesamtrettungssystem", Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2012}}
+  * Fa. BRS (Bild Kennzeichnungsaufkleber)
+
+===== Stichwörter =====
+
+Ultraleichtflugzeug

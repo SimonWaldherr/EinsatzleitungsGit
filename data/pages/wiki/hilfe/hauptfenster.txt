@@ -1,0 +1,26 @@
+====== Das Hauptfenster ======
+
+===== Startseite und Bedienoberfläche =====
+
+Auf der folgenden Grafik sehen Sie die Startseite des Einsatzleiterwikis. Diese wird angezeigt wenn Sie das Programm öffnen. Nach Umschalten in den Administrationsmodus (wird später genauer erläutert) erscheinen weitere Schaltflächen; diese werden standardmäßig bewusst nicht angezeigt um die Einsatz-Oberfläche so sauber wie möglich zu halten.
+
+{{:wiki:hilfe:demonstration:startseite_wiki.png?direct&600}}
+
+Folgende Bedienelemente stehen hier zur Verfügung:
+
+    - Direktzugriff auf die einzelnen Kategorien\\  Diese Navigation ist nur auf der Startseite vorhanden, auf allen anderen Seiten ist die gleiche Funktionalität aber durch die vertikale Navigation (2.) gegeben.
+    - Vertikale Navigation\\  In diesem Bereich befinden sich Verlinkungen in alle Hauptkategorien des Einsatzleiterwikis.
+    - [[:wiki:hilfe:demonstration#volltextsuche|Volltextsuche]] \\  Hier kann der gesamte Wiki-Inhalt durchsucht werden.
+    - Anmeldung in den Administrationsmodus\\  An dieser Stelle kann eine Anmeldung im Administrationsmodus erfolgen. In diesem werden alle Einstellungen die das Einsatzleiterwiki betreffen vorgenommen. Es sind allerdings auch Abstufungen möglich, beispielsweise können Benutzer angelegt werden die nur die Berechtigung zur Pflege von Artikeln haben, aber nichts an der Konfiguration ändern dürfen.
+    - Auflistung der zuletzt angesehenen Artikel\\  Diese Funktion ist nützlich, wenn Sie schnell zwischen verschiedenen Seiten hin- und herspringen wollen; Beispielsweise zwischen einem Artikel zu Maßnahmen bei einem Gefahrstoffunfall und der Berechnung der Auswirkungen von diesem.
+    - Werkzeuge für das Wiki\\ In dieser Symbolleiste befinden sich Werkzeuge für die Benutzung des Wikis, zum Beispiel zur Bearbeitung der aktuell angesehenen Seite, zur Erzeugung eines PDFs mit dem aktuellen Seiteninhalt oder zum Export des Inhalts in ein Office-Dokument.
+
+===== Aufbau der Kategorieseiten =====
+
+Fast alle Kategorieseiten sind nach dem gleichen Muster aufgebaut. Auch dies dient wieder dem Zweck, die Bedienung so einfach wie möglich zu gestalten. Nachfolgend sehen Sie ein Bildschirmfoto der Kategorie [[:brand:start|Brandeinsätze]]:
+
+{{:wiki:hilfe:demonstration:brandeinsaetze.png?direct&600}}
+
+Auf der linken Seite sind verschiedene Szenarien aus dem Bereich der Brandeinsätze aufgelistet. In diesen Artikeln wird jeweils immer nur das einzelne Szenario behandelt. Relevante Zusatzhinweise wie z.B. das [[:brand:allgemein:photovoltaik|Vorgehen bei Photovoltaikanlagen]] sind in eigene Unterartikel ausgelagert, welche sich in der Unterkategorie [[:brand:allgemein:start|Brandeinsatz allgemein]] befinden. Diese wird in der rechten Spalte aufgelistet. Das Thema kann dann im entsprechendem Artikel zum Szenario verlinkt werden. Daraus ergibt sich der Vorteil, dass die Datenpflege immer nur in einem Artikel, aber nicht an mehreren Stellen erfolgen muss.
+
+Es gibt allerdings wie bereits eingangs erwähnt auch Abweichungen von der grundsätzlich festgelegten Anzeige der Kategorieartikel. Diese ist in der Kategorie [[cbrn:start]] am deutlichsten ausgeprägt.

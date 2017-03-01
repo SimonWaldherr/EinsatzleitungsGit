@@ -1,0 +1,89 @@
+====== LKW-Unfall ======
+
+===== zu treffende Maßnahmen =====
+
+<WRAP center round tip 100%>
+Grundsätze wie "normaler" [[allgemeine_hilfe:verkehrsunfall:start|Verkehrsunfall]], zusätzlich:
+</WRAP>
+
+
+  * Was ist geladen? ggf. [[cbrn:gefahrgut|Gefahrgut]]!
+  * Fahrerhaus auf dem Rahmen sichern (ist nur auf Fahrgestell aufgesetzt), z.B. mit Spanngurten\\ Dabei den Türbereich zum Spreizen freihalten!
+  * ggf. Schlafkabine und Dachaufbau der Kabine kontrollieren
+  * dreifachen Brandschutz sicherstellen
+  * Nachalarmierung des leistungsfähigsten hydraulischen Rettungssatzes, ggf. auch einen zweiten solchen Satz zusätzlich
+
+==== besondere Gefahren ====
+
+  * große Treibstoffmengen (deutlich über 1.000 Liter) möglich!
+  * bei normalen LKW bis 30 t Ladung, ggf. mangelhafte Ladungssicherung
+  * ​Kühlauflieger verfügen über einen eigenen Motor & Dieseltank, diese arbeiten oft mit einer Start- / Stop-Automatik welche sich bei einer bestimmten Temperatur im Auflieger automatisch einschaltet
+  * evlt. gasbetriebene Zusatzheizungen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Rettungshöhe vermindern durch
+    * Nutzung von Plattformen, z.B.:
+      * Rettungsplattform
+      * [[allgemein:drehleiter|Drehleiter]]korb
+      * Hebebühne (Ladebordwand) von (anderen an der Einsatzstelle anwesenden) LKW
+      * Ladefläche von (anderen an der Einsatzstelle anwesenden) LKW
+    * Absenken des Fahrerhauses mittels pneumatischer Steuerung des Fahrzeugs (bis zu 30 cm), nur möglich solange Batterie nicht abgeklemmt. Absenken nicht durch das Zerstören der Federbälge (unkontrolliert!)!
+    * kontrolliertes Entlüften der Reifen
+  * Erstzugangsöffnung:
+    * wenn nicht über Türen möglich: über Frontscheibe, Dachluke oder Kabinenrückwand, ggf. mittels [[allgemein:geraete:leitern|tragbaren Leitern]]
+  * spezielle Konstruktion LKW
+    * Fahrerhaus als "Schutzkäfig" aus hochfesten Stählen
+    * Masse von Türen bis zu 100 kg -> vor dem Herausspreizen mit Leinen o.ä. sichern
+    * Masse der Frontscheibe ca. 35 kg
+    * Fahrzeuge selten mit [[allgemeine_hilfe:verkehrsunfall:airbag|Airbag]] ausgerüstet
+    * Fahrersitz und Lenksäule i.d.R. elektrisch oder pneumatisch verstellbar; in Abstimmung mit dem Notarzt für die Befreiung nutzen
+  * Motor kann mittels CO<sub>2</sub>-Löscher gestoppt werden wenn Zündschlüssel nicht erreichbar
+  * Gefahrguttransporter haben in Fahrerhaus und hinter dem Fahrerhaus auf der Beifahrerseite Not-Aus-Schalter für die Stromversorgung, welcher auch den Motor stoppt. Evtl. wird dadurch aber auch der Fahrersitz abgesenkt!
+  * Abklemmen der Batterie kann zum Absenken des Fahrersitzes führen!
+
+==== Schnitttechniken ====
+
+  * Fahrgestell (Leiterrahmen) niemals mit hydraulischem Rettungsgerät schneiden (hochfeste Stähle)
+  * A-Säule und Türholm nicht in einem schneiden, da sehr stabil. Tür davor herausspreizen.
+  * Aufstiegshilfen etc. bei Arbeitsbehinderung entfernen
+
+=== Front wegdrücken ===
+
+Vor Beginn der folgenden Maßnahmen muss die Tür herausgespreizt werden.
+
+{{:allgemeine_hilfe:lkw_holm_schneiden.png?nolink&180 |Holm und Schweller einschneiden}}
+  * A-Säule schräg schneiden
+  * Entlastungsschnitt in den Schweller in min. 20 cm Abstand zur A-Säule (Verstärkungen!)
+<WRAP clear/>
+
+----
+
+{{:allgemeine_hilfe:lkw_1rz.png?nolink&180 |1. Rettungszylinder ausfahren}}
+  * Front mit Rettungszylinder wegdrücken, an der Schlossseite Schwelleraufsatz verwenden
+<WRAP clear/>
+
+----
+
+{{:allgemeine_hilfe:lkw_2rz.png?nolink&180 |2. Rettungszylinder ausfahren}}
+  * Zweiten Rettungszylinder an der Position einsetzen an der sich ehemals die A-Säule befand.
+<WRAP clear/>
+
+----
+
+{{:allgemeine_hilfe:lkw_3rz.png?nolink&180 |1. Rettungszylinder herausnehmen}}
+  * Der erste Rettungszylinder kann dann entfernt werden und behindert die weiteren Rettungsarbeiten nicht.
+
+Ist der zweite Rettungszylinder nicht vorhanden oder kann nicht angesetzt werden, kann die weggedrückte Frontpartie ggf. mit einem Spanngurt gesichert werden.
+
+----
+
+===== Quellenangabe =====
+
+  * Lehrgangsunterlagen "Technische Hilfeleistung" des Landkreis Bad Dürkheim, Dünkelberg/Lander 2011
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+
+===== Stichwörter =====
+
+Lastkraftwagen, Laster, Lastwagen, Transport, Transporter, Truck

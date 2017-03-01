@@ -1,0 +1,71 @@
+====== Vergiftung (Intoxikation) ======
+
+siehe auch (spezieller):
+
+  * [[erste_hilfe:alkoholvergiftung|Alkoholvergiftung]]
+  * [[erste_hilfe:rauchgasvergiftung|Rauchgasvergiftung]], [[cbrn:chemisch:klasse_2:stoffe:kohlenmonoxid|Kohlenmonoxid]]
+
+===== zu treffende Maßnahmen =====
+
+  * Eigenschutz beachten
+    * Vergiftung kann das normale Verhalten verändern (z.B. mit Aggression rechnen)
+    * Betroffenen aus dem Gefahrenbereich retten wenn sich der Retter dabei nicht selbst in Gefahr begibt (z.B. giftiges Gas)
+  * Wärmeerhalt (Patient zudecken)
+  * anwesende Personen fragen wie die Vergiftung genau passiert ist, Umgebung nach Verpackungen etc. absuchen (ggf. auch giftige Pflanzen?)
+    * Um welches Gift genau handelt es sich?
+    * Welche Menge wurde aufgenommen?
+    * Verpackungen aufbewahren und dem Rettungsdienst übergeben sofern dieser gerufen wird
+  * Informationen zum Stoff über eine der [[cbrn:allgemein:giftnotrufzentralen|Giftnotrufzentralen]] einholen
+  * Bei Kindern auf jeden Fall den Rettungsdienst alarmieren!
+
+Bei Bewusstlosigkeit:
+
+  * sofort Rettungsdienst (nach-) alarmieren
+  * in stabile Seitenlage bringen
+  * permanente Überwachung der Vitalfunktionen
+  * bei Herz-Kreislauf-Stillstand direkt mit [[erste_hilfe:wiederbelebung|Wiederbelebung]] beginnen
+
+==== bei verschlucktem Gift ====
+
+  * keinesfalls Erbrechen herbeiführen!
+  * in kleinen Schlucken zu trinken geben, am Besten Wasser oder Tee. **Keine Milch!**
+
+==== bei eingeatmetem Gift ====
+
+  * Eigenschutz besonders beachten!
+  * Möglichst viele Fenster öffnen oder Patient ins Freie bringen.
+
+==== bei Kontakt des Gifts mit der Haut ====
+
+  * Eigenschutz besonders beachten!
+  * Kleidung im Betroffenen Bereich entfernen
+  * Haut unter fließendem Wasser abwaschen
+
+==== bei Kontakt des Gifts mit dem Auge ====
+
+  * Auge unter fließendem Wasser mit weichem Strahl spülen (nicht zu weit aufdrehen)
+  * Dabei das unverletzte Auge oberhalb des verletzten halten, da das Gift sonst auch in dieses hineinläuft
+
+siehe auch: [[erste_hilfe:augenverletzung|Augenverletzung]]
+
+==== Vergiftung mit Chemikalien (z.B. Haushaltsreiniger) ====
+
+  * Sind Verätzungen am Mund erkennbar:\\ Mund vorsichtig mit fließendem Wasser ausspülen
+  * Ist Schaum erkennbar oder kann davon ausgegangen werden, dass seifenhaltige Chemikalien (z.B. Spülmittel eingenommen wurden):\\ Nichts zu trinken geben (verstärkte Schaumbildung)!
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Symptome ====
+
+  * Übelkeit, Erbrechen, Durchfall
+  * Schwindel
+  * Kopfschmerzen
+  * verstärkter Speichelfluss
+  * Schock
+  * Erregtheit bis Aggression
+  * Müdigkeit, Bewusstseinseintrübung bis Bewusstlosigkeit
+  * Atemnot bis Atemstillstand
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_Vergiftung.pdf|Erste-Hilfe kompakt - Notfallstichwort Vergiftung]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband

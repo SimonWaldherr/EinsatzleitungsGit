@@ -1,0 +1,67 @@
+====== Namensräume ======
+
+Ein Namensraum ist ähnlich einem Verzeichnis oder Ordner, während Seitennamen ähnlich zu Dateien sind. In der [[wiki:hilfe:hintergrund_einsatzleiterwiki|zugrundeliegenden DokuWiki-Software]] kann man Namensräume verwenden, um Seiten zu kategorisieren. Für die Namen von Namensräumen gelten die selben Einschränkungen wie für [[wiki:hilfe:seitennamen|Seitennamen]].
+
+Eine Einsatzleiterwiki-Installation wird derzeit mit den folgenden Namensräumen ausgeliefert:
+
+  * allgemein
+  * allgemeine_hilfe
+  * berechnungen
+  * brand
+  * erste_hilfe
+  * gefaehrliche_stoffe_und_gueter
+  * lokal
+  * playground
+  * rettungsdatenblaetter
+  * wiki
+
+===== Erstellen von Namensräumen =====
+
+Man muss Namensräume nicht separat erstellen; einfach eine Seite mit Doppelpunkt erstellen. Der Teil hinter dem letzten Doppelpunkt wird der Seitenname, alle Teile davor sind Namensräume. Alle Namensräume, die im Seitennamen verwendet werden, und noch nicht existieren, werden von DokuWiki automatisch erstellt.
+
+In DokuWiki werden Seiten wie in jedem anderen Wiki erstellt. Dazu erstellt man einfach einen Link auf eine noch nicht existierende Seite, folgt dem Link und klickt auf "Diese Seite erstellen". Siehe dazu auch [[wiki:hilfe:seitennamen#seiten_anlegen|Neue Seite erstellen]].
+
+^Beispiele:^^
+|beispiel|zeigt auf die Seite "beispiel" im momentanen Namensraum.|
+|:beispiel|zeigt auf die Seite "beispiel" im Hauptnamensraum,.|
+|..beispiel\\ ..:beispiel\\ .:..:beispiel|zeigt auf die Seite "beispiel" im **übergeordneten** Namensraum|
+|wiki:beispiel|zeigt auf die Seite "beispiel" im Namensraum "wiki" und "wiki" liegt **direkt im Hauptnamensraum**.|
+|ns1:ns2:beispiel\\ :ns1:ns2:beispiel|zeigt auf die Seite "beispiel" im Namensraum ns2. ns2 liegt unter ns1; ns1 liegt **direkt im Hauptnamensraum**.|
+|..ns1:ns2:beispiel\\ ..:ns1:ns2:beispiel|zeigt auf die Seite "beispiel" im Namensraum ns2. ns2 liegt unter ns1. ns1 liegt **neben dem akuellen** Namensraum (ns1 und der aktuelle Namensraum sind im gleichen übergeordneten Verzeichnis, wo auch immer in der Seitenhierarchie dieses übergeordnete Verzeichnis liegt.|
+|.ns1:ns2:|zeigt auf die "startseite" im Namensraum ns2. ns2 liegt unter ns1; ns1 liegt unter dem aktuellen Namensraum.|
+
+:!: Achtung: Die Syntax für relative und absolute interne Verweise ist komplexer im Vergleich zu den Konventionen für relative Verzeichnis- und Dateinamen.
+
+Pfade sind nur dann absolut, wenn sie mit "/" beginnen.
+
+Verweise sind absolut, wenn sie mit einem ":"-Präfix beginnen oder kein Präfix haben aber mindestens einen oder mehrere ":" dazwischen (oder als Suffix) enthalten.
+
+Verweise, die relativ zum aktuellen Namensraum sind, können sowohl mit "." als auch mit ".:" (".." oder "..:" für den übergeordneten Namensraum) beginnen.
+
+===== Löschen von Namensräumen =====
+
+Wenn alle Seiten innerhalb eines Namensraums gelöscht wurden (siehe [[wiki:hilfe:seitennamen#seiten_loeschen|Löschen einer Seite]]), dann existiert auch der Namensraum nicht mehr. DokuWiki löscht normalerweise auch das nun leere Verzeichnis.
+
+===== Wie kann man Namensräume umbenennen? =====
+
+Namensräume umzubenennen ist nicht einfach. Möglichkeiten sind auf der externen Seite [[doku>de:namespaces]] beschrieben.
+
+===== Standardverweise von Namensräumen =====
+
+:!: **erweiterte Einstellungsmöglichkeiten - diese können Sie in Ihrem eigenen Wiki vornehmen** :!:
+
+Es ist möglich, auf die Standard-Datei eines Namensraums zu verweisen, indem man den Verweise mit einem Doppelpunkt beendet: %%[[foo:bar:]]%%. Zu welcher Seite der Verweis führt, hängt von der Existenz verschiedener Dateien ab. Für %%[[foo:bar:]]%% werden die folgenden Seiten überprüft:
+
+<code>
+foo:bar:$conf['start']
+foo:bar:bar
+foo:bar
+</code>
+
+Die Seiten werden in dieser Reihenfolge überprüft und je nach dem, welche Seite zuerst gefunden wird, wird entsprechend verwendet. [[doku>config:autoplural|Autoplural (englische Erklärung)]]-Verweise werden in diesem Fall nicht angewendet.
+
+:!: **Ende erweiterte Einstellungsmöglichkeiten** :!:
+
+===== Quellenangabe =====
+
+  * [[doku>de:namespaces]], veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

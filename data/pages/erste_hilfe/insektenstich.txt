@@ -1,0 +1,36 @@
+====== Insektenstich (allergische Reaktion / anaphylaktischer Schock) ======
+
+Hinweise zu Einsätze mit Insekten allgemein unter [[allgemeine_hilfe:insekten]].
+
+===== zu treffende Maßnahmen =====
+
+  * Betroffener soll sich hinsetzen, möglichst ins Kühle und geschützt vor weiteren Insekten
+  * Einstichstelle kühlen
+  * Betroffenen fragen ob Allergie gegen Insektenstiche bekannt ist und ob er ggf. ein Notfallset bei sich trägt. Evtl. bei der Einnahme der Medikamente unterstützen.
+  * Einstichstelle beobachten:
+    * Entwicklung übermäßiger Schwellungen?
+    * Ausbreitung der Rötung weit über die Einstichstelle hinaus?
+    * Tritt Ausschlag auf?
+    * Bei Atemnot (Nach-) Alarmierung des Rettungsdienstes!
+  * Bei Stich in Gesicht, Hals- oder Rachenbereich in jedem Fall (Nach-) Alarmierung des Rettungsdienstes, auch wenn keine Allergie vorliegt!
+  * Bei Symptomen eines anaphylaktischen Schocks (siehe unten) Patient in Schocklage legen.\\ Bei Herz-Kreislauf-Stillstand (tritt selten auf) sofort [[erste_hilfe:wiederbelebung|Wiederbelebung]] beginnen!
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Bei nicht allergischen Menschen müssen mehrere hundert Insektenstiche erfolgen bis es zu einem lebensbedrohlichen Zustand kommt!
+
+==== Symptome eines anaphylaktischen Schocks ====
+
+  * niedriger Blutdruck
+  * schneller Puls
+  * Atemnot
+  * Kreislaufzusammenbruch
+  * Herz-Kreislauf-Stillstand
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_Wespenstiche.pdf|Erste-Hilfe kompakt - Notfallstichwort Wespenstich und Co.]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband
+
+===== Stichwörter =====
+
+allergischer Schock

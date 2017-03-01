@@ -1,0 +1,161 @@
+====== Elektrische Anlagen ======
+
+Siehe auch -> [[allgemein:hochspannungsfreileitung]] und [[brand:trafostation]]
+
+**Niederspannung:** < 1000V Wechsel- oder 1500V Gleichspannung\\
+**Hochspannung:** > 1000V Wechsel- oder 1500V Gleichspannung
+
+===== zu treffende Maßnahmen =====
+
+  * **Niederspannung**: Schalthandlungen nur durch Elektrofachkräfte oder durch elektrotechnisch unterwiesene Personen. Hausinstallationen dürfen teilweise von Einsatzkräften bedient werden (siehe [[#schalthandlungen_an_sicherungen|unten]])
+  * **Hochspannung**: Schalthandlungen nur durch den Betreiber auszuführen
+  * Menschenrettung (nur trockener Zustand) und mit Eigenschutz:
+    * Wathosen, Gummistiefel, Gummihandschuhe
+    * Spannungstrichter und Erdung beachten
+  * Betreiber bzw. dessen Fachpersonal benachrichtigen
+  * Erden, Kurzschließen und Durchschneiden von Leitungen nur im Notfall und nur durch erfahrenen Fachmann!
+
+==== Sicherheitsregeln ====
+
+Diese Regeln insbesondere bei zerstörten Anlagen einhalten, da Ausbreitung über elektrische leitende Gebäudeteile
+
+<WRAP center round important 100%>
+  * Anlage Freischalten
+  * gegen Wiedereinschalten sichern
+  * Spannungsfreiheit feststellen bzw. bestätigen lassen
+  * Erden und kurzschließen
+  * Benachbarte unter Spannung stehende Teile abdecken oder abschranken
+</WRAP>
+
+Normale Sicherungsautomaten schützen nicht gegen tödliche Ströme, dafür muss ein Fehlerstromschutzschalter eingesetzt werden.
+
+==== einzuhaltende Abstände ====
+
+^  Spannung ^  1 kV ^  110 kV ^  220 kV ^  380 kV ^
+^  Abstand  |  1 m  |   3 m   |   4 m   |  5 m    |
+
+Diese Abstände sind in allen Einsatzsituationen einzuhalten! Bei unbekannter Spannung immer von höchstem Wert ausgehen!
+
+=== Sonderfall Deutsche Bahn===
+
+Zur Menschenrettung (nicht für andere Arbeiten!) bei [[allgemeine_hilfe:eisenbahn|Eisenbahnunfällen]] darf der Abstand zur Oberleitung (15 kV) auf 1,5 m verringert werden.
+
+=== Spannungstrichter ===
+
+Bei auf der Erde liegender Hochspannungsleitung 20 m Abstand halten.\\ Bei Eisenbahn-Oberleitungen darf der Abstand wegen der geringeren Spannung ggf. auf 10 Meter verkürzt werden (gilt nicht in allen Bundesländern).
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Freischalten von Gebäuden durch Energieversorger ====
+
+  * Vorherige Erkundung: Gibt es Einrichtungen im Objekt die unbedingt auf Stromversorgung angewiesen sind (z.B. [[allgemein:beatmete_patienten|heimbeatmete Personen]], Dialyse-Praxis, ...)?\\ Information und ggf. Ersatzmaßnahmen für diese treffen.
+
+==== Isolatorenlängen ====
+
+Folgende Isolatorenlängen sind bei den entsprechenden Spannungen zu erwarten:
+
+^ Spannung ^  Isolatorenlänge (ca.)  ^
+|  380 kV  |  3m                     |
+|  220 kV  |  2m                     |
+|  110 kV  |  1m                     |
+|   20 kV  |  0,25m                  |
+|  0,4 kV  |  0,1m                   |
+
+Es wurde oft gelehrt, dass die zu erwartende Spannung an der Hochspannungsfreileitung an der Anzahl der Isolatoren abgeschätzt werden konnte, da die Isolatoren nicht länger als 1 m waren. Drei Isolatoren hintereinander wiesen demnach auf 380 kV hin. Diese Faustregel kann jedoch nicht mehr angewendet werden, da mittlerweile auch längere Isolatoren verwendet werden, und beispielsweise bei einer 380 kV-Leitung auch nur noch ein einziger, langer Isolator verbaut ist.
+
+==== Fahrdrähte von Bahnen ====
+
+Höhe des Fahrdrahts von 4,8 m bis 6,4 m über Schienenoberkante.
+
+Spannung:
+  * [[allgemeine_hilfe:eisenbahn|Deutsche Bahn]]: 15 kV
+  * U-Bahn, S-Bahn, Straßenbahn: bis 750 V
+
+==== Löschmittel allgemein ====
+
+=== Wasser ===
+
+Hohlstrahlrohre dürfen in elektrischen Anlagen nur mit Erlaubnis des Herstellers/Lieferanten des Strahlrohrs eingesetzt werden! Dies gilt auch für nicht genormte Strahlrohre.
+
+== Mindestabstände CM-Strahlrohr nach DIN VDE 0132 (Strahlrohrdruck 5 bar, bei Strahlrohrdrücken über 5 bar muss bei Hochspannung der Abstand um jeweils weitere 2 Meter vergrößert werden.) ==
+
+bei zunächst unbekannter Spannung:
+
+^  ^  Niederspannung (N)  ^  Hochspannung (H)  ^
+^  Sprühstrahl                    |  1 m                        |  5 m                       |
+^  Vollstrahl                     |  5 m                        |  10 m                      |
+
+bei bekannter Spannung
+
+^  Spannung     ^  bis 1 kV  ^  bis 30 kV  ^  bis 110 kV  ^  bis 220 kV  ^  bis 380 kV  ^
+^  Sprühstrahl  |  1 m       |  3 m *      |  3 m         |  4 m         |  5 m         |
+^  Vollstrahl   |  5 m       |  5 m        |  6 m         |  7 m         |  8 m         |
+
+* Bei Anwesenheit von elektrotechnisch unterwiesenen Personen oder Elektrofachkräften ist eine Verringerung auf 2 m möglich.
+
+== Mindestabstände BM-Strahlrohr nach DIN VDE 0132 (Strahlrohrdruck 5 bar) ==
+
+Ein B-Strahlrohr wird nur in Absprache mit dem Betreiber vorgenommen!
+
+^  Spannung                    ^  bis 1 kV  ^  bis 30 kV  ^  bis 110 kV  ^  bis 220 kV  ^  bis 380 kV  ^
+^  Sprühstrahl mit Mundstück   |  6 m       |  8 m        |  8 m         |  9 m         |  10 m        |
+^  Vollstrahl mit Mundstück    |  10 m      |  10 m       |  11 m        |  12 m        |  13 m        |
+^  Sprühstrahl ohne Mundstück  |  11 m      |  13 m       |  13 m        |  14 m        |  15 m        |
+^  Vollstrahl ohne Mundstück   |  15 m      |  15 m       |  16 m        |  17 m        |  18 m        |
+
+Diese Abstände basieren auf der Tabelle der Abstände der CM-Strahlrohre, bei BM-Sprühstrahl erhöht sich der Abstand jeweils um 5 m, bei BM-Vollstrahl jeweils um 10 m.
+
+=== Schaum ===
+
+[[brand:allgemein:schaum|Hauptartikel Schaum]]
+
+Nur bei spannungsfrei geschalteten Anlagen. Angrenzende Anlagen ggf. ebenfalls spannungsfrei schalten.
+
+=== Pulver ===
+
+[[brand:allgemein:pulver|Hauptartikel Pulver]]
+
+Achtung: Pulverschicht kann leitfähig sein!
+
+Bei BC-Pulver oben genannte Mindestabstände einhalten.
+
+ABC-Pulver nur in Niederspannungsanlagen einsetzen. Bei Hochspannung nur bei Spannungsfreiheit.
+
+=== Kohlenstoffdioxid ===
+
+[[brand:allgemein:co2|Hauptartikel Löschmittel Kohlenstoffdioxid]]
+
+Mindestabstände einhalten, beim Einsatz in geschlossenen Räumen auf gefährliche Konzentrationen achten.
+
+==== Feuerlöscher ====
+
+Die auf den Feuerlöscher beschriebenen Abstände müssen eingehalten werden falls vorhanden. Ansonsten gelten folgende Abstände bis zu den jeweiligen Spannungen:
+
+^  Löschmittel                ^  1000 V  ^  110 kV  ^ 220 kV ^ 380 kV ^
+^  Wasser mit Sprühdüse       |  1 m     |  siehe Aufschrift  |||
+^  Wasser mit Vollstrahldüse  |  3 m     |  siehe Aufschrift  |||
+^  Schaum                     |  3 m     |  nur bei Spannungsfreiheit  |||
+^  ABC-Pulver                 |  1 m     |  nur bei Spannungsfreiheit  |||
+^  BC-Pulver                  |  1 m     |  3 m     |  4 m   |  5 m   |
+^  Kohlenstoffdioxid          |  1 m     |  3 m     |  4 m   |  5 m   |
+
+==== Schalthandlungen an Sicherungen ====
+
+^  Sicherungsart               ^^  Hinweise  ^
+| DIAZED- und NEOZED-Sicherung\\ (Schraubsicherungen) |  {{:allgemein:neozed-sicherung.jpg?nolink&150|NEOZED-Sicherung}}  | Dürfen von Einsatzkräften bzw. Laien entfernt werden, wenn nicht über 400 V Wechselspannung bei 63 A oder 25 V Gleichspannung. |
+| NH-Sicherung                                        |  {{:allgemein:nh-sicherung.jpg?nolink&150|NH-Sicherung}}          | Dürfen nur von Elektrofachkräften mit geeigneter Schutzausrüstung entfernt werden, **nicht von normalen Einsatzkräften**!\\ Die Elektrofachkraft muss jährlich unterwiesen sein, gelernte Elektriker die in einem anderen Beruf arbeiten (auch bei der BF) erfüllen diese Forderung i.d.R. **nicht**. Der Einsatz des Elektro-Werkzeugkasten der auf vielen Feuerwehrfahrzeugen mitgeführt wird ist ebenfalls nur Elektrofachkräften vorbehalten! |
+
+===== Quellenangabe =====
+
+  * Ausbildungsunterlagen Gruppenführerlehrgang LFKS-RLP
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * [[http://www.sfs-w.de/lehr-und-lernmittel/merkblaetter-broschueren/abwehrender-brandschutz.html?no_cache=1&download=05_02_Internet_2011-07-19.pdf&did=33|Merkblatt Löschmittel-Löschverfahren]], Staatliche Feuerwehrschule Würzburg
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * [[wpde>Schmelzsicherung|Wikipedia: Schmelzsicherung]]
+  * Bild [[https://commons.wikimedia.org/wiki/File:Schraubsicherung.jpg|NEOZED-Sicherung]], veröffentlicht von [[wpde>Benutzer:MarkusHagenlocher|Wikipedia-Nutzer MarkusHagenlocher]] unter [[http://creativecommons.org/licenses/by-sa/3.0/deed.de|Creative Commons Attribution-Share Alike 3.0 Unported]]-Lizenz
+  * Bild [[https://commons.wikimedia.org/wiki/File:NH-Sicherungen_Hauptverteilung.jpg|NH-Sicherung]], veröffentlicht von [[https://commons.wikimedia.org/wiki/User:Nogo~commonswiki|Wikipedia-Nutzer Nogo~commonswiki]] unter [[wpde>Gemeinfreiheit#Public_Domain|Public-Domain]]-Lizenz
+
+===== Stichwörter =====
+
+Strom, Elektrizität, Abstand
+

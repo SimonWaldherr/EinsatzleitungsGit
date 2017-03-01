@@ -1,0 +1,37 @@
+====== Biologische Kampfstoffe ======
+
+Siehe auch [[cbrn:chemisch:chemische_kampfstoffe|Chemische Kampfstoffe]]
+
+===== zu treffende Maßnahmen =====
+
+Liegen Hinweise zu einem biologischen Anschlag vor, so liegt die Einsatzleitung bei Polizei bzw. den Gesundheits- und Veterinärbehörden und die Feuerwehr wird nur in Amtshilfe tätig.
+
+  * Vorgehen unter [[cbrn:allgemein:koerperschutzformen|Körperschutzform 3]]
+
+Maßnahmen von //normalen// [[cbrn:biologisch:start|Bio-Einsätzen]] beachten.
+
+==== besondere Gefahren ====
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Auflistung einzelner Bio-Kampfstoffe ====
+
+  * [[cbrn:biologisch:stoffe:anthrax]]
+  * [[cbrn:biologisch:stoffe:botulinustoxin]]
+  * [[cbrn:biologisch:stoffe:brucellose]]
+  * [[cbrn:biologisch:stoffe:pest]]
+  * [[cbrn:biologisch:stoffe:pocken]]
+  * [[cbrn:biologisch:stoffe:q-fieber]]
+  * [[cbrn:biologisch:stoffe:ricin]]
+  * [[cbrn:biologisch:stoffe:rotz]]
+  * [[cbrn:biologisch:stoffe:staphylokokken-enterotoxin]]
+  * [[cbrn:biologisch:stoffe:t2-mycotoxine]]
+  * [[cbrn:biologisch:stoffe:tularaemie]]
+  * [[cbrn:biologisch:stoffe:venezolanische_pferdeenzephalitis]]
+  * [[cbrn:biologisch:stoffe:virale_haemorrhagische_fieber]]
+
+===== Quellenangabe =====
+
+  * FwDV 500, Ausgabe 2012
+
+===== Stichwörter =====

@@ -1,0 +1,29 @@
+====== Kran-Einsatz ======
+
+===== zu treffende Maßnahmen =====
+
+  * Stellplatz so nah wie möglich an der zu bewegenden Last freihalten.
+    * endgültige Festlegung des Aufstellungsorts nur zusammen mit dem Kranführer
+    * enormer Platzbedarf: Abstützbreiten von über 6 Metern sind keine Seltenheit
+    * Bereich um den Kran als "Bewegungsraum" freihalten, Ablageplatz für die Last einplanen
+    * Zufahrt zum Stellplatz freiräumen/freihalten
+    * Untergrund muss ausreichend tragfähig sein; nicht auf Bürgersteigen möglich, auf Brücken nur eingeschränkt oder auch gar nicht
+  * Bei Inbetriebnahme des Krans den Aktionsradius absperren/durch Posten sichern, dort kein Aufenthalt außer den unbedingt notwendigen Personen (die z.B. die Last mittels Seil führen)
+
+==== besondere Gefahren ====
+
+  * schwebende Lasten
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Aufgrund des Fahrzeuggewichts kann der Kran die Einsatzstelle evtl. nicht auf direktem Weg, sondern nur über Umwege erreichen (z.B. Brücken)
+  * [[allgemeine_hilfe:verkehrsunfall:lkw-unfall|Verunfallte LKWs]] die geborgen werden sollen müssen i.d.R. entladen werden bevor diese mit dem Kran bewegt werden können
+
+===== Quellenangabe =====
+
+  * [[http://www.feuerwehrmagazin.de/service/tipps-wissen/private-kran-unternehmen-statt-feuerwehr-kran-53493|Private Kran-Unternehmen statt Feuerwehr-Kran]] von Michael Hoffmann, Feuerwehr-Magazin, 11.01.2016
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+
+===== Stichwörter =====
+
+Autokran, Mobilkran

@@ -1,0 +1,52 @@
+====== Lithium-Ionen-Akkumulatoren ======
+
+Abhängig von den verwendeten Materialien sind die Lithium-Akkus gefährlicher oder sicherer. Bei den folgenden Hinweisen wird jeweils der ungünstigste Fall angenommen. 
+
+===== zu treffende Maßnahmen =====
+
+==== sowohl bei Brand und mechanischer Beschädigung ====
+
+  * Vorgehen nur unter umluftunabhängigem Atemschutz und voller Feuerschutzkleidung, auch nach Ablöschen eines evtl. Brandes!
+  * Bereich intensiv [[brand:allgemein:belueftung|belüften]], möglichst direkt ins Freie
+
+==== bei Brand ====
+
+  * [[allgemein:elektrische_anlagen|(Löschmittel-) Abstände für Niederspannung]] einhalten
+  * **Löschmittel: Wasser**, primär Umgebung schützen, Löscherfolg bei Akku fraglich aufgrund der Kapselung
+  * weiß/gräulichen Nebel mit großen Mengen Wasser-Sprühstrahl niederschlagen
+  * wenn möglich Messungen auf [[cbrn:chemisch:klasse_8:stoffe:flusssaeure|Fluorwasserstoffsäure (Flusssäure)]] vornehmen (-> [[cbrn:geraete:pruefroehrchen|Prüfröhrchen]])
+  * Die Zelle auch nach „Feuer aus“ mehrere Stunden in regelmäßigen Abständen mit Wasser benetzen um weitere Zersetzung der Zelle zu unterbinden, bei intensiven Bränden oder großen Zellen bis zu 24 h. <wrap important>Interne Zersetzung mit Wärmebildkamera nicht erkennbar!</wrap>
+  * Hautkontakt mit Bestandteilen der Zellen unbedingt vermeiden!\\ Nach Hautkontakt mit viel Wasser spülen, ggf. Calciumgluconat-Gel gegen Fluorwasserstoff-Verätzung einsetzen (siehe auch entsprechendes Sicherheitsdatenblatt der Batterie)
+
+==== mechanische Beschädigung ====
+
+Bei mechanischer Beschädigung der Zelle kann daraus ein Brand resultieren. Die folgenden Hinweise gelten nur für einen Austritt der Batterieflüssigkeit, diese wird als „Elektrolyt“ bezeichnet. In diesem ist das Salz Lithiumhexafluorophosphat (LiPF<sub>6</sub>) in einem Lösungsmittel gelöst.
+
+  * ausgelaufene Elektrolytflüssigkeit (ätzend!) mit Chemikalienbinder aufnehmen. Bei Kontakt mit Wasser Entstehung von u.a. Fluorwasserstoff bzw. Flusssäure!
+    * Keine Lederhandschuhe verwenden! Geeignet sind Handschuhe aus Nitrilkautschuk/Nitrillatex – NBR mit einer Dicke ab 0,11 mm
+  * Lithiumhexafluorophosphat besitzt die Wassergefährdungsklasse 3! Bei Austritt auf unbefestigtem Untergrund oder Gewässer entsprechende Behörde nachfordern/benachrichtigen!
+  * [[cbrn:geraete:ex-messgeraet|Ex-Messungen durchführen]] (je nach verwendetem Lösungsmittel in seltenen Fällen Ex-Atmosphäre möglich)
+  * sind die Zellen durch eine äußeren Einwirkung mit Wärme beaufschlagt worden müssen diese kontrolliert werden, ggf. zeitverzögert eintretende Zersetzung
+
+==== besondere Gefahren ====
+
+  * ab 130 °C Oberflächentemperatur, bei Überladung oder mechanischer Beschädigung Zersetzung der Zelle(n) möglich, dabei Entstehung einer Kettenreaktion die sich auf die gesamte Batterie ausweitet, dann Entstehung eines giftigen und ätzenden weiß/gräulichen Nebels, der sich in einer Stichflamme entzünden kann\\ Bestandteile des Nebels: [[cbrn:chemisch:klasse_8:stoffe:flusssaeure|Fluorwasserstoffsäure]] (Flusssäure, HF) und Phosphorsäure (H<sub>3</sub>PO<sub>4</sub>)
+  * abhängig von der Art der Zelle kann diese auch ohne Sauerstoff (weiter-)brennen
+  * bei längerem Kontakt mit Wasser (z.B. bei Überflutung) kann [[cbrn:chemisch:klasse_2:stoffe:wasserstoff|Wasserstoff]] entstehen
+
+==== Einsatzabschluss ====
+
+  * ggf. Spannungsfreiheit durch Fachfirma herstellen lassen
+  * Einsatzstelle absichern und an zuständige Person übergeben, dabei Sicherheitshinweise mitteilen
+  * (Zwischen-) Lagerung von beschädigten Lithium-Akkus nur durch qualifizierte Fachkräfte, entsprechend der Herstellervorgaben
+  * Transport beschädigter Lithium-Batterien nur entsprechend ADR-Sondervorschrift 661
+
+===== Quellenangabe =====
+
+  * [[http://www.dguv.de/medien/inhalt/praevention/fachbereiche/fb-fhb/documents/li_solar.pdf|Einsatz an stationären Lithium-Solarstromspeichern]], Bundesverband Solarwirtschaft e.V. 2014
+  * Roland Goertz, Thomas Marx: Gefahren durch sekundäre Lithium-Ionen-Batterien. In: Brandschutz 01/2015, Verlag W. Kohlhammer, Stuttgart, S. 11 ff.
+  * [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/132948.xml?f=templates&fn=default.htm|Eintrag für Lithiumhexafluorophosphat in der Gestis-Gefahrstoffdatenbank]]
+
+===== Stichwörter =====
+
+Lithium-Ionen-Batterie, Lithium-Ionen-Batterien, Lithium-Ionen-Akkus, Lithium-Ionen-Akku, Lithium-Batterie, Lithium-Akkus, Lithium-Akku, Lithium-Batterien, Lithium-Batterie, H3PO4, LiPF6

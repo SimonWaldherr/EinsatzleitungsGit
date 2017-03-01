@@ -1,0 +1,22 @@
+====== Auslaufende Stoffe ======
+
+===== zu treffende Maßnahmen =====
+
+Grundsätzliche Vorgehensweise:
+
+  * Auffangen
+    * weitere Ausbreitung verhindern, insbesondere Kanaleinläufe abdichten, z.B. mit Kanaldichtkissen, speziellen Dichtfolien, notfalls mit Bindemittel oder Erde einen Wall bauen
+  * Abdichten
+  * Abpumpen/Umpumpen
+    * ggf. aufgefangene Flüssigkeit aus dem Auffangbehälter wieder zurück in den beschädigten Behälter pumpen bis Fachkräfte die Einsatzstelle übernehmen ("im Kreis pumpen")
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Beständigkeit des eingesetzten Materials beachten
+  * [[cbrn:allgemein:volumenabschaetzung|Volumenstromabschätzung]] für den Austritt von Flüssigkeiten
+  * [[cbrn:geraete:gefahrgutpumpen|Kennzahlen für Gefahrgutpumpen]]
+  * Nach dem Eindringen des Stoffs in die Kanalisation Abwasserentsorger verständigen
+
+===== Quellenangabe =====
+
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie

@@ -1,0 +1,114 @@
+====== Hilfe und Dokumentation ======
+
+**Diese Seite befindet sich derzeit im Aufbau bzw. in Überarbeitung und ist noch nicht komplett funktionsfähig!**
+
+===== Die technische Grundlage des Einsatzleiterwikis =====
+
+  - [[wiki:hilfe:hintergrund_einsatzleiterwiki|Die technische Grundlage des Einsatzleiterwikis]]
+
+===== Einsatzleiterwiki benutzen =====
+
+  - [[wiki:hilfe:hauptfenster|Das Hauptfenster]]
+  - Übersicht
+    * [[wiki:hilfe:seitennamen|Seitennamen]]
+    * [[wiki:hilfe:namensraeume|Namensräume]]
+    * [[wiki:hilfe:suche|Die Suche benutzen]]
+    * [[wiki:pruefer|Artikelprüfer]] 
+    * [[wiki:hilfe:index|Der Index]]
+    * [[wiki:hilfe:letzte_aenderungen|Letzte Änderungen]]
+    * [[wiki:hilfe:aeltere_versionen|Ältere Versionen]]
+    * [[wiki:hilfe:schnelltasten|Schnelltasten]]
+    * [[wiki:hilfe:syndication|RSS und ATOM Feeds]]
+    * [[wiki:hilfe:wikitext|Den Seitenquelltext betrachten]]
+    * [[wiki:hilfe:export|Seiten exportieren]]
+  - [[wiki:hilfe:artikel_bearbeiten_allgemein|Artikel bearbeiten allgemein]]
+    * [[wiki:hilfe:seitennamen#seiten_anlegen|Seite anlegen]]
+    * [[wiki:hilfe:seitennamen#seiten_loeschen|Seite löschen]]
+    * [[wiki:hilfe:zusammenfassung|Zusammenfassung und kleine Änderung]]
+    * [[wiki:hilfe:artikel_besondere_funktionen|besondere Funktionen]]
+    * [[wiki:hilfe:namespace_templates|Seitenvorlagen]]
+    * [[wiki:hilfe:rechtschreibpruefung|Die Rechtschreibprüfung]]
+    * [[wiki:hilfe:seitensperre|Wie das Seitensperren funktioniert]]
+    * [[wiki:hilfe:html_php|HTML und PHP einbinden]]
+  - [[wiki:hilfe:artikel_fck-editor|Artikelbearbeitung mit dem FCK-Editor]]
+  - [[wiki:hilfe:artikel_standardeditor|Artikelbearbeitung mit dem Standardeditor]]
+    * [[wiki:hilfe:artikel_standardeditor#uebersicht_ueber_die_knoepfe_des_editors|Quickbuttons zur Textformatierung]]
+    * [[wiki:hilfe:artikel_standardeditor#texte|Generelle Textformatierung (Schriftarten, Fußnoten, ..)]]
+    * [[wiki:hilfe:artikel_standardeditor#links|Unterschiedliche Link Typen:]] [[wiki:hilfe:artikel_standardeditor#intern|intern]], [[wiki:hilfe:artikel_standardeditor#extern|extern, E-Mail]], [[wiki:hilfe:artikel_standardeditor#Windows_Freigaben|Windows-Freigaben]]
+    * [[wiki:hilfe:artikel_standardeditor#absaetze|Seitenaufteilung]]
+    * [[wiki:hilfe:artikel_standardeditor#bilder_und_andere_dateien|Bilder, hochgeladene Dateien]]
+    * [[wiki:hilfe:artikel_standardeditor#listen|Listen (geordnet und ungeordnet)]]
+    * [[wiki:hilfe:artikel_standardeditor#tabellen|Tabellen]]
+    * [[wiki:hilfe:artikel_standardeditor#smileys|Smileys, Abkürzungen und Typographie]]
+    * [[wiki:hilfe:artikel_standardeditor#unformatierte_abschnitte|Blöcke (z.B. um Quellcode anzuzeigen)]]
+
+===== Plugins =====
+
+Plugins sind Erweiterungen der zugrunde liegenden DokuWiki-Software um weitere Funktionen. Es sind neben den entsprechenden Inhalten zu einem großen Teil die Plugins, die aus der //normalen// Wiki-Software das Einsatzleiterwiki machen.
+
+Die folgenden Plugins sind in der Einsatzleiterwiki-Standardinstallation enthalten:
+
+  * [[wiki:hilfe:artikel_fck-editor|Texteditor]] mit einfacher Bedienoberfläche
+  * [[wiki:hilfe:plugins:goto|Weiterleitung auf andere Seite]] zur Erstellung von Synonymen
+  * [[wiki:hilfe:plugins:indextitleonly|Abschalten der Volltextsuchfunktion]] für einzelne Namensräume
+  * [[wiki:hilfe:plugins:inclform|Einbinden von Berechnungsformularen]] durch Integration von PHP-, HTML- und JavaScript-Quelltext
+  * [[wiki:hilfe:plugins:orphanswanted|Verlinkte nicht vorhandene Artikel anzeigen]]
+  * [[wiki:hilfe:plugins:searchindex|Datenbank der Volltextsuchfunktion neu erzeugen]]
+  * [[wiki:hilfe:plugins:sendpagecontent|Einzelnen Artikel aus dem eigenen lokalen Einsatzleiterwiki auf einfache Weise dem Projekt zur Verfügung stellen]]
+  * [[wiki:hilfe:plugins:simplenavi|Automatisch erzeugtes Inhaltsverzeichnis einer Kategorie erstellen]]
+  * Datenbestand des eigenen lokalen Einsatzleiterwikis mit dem Server des Projekts [[wiki:hilfe:plugins:sync|synchronisieren]]
+
+Folgende Plugins werden nicht mit dem Einsatzleiterwiki mitgeliefert, sind aber evtl. für fortgeschrittene User interessant. Wenn Sie sich nicht sicher sind wie ein Plugin installiert wird, können Sie dies auf der Seite [[wiki:hilfe:plugins:plugin_installation]] nachlesen.
+
+  * [[wiki:hilfe:plugins:move|Seitennamen ändern]] bis hin zum Verschieben von ganzen Namensräumen
+  * [[wiki:hilfe:plugins:smtp|separaten Mailserver benutzen]], wenn auf dem Server auf dem das Einsatzleiterwiki läuft kein eigener Mailserver eingerichtet ist.
+  * [[wiki:hilfe:plugins:discussion|Diskussionen auf Wiki-Seiten erlauben]], wie im Online-Wiki unter [[http://wiki.einsatzleiterwiki.de]] nutzbar
+  * [[wiki:hilfe:plugins:publish|Wiki-Artikel erfordern nach einer Bearbeitung eine Bestätigung durch einen Moderator]], wie im Online-Wiki unter [[http://wiki.einsatzleiterwiki.de]] zu sehen
+  * [[wiki:hilfe:plugins:s5|Bildschirm-Präsentationen mit dem Wiki durchführen]]
+
+===== Download und Installation =====
+
+  * [[wiki:hilfe:voraussetzungen|Einsatzleiterwiki Systemvoraussetzungen]]
+  * [[wiki:hilfe:installation_download|Download und Installation]]
+  * Manuell installieren:
+     * [[wiki:hilfe:installation_download_manuell|Download und Manuelle Installation unter Windows]]
+     * [[wiki:hilfe:installation_download_stick|Download und Start des EinsatzleiterwikiStick]] (für portablen Betrieb auf einem USB-Stick für die Nutzung an verschiedenen Rechnern unter Windows)
+     * [[wiki:hilfe:installation_download_ios|App-Installation unter iOS]]
+     * [[wiki:hilfe:installation_download_android|Download und Manuelle Installation unter Android]]
+     * [[wiki:hilfe:installation_download_linux|Download und Manuelle Installation unter Linux]]
+     * [[wiki:hilfe:installation_download_macos|Download und Manuelle Installation unter Mac OS]]
+  * [[wiki:hilfe:fehlersuche|Fehlersuche]] Was tun wenn das Einsatzleiterwiki nicht funktioniert?
+  * [[wiki:hilfe:plugins:sync#einrichtung_eines_eigenen_einsatzleiterwiki-servers|Einrichtung eines eigenen Wiki-Server-Client-Systems]]
+  * [[wiki:hilfe:installation_update|Update auf eine neuere Version des Einsatzleiterwikis]]
+
+===== Administration =====
+
+  * [[wiki:hilfe:installation_anpassung_ansicht|Anpassung der Ansicht]] 
+  * [[wiki:hilfe:installation_anpassung_navigation|Anpassung des Navigations-Menüs am linken Rand]]
+  * [[wiki:hilfe:installation_anpassung_logo|Einfügen des eigenen Logos]]
+  * [[wiki:hilfe:hinweis_nicht_ueberpruefte_inhalte|Hinweis auf nicht überprüfte Inhalte]] (eher für größere Feuerwehren interessant)
+  * [[wiki:hilfe:sprachdateien_anpassen|Sprachdateien anpassen]]
+  * [[wiki:hilfe:designanpassungen|Designanpassungen]]
+
+  * [[wiki:hilfe:installation_anpassung_closed_wiki|Zugriff auf das Wiki nur angemeldeten Benutzern erlauben]]
+  * [[wiki:hilfe:installation_anpassung_authad|Nutzerdaten aus einem Active Directory beziehen]]
+  * [[wiki:hilfe:passwort vergessen|(Administrator-) Passwort vergessen]]
+
+  * [[wiki:hilfe:betrieb_datensicherung|Datensicherung]]
+
+===== Demonstration =====
+
+  * [[:wiki:hilfe:demonstration|Lernen Sie die Möglichkeiten kennen die das Einsatzleiterwiki Ihnen bietet und erfahren Sie, wo es sich gegenüber gedruckten Werken und anderen Softwarelösungen abhebt.]]
+
+===== Technische Dokumentation =====
+
+Artikel in diesem Bereich sind für normale Benutzer nicht relevant und nur für die (Weiter-)Entwicklung des Einsatzleiterwikis interessant, sie beschreiben die Anpassungen der ursprünglichen Wiki-Software an die speziellen Erfordernisse des Einsatzleiterwikis und besondere, weil automatisiert und/oder mit anderer Software durchgeführte Erstellung von Inhalten (z.B. Rettungsdatenblätter).
+
+  * [[:wiki:hilfe:wiki_modifikation|Modifikation der DokuWiki-Software]] 
+  * [[:wiki:hilfe:template|Template-Anpassungen]] 
+  * [[:wiki:hilfe:technik_plugins|Installierte Plugins und ggf. vorgenommene Anpassungen]] 
+  * [[:wiki:hilfe:technik_rettungsdatenblaetter|Erstellung der Rettungsdatenblätter]]
+
+===== Quelle =====
+
+Viele Inhalte dieser Hilfe wurden aus dem DokuWiki-Handbuch entnommen, welches unter https://www.dokuwiki.org/de:manual zu finden ist (veröffentlicht unter der "CC Attribution-Share Alike 3.0 Unported"-Lizenz)

@@ -1,0 +1,185 @@
+====== Installierte Plugins ======
+
+Auf dieser Seite sind Plugins beschrieben, die zusätzlich zu den Standardplugins installiert wurden. Hier sind jedoch lediglich vorgenommene Änderungen und Installationshinweise beschrieben, Nutzung und Funktionen der Plugins sind auf der Seite [[wiki:hilfe:plugins:start]] erläutert.
+
+===== ckgedit =====
+
+Dieses Plugin stellt neben dem Standard-Dokuwiki-Editor einen komfortableren [[wpde>WYSIWYG|WYSIWYG]]-Editor zur Verfügung, um die Artikelbearbeitung auch weniger computerversierten Personen zu ermöglichen.
+
+In diesem Plugin müssen die vier Softlinks aus dem Verzeichnis ''lib/plugins/fckg/fckeditor/userfiles'' gelöscht werden. Diese werden dann bei der ersten Benutzung des Wikis korrekt neu erzeugt.
+
+Die Benutzung des ckg-Editors (früher: FCK-Editor) ist im Artikel [[wiki:hilfe:artikel_fck-editor]] beschrieben.
+
+===== goto =====
+
+Das goto-Plugin ermöglicht eine automatische Weiterleitung von einer Seite auf eine andere.
+
+Im Plugin wurden Anpassungen bezüglich der Ausgabe der Meldungen und der Dauer bis eine Weiterleitung erfolgt vorgenommen. Sie können daher das ursprünglich für das DokuWiki-System geschriebene Plugin nicht verwenden. Da das Plugin bei der Einsatzleiterwiki-Standardinstallation mitgeliefert wird dürfte dies aber auch nicht nötig sein.
+
+Die Benutzung des goto-Plugins ist im Artikel [[wiki:hilfe:plugins:goto]] beschrieben.
+===== inclform =====
+
+Über das Plugin //inclform// werden die [[berechnungen:start|Berechnungsformulare]] in die einzelnen Wiki-Seiten eingebunden.
+
+In der Datei ''conf/dokuwiki.php'' wird der Dateipfad definiert, unter dem die Formulare zu finden sind. Diese Konfiguration ist normalerweise schon vorgenommen. Sollten die Berechnungsformulare trotzdem nicht angezeigt werden, prüfen Sie, ob in der genannten Datei der Eintrag
+
+<code>
+$conf['formdir'] = 'data/media/berechnungen';
+</code>
+
+vorhanden ist. Beachten Sie, dass diese Einstellung nicht über den normalen Verwaltungsbereich möglich ist und direkt von Hand in der Datei vorgenommen werden muss.
+
+Damit die Synchronisation neuer Berechnungsformulare mit der Online-Variante funktioniert, muss außerdem die Datei ''conf/mime.conf'' mit dem Inhalt
+
+<code>
+php    text/php
+</code>
+
+editiert werden. Beachten Sie, dass Sie diese Einstellung auf keinen Fall in über das Internet bearbeitbaren Wiki-Versionen vornehmen, da dies ein schweres Sicherheitsrisiko darstellen kann. Aus diesem Grund ist diese Funktion auch auf den Einsatzleiterwiki-Servern deaktiviert und es können keine neuen oder geänderte Berechnungsformulare hochgeladen werden! Weitere Informationen zur Definition erlaubter Dateitypen finden Sie [[http://www.dokuwiki.org/mime|hier in der offiziellen DokuWiki-Dokumentation]].
+
+Die Benutzung des inclform-Plugins ist im Artikel [[wiki:hilfe:plugins:inclform]] beschrieben.
+
+===== orphanswanted =====
+
+Am //orphanswanted//-Plugin wurden keine Änderungen vorgenommen.
+
+Die Benutzung wird im Artikel [[wiki:hilfe:plugins:orphanswanted]] beschrieben.
+
+===== publish =====
+
+[[http://www.dokuwiki.org/plugin:publish|Original-Dokumentationsseite zum publish-Plugin]]
+
+**Hinweis:** Das Publish-Plugin wird nur in der offenen Internet-Installation verwendet. Bei Bedarf können Sie es aber auch in Ihrer lokalen Installation verwenden.
+
+Der Administrator und die Mitglieder einer Manager-Gruppe sind berechtigt, die einzelnen Seiten des Wikis als überprüft einzustufen, nachdem ein normaler Nutzer einen Artikel bearbeitet oder neu angelegt hat. Je nach Anmeldestatus und Benutzergruppe wird im oberen Bereich der Seite ein Hinweis eingeblendet. Nicht angemeldete Benutzer sehen automatisch die jüngste als geprüft markierte Version und gleichzeitig, durch wen die Prüfung erfolgte. Lediglich für den Fall, dass keine geprüfte Version vorhanden ist, wird die ungeprüfte Version eingeblendet. Angemeldete Benutzer sehen automatisch die neuste, aber möglicherweise ungeprüfte Version. Ist dies der Fall, wird zusätzlich automatisch ein Link zur letzten geprüften Version eingeblendet.
+
+Auf der Seite zur [[wiki:wartung|Wartung des Wikis]] kann eine Liste der noch ausstehenden Überprüfungen angezeigt werden, um diesen Prozess zu vereinfachen.
+
+Hinter dem Namen des Artikelprüfers wird ein Link auf die [[wiki:pruefer|Wiki-Seite angezeigt, auf der alle Prüfer mit Kontaktinformationen aufgelistet sind]].
+
+Dazu wird in der Datei ''lib/plugins/publish/lang/de/lang.php'' die Zeile 7 von
+
+<code>
+$lang['apr_approved'] = 'Diese Version (%s) wurde <em>bestätigt</em> durch %s.';
+</code>
+
+auf
+
+<code>
+$lang['apr_approved'] = 'Diese Version (%s) wurde <em>bestätigt</em> durch %s. (<a href="doku.php?id=wiki:pruefer">Liste aller Artikelprüfer</a>)';
+</code>
+
+abgeändert.
+
+Standardmäßig muss eine Änderung im Text erfolgen, damit ein Artikel gespeichert werden kann. Somit wäre ein einfaches Bestätigen einer Version nicht möglich, da dies vom System nicht als Änderung gewertet wird. Abhilfe schafft folgende Quelltextänderung in der Datei ''inc/common.php'':
+
+In Zeile 976 das Textfragment von
+
+<code>
+if($text == rawWiki($id,'')){
+    return;
+}
+</code>
+
+auf
+
+<code>
+if(!$_POST['approved'] && $text == rawWiki($id,'')){
+return;
+}
+</code>
+
+abändern.
+
+Seit dem Upgrade auf die DokuWiki-Version Rincewind funktioniert die Anzeige der "letzten Änderungen" nicht mehr bzw. bricht mit einer Fehlermeldung ab die //Fatal error: Call to undefined function in_namespace() in (Serverpfad)/lib/plugins/publish/action.php on line 249// lautet.
+
+Um dieses Problem zu beheben muss in der Datei ///lib/plugins/publish/action.php// die Zeile 249 von
+
+<code>if(in_namespace($this->getConf('apr_namespaces'), $usename)) {</code>
+
+auf
+
+<code>if($this->hlp->in_namespace($this->getConf('apr_namespaces'), $usename)) {</code>
+
+abgeändert werden, dann funktioniert die Anzeige wieder.
+
+===== searchindex =====
+
+Am //searchindex//-Plugin wurden keine Änderungen vorgenommen.
+
+Die Benutzung wird im Artikel [[wiki:hilfe:plugins:searchindex]] beschrieben.
+
+===== sendpagecontent =====
+
+Das //sendpagecontent//-Plugin wurde eigens für das Einsatzleiterwiki entwickelt.
+
+Die Benutzung wird im Artikel [[wiki:hilfe:plugins:sendpagecontent]] beschrieben.
+
+===== simplenavi =====
+
+Am //simplenavi//-Plugin wurden keine Änderungen vorgenommen.
+
+Die Benutzung wird im Artikel [[wiki:hilfe:plugins:simplenavi]] beschrieben.
+
+===== sync =====
+
+Das //sync//-Plugin musste geringfügig modifiziert werden; während der Synchronisation werden normalerweise alle Artikel im eigenen sowie im entfernten Wiki gegen Bearbeitung gesperrt. Damit soll verhindert werden, dass während der Synchronisation eine Änderung stattfindet, da nach erfolgter Sychronisation alle zwischenzeitlich von Hand geänderten Artikel wieder überschrieben wären. Da der Zugriff auf das Wiki unter sync.einsatzleiterwiki.de nur lesend erfolgen kann, ist eine Artikelsperre nicht möglich, da hierzu Bearbeitungsrechte notwendig wären.
+
+Da in das geschlossene Wiki nur von einer Person Änderungen eingetragen werden und dies ebenfalls über Synchronisation erfolgt, ist ein Bearbeitungskonflikt auszuschließen. Aus diesem Grund wird die Funktion zur Sperrung der Artikel entfernt, da eine Synchronisation mit nur lesenden Rechten nicht möglich wäre.
+
+Im Quelltext in der Datei ''lib/plugins/sync/admin.php'' müssen folgende Bereiche wie folgt auskommentiert werden:
+
+<code>
+    /* Lock-Funktion aus Kompabilitätsgründen entfernen
+    function _lockFiles(&$synclist){
+        if(!$this->_connect()) return array();
+        // lock the files
+        $lock = array();
+        foreach((array) $synclist as $id => $dir){
+            if($dir == 0) continue;
+            if(checklock($id)){
+                $this->_listOut($this->getLang('lockfail').' '.hsc($id),'error');
+                unset($synclist[$id]);
+            }else{
+                lock($id); // lock local
+                $lock[] = $id;
+            }
+        }
+        // lock remote files
+        $ok = $this->client->query('dokuwiki.setLocks',array('lock'=>$lock,'unlock'=>array()));
+        if(!$ok){
+            $this->_listOut('failed RPC communication');
+            $synclist = array();
+            return array();
+        }
+        $data = $this->client->getResponse();
+        foreach((array) $data['lockfail'] as $id){
+            $this->_listOut($this->getLang('lockfail').' '.hsc($id),'error');
+            unset($synclist[$id]);
+        }
+
+        return $lock;
+    }
+    */
+</code>
+
+<code>
+        /* Lock-Funktion aus Kompabilitätsgründen entfernen
+        if($type == 'pages')
+            $lock = $this->_lockfiles($synclist);
+        */
+</code>
+
+<code>
+        /* Lock-Funktion aus Kompabilitätsgründen entfernen
+        if($type == 'pages'){
+            foreach((array) $synclist as $id => $dir){
+                unlock($id);
+            }
+            $this->client->query('dokuwiki.setLocks',array('lock'=>array(),'unlock'=>$lock));
+        }
+        */
+</code>
+
+Die Benutzung wird im Artikel [[wiki:hilfe:plugins:sync]] beschrieben.
+

@@ -1,0 +1,69 @@
+====== MIT WASSER REAGIERENDER METALLORGANISCHER FLÜSSIGER STOF - UN 3398 - Gefahrnr. X323 - ERICard-Nr. 3-37 Wählen Sie diesen Eintrag, wenn zwei Stoffe die gleiche UN-Nummer haben und sich in der Gefahrnummer unterscheiden und Ihnen diese nicht bekannt ist - UN3398 ======
+|Stoff | MIT WASSER REAGIERENDER METALLORGANISCHER FLÜSSIGER STOF   |
+|UN-Nummer | 3398   |
+|[[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Gefahrnummer]] | X323   |
+|ADR-Gefahrzettel |  {{cbrn:4-3.png?nolink&100}}    |
+|ADR-Klasse | 4.3   |
+|Klassifizierungscode | W1   |
+|[[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]] | I   |
+|ERI-Card | 3-37   |
+
+
+
+==== Unfall-Hilfeleistung ====
+===== Entzündbarer flüssiger Stoff mit Reaktionsgefahr =====
+==== 1. Eigenschaften. ====
+  * Gefährlich für Haut, Augen und Atemwege.
+  * Gefährliche Reaktion mit Wasser unter Bildung entzündbarer Gase.
+  * [[cbrn:allgemein:begriffsklaerungen#flammpunkt|Flammpunkt]] unter 60°C.
+==== 2. Gefahren. ====
+  * Die Hitzeeinwirkung auf Behälter führt zu Druckanstieg mit Berstgefahr und nachfolgender Explosion.
+  * Kann mit Luft explosionsfähige Gemische bilden.
+  * Entwickelt giftige und reizende Dämpfe bei starker Erwärmung oder Brand.
+  * Die Dämpfe können unsichtbar sein und sind schwerer als Luft. Sie breiten sich am Boden aus und können in Kanalisation und Kellerräume eindringen.
+==== 3. Persönlicher Schutz. ====
+  * Chemikalienbeständige Kleidung (z.B. Spritzschutz-, Säureschutzkleidung)
+  * Umluftunabhängiger Atemschutz
+  * Unter dem Schutzanzug gegebenenfalls Feuerschutzkleidung nach EN 469 tragen.
+==== 4. Einsatz-Massnahmen. ====
+=== 4.1 Allgemeine Massnahmen. ===
+  * Mit dem Wind vorgehen.
+  * Nicht rauchen, Zündquellen ausschließen.
+  * Ladung trocken halten. Kontakt mit Wasser vermeiden.
+  * Zahl der Einsatzkräfte im [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] beschränken.
+=== 4.2 Massnahmen bei Stoffaustritt. ===
+  * Lecks wenn möglich schließen.
+  * Ausgetretenes Produkt mit allen verfügbaren Mitteln auffangen.
+  * [[cbrn:geraete:ex-messgeraet|Auf explosionsfähige Atmosphäre überprüfen]].
+  * Keine funkenreißenden Werkzeuge verwenden. Explosionsgeschützte Ausrüstung einsetzen.
+  * Flüssigkeit mit trockenem Sand oder anderen geeigneten trockenen Materialien aufnehmen.
+  * Falls der Stoff in offenes Gewässer oder Kanalisation gelangt, zuständige Behörde informieren.
+  * Falls keine Gefahren für Einsatzkräfte oder die Öffentlichkeit entstehen, Kanalisation und Kellerräume belüften.
+=== 4.3 Massnahmen bei Feuer (falls Stoff betroffen). ===
+  * Mit [[brand:allgemein:pulver|Pulver]] löschen.
+  * Nicht mit Wasser oder [[brand:allgemein:schaum|Schaum]] löschen.
+  * Unbeschädigte Behälter aus der Wärmestrahlung entfernen.
+  * Brandgase wenn möglich mit Sprühstrahl niederschlagen.
+==== 5. Erste Hilfe. ====
+  * Falls der Stoff in die Augen gelangt ist, mindestens 15 Minuten mit Wasser spülen und Personen sofort medizinischer Behandlung zuführen.
+  * Kontaminierte Kleidung sofort entfernen und betroffene Haut mit viel Wasser spülen.
+  * Personen, die mit dem Stoff in Berührung gekommen sind oder Dämpfe eingeatmet haben, sofort medizinischer Behandlung zuführen. Dabei alle verfügbaren Stoffinformationen mitgeben.
+  * Bei Verbrennungen die betroffenen Hautbereiche sofort und so lange wie möglich mit kaltem Wasser kühlen. An der Haut haftende Kleidung nicht entfernen.
+==== 6. Besondere Vorsichtsmassnahmen bei der Bergung von Havariegut. ====
+  * Bergung des Produkts kann nicht mit Standardausrüstung durchgeführt werden! Sofort [[cbrn:allgemein:tuis|Fachberater hinzuziehen]].
+==== 7. Vorsichtsmassnahmen nach dem Hilfeleistung-Einsatz. ====
+=== 7.1 Ablegen der Schutzkleidung. ===
+  * Vor dem Ablegen von Maske und Schutzanzug kontaminierten Anzug und Atemschutzgerät mit Wasser abspülen.
+  * Beim Entkleiden von kontaminierten Einsatzkräften oder bei der Handhabung von kontaminiertem Gerät chemikalienbeständige Kleidung und umluftunabhängigen Atemschutz tragen.
+  * Kontaminierte Reinigungsflüssigkeit zurückhalten.
+=== 7.2 Reinigung der Ausrüstung. ===
+  * Vor Abtransport von der Einsatzstelle mit Wasser abspülen.
+===== Quelle und Copyright =====
+
+Bitte nehmen Sie die Verwendungshinweise zu den ERI-Cards auf der [[cbrn:ericards:start#allgemeine_hinweise|ERI-Card Übersichtsseite]] zur Kenntnis.
+
+Diese ERICard kann im Original unter folgendem Link aufgerufen werden: [[http://www.ericards.net/psp/ericards.psp_ericard?lang=3&subkey=33982173]]
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

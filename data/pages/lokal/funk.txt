@@ -1,0 +1,11 @@
+====== Funk ======
+
+Diese Seite dient der Demonstration in welcher Art und Weise der lokale Bereich in einer Einsatzleiterwiki-Installation der eigenen Feuerwehr genutzt werden könnte. Sie ist in der Online-Variante des Einsatzleiterwikis für die Bearbeitung gesperrt, um ein fälschliches Eintragen eigener Daten ins Internet zu verhindern.
+
+===== Funkkanäle =====
+
+Hier können Sie eine Übersicht über die von Ihnen und von benachbarten Feuerwehren sowie von anderen Organisationen (RD, Pol, THW, ...) verwendeten Funkkanälen anlegen.
+
+===== Funkrufnamen =====
+
+Hier können Sie eine Übersicht über die von Ihnen und von benachbarten Feuerwehren sowie von anderen Organisationen (RD, Pol, THW, ...) verwendeten Funkrufnamen anlegen. Falls Sie in diesem System ebenfalls die Beladung ihrer Fahrzeuge eingepflegt haben, verlinken Sie den Rufnamen des Fahrzeugs am besten mit der zugehörigen Seite.

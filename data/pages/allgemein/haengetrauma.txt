@@ -1,0 +1,65 @@
+====== Hängetrauma ======
+
+<WRAP center centeralign danger box>
+Das Hängetrauma ist ein medizinischer Notfall!
+</WRAP>
+
+Ursache: Bei längerem bewegungslosen Hängen im Seil wird der Blutrückfluss aus den Beinen behindert bzw. unterbunden. Das Blut sackt somit in die Beine ab und führt zum sogenannten orthostatischen Schock. Als Folge wird das Gehirn und Organe nicht mehr ausreichend mit Sauerstoff versorgt.
+
+===== zu treffende Maßnahmen =====
+
+  * Person möglichst schnell aus der freihängenden Position befreien
+  * RTW und NEF nachalarmieren sofern noch nicht geschehen
+
+==== Erste Hilfe ====
+
+<WRAP center centeralign danger box>
+Eine sofortige Flachlagerung kann zu akutem Herzversagen führen! Wenn überhaupt, dann nur allmählich in eine flache Position bringen. Dabei permanent Atmung und Kreislauf überwachen!
+</WRAP>
+
+=== wenn keine massiven Blutungen, bei Bewusstsein und Atmung vorhanden ===
+
+  * Patient mit erhöhtem Oberkörper lagern, wenn
+  * einengenden Gurte und Kleidungsstücke öffnen
+
+=== wenn bewusstlos, aber normale Atmung ===
+
+  * in stabile Seitenlage legen
+
+=== wenn bewusstlos und keine normale Atmung ===
+
+  * Reanimation (Wiederbelebung) durchführen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * nach den Vorschriften muss der Arbeitgeber Material vorhalten mit dem eine schnelle Rettung möglich ist. Ggf. kann dieses genutzt werden.
+
+==== Gegenmaßnahmen solange die Person noch bei Bewusstsein ist ====
+
+  * Beine bewegen, wenn möglich gegen Widerstand drücken (z.B. in eine am Gurt befestigte Fußschlinge treten)
+  * sind keine Hilfsmittel vorhanden: kräftig mit einem Fuß auf den jeweils anderen treten. Dies ist allerdings wesentlich weniger effektiv als das Treten in eine Schlinge.
+
+==== Symptome eines Hängetraumas ====
+
+Die Symptome treten mit zunehmender Dauer in der Reihenfolge von oben nach unten auf.
+
+  * Blässe
+  * Schwitzen
+  * Kurzatmigkeit
+  * zunächst Pulsanstieg
+  * Blutdruckanstieg
+  * Sehstörungen
+  * Schwindel
+  * Übelkeit
+  * Pulsabfall
+  * Blutdruckabfall
+
+Wann es zum Hängetrauma kommt ist von Person zu Person recht unterschiedlich. Es kann allerdings schon nach wenigen Minuten eintreten!
+
+===== Quellenangabe =====
+
+  * [[http://publikationen.dguv.de/dguv/pdf/10002/i-8699.pdf|BGI/GUV-I 8699: Erste Hilfe Notfallsituation: Hängetrauma]], Deutsche Gesetzliche Unfallversicherung e.V. (DGUV)
+
+===== Stichwörter =====
+
+Absturz, Absturzsicherung, Höhensicherung, Höhenrettung

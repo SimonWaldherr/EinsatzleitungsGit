@@ -1,0 +1,63 @@
+====== Wasserrettung ======
+
+===== zu treffende Maßnahmen =====
+
+  * Immer sofort Tauchergruppe nachalarmieren, sofern noch nicht bei Erstalarmierung geschehen!\\ Bei der Fahrzeugaufstellung so nah am Ufer wie möglich Platz für Taucher-Einsatzfahrzeug freihalten.
+  * Erstmaßnahme: Leinenbeutel über den Ertrinkenden hinweg werfen (bis ca. 15 m vom Ufer entfernt möglich). Davor Leinenende sichern.
+  * Schifffahrt einstellen lassen
+  * Alle Einsatzkräfte im und am Wasser haben Rettungswesten zu tragen!
+  * Rettung möglichst aus Boot heraus durchführen
+  * Muss eine Einsatzkraft zur Rettung ins Wasser:
+    * schwimmfähiges Hilfsmittel mitnehmen, das dem Ertrinkenden entgegengestreckt werden kann, z.B.: bereits aufgeblasene Rettungsweste, Festkörperweste, Ölbindemittel-gefüllter Schaummittelkanister oder Leckdichtkissen. Hebekissen sind ungeeignet (kein Rückschlagventil)
+    * Stiefel nur ausziehen, wenn der Boden am Ufer dafür geeignet ist
+    * Überlebensanzug/Kälteschutzanzug anlegen, soweit vorhanden
+  * Nach der Rettung [[erste_hilfe:badeunfall|Erste Hilfe nach Beinahe-Ertrinken]] durchführen
+
+==== Wenn die Person bereits untergegangen ist ====
+
+  * Keine Tauchversuche mit Atemschutzgeräten! Taucheinsätze nur durch Rettungstaucher!
+  * Stelle des Untergangs mit schwimmfähigem Gegenstand markieren bis die Rettungstaucher eintreffen
+  * Nachts: Lichtmast möglichst nah ans Wasser und möglichst hoch ausfahren!
+  * Ist kein ebener Zugang ins Wasser möglich: Zwei Steckleitern nebeneinander als Einstiegshilfe für Taucher vorbereiten
+
+==== in fließenden Gewässern ====
+
+  * Der Ertrinkende wird abgetrieben, solange er noch nicht bis auf den Grund abgesunken ist. Hat er den Grund erreicht, wird er kaum noch weiter abgetrieben.\\ -> Abschätzung, wie weit der Ertrinkende schon abgetrieben worden sein kann.
+  * Taucheinsatz an der Stelle beginnen, an der der Ertrinkende untergegangen ist. Wenn nicht bekannt, dann ab der Einstiegsstelle. Danach stromabwärts weitersuchen. Bleibt die Suche erfolglos, dann auch ein Stück flussaufwärts der Untergangsstelle die Suche fortsetzen.
+  * Gleichzeitig Fluss stromabwärts absuchen, bis wohin die Person vermutlich abgetrieben wurde. Auch ggf. die Ufer kontrollieren, vielleicht konnte sich die Person doch ans Ufer retten.
+  * Treibt die Person noch an der Oberfläche, lässt sich diese am Besten von oben erkennen.\\ -> Evtl. (Polizei-)Hubschrauber
+
+bei starken Strömungen (z.B. bei Hochwasser nach Unwetter):
+
+  * Bei Strömungsgeschwindigkeit von mehr als 3 m/s (entspricht etwa der Geschwindigkeit beim Joggen): Rettung im Wasser nur durch speziell ausgebildete Strömungsretter! Lebensgefahr!
+  * 1. Alternative: Leine schräg über den Fluss spannen, an der sich der zu Rettende entlang zum Ufer hangeln kann (nur bei vergleichsweise schmalen Gewässern möglich)
+  * 2. Alternative: Dem zu Rettenden Leine zuwerfen, allerdings nicht flussabwärts "hinterher werfen", sondern flussaufwärts gegen die Strömung werfen
+  * Retter anleinen, um sie gegen das Stürzen ins Wasser zu sichern
+
+==== besondere Gefahren ====
+
+  * Umklammerung der Einsatzkraft durch den zu Rettenden
+  * Sowohl vor als auch hinter Wehranlagen besteht Lebensgefahr! Arbeiten in diesen Bereichen nur durch erfahrene Facheute der Wasserrettung! Dies gilt auch für kleine Wehranlagen!
+  * Schiffsverkehr
+  * Gefahr der Unterkühlung
+
+bei starken Strömungen:
+
+  * Gefahr durch mitgerissenes Treibgut
+  * Strudel und Wasserwalzen können bei starken Strömungen sogar Einsatzkräfte mit aufgeblasener Rettungsweste nach unten ziehen!
+  * Einsatzkräfte mit Wathosen nicht anleinen, da sich diese nach einem Sturz nicht mehr selbst retten können und schnell unter Wasser gedrückt werden
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Eine Ortung untergegangener Personen mittels Wärmebildkamera funktioniert nicht, da die Wasseroberfläche reflektiert.
+  * Bei erfolglosem Rettungsversuch ggf. [[allgemein:psnv:start|Psychologische Betreuung]] Angehöriger und Einsatzkräfte
+  * auf [[allgemein:pressearbeit|Presseanfragen]] vorbereiten
+
+===== Quellenangabe =====
+
+  * [[https://www.lfs-bw.de/Fachthemen/Einsatztaktik-fuehrung/Sonstiges/Documents/Wasserrettung.pdf|Einsatztaktik für die Feuerwehr: Hinweise zur Wasserrettung]], Christoph Slaby, Landesfeuerwehrschule Baden-Württemberg, Juni 2011
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+
+===== Stichwörter =====
+
+Ertrinkende Person, Gewässerunfall, Person im Wasser, Wasserunfall

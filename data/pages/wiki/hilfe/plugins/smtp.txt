@@ -1,0 +1,15 @@
+====== separaten Mailserver benutzen (SMTP-Plugin) ======
+
+Wenn auf dem Server auf dem das Einsatzleiterwiki läuft kein eigener Mailserver eingerichtet ist, können keine Emails versendet werden, beispielsweise wenn sich ein neuer Benutzer im Wiki registriert oder eine Seite geändert wird. Die Einrichtung eines solchen Mailservers ist relativ kompliziert, insbesondere unter Windows.
+
+Sollten Sie bei einem kommerziellen Anbieter ein Webhosting-Paket gebucht haben, so ist in der Regel ein Mailserver vorhanden.
+
+Sofern kein eigener Mailserver verwendet werden kann, ist alternativ auch die Nutzung eines bestehenden Mail-Kontos auf einem anderen Server möglich, indem ein entsprechendes Plugin verwendet wird. Sie geben dann Ihre Zugangsdaten für das Mailkonto an, ähnlich wie bei Ihrem Mailprogramm wie z.B. Microsoft Outlook oder Mozilla Thunderbird, und alle Emails die das Wiki-System erzeugt werden über dieses Konto versandt.
+
+Die Einstellungen werden im Administrations-Bereich unter dem Punkt "Konfiguration" vorgenommen. Wenn die Daten des Mailkontos eingetragen sind können diese auf der Hauptseite des Adminstrations-Bereichs überprüft werden, indem eine Test-Mail versandt wird (rot markiert):
+
+{{:wiki:hilfe:plugins:smtp_ueberpruefen.png?direct&600|SMTP-Einstellungen testen}}
+
+Installieren Sie dafür das Plugin SMTP. Eine Anleitung, wie Sie ein Plugin installieren, finden Sie auf [[wiki:hilfe:plugins:plugin_installation|dieser Seite]].
+
+Das SMTP-Plugin finden Sie auf folgender Seite des DokuWiki-Projekts, auf dem das Einsatzleiterwiki basiert: https://www.dokuwiki.org/plugin:smtp

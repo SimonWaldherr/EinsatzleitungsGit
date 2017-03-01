@@ -1,0 +1,77 @@
+====== Personensuche ======
+
+<WRAP center round important 100%>
+Die Zuständigkeit für die Suche nach Personen und damit die Einsatzleitung liegt grundsätzlich bei der Polizei, die Feuerwehr wird i.d.R. nur unterstützend tätig! Sollte die Polizei noch nicht alarmiert sein, so ist diese durch die Feuerwehr umgehend nachzualarmieren und die Einsatzleitung zu übergeben.\\
+**Der Einsatzleiter der Feuerwehr sollte immer darauf bestehen, dass ein Polizeibeamter vor Ort ist der die Verantwortung für die Maßnahmen trägt!**
+
+Eine Suchaktion ist nur sinnvoll, wenn sich die Person wahrscheinlich nur zu Fuß bewegt. Wenn sie sich mit einem Fahrzeug bewegt, sollte eine Fahndung durch die Polizei erfolgen.
+</WRAP>
+
+===== zu treffende Maßnahmen =====
+
+  * Angehörige/Meldenden zum Vermissten befragen ([[allgemeine_hilfe:personensuche#fragen_zum_vermissten_die_den_angehoerigen_dem_meldenden_gestellt_werden_sollten|siehe unten]])
+  * vermutl. wird sich eine große Einsatzleitung/ein [[allgemein:stabsarbeit:start|Führungsstab]] bilden - mind. ELW 2 bereitstellen oder Einsatzleitung in geeignetem Feuerwehrhaus einrichten
+  * [[allgemein:einsatzabschnitte|Einsatzabschnitte bilden]], Suchbereiche für die einzelnen Unterabschnitte mittels [[allgemein:karten|Karten]] einteilen (Raster über die Karte legen, abgesuchte Gebiete markieren), Funkkanaltrennung
+  * Entscheidung über Suchtaktik treffen:
+    * Suche mit Hunden (zuerst Mantrailer wenn möglich, dann Flächensuchhund)?
+    * Menschenkette, Suchtrupps?
+    * Hubschrauber? (Hubschrauber sind nur außerhalb von Siedlungsgebieten sinnvoll einsetzbar)
+    * ...
+  * Von welchem Punkt aus soll die Suche beginnen?
+    * grundsätzlich an dem Ort anfangen, an dem die Person das letzte Mal gesehen wurde
+    * Wohngebäude des Gesuchten komplett von Keller bis zum Dach absuchen, abgesuchte Bereiche mit Posten besetzen um eine unbemerkte Rückkehr zu verhindern\\ Alle Gebäudezugänge besetzen. Vor allem auch auf Aufzüge Augenmerk legen!
+  * [[allgemein:bereitstellungsraum|Bereitstellungsraum]] einrichten, geländegängiges Fahrzeug zurückhalten welches sofort eingreifen kann wenn die Person gefunden wird und gerettet werden muss
+  * [[allgemein:psnv:start|Psychologische Betreuung]] Angehöriger, bei belastenden Einsätzen (Suche nach Kind oder von den Einsatzkräften bekannten Personen) auch für die Einsatzkräfte
+  * Abfrage Krankenhäuser/Arztpraxen ob Person eingeliefert wurde, Nachfrage bei benachbarten Polizeirevieren, Verkehrsbetrieben (Busfahrern) ob Person gesehen wurde\\ Alte und demente Menschen gehen oft zu früheren Wohnorten oder Plätzen an denen sie sich früher oft aufgehalten haben
+  * Nachfragen der [[allgemein:pressearbeit|Presse]] an die Polizei verweisen
+  * [[allgemein:verpflegung|Verpflegung]]/Ablösung der Einsatzkräfte rechtzeitig regeln
+  * ggf. Nachalarmierungen: Suchhunde, [[allgemeine_hilfe:wasserrettung|Wasserrettung]], Hubschrauber mit [[allgemein:geraete:waermebildkamera|Wärmebildkamera]], Geländefahrzeuge (z.B. Geländemotorrad/Quad), [[allgemein:thw|THW]] für "Manpower" und Ausleuchtung größerer Flächen, Ortskundige (z.B. Förster für den Wald, Objektkundige z.B. bei Höhlen), Höhenrettung
+  * Kostenfrage vor Anforderung von Spezialeinheiten klären; im Zweifel durch Einsatzleiter der Polizei ("wer bestellt, der bezahlt")
+  * Bei einem konkretem Hinweis auf ein Kapitalverbrechen (z.B. Fund einer Blutspur) Weitersuche nur durch die Polizei ([[allgemein:verhalten_an_einsatzstellen#tatorte_von_kapitalverbrechen|potentieller Tatort]]!)
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+Alle Mitglieder eines Suchtrupps sollten von der gleichen Organisation kommen. Ist der Gesuchte vermutl. bewaffnet oder sonst aggressiv (auch psychisch krank), so sollte der Suchtrupp zur Eigensicherung durch einen Polizisten begleitet werden.
+
+Die Mitnahme privater Handys zur Erreichbarkeit schadet nicht, dann sollte dem Trupp die Telefonnummer der Einsatzleitung und dieser umgekehrt auch die Nummer des Suchtrupps bekannt sein.
+
+Ist für die Suche kein Sicherheits-Schuhwerk erforderlich, so bietet sich die Nutzung von privatem Schuhwerk an (Wander-/Turnschuhe) in dem angenehmer gelaufen werden kann.
+
+Vorab mit den Hundeführern besprechen, welche Einsatzoptionen bestehen. Je nach Ausbildung des Hundes (Flächensuchhund oder "Mantrailer") müssen diese unterschiedlich eingesetzt werden. Ebenso können die Hundeführer weitere Hinweise zur Suchtaktik geben.
+
+Orte, an denen sich der Gesuchte gerne/oft aufhält, sollten mehrfach (durch verschiedene Suchtrupps) abgesucht werden.
+
+Nach Möglichkeit Fotos des Vermissten an die Suchtrupps herausgeben.
+
+Je nach Gelände muss die Suche bei eintretender Dunkelheit ggf. unterbrochen werden. Evtl. ist der Einsatz einer [[allgemein:geraete:waermebildkamera|Wärmebildkamera]] hilfreich soweit vorhanden.
+
+Befinden sich im Suchgebiet größere Gewässer und ist die Wasserrettung nicht ohnehin schon in die Rettung eingebunden, so sollte sie im Suchgebiet verkehrsgünstig in Bereitschaft stehen um sofort eingreifen zu können.
+
+Sicherstellen, dass alle mit gleichem Kartenmaterial arbeiten und alle Suchtrupps damit ausstatten. Evtl. ist der Maßstab der üblichen [[allgemein:karten|Karten]] zu klein (d.h. Wege und Objekte sind nicht detailliert genug). Karten mit großem Maßstab können bei Bedarf auf den Internetseiten der Landesvermessungsämter sowie z.B. bei [[http://www.openstreetmap.org|OpenStreetMap]] oder [[http://maps.google.com|Google Maps]] aufgerufen und gedruckt werden. Die Einsatzleitung sollte GPS-Koordinaten und das bei der Feuerwehr genutzte UTM-System ineinander umrechnen können (siehe [[allgemein:karten|Karten]])
+
+Frühzeitig Ersatzakkus für Funkgeräte und andere akku-betriebene Geräte besorgen.
+
+==== Fragen zum Vermissten, die den Angehörigen/dem Meldenden gestellt werden sollten ====
+
+  * Name, Vorname, Spitzname, Alter (Geburtsdatum)
+  * Geschlecht, Körpergröße, Körperbau (dünn, normal, kräftig)
+  * Frisur, Haarfarbe und -länge, Bart
+  * Getragene Kleidung: Farbe/markante Merkmale von Hose/Rock, Oberteil, Jacke, Schuhen, Brille
+  * Seit wann wird der Gesuchte vermisst?
+  * Wo war sein letzter Aufenthaltsort? An welchen Orten/bei wem hält sich der Gesuchte gerne/oft auf?
+  * Ist der Gesuchte gut zu Fuß ( -> wie weit kann er seit dem Verschwinden gelaufen sein?)
+  * Kann der Gesuchte gut schwimmen?
+  * Ist der Gesuchte suizidgefährdet bzw. leidet unter psychologischen Problemen oder anderen Erkrankungen die ihn besonders gefährden?\\ Nimmt er Drogen oder ist er evtl. alkoholisiert?
+  * Heimatadresse der vermissten Person
+  * Handynummer der vermissten Person ( -> Handyortung?)
+  * möglichst Foto aushändigen oder schicken lassen (elektronisch, z.B. Email)
+  * Telefonnummer des Angehörigen/Meldenden notieren\\ Den Meldenden/Angehörigen darauf hinweisen dass er erreichbar bleiben muss und sofort eine Meldung an die Einsatzleitung zu geben hat falls der Vermisste wieder auftaucht
+
+===== Quellenangabe =====
+
+  * [[http://www.feuerwehr-muehldorf.de/files/zusammenarbeit_bei_vermisstensuche.pdf|Standard-Einsatz-Regeln (SER) für die Zusammenarbeit der unterschiedlichen Rettungsorganisationen bei der Suche nach vermissten Personen]], Feuerwehr Kreisstadt Mühldorf a. Inn
+  * [[http://www.kfv-online.de/einheiten/ug-oel/dokumente/28_Vermisstensuche.doc|Vermisstensuche]], Unterstützungsgruppe Örtliche Einsatzleitung –  Lkr. Nürnberger Land
+
+===== Stichwörter =====
+
+Person vermisst, vermisste Person, Person abgängig, abgängige Person, Vermisstensuche

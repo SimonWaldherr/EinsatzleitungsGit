@@ -1,0 +1,36 @@
+====== Magnesium ======
+
+Siehe auch [[cbrn:ericards:klasse_4-1:18691049|ERICard Magnesium]]
+
+===== zu treffende Maßnahmen =====
+
+==== Fahrzeugbrand ====
+
+Siehe auch [[brand:fahrzeugbrand]] und [[brand:metallbrand]]
+
+  * mit C-Rohr erst Umgebung kühlen, danach auf Fahrzeug richten
+  * zweites Rohr zur Sicherheit für Umgebungsbrände bereithalten
+  * umluftunabhängiges Atemschutzgerät tragen
+  * nicht direkt in die Flamme schauen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Löscheinsatz ====
+
+  * grelle Flammen und sprühendes Magnesium sind keine besondere Gefahr bei der Nutzung von mehrlagiger Brandschutzkleidung bis zu einem Abstand von ca. 1,5m
+
+==== Nutzung von Magnesium ====
+
+  * Magnesium ist vermehrt im modernen Fahrzeugbau zu finden, z.B. in Motorblöcken, Zylinderkopf-Deckeln, Ansaugkrümmern, Getriebe- bzw. Kupplungsgehäusen, Armaturenträgern, Sitzlehnenrahmen sowie Tür- und Klappenstrukturen
+
+===== Weblinks =====
+
+  * [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/007120.xml?f=templates&fn=default.htm|Eintrag zu Magnesium in der GESTIS-Gefahrstoffdatenbank]]
+
+===== Quellenangabe =====
+
+{{cbrn:chemisch:klasse_4-1:stoffe:dfv-fachempfehlung_brand-_und_explosionsgefahr_durch_magnesium.pdf|Fachempfehlung "Brand- und Explosionsgefahr durch Magnesium"}} des Deutschen Feuerwehrverbands
+
+===== Stichwörter =====
+
+UN 1869, UN1869

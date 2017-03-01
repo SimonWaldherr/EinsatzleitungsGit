@@ -1,0 +1,129 @@
+====== ERICards ======
+
+Auf dieser Seite finden Sie alle ERICards zu den 2282 Gefahrstoffen, zu denen diese erstellt wurden. Aufgrund der großen Anzahl sind die einzelnen Karten nach den ADR-Klassen sortiert. Klicken Sie auf eine ADR-Klasse, um alle ERICards anzuzeigen welche dieser zugeordnet sind.
+
+<WRAP round tip 80% centeralign>Geben Sie //un// gefolgt von der UN-Nummer eines Gefahrguts in das **Suchfeld oben rechts** ein, um die zum Stoff gehörende **ERICard** aufzurufen, z.B. //un1203// für Benzin.
+
+Alternativ können Sie auch nach dem Stoffnamen suchen. Achten Sie bei der Eingabe von Stoffnamen aber darauf, dass Sie diese fehlerfrei eingeben, da Sie sonst kein Ergebnis erhalten!</WRAP>
+
+[[cbrn:ericards:klasse_1:start]]\\
+[[cbrn:ericards:klasse_2:start]]\\
+[[cbrn:ericards:klasse_3:start]]\\
+[[cbrn:ericards:klasse_4-1:start]]\\
+[[cbrn:ericards:klasse_4-2:start]]\\
+[[cbrn:ericards:klasse_4-3:start]]\\
+[[cbrn:ericards:klasse_5-1:start]]\\
+[[cbrn:ericards:klasse_5-2:start]]\\
+[[cbrn:ericards:klasse_6-1:start]]\\
+[[cbrn:ericards:klasse_6-2:start]]\\
+[[cbrn:ericards:klasse_7:start]]\\
+[[cbrn:ericards:klasse_8:start]]\\
+[[cbrn:ericards:klasse_9:start]]
+
+===== Haftungsausschluss für ERICards =====
+
+Cefic hat die ERICards nach bestem Wissen entwickelt. Es wurde alles unternommen, um die Zuverlässigkeit und Vollständigkeit der bereitgestellten Informationen zu gewährleisten. ERICards enthalten Anweisungen, die von den Feuerwehren bei Unfällen mit Chemietransporten benutzt werden sollen. Voraussetzung für die Benutzung der Information in den ERICards ist immer eine sachgerechte Beurteilung der Lage und die Verfügbarkeit entsprechender Sonderausrüstung. Die in den ERICards angebotenen Informationen können nicht in jedem Fall vollständig oder auf den Einzelstoff bezogen sein. Cefic lehnt demzufolge jede Haftung bei falscher Interpretation oder falscher Anwendung der Informationen durch Feuerwehren oder Dritte ab. 
+
+===== Allgemeine Hinweise =====
+
+==== Eigenschaften / Gefahren ====
+
+//Umgebungstemperatur//: Temperatur der Umgebung in der sich ein Gefahrgutunfall ereignet, normalerweise 20 °C.
+
+//BLEVE//: Eine Boiling Liquid Expanding Vapour Explosion (Gasexplosion einer expandierenden siedenden Flüssigkeit) ist möglich, wenn ein Feuer einen Behälter von aussen oberhalb des Flüssigkeitsspiegels aufheizt, eine Schwächung des Metalls verursacht und es anschliessend durch ansteigenden inneren Druck zu einem plötzlichen Aufreissen kommt.
+
+[[cbrn:chemisch:klasse_2:fluessiggasberechnungen#bleve_boiling_liquid_expanding_vapour_explosion|Berechnung der Auswirkungen eines BLEVE]]
+
+//Reaktiv//: Hierunter wird die Eigenschaft eines Stoffes verstanden, schnell - entweder selbsttätig oder von aussen verursacht - zu reagieren. Eine chemische Veränderung mit Freisetzung von Energie oder Polymerisation ist die Folge. Die Reaktion kann durch Hitze, Wasser, Sauerstoff (Luft), mechanischen Druck o. ä. ausgelöst werden.
+
+//VCE//: Eine Vapour Cloud Explosion (Dampfwolkenexplosion) liegt vor, wenn eine Wolke aus brennbarem Gas/Aerosol, die mit Luft in offener Atmosphäre, z. B. im Freien, vermischt ist, entzündet wird.
+
+[[cbrn:chemisch:klasse_2:fluessiggasberechnungen#explosion_von_freigesetzten_gasmengen_vapour_cloud_explosion|Berechnung der Auswirkungen einer VCE]]
+
+==== Schutzausrüstung ====
+
+Achtung: Kein Chemikalienschutzanzug kann gegen alle Gefahrstoffe über eine längere Zeit schützen.
+
+Die in den einzelnen ERI-Cards empfohlene Schutzausrüstung wird abhängig von den spezifischen Gefahren der Stoffe in fünf verschiedene Kategorien unterteilt:
+
+  * Umluftunabhängiger Atemschutz (PA) mit chemikalienbeständigen Handschuhen, ggf. Gummistiefel
+  * PA mit chemikalienbeständiger Kleidung als Spritzschutz bei möglichem Stoffkontakt
+  * PA mit chemikalienbeständiger Kleidung - grundsätzlich
+  * PA mit Chemikalienschutzanzug (CSA) - pr EN 943-2 bei möglichem Stoff- oder Dampfkontakt
+  * PA und CSA grundsätzlich
+
+Der gasdichte CSA stellt die höchste Stufe der Chemikalienschutzkleidung dar. Solche Anzüge können aus beschichteten Geweben, Polymerfolien oder anderen Materialien hergestellt sein und werden zusammen mit umluftunabhängigem Atemschutz (PA) eingesetzt. Es wird Schutz gegen sehr viele, aber nicht alle Chemikalien geboten. Im Zweifel sollten weitere Fachinformationen, z. B. über TUIS, eingeholt werden.
+
+Bei Einsätzen mit tiefkalten und anderen verflüssigten Gasen, bei denen ein direkter Kontakt Erfrierungen auslösen kann, müssen wärmeisolierende Unterwäsche und entsprechend dickere Handschuhe aus Leder oder Textil getragen werden. Für Einsätze, bei denen starke Wärmestrahlung auftreten kann, wird Hitzeschutzkleidung empfohlen.
+
+Einsatzkleidung der Feuerwehr, die DIN EN 469 entspricht, bietet auch einen gewissen Grundschutz bei Gefahrstoffeinsätzen. Dies schliesst Helm, Schutzstiefel und Handschuhe mit ein. Andere Kleidung, die nicht mit DIN EN 469 übereinstimmt, ist für Gefahrguteinsätze nicht geeignet.
+
+Gasdichte Schutzkleidung aus PVC ist für die meisten transportierten Gefahrstoffe nicht geeignet.
+
+==== Einsatzmassnahmen bei Stoffaustritt ====
+
+Um eine weitere Eskalation der Lage bei einem Gefahrgutaustritt zu verhindern, wird erwartet, dass eine weitere Ausbreitung des Gefahrstoffes so schnell wie möglich unterbunden wird, soweit dies bei vertretbarem Risiko möglich ist. Abhängig von der Art des Stoffes und der Menge können zusätzliche Massnahmen notwendig werden. Das kann entweder das Auffangen oder Umpumpen des Stoffes oder das Verdünnen mit Wasser sein. Spezifische Empfehlungen werden in den einzelnen ERI-Cards gegeben.
+
+Um die kontaminierte Fläche so klein wie möglich zu halten, ist es wichtig, die weitere Ausbreitung von auslaufendem Gefahrstoff nach Möglichkeit schnell einzugrenzen. Dabei muss beachtet werden, dass Auffangen nicht dasselbe wie Aufnehmen bedeutet. Die Hilfskräfte sollten sich auch der physikalischen Gefahren einer kontaminierten Fläche bewusst sein, z. B. können Oberflächen rutschig werden, pulverförmige Stoffe Staubwolken bilden. Auf Flächen mit ausgetretenem Gefahrstoff muss man sich daher vorsichtig bewegen.
+
+Einige wenige Gefahrstoffe sollten aufgrund ihrer spezifischen Gefahren sofort mit viel Wasser weggespült werden, um möglichst schnell eine Verdünnung zu erreichen. Besondere Aufmerksamkeit ist dann auf den Schutz der Umwelt zu legen, um die Schäden zu begrenzen.
+
+Bei allen Gefahrstoffen mit einem Flammpunkt unter 60 °C ist es wichtig, dass die mögliche Bildung explosionsfähiger Atmosphäre ständig kontrolliert wird. Um Zündungen auszuschliessen, ist von den Hilfskräften explosionsgeschützte Ausrüstung zu verwenden. Ein Verbot von Rauchen und offenem Feuer an derartigen Einsatzstellen ist selbstverständlich.
+
+Als Vorsichtsmassnahme gegen Vergiftungen beim Einsatzpersonal wird erwartet, dass alle beteiligten Personen, besonders bei Einsätzen mit giftigen Stoffen, weder essen noch trinken bzw. die notwendige Aufnahme von Flüssigkeit nach einem Einsatz im Chemikalienschutzanzug erst nach ausreichender Dekontamination durchführen.
+
+Nach dem Auffangen einer ausgetretenen Flüssigkeit kann es notwendig sein, die Restmenge mit Bindemittel aufzunehmen, besonders wenn ein Absaugen nicht möglich ist. Entsprechend der Art der jeweiligen Stoffe sind in den einzelnen ERI-Cards verschiedene Methoden zur Aufnahme der Restmengen aufgeführt.
+
+Falls Stoffe sich auch über die unmittelbare Austrittsstelle hinaus gefährlich auswirken können, werden Hinweise zur Verringerung dieser Gefahr gegeben. Zum Beispiel: "Gase mit Sprühstrahl niederschlagen. Direkten Kontakt zwischen Wasser und flüssigem Gefahrstoff unbedingt vermeiden."
+
+==== Einsatzmassnahmen bei Feuer ====
+
+//Löschmittel - Vermeiden von unnötigen Umweltschäden//
+
+Die meisten Löschmittel können das Wasser verunreinigen und andere Umweltschäden verursachen. Wasser als Mittel zum "Wegspülen" von ausgetretenem Stoff oder als Medium zum Niederschlagen/Absorbieren von Gas- oder Aerosolwolken kann bei Gefahrguteinsätzen Umweltschäden an Gewässern verursachen. Das Löschmittel Pulver, einige gasförmige Löschmittel und Schäume oder andere Wasserzusatzstoffe sind ebenfalls umweltschädlich.
+
+Daher ist es notwendig, alle Löschmittel grundsätzlich massvoll einzusetzen.
+
+//Brandbekämpfung//
+
+Die beschriebenen Methoden der Brandbekämpfung und die aufgeführten Löschmittel sind auf die einzelnen chemischen Substanzen abgestimmt, soweit diese vom Feuer betroffen sind - unabhängig davon, ob die Substanzen entzündlich sind oder nicht. Brände, die nicht die Ladung, sondern angrenzende Gebäude, Fahrzeuge oder Grundstücke betreffen, sollten mit den üblichen Standardverfahren bekämpft werden.
+
+//Entfernung von Behältern aus der Strahlungswärme des Brandes//
+
+Falls es ohne Risiko für die Hilfskräfte durchführbar ist, sollen Behälter aus dem Bereich der Strahlungswärme entfernt werden. Darauf wird in den einzelnen ERI-Cards nicht mehr hingewiesen. Eine Ausnahme stellen die ERI-Cards dar, die sich auf Substanzen beziehen, die mit Wasser heftig reagieren können. In diesen Fällen wird auch kein Hinweis zum Kühlen der Behälter erscheinen. Analog sind in den ERI-Cards, die sehr reaktionsfreudige Stoffe oder Stoffe in Druckbehältern betreffen, keine Empfehlungen zum Entfernen der Behälter enthalten. In diesen Fällen soll aus geschützter Stellung gearbeitet werden. Der Einsatz mobiler Wasserwerfer ist angezeigt.
+
+==== Erste Hilfe ====
+
+Die ERI-Cards sind für den Gebrauch durch entsprechend ausgebildete Einsatzkräfte entwickelt. Im Fall der Ersten Hilfe wird daher angenommen, dass die Einsatzkräfte in der Lage sind, lebensrettende Sofortmaßnahmen, wie z. B. künstliche Beatmung und Herz-Lungen-Wiederbelebung, durchzuführen.
+
+Grundlegende Maßnahmen wie z. B. das Entfernen von enganliegender Kleidung entsprechend der Situation wird als bekannt vorausgesetzt.
+
+Informationen zur Ersten Hilfe in den ERI-Cards werden nur für erste lebensrettende Maßnahmen gegeben. ERI-Cards sind nicht als Anleitung zur notfallmedizinischen Behandlung von verletzten Personen gedacht.
+
+Falls eine ungeschützte Person kontaminiert wurde, ist es wichtig, dass diese in Abhängigkeit vom vorliegenden Gefahrstoff in geeigneter Weise behandelt wird. Derartige Maßnahmen werden auf den ERI-Cards je nach Notwendigkeit aufgeführt.
+
+==== Besondere Maßnahmen bei der Bergung von Havariegut ====
+
+In einigen europäischen Ländern sind die Feuerwehren auch für die Bergung von Havariegut verantwortlich. In vielen anderen Staaten wird die Stoffbergung durch besondere Bergungsfirmen durchgeführt. Daher werden in diesem Abschnitt für Feuerwehren mit besonderer Ausrüstung und Ausbildung entsprechende Hinweise gegeben. Diese Hinweise können aber auch die Feuerwehren verwerten, die wahrscheinlich nicht direkt in ein derartiges Einsatzgeschehen einbezogen werden, aber zumindest über Grundkenntnisse verfügen müssen.
+
+Die Informationen beziehen sich auf die Auswahl von geeigneten Umfüllpumpen, die Notwendigkeit einer Erdung der Geräte und die Bergung von ausgetretenem Gefahrstoff. Von besonderer Wichtigkeit ist die Notwendigkeit zur Auswahl einer sicheren Umfüllpumpe für entzündliche Flüssigkeiten und Gase. Zum Beispiel EEX de Il A T3 - CENELEC-Einteilung (EN 50014) Hierbei bedeuten:
+
+  * EEX = Explosionsgeschützte Einheit
+  * de = Art des Zündschutzes (d = druckfestes Gehäuse; e = erhöhte Sicherheit)
+  * II A = Explosionsgruppe
+  * T3 = [[cbrn:chemisch:temperaturklasse|Temperaturklasse]] (z. B. T3 = keine Oberfläche des Elektrogerätes überschreitet eine Temperatur von 200 °C und der Flammpunkt der brennbaren Flüssigkeit liegt über 200 °C)
+
+==== Vorsichtsmassnahmen nach dem Eingreifen ====
+
+Einsatzkräfte sollten nach einem Stoffkontakt so schnell wie möglich grob dekontaminiert werden; verunreinigte Schutzkleidung entsprechend der empfohlenen Verfahren nach dem Einsatz abgelegt werden. Vor einer endgültigen Dekontamination und Wiederverwendung ist die Schutzkleidung sicher zu lagern. Falls eine Dekontamination vor Ort nicht möglich ist, sollte eine Fachberatung erfolgen, bevor ein Transport von der Einsatzstelle eingeleitet wird.
+
+Es wird erwartet, dass die Einsatzkräfte nach Beendigung des Einsatzes die üblichen Hygienemasnahmen (z. B. Duschen und Wechseln der Kleidung), beachten.
+
+===== Quelle und Copyright =====
+Die ERICards wurden aus der Datenbank unter http://www.ericards.net entnommen.
+
+Die Benutzungshinweise können auf der [[http://www.ericards.net/psp/ericards.psp_guidance?p_lang=3|entsprechenden Seite]] nachgelesen werden.
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

@@ -1,0 +1,83 @@
+====== Schiffsunfall ======
+
+Auf dieser Seite werden Schiffsunfälle allgemein behandelt. Detailliertere Informationen sind auf folgenden Seiten zu finden:
+
+  * [[brand:schiffsbrand]]
+  * [[allgemeine_hilfe:schiff_leckgeschlagen]]
+  * [[cbrn:chemisch:klasse_3:oel_auf_gewaesser|Öl auf Gewässer]]
+
+===== zu treffende Maßnahmen =====
+
+  * Absicherung Einsatzstelle durch Wasserschutzpolizei, Schifffahrt ggf. einstellen lassen
+  * [[cbrn:allgemein:gefahrenbereich|Gefahren- und Absperrbereich]] festlegen, Fahrzeugaufstellung (richtige Uferseite anfahren!), [[allgemein:einsatzabschnitte|Einsatzabschnitte bilden]], Funkkanaltrennung, [[allgemein:bereitstellungsraum|Bereitstellungsraum]] einrichten
+  * Gesamteinsatzleitung liegt bei Feuerwehr (bzw. bei der nichtpolizeilichen Gefahrenabwehr)
+  * Schwimmwesten anlegen, auch beim Tragen von PA
+  * Mit Schiffsführer Kontakt aufnehmen
+  * Vorgehen in schlecht gelüftete Bereich nur unter Atemschutz (mögliche Gasansammlungen)
+  * schwere Geräte mit Leinen sichern
+  * ggf. Rettungsboot in Bereitschaft halten welches über Bord gegangene Personen direkt retten kann
+  * bei ausgetretenen brennbaren Flüssigkeiten bzw. [[cbrn:allgemein:kennzeichnung:schiffe|Schiffen mit Gefahrgutkennzeichnung]] nur explosionsgeschützte Geräte verwenden\\ nicht mit Mehrzweck- bzw. Rettungsbooten durch brennbare Flüssigkeiten auf dem Wasser fahren
+  * auf [[allgemein:pressearbeit|Presseanfragen]] vorbereiten
+  * Einsatzdokumentation
+  * Verpflegung/Ablösung der Einsatzkräfte
+  * ggf. Information weiterer Stellen: übergeordnete Führungskräfte, Wasserbehörde, Aufsichtsbehörde/Innenministerium, ...
+
+==== besondere Gefahren ====
+
+  * gewerblich genutzte Schiffe werden mit [[cbrn:chemisch:klasse_2:stoffe:fluessiggas|Flüssiggas]] versorgt (außer Gefahrgutschiffe), bei vorschriftsmäßig ausgerüsteten Schiffen sind die Druckbehälter in einem von außen zugänglichen Schrank gelagert
+  * in schlecht gelüfteten Bereichen und generell bei schon lange liegenden Schiffen [[cbrn:chemisch:klasse_2:stoffe:erdgas|Methangas]]ansammlungen möglich
+  * Rutschgefahr durch Betriebsstoffe an Deck
+  * Absturz in offenstehende oder fehlende Luken/Abdeckungen
+  * evtl. Abtreiben des Schiffs möglich
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Überstiegsleiter oder behelfsmäßig Steckleiter mitführen um vom Feuerwehrboot auf Schiff gelangen zu können
+  * Überwiegt die Gefahr ins Wasser zu fallen deutlich gegenüber anderen Gefahrenquellen, so sollte auf Feuerwehrhelm und Überjacken/Überhosen verzichtet werden. Der Haltegurt sollte nur getragen werden wenn notwendig - Gefahr des Hängenbleibens in engen Räumen.
+
+==== Fahrgastschiffe ====
+
+  * Aushang eines "Sicherheitsplans" vorgeschrieben, der für den Feuerwehreinsatz wichtige Informationen bereitstellt
+  * Angstreaktionen bei Passagierschiffen (voreilig in Wasser springende Personen etc.)
+  * bis zu 1000 Personen an Bord, enge Gänge erschweren [[allgemein:raeumung|Räumung]]
+  * bei größerer Anzahl von Verletzten (-> [[allgemein:manv|MANV]]) ist das Anlegen bei der nächsten Möglichkeit normalerweise effektiver als die Patienten mit Booten der Feuerwehr zu transportieren
+
+==== Frachtschiffe ====
+
+  * [[cbrn:allgemein:kennzeichnung:schiffe|Kennzeichnung für Gefahrgüter]] vorhanden?
+  * große Mengen von Betriebsstoffen vorhanden
+  * (teilweises) Entladen nicht eigentliche Aufgabe der Feuerwehr
+
+=== speziell Tankschiffe ===
+
+  * Ansammlung von [[cbrn:chemisch:klasse_3:start|brennbaren Dämpfen]] um das Schiff herum möglich
+  * evtl. Gasspüranlage installiert
+
+=== Containerschiffe ===
+
+  * Inhalte der Container kann ggf. nur mithilfe der Ladeliste (beim Schiffsführer) bestimmt werden
+  * Zugang zu unterschiedlich hoch gestapelten Containern am Besten mit Steckleitern
+  * nach Havarie oder bei Schlagseite (auch durch Löschwasser) sind gestapelte Container evtl. nicht mehr stabil
+  * Evtl. Gefahr durch [[cbrn:chemisch:begaste_container|begaste Container]]
+
+==== Hafen ====
+
+  * spezielle Einrichtungen, z.B. zur Rückhaltung von Gefahrstoffen
+  * Zugang zu Schiffen über tragbare Leitern oder [[allgemein:drehleiter|Drehleiter]] möglich
+
+=== Laden und Entladen ("Löschen") ===
+
+  * bei Tankschiffen sind am Schiff (vorne und hinten) und an der Landstation jeweils zwei Not-Aus-Schalter um den Vorgang zu stoppen
+
+===== Weblinks =====
+
+  * [[https://www.elwis.de|Elektronischer Wasserstraßen-Informationsservice der Wasser- und Schifffahrtsverwaltung des Bundes]], mit Informationen aus vielen Bereichen
+
+===== Quellenangabe =====
+
+  * Fiß, Manfred: Die Roten Hefte Nr. 85: Einsätze auf Schiffen. Kohlhammer, Stuttgart 2006.
+  * Lehrunterlage "Brandbekämpfung auf Binnenschiffen", Feuerwehrakademie Hamburg.
+
+===== Stichwörter =====
+
+Boot, Wasserfahrzeug, Dampfer, Frachter, Kahn, Kutter, Yacht, Fähre

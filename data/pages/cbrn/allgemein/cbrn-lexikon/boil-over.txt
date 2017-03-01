@@ -1,0 +1,30 @@
+====== Boil-Over ======
+
+Bei einem Boil-Over wird ein Gemisch aus einer brennbaren Flüssigkeit und Wasserdampf aus einem Tank herausgeschleudert.
+
+Die Voraussetzungen für einen Boil-Over sind:
+
+  * die brennende Flüssigkeit hat eine geringere Dichte (ist leichter) als Wasser
+  * die brennende Flüssigkeit ist nicht mit Wasser mischbar
+
+Zu einem Boil-Over kann es kommen, wenn Löschwasser in die brennende Flüssigkeit gegeben wird oder bereits im Tank vorhanden ist. Aufgrund der niedrigeren Dichte sinkt das Wasser nach unten ab. Im weiteren Verlauf des Brandes beginnt es zu sieden und reißt in Dampf-Form die brennbare Flüssigkeit mit heraus, die daraufhin explosionsartig verbrennen kann.
+
+<WRAP center round important 100%>
+Ein Boil-Over kann auch zeitlich verzögert auftreten. Bei einem höheren Füllstand des Tanks wird das Wasser im unteren Teil noch nicht erwärmt. Treffen heiße Bereiche der brennbaren Flüssigkeit im späteren Verlauf dann auf die Wasserschicht, kann der Boil-Over unerwartet auftreten.
+</WRAP>
+
+Das Phänomen ist vor allem von Bränden in Rohöl-Tanklagern bekannt. Im kleineren Maßstab ist es vergleichbar mit Fettbränden bzw. -explosionen in der Küche.
+
+Brennt im Tank eine Flüssigkeit die mit Wasser mischbar ist (z.B. Alkohol), so besteht die Gefahr eines Boil-Overs nicht. Allerdings ist es in diesem Fall möglich, dass der Tank überläuft und sich brennende Flüssigkeit somit ausbreitet.
+
+===== Weblinks =====
+
+  * [[https://helmuth-herterich.jimdo.com/boil-over/|Der „Boil-over“ bei Tankbränden]], Dr. H. Herterich
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].
+
+===== Stichwörter =====
+
+Boilover, Boil Over

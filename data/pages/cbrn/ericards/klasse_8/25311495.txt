@@ -1,0 +1,69 @@
+====== METHACRYLSÄURE, STABILISIERT - UN 2531 - Gefahrnr. 89 - ERICard-Nr. 8-41 - UN2531 ======
+|Stoff | METHACRYLSÄURE, STABILISIERT   |
+|UN-Nummer | 2531   |
+|[[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Gefahrnummer]] | 89   |
+|ADR-Gefahrzettel |  {{cbrn:8.png?nolink&100}}    |
+|ADR-Klasse | 8   |
+|Klassifizierungscode | C3   |
+|[[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]] | II   |
+|ERI-Card | 8-41   |
+
+==== Unfall-Hilfeleistung ====
+===== Ätzender flüssiger Stoff =====
+==== 1. Eigenschaften. ====
+  * Kann spontan zu einer heftigen Reaktion führen.
+  * Ätzend, kann Haut, Augen und Atemwege schädigen.
+  * Kann mit Wasser oder brennbaren Stoffen reagieren.
+  * [[cbrn:allgemein:begriffsklaerungen#flammpunkt|Flammpunkt]] über 60°C, kann brennen.
+==== 2. Gefahren. ====
+  * Die Hitzeeinwirkung auf Behälter führt zu Druckanstieg mit Berstgefahr und nachfolgender Explosion.
+  * Einwirkung von Wärme, Licht, Erschütterung oder Kontakt mit anderen Chemikalien führt zu plötzlichem Druckanstieg oder Selbstentzündung.
+  * Entwickelt ätzende und reizende Dämpfe, auch im Brandfall.
+  * Kann Metalle angreifen, hierbei Wasserstoffgas entwickeln und mit Luft ein explosionsfähiges Gemisch bilden.
+  * Die Dämpfe können unsichtbar sein und sind schwerer als Luft. Sie breiten sich am Boden aus und können in Kanalisation und Kellerräume eindringen.
+  * Starke Wärmeeinwirkung kann den Stabilisator zerstören. [[cbrn:allgemein:tuis|Fachberater hinzuziehen]]!
+==== 3. Persönlicher Schutz. ====
+  * Chemikalienbeständige Kleidung (z.B. Spritzschutz-, Säureschutzkleidung)
+  * Umluftunabhängiger Atemschutz
+  * Chemikalienschutzanzug bei Arbeiten im Wirkbereich des Stoffes oder der Dämpfe
+==== 4. Einsatz-Massnahmen. ====
+=== 4.1 Allgemeine Massnahmen. ===
+  * Aus geschützter Stellung arbeiten, um die Gefährdung der Einsatzkräfte zu reduzieren. Mobile Wasserwerfer verwenden.
+  * Mit dem Wind vorgehen. Schutzausrüstung bereits vor dem Betreten des [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]]s anlegen.
+  * Zahl der Einsatzkräfte im [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] beschränken.
+=== 4.2 Massnahmen bei Stoffaustritt. ===
+  * Lecks wenn möglich schließen.
+  * Ausgetretenes Produkt mit allen verfügbaren Mitteln auffangen.
+  * Flüssigkeit mit Sand, Erde oder anderen geeigneten Materialien aufnehmen.
+  * Falls der Stoff in offenes Gewässer oder Kanalisation gelangt, zuständige Behörde informieren.
+  * Falls keine Gefahren für Einsatzkräfte oder die Öffentlichkeit entstehen, Kanalisation und Kellerräume belüften.
+=== 4.3 Massnahmen bei Feuer (falls Stoff betroffen). ===
+  * Behälter mit Wasser kühlen.
+  * Mit [[brand:allgemein:schaum|Schaum]] löschen.
+  * Nicht mit Vollstrahl, Sprühstrahl oder [[brand:allgemein:pulver|Pulver]] löschen
+  * Brandgase wenn möglich mit Sprühstrahl niederschlagen.
+  * Aus Umweltschutzgründen [[brand:allgemein:loeschwasserrueckhaltung|Löschmittel zurückhalten]].
+==== 5. Erste Hilfe. ====
+  * Falls der Stoff in die Augen gelangt ist, mindestens 15 Minuten mit Wasser spülen und Personen sofort medizinischer Behandlung zuführen.
+  * Personen, die mit dem Stoff in Berührung gekommen sind oder Dämpfe eingeatmet haben, sofort medizinischer Behandlung zuführen. Dabei alle verfügbaren Stoffinformationen mitgeben.
+  * Kontaminierte Kleidung sofort entfernen und betroffene Hautbereiche mit Seife und viel Wasser spülen.
+  * Mund-zu-Mund-Beatmung vermeiden. Beatmungsgeräte anwenden.
+==== 6. Besondere Vorsichtsmassnahmen bei der Bergung von Havariegut. ====
+  * Säurebeständige Ausrüstung einsetzen.
+  * Ausgetretenes Produkt in belüfteten und mit Absorptionsfiltern ausgestatteten Behältern aufnehmen.
+==== 7. Vorsichtsmassnahmen nach dem Hilfeleistung-Einsatz. ====
+=== 7.1 Ablegen der Schutzkleidung. ===
+  * Vor dem Ablegen von Maske und Schutzanzug, kontaminierten Anzug und Atemschutzgerät mit Wasser/Seifenlösung abspülen.
+  * Beim Entkleiden von kontaminierten Einsatzkräften oder bei der Handhabung von kontaminiertem Gerät chemikalienbeständige Kleidung und umluftunabhängigen Atemschutz tragen.
+  * Kontaminierte Reinigungsflüssigkeit zurückhalten.
+=== 7.2 Reinigung der Ausrüstung. ===
+  * Vor Abtransport von der Einsatzstelle mit Wasser/Seifenlösung abspülen.
+===== Quelle und Copyright =====
+
+Bitte nehmen Sie die Verwendungshinweise zu den ERI-Cards auf der [[cbrn:ericards:start#allgemeine_hinweise|ERI-Card Übersichtsseite]] zur Kenntnis.
+
+Diese ERICard kann im Original unter folgendem Link aufgerufen werden: [[http://www.ericards.net/psp/ericards.psp_ericard?lang=3&subkey=25311495]]
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

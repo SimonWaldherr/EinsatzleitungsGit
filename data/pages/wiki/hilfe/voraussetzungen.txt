@@ -1,0 +1,30 @@
+====== Systemvoraussetzungen ======
+
+Die Voraussetzungen beziehen sich eher auf die Software die installiert werden muss. An die Hardware werden nur sehr geringe Anforderungen gestellt. Selbst mehrere Jahre alte Computer erfüllen die Hardware-Anforderungen problemlos.
+
+Um das Einsatzleiterwiki zu betreiben werden folgende drei Dinge benötigt. Wenn Sie das Wiki über das automatische Installationsprogramm installieren wird die Server-Software und PHP automatisch mitinstalliert.
+
+===== 1. Webserver mit PHP-Unterstützung =====
+
+Der [[http://www.apache.org/httpd|Apache-Server]] wird empfohlen, aber auch auf den meisten anderen bekannten Servern wird von einer problemlosen DokuWiki-Integration berichtet.
+
+===== 2. PHP 5.3.3 oder höher. =====
+
+Es wird mindestens PHP 5.3.3 benötigt. Eine höhere Version ist aber noch besser.
+
+Folgende Einstellungen/Programme werden empfohlen:
+
+    * PHPs [[http://de2.php.net/manual/en/ref.image.php|GD Erweiterung]] für [[http://www.boutell.com/gd/|libGD 2]] (eine Grafikbibliothek) wird empfohlen, aber ist nicht zwingend notwendig 
+    * DokuWiki sollte in PHPs [[phpfn>features.safe-mode|Safe Mode]] laufen, abhängig von der Konfiguration wird möglicherweise der safemodehack benötigt 
+    * DokuWiki ist dafür ausgelegt, ohne die [[phpfn>register_globals]]-Konfiguration von PHP zu laufen.
+    * Wenn das E-Mail-Registrierungsverfahren für neue Benutzer gewünscht ist, muss PHP eine funktionierende Mail-Konfiguration haben. Alternativ kann das [[wiki:hilfe:plugins:smtp|SMTP-Plugin]] verwendet werden.
+
+===== 3. Einen anständigen Web-Browser =====
+
+Jeder Browser der letzten paar Jahre sollte funktionieren. Mit [[http://www.getfirefox.com|Firefox]] sollten gute Erfahrungen zu machen sein.
+
+Zusätzliche Plugins können darüber hinaus weitere Voraussetzungen besitzen, die Standard-Plugins die mit dem Einsatzleiterwiki mitgeliefert werden funktionieren aber mit den genannten Anforderungen.
+
+===== Quellenangabe =====
+
+  * [[doku>de:requirements]], veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

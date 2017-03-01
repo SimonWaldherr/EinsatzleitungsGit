@@ -1,0 +1,44 @@
+====== Psychische Erste Hilfe ======
+
+Unter psychischer Erster Hilfe versteht man die ersten Maßnahmen an der Unglücksstelle, um psychische Folgeschäden bei den Betroffenen zu vermindern.
+
+===== zu treffende Maßnahmen =====
+
+  * Beruhigen und Schutz geben, ggf. Körperkontakt (s.u.)
+  * auf gleiche Höhe wie der Betroffene begeben
+  * ruhiges Arbeiten der Einsatzkräfte / Ruhe ausstrahlen
+  * wenn möglich einfache Aufgabe vergeben um Betroffenen mit in Behandlung einzubinden (z.B. beim Verband anlegen helfen lassen)
+  * muss der Patient verlassen werden, dann ihn davor darüber informieren.\\ Besser: für Ersatz durch andere Einsatzkraft sorgen, ansonsten sagen wann man wieder zurückkommt
+  * Betroffenen gegen Zuschauer abschirmen
+  * [[allgemein:psnv:umgang_mit_angehoerigen|Um Angehörige kümmern]]
+
+==== Körperkontakt ====
+
+  * nur an Händen, Schultern, Rücken berühren
+  * möglichst nur Auflegen, keine Bewegungen (streicheln, etc.)
+  * <wrap warning>kein Körperkontakt nach Vergewaltigungen!</wrap>
+
+==== Mit dem Betroffenen reden ====
+
+  * sich selbst vorstellen, nach Namen des Betroffenen fragen
+  * einfache Sprache verwenden, kurze klare Sätze formulieren
+  * Informationen über das Geschehene geben
+  * versichern dass ihm geholfen wird
+  * danach über Alltägliches reden bzw. Fragen stellen (z.B. Arbeit, Familie, ...) -> beruhigt, lenkt ab
+  * auch mit Bewusstlosen sprechen!
+
+=== Auskunft zum Gesundheitszustand ===
+
+  * grobe Informationen über derzeitige Situation und folgende Maßnahmen geben
+  * keine
+    * Fachbegriffe verwenden
+    * Verharmlosungen 
+  * weitere Gespräche über den Betroffenen nicht in dessen Anwesenheit
+
+===== Quellenangabe =====
+
+  * Lernskriptsammlung "Umgang mit Menschen im Einsatz", Berliner Feuerwehr- und Rettungsdienstakademie (BFRA)
+  * Vorlesung Psychosoziale Notfallversorgung, Studiengang „Sicherheit und Gefahrenabwehr - Bachelor“, Hochschule Magdeburg-Stendal
+  * Lasogga, F. & Gasch, B. (2002). Notfallpsychologie. Edewecht: Stumpf & Kossendey
+
+===== Stichwörter =====

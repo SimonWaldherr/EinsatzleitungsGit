@@ -1,0 +1,43 @@
+====== Schaumrohre ======
+
+Zur Schaumberechnung [[brand:allgemein:schaum|klicken Sie hier]]
+
+===== Verschäumungsbereiche =====
+
+^  Schaumart        ^  Verschäumungszahl (VZ) ^                                                                                     
+^  Schwerschaum     |  bis 20                 |
+^  Mittelschaum     |  über 20 bis 200        |
+^  Leichtschaum     |  über 200               |
+
+=== Tragbare Schwerschaumrohre / Nennleistung bei 5 bar Eingangsdruck ===
+
+^  Typ     ^  Zumischung   ^  Schaumwurfweite  ^  Schaummittelbedarf  ^  Schaumleistung  ^  Verschäumungszahl  ^
+^  S 2     |  3 %          |  12 m             |   6 l/min            |  >2 m³/min       |  >10                |
+^  S 4     |  3 %          |  20 m             |  12 l/min            |  >4 m³/min       |  >10                |
+^  S 8     |  3 %          |  25 m             |  24 l/min            |  >8 m³/min       |  >10                |
+
+=== Tragbare Mittelschaumrohre / Nennleistung bei 5 bar Eingangsdruck ===
+
+^  Typ     ^  Zumischung   ^  Schaumwurfweite  ^  Schaummittelbedarf  ^  Schaumleistung  ^  Verschäumungszahl  ^
+^  M 2W    |  3 %          |  12 m             |   6 l/min            |  > 4 m³/min       |  >20                |
+^  M 4W    |  3 %          |  20 m             |  12 l/min            |  > 8 m³/min       |  >20                |
+^  M 8W    |  3 %          |  25 m             |  24 l/min            |  >16 m³/min       |  >20                |
+^  M 2     |  3 %          |   6 m             |   6 l/min            |  > 8 m³/min       |  >40                |
+^  M 4     |  3 %          |   7 m             |  12 l/min            |  >16 m³/min       |  >40                |
+^  M 8     |  3 %          |  10 m             |  24 l/min            |  >32 m³/min       |  >40                |
+
+W = Große Wurfweite
+
+=== Leichtschaumgenerator / Auer Be-und Entlüftungsgerät mit Schaumaufsatz ===
+
+^  Typ                       ^  Zumischung      ^  Wasserbedarf  ^  Schaummittelbedarf  ^  Schaumleistung  ^  Verschäumungszahl ^
+^  Auer Leichtschaumaufsatz  |  fest eingebaut  |  ca. 100l/min  |  ca. 3 l/min         |  ca.50 m³/min    |  500               |
+
+
+===== Quellenangabe =====
+
+Die Roten Hefte Band 18, "Formeln, Tabellen und Wissenswertes für die Feuerwehr" von Ferdinand Tretzel, 8.Auflage, herausgegeben 2003 vom Kohlhammer-Verlag
+
+===== Stichwörter =====
+
+Verschäumungszahl, VZ

@@ -1,0 +1,35 @@
+====== Bereitstellungsraum ======
+
+Bereitstellungsräume dienen dem Zusammenführen von Einsatzkräften so wie dazu, gerade bei nicht geschlossen eintreffenden Einheiten deren komplette Einsatzbereitschaft herzustellen.
+
+===== zu treffende Maßnahmen =====
+
+==== Aufbau ====
+
+  * Ausreichende Größe zur Aufnahme von taktischen Einheiten und für Rangierbetrieb (1.500 bis 2.000 m² für 50 Fahrzeuge)
+  * Gute und problemlose Erreichbarkeit (z.B. nahe an Hauptverkehrsstraßen), ggf. Lotsen aufstellen
+  * Unkompliziertes Erreichen der Einsatzstelle
+  * Idealerweise Einbahnverkehr / getrennte An- und Abfahrt (ablaufende Kräfte dürfen den ankommenden nicht begegnen).
+  * Ausreichende Befestigung der Verkehrsfläche (z.B. Parkplätze)
+  * Infrastruktur; Ver- und Entsorgungseinrichtungen (Strom-, Wasseranschluss, WC, Beleuchtung, ...)
+  * Zusammenstellung vergleichbarer Einheiten (z.B.: KTW, RTW, NEF und NAW; (H)LF, DLK, TLF, ... je für sich), beispielsweise je eine eigene Fahrspur pro Fahrzeugtyp
+  * Möglichst geschlossene Aufstellung kompletter Einheiten (z.B.: Betreuungszug)
+
+==== Organisation ====
+
+  * Führungsorganisation (Führer Bereitstellungsraum, Hilfspersonal, Kommunikationsmittel)
+  * Vorbereitung von Anfahrtsbeschreibungen / Kartenauszügen
+  * Alle eintreffenden Einheiten erfassen!
+  * Nachweisführung über Verbleib der Einheiten (Uhrzeit, Ankunft u. Entlassen) \\ Regelmäßiger abgleich mit Einsatzleitung und ggf. Leitstelle
+
+==== Mindestausrüstung für Bereitstellungsraum ====
+
+  * 4m FuG bzw. TMO Funkgeräte Kommunikation mit Fahrzeugen und Leitstelle
+  * 2m bzw DMO Funkgeräte (Führungskanal zur Einsatzleitung)
+  * Megaphone je nach Größe
+  * Geeignete Fahrzeugübersicht (Formblatt, Flip-Chart o.Ä.), Schreibmaterial
+
+===== Quellenangabe =====
+
+  * Thorsten Petry, BF Trier
+  * [[http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Downloads/GesBevS/Hilfekonzept_bei_MANV.pdf?__blob=publicationFile|Konzept zur überörtlichen Hilfe bei MANV]], Arbeitsgruppe der Hilfsorganisationen im Bundesamt für Bevölkerungsschutz und Katastrophenhilfe

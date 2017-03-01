@@ -1,0 +1,154 @@
+====== Chemische Kampfstoffe ======
+
+siehe auch [[cbrn:biologisch:biologische_kampfstoffe|biologische Kampfstoffe]]
+
+===== zu treffende Maßnahmen =====
+
+Lagefeststellung: Anzeichen für chemischen Anschlag?
+
+==== derzeitige allgemeine Situation ====
+
+  * verstärkte terroristische Aktivitäten bekannt? Einschätzung der momentanen Lage durch Polizei, Staatsschutz, etc.
+  * aktuell vorliegende Drohungen/Anschlag angekündigt?
+  * Hat vor kurzem bereits ein (ggf. erfolgloser) Anschlag stattgefunden?
+
+==== beim Eingehen des Notrufs ====
+
+  * Ist Einsatzstelle ein sensibles Objekt/Großereignis?
+  * Meldung eines „Anschlags“ direkt beim Notruf? Bekenneranruf?
+  * Viele Betroffene mit gleichen Beschwerden?
+  * Für Einsatzstelle untypisches Ereignis (z.B. Explosion auf Jahrmarkt)?
+  * Hinweis auf absichtliches Handeln einer Person (z.B. Abstellen eines Rucksacks)?
+
+==== bei der Erkundung ====
+
+  * mehrere Personen mit nicht zuordbaren Symptomen, gleichen Verletzungsmustern oder auffälligem Verhalten
+  * massive, unverständliche Flucht von Personen weg von der Einsatzstelle
+  * Tiere tot oder unnatürlich abwesend (insb. Insekten)
+  * vorherrschende Windrichtung (Bewegungen von Bäumen/Sträuchern etc.)
+  * Stofffreisetzung erkennbar, die untypisch für die Einsatzstelle ist (direkt sichtbar oder Geruch)?
+  * Hinweise Betroffener auf Anschlag/Auffälligkeiten?
+  * Auftreten von folgenden Symptomen bei Zivilpersonen ebenso wie ungeschützten Einsatzkräfte von Polizei / Rettungsdienst:\\ Kopfschmerzen, Übelkeit, Nasen-, Speichel-, Tränenfluss, Atemnot, Beklemmungen, Druck auf Brust
+  * Erkennen von bestimmten, für Kampfstoffe typischen Merkmalen:
+
+^  Stoff  ^  Geruch              ^  Aussehen                   ^  Eintritt der Giftwirkung  ^
+^ [[cbrn:chemisch:klasse_6-1:stoffe:blausaeure|Blausäure]] | Bittermandel (kann von vielen Menschen nicht gerochen werden) | wasserklare Flüssigkeit, farblose Dämpfe | sofort |
+^ [[cbrn:chemisch:klasse_2:stoffe:chlor|Chlor]] | stechend (Schwimmbad, Schimmelentferner) | farblose Dämpfe (in hoher Konzentration gelb-grün) | sofort |
+^ [[cbrn:chemisch:klasse_6-1:stoffe:lewisit|Lewisit]] | geranienartig, stechend | farblose Flüssigkeit | sofort |
+^ [[cbrn:chemisch:klasse_2:stoffe:phosgen|Phosgen]] | faules Heu (reizend) | farbloses Gas               | nach Stunden |
+^ [[cbrn:chemisch:klasse_6-1:stoffe:sarin|Sarin]]                     | fruchtartig          | bräunliche Flüssigkeit      | sofort |
+^ [[cbrn:chemisch:klasse_6-1:stoffe:s-lost|Schwefel-Lost (S-Lost)]]    | senfartig            | ölige braune Flüssigkeit    | nach Stunden |
+^ [[cbrn:chemisch:klasse_6-1:stoffe:soman|Soman]]                     | fruchtartig          | bräunliche Flüssigkeit      | sofort |
+^ [[cbrn:chemisch:klasse_6-1:stoffe:n-lost|Stickstoff-Lost (N-Lost)]]  | fischartig (muffig)  | ölige braune Flüssigkeit    | nach Stunden |
+^ [[cbrn:chemisch:klasse_6-1:stoffe:tabun|Tabun]]                     | fruchtartig          | bräunliche Flüssigkeit      | sofort |
+^ [[cbrn:chemisch:klasse_6-1:stoffe:vx|VX]]                        | keiner               | farblose, ölige Flüssigkeit | sofort |
+
+==== besondere Gefahren ====
+
+[[allgemein:gefahrenmatrix|Gefahrenmatrix]], zusätzlich:
+
+  * zweiter Anschlag auf Einsatzkräfte (Meinung der Polizei einholen)
+    * Fahrzeuge nicht alle auf einer Stelle abstellen
+    * Ansammlung von Einsatzkräften vermeiden
+  * Sprengfallen, Blindgänger
+  * außergewöhnliche Verletzungen/Erkrankungen
+  * nicht direkt ersichtliche CBRN-Gefahren
+  * Heckenschützen
+  * weitere...
+
+==== Erstmaßnahmen an der Einsatzstelle ====
+
+Je mehr der oben genannten Fragen mit "ja" beantwortet werden können, desto wahrscheinlich ist ein Anschlag mit einem chemischen Kampfstoff!
+
+  * ABC-Einsatz mit Maßnahmen nach [[cbrn:allgemein:gefahrengruppen|Gefahrengruppe]] IIIC der FwDV 500 durchführen ([[cbrn:gefahrgut#gams-regel|GAMS-Regel]])
+  * schnellstmöglich Expertenwissen einholen
+  * [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] zunächst bei 50m festlegen, nach Lage ggf. ausweiten
+    * Angriff mit dem Wind
+    * Rückzug quer zum Wind
+    * Deckungsmöglichkeiten erkunden
+    * Rückzugswege erkunden
+  * vorgehende Einsatzkräfte mindestens mit [[cbrn:allgemein:koerperschutzformen|Körperschutz]] Form 2 (Spritzschutzanzug) ausrüsten.
+    * treten Symptome auf: erst weiterarbeiten wenn Körperschutz Form 3 verfügbar
+    * Menschenrettung mindestens mit dicht schließender Feuerschutzkleidung und PA
+  * schnellstmöglich (Not-)[[cbrn:allgemein:dekontamination:start|Dekon]] Betroffener veranlassen ([[cbrn:allgemein:dekontamination:c-dekon#reinigung_der_schutzkleidung|geeignete Dekon-Reinigungsmittel]])
+  * flüchten Betroffener durch Polizei verhindern
+  * Kommunikation an der Einsatzstelle sicherstellen (Ausfall/Beeinträchtigung Funk)
+  * Krankenhäuser informieren
+
+=== Hinweise an Einsatzkräfte ===
+
+  * ungewöhnliche Eindrücke, Gerüche, Geräusche melden
+  * Befehlsgehorsam, Meldewege, Führungsstruktur zwingend einhalten
+  * im Trupp zusammenbleiben
+  * keine ungewöhnlichen Gegenstände berühren
+  * gesundheitliche Probleme **sofort** melden (Übelkeit, Sehstörungen, Schwindel, ...)
+
+==== medizinische Sichtung Betroffener ====
+
+  * Lassen sich Symptome der nachfolgenden Tabelle zuordnen?
+  * Dekontamination der Betroffenen notwendig?
+  * Überwachung des rettungsdienstlichen Personals ob Eigenschutz beachtet wird
+
+| ^  C-Kampfstoffe  ^^^  Grundchemikalien  ^^^
+| ^  [[cbrn:chemisch:klasse_6-1:stoffe:sarin|Sarin]]\\ [[cbrn:chemisch:klasse_6-1:stoffe:tabun|Tabun]]  ^  [[cbrn:chemisch:klasse_6-1:stoffe:vx|VX]]  ^  Loste  ^  [[cbrn:chemisch:klasse_6-1:stoffe:blausaeure|Blausäure]]  ^  [[cbrn:chemisch:klasse_2:stoffe:chlor|Chlor]]  ^  [[cbrn:chemisch:klasse_2:stoffe:phosgen|Phosgen]]  ^
+^ Sehstörungen   ^  X  ^  X  | | | | |
+^ Augenschmerzen |  X  |  X  ^  X  | | | |
+^ verstärkte Sekretion (Speichel, Nasen-, Tränenfluss) ^  X  ^  X  |  |  |  |  |
+^ Atemnot |  X  |  X  | | |  X  |  X  |
+^ Atemstillstand | | | |  X  | | |
+^ Kopfschmerzen |  X  |  X  | |  X  | | |
+^ Schwindel | | | |  X  | | |
+^ Übelkeit | | | |  X  |  X  |  X  |
+^ Erbrechen | | | | | |  X  |
+^ Druckgefühl/ Schmerz in der Brust | | | | | |  X  |
+^ Muskelzucken |  X  ^  X  | | | | |
+^ Krämpfe |  X  |  X  | |  X  | | |
+^ ^ ^ ^ ^ ^ ^ ^
+^ Auftreten |  rasch  |  rasch  |  verzögert  |  rasch  |  rasch  |  rasch  |
+^ Stärke | | |  schwach  | | |  schwach  |
+^ spezifische Symptome | | Schweißausbrüche, Erblindung | "echte" Wirkung erst nach Stunden! | Ausatemgeruch | | |
+
+Fett gedruckte und unterlegte Symptome sind besonders ausgeprägt.
+
+Tabellen sind dem vfdb-Merkblatt entnommen. Maßnahmen stammen aus dem vfdb-Merkblatt und der Taschenkarte HEIKAT (siehe Quellennachweis).
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Nachweis von C-Kampfstoffen ====
+
+=== Prüfröhrchen ===
+
+Alle Dräger-Prüfröhrchen sind auf der Seite [[cbrn:allgemein:draeger_roehrchenhandbuch]] zu finden.
+
+=== Spürpulver und Spürpapier ===
+
+Anwendung und Auswertung im Artikel [[cbrn:allgemein:spuerpulver-spuerpapier]] beschrieben.
+
+=== IMS (ABC-ErkKW) ===
+
+Alle in der obigen Tabelle genannten Stoffe können mit dem IMS des ABC-ErkKW gemessen werden. Die Messung auch nur geringer Mengen ist möglich!
+
+==== zugeordnete UN-Nummern ====
+
+UN-Nummer 0020, MUNITION, GIFTIG, Klasse 1.2, Verträglichkeitsgruppe K (kein Eintrag bei den ERICards für diese Stoffe vorhanden)
+
+Stoffe dieser Klasse unterliegen einem Beförderungsverbot und dürfen nur mit einer Sondergenehmigung transportiert werden, beispielsweise durch die Kampfmittelräumdienste der Länder.
+
+===== Weblinks =====
+
+  * [[wpde>Chemische_Waffe|Chemische Kampfstoffe]] bei Wikipedia
+  * [[wpde>Liste_chemischer_Kampfstoffe|Liste chemischer Kampfstoffe]], teilweise mit Daten zur Toxizität, bei Wikipedia
+
+===== Kontaktdaten/Ansprechpartner =====
+
+  * Anforderung [[cbrn:allgemein:atf|Analytische Task Force]]
+
+===== Quellenangabe =====
+
+  * [[http://vfdb.de/Download-Bereich.111.0.html?&no_cache=1&L=0&tx_abdownloads_pi1[action]=getviewclickeddownload&tx_abdownloads_pi1[uid]=321&tx_abdownloads_pi1[cid]=192|Merkblatt "Hochgefährliche C-Gefahrstoffe (C-Kampfstoffe)"]] der vfdb; Tabellen identisch übernommen, Maßnahmen aufs Wesentliche reduziert um die Anweisungen übersichtlich darzustellen
+  * [[http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Taschenkarte_HEIKAT.html|Taschenkarte HEIKAT]], Bundesamt für Bevölkerungsschutz und Katastrophenhilfe
+  * Ausbildungsunterlage "Chemische Kampfstoffe", Feuerwehr Kaiserslautern
+  * [[http://www.bam.de/de/service/amtl_mitteilungen/gefahrgutrecht/gefahrgutrecht_medien/allgemeinverf_kampfmittel.pdf|Allgemeinverfügung zur Klassifizierung von Kampfmitteln für die innerstaatliche Beförderung gefährlicher Güter auf der Straße durch die staatlichen Kampfmittelräumdienste der Länder]], abgerufen von der Internetseite der Bundesanstalt für Materialforschung und -prüfung (BAM)
+  * {{cbrn:allgemein:hinweise_abc_kampfstoffe.pdf|Einsatzleiterkarten für den Einsatz mit ABC-Kampfstoffen, Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2011}}. Nutzung mit freundlicher Genehmigung.
+
+===== Stichwörter =====

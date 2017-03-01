@@ -1,0 +1,24 @@
+====== Kellerbrand ======
+
+===== zu treffende Maßnahmen =====
+
+Allgemeine Maßnahmen für [[:brand:gebaeudebrand|Gebäudebrände]] beachten!
+
+  * Erkundung -> **Technikraum, Keller- bzw. Lagerraum**
+    * Zugangsmöglichkeiten prüfen, möglichst Angriff durch Außentür um Verqualmung des Gebäudes zu minimieren
+    * Ist der Keller mit Nachbargebäuden, Seitenflügeln, etc. verbunden? Ausbreitung von Feuer/Rauch in diese? Ggf. als alternativer Angriffsweg nutzbar?
+  * Möglichst von Anfang an Angriff mit [[:brand:allgemein:belueftung|Belüftung]] + mobiler Rauchverschluss. Als Abluftöffnungen ggf. die Kellerfenster von außen öffnen (einschlagen).
+  * Einsatz [[:allgemein:geraete:waermebildkamera|Wärmebildkamera]]
+  * Energieversorger (Gas, Elektrizität) verständigen und [[:allgemein:elektrische_anlagen#freischalten_von_gebaeuden_durch_energieversorger|abschalten lassen]]
+
+==== besondere Gefahren ====
+
+  * gelagerte gefährliche Stoffe in Mieterkellern (z.B. [[cbrn:chemisch:klasse_2:brandeinwirkung_auf_druckgasbehaelter|Gasflaschen]], Benzinkanister, ...)
+  * herunterhängende Elektroleitungen
+  * Hausanschlussraum/Energieversorgung (Holz, Kohle, Heizöl, Gas) \\ → in Einzelfällen können sich auch kleine [[:brand:trafostation|Trafostationen]] im Keller befinden, diese Räume nicht betreten!
+  * mit gelagerten Gegenständen zugestellte / versperrte Wege
+
+===== Quellenangabe =====
+
+  * Einsatzleiterhandbuch BF Kaiserslautern
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie

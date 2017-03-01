@@ -1,0 +1,46 @@
+====== Schiffsbrand ======
+
+Auf dieser Seite werden Schiffsbrände behandelt, beachten Sie für allgemeine Hinweise für Einsätze auf Schiffen bitte auch die Seite [[allgemein:schiffsunfall]].
+
+===== zu treffende Maßnahmen =====
+
+  * nur wenn unbedingt notwendig (Menschenrettung) in den Maschinenraum vorgehen: viele Gefahrenquellen!\\ Feuer im Maschinenraum durch [[brand:allgemein:schaum|Schaum]]eingabe von außen bekämpfen
+  * Innenverkleidungen von Schiffswohnungen sorgfältig auf Glutnester kontrollieren, [[allgemein:geraete:waermebildkamera|Wärmebildkamera]] einsetzen
+  * bei intensivem Brand Schiffswände von außen kühlen
+  * beim Löschen mit großen Wassermengen ggf. gleichzeitiger Einsatz von Tauchpumpen notwendig (siehe auch [[allgemeine_hilfe:schiff_leckgeschlagen]])
+  * evtl. [[brand:allgemein:belueftung|taktische Ventilation]]
+  * Sicherheitstrupp stellen ([[brand:allgemein:atemschutznotfall|Atemschutznotfall]])
+  * ggf. [[cbrn:chemisch:klasse_3:oel_auf_gewaesser|Setzen von Ölsperren]] notwendig
+
+==== besondere Gefahren ====
+
+  * Wärmeleitung durch Stahlwände, Brandüberschlag in räumlich abgetrennt Bereiche möglich
+  * hohe Temperaturen
+  * Kamineffekt in langen Gängen und Treppenräumen
+  * lange Anmarschwege, komplizierte Zugänglichkeiten
+  * Erhöhte Gefahr von Durchzündungen
+  * aufgeheizte Scheiben/Bullaugen springen bei Wasserkontakt und verursachen schnelles Sinken
+  * Bereich haben teilweise nur einen Zugang ( = Angriff- und Rettungsweg)
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Bei Passagier- und Tankschiffen ist sind Feuerlöscheinrichtungen vorgeschrieben (vergleichbar Wandhydrant mit C-Strahlrohr), gespeist durch zwei unabhängig voneinander arbeitenden Pumpen für hohe Ausfallsicherheit
+
+==== Fahrgastschiffe ====
+
+  * Innenausstattung meist aus leicht brennbaren Materialien (kein definierter Feuerwiderstand vorgeschrieben)
+  * schon geringe Löschwassermengen können Schlagseite verursachen -> schnelles [[allgemeine_hilfe:schiff_leckgeschlagen|abpumpen]], ggf. aber schwieriges Verlegen von Schläuchen in entsprechende Bereiche
+
+==== Frachtschiffe ====
+
+  * ggf. Feuerlöschanlage vorhanden
+  * aufgebrachte Löschwassermengen eher unkritisch, außer der transportierte Stoff saugt stark Wasser auf
+
+===== Quellenangabe =====
+
+  * Fiß, Manfred: Die Roten Hefte Nr. 85: Einsätze auf Schiffen. Kohlhammer, Stuttgart 2006.
+  * Lehrunterlage "Brandbekämpfung auf Binnenschiffen", Feuerwehrakademie Hamburg.
+
+===== Stichwörter =====
+
+Schiffsfeuer

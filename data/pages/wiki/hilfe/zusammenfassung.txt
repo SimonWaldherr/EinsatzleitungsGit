@@ -1,0 +1,33 @@
+====== Zusammenfassung und kleine Änderung ======
+
+===== Die Zusammenfassung =====  
+
+[[wiki:hilfe:artikel_bearbeiten_allgemein|Editiert]] man eine Wikiseite, dann wird ein kleines Texteingabefeld unter dem Eingabefeld angezeigt, das mit "Zusammenfassung" beschriftet ist. Bevor eine Seite gespeichert wird sollte dort immer eine kurze Mitteilung eingegeben werden, die knapp die Änderungen umschreibt. Bei zuvor noch nicht existenten Seiten wird die [[wiki:hilfe:hintergrund_einsatzleiterwiki|zugrundeliegende DokuWiki-Software]] automatisch den Text "angelegt" als Zusammenfassung einfügen.
+
+===== Das Feld Zusammenfassung =====
+
+In der Zusammenfassung wird knapp angegeben, was für eine Art der Änderung vorgenommen wurde. Diese Information wird bei für jede Version in der Liste der [[wiki:hilfe:aeltere_versionen|Älteren Versionen]] für jede Seite, in den [[wiki:hilfe:syndication|RSS und ATOM feeds]] und auch in der Liste der [[wiki:hilfe:letzte_aenderungen|letzten Änderungen]] des gesamten Wikis angezeigt.
+
+Hier ein paar Beispiele:
+^Zusammenfassung ^Typische Situation  ^
+|'''angelegt' ''  |Dieser Text wird vorgegeben, wenn man einen neuen Wiki-Artikel verfasst. Das kann auch so bleiben.|
+|'''Link aktualisiert' ''  |Etwas wurde im Artikel geändert.|
+|'''Veraltete Informationen entfernt' ''  |Teile des Artikels wurden gelöscht.|
+| ''%%''%%''  |Wenn man eine **kleine Änderung** gemacht hat, die den Inhalt nicht wirklich verändert hat (zum Beispiel eine Leerzeile an unwichtiger Stelle entfernt), **und** auch dort **das Häkchen gesetzt** hat, kann eine Zusammenfassung auch mal entfallen.|
+
+Man kann die Zusammenfassung **nachträglich nicht mehr ergänzen**, wenn man sie vergessen hat. 
+
+===== Die kleine Änderung =====
+
+Das unscheinbare Häkchen hat für den [[wiki:hilfe:aeltere_versionen|Rückblick auf ''[Ältere Versionen]'']] nur geringe Bedeutung. **Sehr wichtig** ist es allerdings für die Veröffentlichung des Artikels in den **RSS-Feeds** - jede Bearbeitung eines Artikels die nicht als "kleine Änderung" gekennzeichnet ist, wird automatisch auf der Startseite angezeigt und zu Twitter weitergesendet.
+Die Standardeinstellung für Feeds bewirkt nämlich, dass //kleine// Änderungen an Artikeln nicht in den Feed aufgenommen werden. 
+
+Typische **kleine** Änderungen:\\ Einen Rechtschreibfehler entfernt --- Grammatik korrigiert --- Ein fehlendes Wort nachgetragen --- Satzbau oder Artikelstruktur ohne inhaltliche Auswirkung geändert --- etc.
+
+**Keine** kleine Änderung: \\
+Artikel komplett von alter auf neue Rechtschreibung geändert --- Einen interessanten Link eingefügt --- Text gelöscht.
+
+===== Quellenangabe =====
+
+  * [[doku>de:summary]], veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz
+  * [[doku>de:edit_window]], veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

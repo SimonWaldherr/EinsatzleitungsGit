@@ -1,0 +1,88 @@
+====== Löschmittel Wasser ======
+
+==== besondere Gefahren ====
+
+  * Wasser darf nicht eingesetzt werden bei:
+    * [[brand:metallbrand|Metallbränden]]
+    * [[brand:schornsteinbrand|Schornsteinbränden]]
+    * Chemikalien die mit Wasser heftig reagieren
+  * Wasser ist elektrisch leitend: [[allgemein:elektrische_anlagen#wasser|Sicherheitsabstände]] zu elektrischen Einrichtungen einhalten!
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Wasser als Löschmittel für brennbare Flüssigkeiten ====
+
+Löschen von Bränden der [[brand:allgemein:brandklassen|Brandklasse]] B ist möglich, wenn:
+
+  * die Flüssigkeit einen [[cbrn:allgemein:cbrn-lexikon:flammpunkt|Flammpunkt]] von über 55 °C besitzt und während des Löschens unter diesen abgekühlt werden kann.
+  * die Flüssigkeit mit Wasser mischbar ist und somit verdünnt werden kann bis der [[cbrn:allgemein:cbrn-lexikon:flammpunkt|Flammpunkt]] unterschritten wird.
+  * die Flüssigkeit schwerer als Wasser ist und somit mit Wasser abgedeckt werden kann.
+  * mittels Wassernebel durch die große Oberfläche eine sehr gute Kühlwirkung erreicht wird.
+
+=== Löschtaktische Fehler beim Löschen brennbarer Flüssigkeiten mit Wasser ===
+
+== Fettexplosion ==
+
+Beim Löschen von Fettbränden mittels Wasser sinkt das Wasser durch die brennende Fett-Schicht ab. Am Boden des Gefäßes wird dieses stark erhitzt und verdampft. Dabei vergrößert es sein Volumen um das 1.700-fache und reißt das brennende Fett mit sich aus dem Behälter, woraufhin dieses explosionsartig verbrennt.
+
+== Überlaufen von Behältern ==
+
+Die meisten brennbaren Flüssigkeiten sind leichter als Wasser. Beim Versuch, diese mit Wasser zu löschen füllt sich der Behälter bis er überläuft und sich somit der Brand ausbreitet.
+
+Dies trifft ebenfalls auf mit Wasser mischbare Flüssigkeiten wie Alkohol zu, wenn nicht genug Platz zur Verdünnung im Behälter ist.
+
+==== Wasser als Löschmittel für brennbare Gase ====
+
+Beim Austritt von Gas mit geringem Druck kann die Flamme mittels Sprühstrahl des Hohlstrahlrohrs eingefangen und gelöscht werden. Alternativ kann mit Vollstrahl auf die Austrittsöffnung gelöscht werden.
+
+Bei Gasbränden sollte generell besser [[brand:allgemein:pulver|Pulver]] verwendet werden. Zum Kühlen von Behälter und Umgebung wird Wasser mit Sprühstrahl eingesetzt.
+
+Bei Gasbränden sollte die Flamme generell nur gelöscht werden, wenn sonst eine Gefährdung besteht, da sich sonst eine immer größer werdende Gas-Luft-Gemisch-Wolke bildet die danach explosionsartig verbrennen kann. Wenn möglich sollte die Gaszufuhr abgesperrt werden.
+
+==== Wasser im Bereich von brennbaren Stäuben ====
+
+In Bereichen in denen sich größere Staubablagerungen befinden, darf nicht mit Vollstrahl gelöscht werden. Der Staub kann aufgewirbelt werden und eine explosionsfähige Atmosphäre würde entstehen.
+
+In diesen Bereichen wird der Einsatz von Netzmittel in Kombination mit geringem Strahlrohrdruck empfohlen.
+
+==== Größere Glutbrände in geschlossenen Räumen ====
+
+Bei größeren Glutbränden in Gebäuden, vor allem in Kellern, entstehen beim Löschen große Mengen Wasserdampf. Dieser kann gefährlich für die vorgehenden Trupps sein.
+
+Wenn es sich bei den brennbaren Stoffen um Koks oder Braunkohle handelt, kann sich beim Löschen Wassergas bilden welches aus 40% [[cbrn:chemisch:klasse_2:stoffe:kohlenmonoxid|Kohlenmonoxid]] besteht.
+
+Falls keine Menschen vermisst werden, sollten die Räume von außen mit [[brand:allgemein:schaum|Schaum]] oder Wasser geflutet werden.
+
+==== Phosphor-Brände ====
+
+Phosphor kann als weißer, roter oder schwarzer Phosphor vorkommen. Weißer Phosphor ist selbstentzündlich und kann nicht endgültig mit Wasser gelöscht werden:
+
+Ist das Wasser abgelaufen oder verdunstet, entzündet sich der weiße Phosphor wieder von selbst. Beim Löschen mit Wasser können außerdem folgende Gefahren auftreten:
+
+  * Phosphorstücke können durch das Wasser an nicht einsehbare Stellen gespült werden und nach dem Trocknen dort Brände verursachen.
+  * Phosphorstücke können umherfliegen und den Brand ausbreiten sowie Einsatzkräfte verletzen.
+
+Bestenfalls wird der weiße Phosphor mit Sand gelöscht, ins Freie gebracht und dort kontrolliert abbrennen gelassen.
+
+==== quellfähige und wasseraufsaugende Stoffe in Gebäuden ====
+
+Quellfähige Stoffe können durch die Volumenvergrößerung das Gebäude regelrecht sprengen. Wasser darf hier nicht verwendet werden.
+
+Wasseraufsaugende Stoffe werden ohne Volumenvergrößerung schwerer. Folgedessen kann das Gebäude einstürzen.
+
+==== Dissoziation von Wasser ====
+
+Bei hohen Temperaturen zerfällt Wasser in seine Bestandteile Wasserstoff und Sauerstoff. Je höher die Temperatur, desto größer der Anteil des Wassers welches zerfällt, die Abhängigkeit ist in folgender Tabelle dargestellt:
+
+^ Temperatur ^ Anteil der ca. zerfällt ^
+| 1500 °C    | 0,2 %                   |
+| 2000 °C    | 2 %                     |
+| 2500 °C    | 9 %                     |
+| 3000 °C    | 20 %                    |
+| 3500 °C    | 60 %                    |
+
+===== Quellenangabe =====
+
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+
+===== Stichwörter =====

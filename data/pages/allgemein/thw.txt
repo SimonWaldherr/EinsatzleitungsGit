@@ -1,0 +1,53 @@
+====== THW-Einsatzmöglichkeiten ======
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+{{ :allgemein:thw.png?nolink&100|THW-Logo}}
+
+==== Anforderung ====
+
+  * in dringenden Fällen über die eigene Leitstelle
+  * besser: erst Rücksprache mit nächstgelegenem Ortsverband oder örtlich zuständiger Regionalstelle
+
+  * rechtliche Grundlage: [[:allgemein:recht:amtshilfe|]]
+  * THW-Einheiten werden in der Regel der örtlich zuständigen Einsatzleitung unterstellt
+
+
+==== Fähigkeiten, Fahrzeuge und Geräte ====
+
+Jeder Ortsverband verfügt über einen Technischen Zug, der aus zwei Bergungsgruppen und einem Zugtrupp (Führungsfahrzeug) besteht. Zusätzlich können an den verschiedenen Standorten Fachgruppen für besondere Aufgaben stationiert sein.
+
+^ Bezeichnung ^^ Fähigkeiten, besondere Fahrzeuge und Geräte (keine abschließende Aufzählung) ^
+^ Technischer Zug (TZ) ^^^
+| Zugtrupp |  Ztr  | - Einsatzleitung (des THWs) |
+| Bergungsgruppe 1 |  B1  | - Vielseitige Gruppe für den Ersteinsatz\\ \\ - Gerätekraftwagen (GKW) 1, geländefähig, Winde 5/10t Zugkraft\\ - Anhänger, Plane/Spriegel/Wechselbrücke/Container (örtlich unterschiedlich), 7t Nutzlast\\ - Gabelstapler, 30 kn (3t) Hubkraft\\ - Schneid-/Trenngeräte\\ - hydraulische/pneumatische Hebegeräte\\ - Unterbaumaterial\\ - [[allgemeine_hilfe:allgemein:winden|Mehrzweckzug]]\\ - weitere Werkzeuge\\ - Rettungsausstattung\\ - Atemschutzgeräte\\ - Tauchpumpe\\ - Scheinwerfer\\ - Stromerzeuger\\ - Leitern |
+| Bergungsgruppe 1 Abstützsystem Holz\\ (nicht überall vorhanden) |  B1 ASH  | wie B1, zusätzlich Holzwerkstoffe die ermöglichen:\\ \\ - [[allgemeine_hilfe:abstuetzen_und_aussteifen#stuetzbock|Stützbock]] bis zu 15m Höhe\\ - [[allgemeine_hilfe:abstuetzen_und_aussteifen#sprengwerk|Sprengwerke]] mit bis zu 10m Spreizweite\\ \\ Anhänger, Plattform/Rungen, 7t Nutzlast |
+| Bergungsgruppe 2 |  B2  | Ausstattung ähnlich Bergungsgruppe 1, aber mit höherer Leistung oder alternativen Antriebsformen (dann meist Elektrowerkzeug statt Verbrennungsmotor). Zusätzlich:\\ - LKW, Pritsche/Plane, 4,5t Nutzlast, geländefähig\\ - Anhänger 50 kVA-Stromerzeuger mit Lichtmast |
+^ Fachgruppen (FGr) ^^^
+| Beleuchtung |  Bel  | - Flächenausleuchtung bis zu 150m x 20 m oder 35m x 35m, blendfrei\\ - Lichtpunkthöhe 15 m \\ \\ - Lichtmast-Anhänger mit 20 kVA-Stromerzeuger |
+| Brückenbau |  BrB  | - Brückenbau aus vorgefertigten Bauteilen oder herkömmlichen Baustoffen \\ - sonstige Bau-Tätigkeiten\\ - Umschlag und Transport schwerer Lasten\\ \\ - LKW, Kipper, 12t Nutzlast, Ladekran, geländefähig\\ - LKW, 4,5t Nutzlast, Pritsche/Plane\\ - Schlauchboot, 1t Nutzlast (nicht überall) |
+| Elektroversorgung |  E  | - vorübergehende Abdeckung größeren Energiebedarfs\\ - Reparaturen im Niederspannungsbereich\\ \\ - Stromerzeuger größer 175 kVA\\ - umfangreiches Leitungs-/Verteilermaterial\\ - Spezialwerkzeug, Prüf- und Messgeräte\\ - LKW, Kipper, 7t Nutzlast\\ - Anhänger Hubarbeitsbühne (nicht überall) |
+| Führung/Kommunikation |  FK  | - Aufbau von Kommunikationsnetzen (BOS-Funk, mobile TK-Anlagen)\\ - Aufbau einer mobilen Führungsstelle (Großraumbüro) |
+| Infrastruktur |  I  | - Errichtung und Reparatur von Elektro-, Gas- und Wassernetzen in Gebäuden\\ \\ - Ölwehr\\ - Schmutzwasserpumpen |
+| Logistik |  Log  | - Versorgung mit Verbrauchsgütern, Materialerhaltung, Verpflegung\\ \\ - LKW (Kipper mit Ladekran oder Plane/Spriegel), 9t oder 7t Nutzlast, geländefähig, Gefahrgut-Zulassung\\ - Anhänger 5t Nutzlast\\ - Feldkochherd, Kapazität 200 Portionen |
+| Ölschadenbekämpfung |  Öl  | - Aufnahme von Ölverschmutzungen auf Gewässern und an Ufern\\ \\ - Ölsperren, Ölabsauggeräte, Pumpen\\ - LKW, Wechsellader-System (Haken), 13t Nutzlast\\ - LKW, Pritsche, 7t Nutzlast, Ladekran\\ - LKW, 9t Nutzlast, Pritsche, Ladekran\\ - Geländegabelstapler, Hublast 30 kN (3t) |
+| Ortung |  O  | - Suche nach Verschütteten mit technischem Gerät oder Hunden\\ - Aufspüren von Leckagen an Versorgungsleitungen |
+| Räumen |  R  | - Sicherung einsturzgefährdeter Gebäude\\ - Abrissarbeiten\\ - Entfernen von Trümmern\\ \\ __Leistungsstufe Typ A:__\\  - LKW, Kipper, 9t Nutzlast, 5t-Winde, geländefähig\\ - Tieflader-Anhänger, 18t Nutzlast\\ - 13t-Radlader mit Zusatzgeräten\\ - 15t-Raupenbagger mit Zusatzgeräten\\ - Drucklufterzeuger mit Bohr-/Abbruchhämmern\\ \\ __Leistungsstufe Typ B:__\\ - LKW, Kipper, 7t Nutzlast, geländefähig\\ - Tieflader-Anhänger, 5t Nutzlast\\ - Klein-Lader oder -Bagger mit Zusatzgeräten |
+| Sprengen |  Sp  | Sprengen von:\\ - Lawinen, Eis- und Unterwasser\\ - Deichen\\ - Bauwerk(steilen)\\ - Schneisen bei [[brand:waldbrand|Waldbränden]]\\ - Entrauchungs- und Angriffsöffnungen bei Bränden |
+| Trinkwasserversorgung |  TW  | - Trinkwasseraufbereitung 15 m³/h (Leistungsstufe Typ A), 6 m³/h (Leistungsstufe Typ B)\\ \\ - LKW, Plane/Spriegel, 7t Nutzlast, geländefähig\\ - Anhänger, Plane/Spriegel , 5t Nutzlast (nur Leistungsstufe Typ A) |
+| Wassergefahren |  W  | - Evakuierung bei Hochwasser\\ - Bau von schwimmenden Arbeitsplattformen\\ - Sicherung von Deichen\\ \\ - LKW, 9t Nutzlast, Ladekran, hochgeländegängig\\ - Schlauchboot, 1t Nutzlast\\ -  2 Mehrzweckboote, 1,5t Nutzlast, Bugklappe (Leistungsstufe Typ A)\\ - 4 Pontons, 2t Nutzlast (Leistungsstufe Typ B)\\ - Mehrzweckboot, 2t Nutzlast (Leistungsstufe Typ B)  |
+| Wasserschaden/Pumpen |  WP  | - Abpumpen von Wasser und Schlamm nach Überschwemmungen\\ - [[brand:allgemein:loeschwasser_lange_wegstrecke|Wasserförderung über lange Wegstrecke]]\\ - Schläuche kompatibel zu Feuerwehr (System Storz)\\ \\ - Schmutzwasser-Kreiselpumpe auf Anhänger, 15.000 oder 5.000 l/min\\ - 8 Tauchpumpen von 1.000 bis 3.000 l/min\\ - LKW, Plane/Spriegel, 7t Nutzlast, geländefähig\\ - LKW, Pritsche/Plane/Spriegel, 3t Nutzlast, geländefähig\\ - Anhänger, Plane/Spriegel , 5t Nutzlast |
+
+===== Weblinks =====
+
+  * [[http://www.thw.de/SharedDocs/Downloads/DE/Mediathek/Dokumente/THW/Einsatzoptionen-Katalog.pdf?__blob=publicationFile|Ausführlicher Katalog der THW-Einsatzoptionen]]
+
+===== Quellenangabe =====
+
+  * [[http://www.thw.de/SharedDocs/Downloads/DE/Hintergrund/anfordererbroschuere.pdf?__blob=publicationFile|Kompetenz im Bevölkerungsschutz: Das THW anfordern]], Technisches Hilfswerk, Februar 2011
+  * [[http://www.thw.de/SharedDocs/Ausstattungen/DE/Geraete/ASH.html?nn=925114|Abstützsystem Holz]], Internetseite des THW
+  * THW-Logo: [[http://commons.wikimedia.org/wiki/File:THW.svg]], gemeinfrei
+
+===== Stichwörter =====
+
+Bundesanstalt Technisches Hilfswerk

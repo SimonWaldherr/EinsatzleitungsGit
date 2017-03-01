@@ -1,0 +1,23 @@
+====== Artikelprüfer ======
+
+Auf dieser Seite werden alle Mitglieder nach Namen sortiert aufgelistet, die die Berechtigung zur Bestätigung von geänderten oder neu angelegten Artikeln besitzen.
+
+===== christoph_ziehr =====
+
+Voller Name: Christoph Ziehr
+
+zuständig für: Pflege der Daten, insbesondere Rettungsdatenblätter und ERICards; technischer Betrieb und Weiterentwicklung des Systems
+
+weiteres:
+  * Studium der "Sicherheit und Gefahrenabwehr", Entwicklung des Einsatzleiterwikis als Bachelorarbeit
+  * Seit 2012 hauptberuflich bei der Berliner Feuerwehr, Wachabteilungsleiter einer Berliner Feuerwache
+  * Seit 2003 Mitglied der Freiwilligen Feuerwehr Eisenberg (Pfalz)
+
+===== kopp =====
+
+Voller Name: Mike Kopp
+
+zuständig für: Idee des elektronischen Einsatzleiterhandbuchs, konzeptionelle Beratung, Nutzungsanfragen für externe Inhalte
+
+weiteres:
+  * Abteilungsleiter Personal- und Einsatzplanung bei der BF Kaiserslautern

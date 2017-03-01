@@ -1,0 +1,49 @@
+====== Hochspannungsfreileitung ======
+
+Siehe auch -> [[allgemein:elektrische_anlagen]] und [[brand:trafostation]]
+
+===== zu treffende Maßnahmen =====
+
+<WRAP center round important 100%>
+Eigensicherung vor Menschenrettung
+</WRAP>
+
+  * Bei gerissenen am Boden liegenden Leitungsenden Abstand von 20m einhalten (Spannungstrichter)
+    * Absperrung aufbauen
+    * Zweites gerissenes Leitungsende mit Bedacht suchen und ebenfalls entsprechend absperren
+    * Berühren die Leitungsenden Zäune, Weidedrähte oder andere Objekte, ist auch von diesen ein Mindestabstand von 20m einzuhalten
+  * Nachalarmierung des Energieversorgers mit Angabe des genauen Standorts
+  * Freischaltung durch den Energieversorger
+  * Erst nach bestätigter Freischaltung durch den Energieversorger sind mit Maßnahmen zu beginnen, die den vorherigen Sicherheitsabstand unterschreiten
+
+==== besondere Gefahren ====
+
+  * Lebensgefährliche Hochspannung
+  * Bei Unterschreitung des Sicherheitsabstandes Gefahr eines Lichtbogens auch ohne Berührung (Leiter nicht isoliert)
+  * Schrittspannung (infolge Spannungstrichter) bei Annäherung an gerissene am Boden liegende Leitungsenden
+  * Absturzgefahr bei Besteigung der Hochspannungsmasten
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+Ist der Betreiber der Hochspannungsfreileitung nicht bekannt, sollte die Leitung bis zum nächsten Mast verfolgt werden. An den Masten sind oftmals Informationen zum Betreiber bzw. auch Kontaktdaten angebracht.
+
+==== Isolatorenlängen ====
+
+Folgende Isolatorenlängen sind bei den entsprechenden Spannungen zu erwarten:
+
+^ Spannung ^  Isolatorenlänge (ca.)  ^
+|  380 kV  |  3m                     |
+|  220 kV  |  2m                     |
+|  110 kV  |  1m                     |
+|   20 kV  |  0,25m                  |
+|  0,4 kV  |  0,1m                   |
+
+Es wurde oft gelehrt, dass die zu erwartende Spannung an der Hochspannungsfreileitung an der Anzahl der Isolatoren abgeschätzt werden konnte, da die Isolatoren nicht länger als 1 m waren. Drei Isolatoren hintereinander wiesen demnach auf 380 kV hin. Diese Faustregel kann jedoch nicht mehr angewendet werden, da mittlerweile auch längere Isolatoren verwendet werden, und beispielsweise bei einer 380 kV-Leitung auch nur noch ein einziger, langer Isolator verbaut ist.
+
+===== Quellenangabe =====
+
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr
+
+===== Stichwörter =====
+
+Hochspannungsfreileitung, Hochspannungsleitung, Freileitung, Stromleitung, Überlandleitung

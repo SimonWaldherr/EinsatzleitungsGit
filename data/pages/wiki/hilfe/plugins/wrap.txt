@@ -1,0 +1,333 @@
+====== Beispiele zur Nutzung des Wrap-Plugins ======
+
+Das Wrap-Plugin bietet weitergehende Gestaltungsmöglichkeiten gegenüber dem Standard-DokuWiki-Editor bzw. dem CKG-Editor. Beachten Sie, dass die auf dieser Seite genannten Kommandos im ckgedit-Editor nicht direkt angezeigt und erst nach dem Speichern sichtbar werden. Daher empfiehlt sich für die Nutzung dieser Kommandos die Nutzung des Standard-DokuWiki-Editors.
+
+===== Grundlegender Syntax =====
+
+Ein großgeschriebenes **%%<WRAP>%%** erzeugt ein sogenanntes **''div''** und sollte für **große** Boxen, **komplette** Absätze, Listen, Tabellen, etc. genutzt werden.
+
+  <WRAP weitere_Optionen Breite>
+  "größerer" Inhalt
+  </WRAP>
+
+Ein kleingeschriebenes **%%<wrap>%%** erzeugt ein sogenannten **''span''** und sollte für **kleine** Boxen, **einzelne Worte** in Absätzen, Listen, Tabellen, etc. genutzt werden.
+
+  <wrap weitere_Optionen Breite>"kleinerer" Inhalt</wrap>
+
+:!: Beachten Sie, dass **nicht alle unten genannten Funktionen mit kleingeschriebenem wrap funktionieren**:
+  * **Ausrichtungen** (links, mittig, rechts)
+  * **mehrspaltige Layouts**
+  * und **Breitenangaben**
+
+wenn das zugehörige wrap nicht ebenfalls umflossen wird.
+
+===== Klassen und Stile =====
+
+==== Spalten und Umfließungen ====
+
+Sie können Spalten erstellen, indem Sie einfach die Klasse (das Kommando) ''column'' und eine Breite angeben:
+  <WRAP column 30%>...Inhalt...</WRAP>
+
+<WRAP column 30%>
+Dieser Text befindet sich in der **ersten** Spalte von drei Spalten mit jeweils 30% Breite.
+</WRAP>
+
+<WRAP column 30%>
+Dieser Text befindet sich in der **zweiten** Spalte von drei Spalten mit jeweils 30% Breite.
+</WRAP>
+
+<WRAP column 30%>
+Dieser Text befindet sich in der **dritten** Spalte von drei Spalten mit jeweils 30% Breite.
+</WRAP>
+
+<code>
+<WRAP column 30%>
+Dieser Text befindet sich in der **ersten** Spalte von drei Spalten mit jeweils 30% Breite.
+</WRAP>
+
+<WRAP column 30%>
+Dieser Text befindet sich in der **zweiten** Spalte von drei Spalten mit jeweils 30% Breite.
+</WRAP>
+
+<WRAP column 30%>
+Dieser Text befindet sich in der **dritten** Spalte von drei Spalten mit jeweils 30% Breite.
+</WRAP>
+</code>
+
+=== Verschiedene Umfließungen ===
+
+Normalerweise ist die Angabe ''column'' ausreichend, aber für anspruchsvollere Zwecke (nicht nur für Spalten sondern auch für andere Klassen wie [[#boxen_und_notizen|Boxen und Notizen]]) gibt es verschiedene Arten für Umfließungen:
+
+  * **''column''** bewirkt das selbe wie ''left''
+  * **''left''** wird den WRAP-Block auf die linke Seite positionieren und den weiteren Inhalt rechts daneben platzieren
+  * **''right''** wird den WRAP-Block auf die rechte Seite positionieren und den weiteren Inhalt links daneben platzieren
+  * **''center''** wird den WRAP-Block horizontal mittig zentrieren
+
+=== Breiten ===
+
+Sie können eine beliebige gültige Breitenanangabe nutzen (aber nur bei WRAP). Gültige Breitenangaben können in folgenden Maßeinheiten angegeben werden: ''%, px, em, ex, pt, pc, cm, mm, in''. Die meistgenutzten Abgaben sind:
+
+^Maßeinheit^Wert^Beschreibung^
+^''%''|''30%''|passt sich dynamisch an|
+^''px''|''420px''|definiert eine feste Breite|
+^''em''|''20em''|passt sich ebenfalls dynamisch an, allerdings in Abhängigkeit der Schriftgröße|
+
+Eine Tabelle innerhalb einer Spalte oder WRAP-Box nimmt immer die volle Breite ein. Somit können mit diesen Breitenangaben indirekt Tabellen ausgerichtet und formatiert werden.</WRAP>
+
+<wrap em>Wenn der Text nach der Benutzung der Umfließungen wieder normal angezeigt werden und nicht mehr das vorher definierte Objekt umfließen soll, dann platzieren Sie ein...</wrap>
+
+<WRAP clear></WRAP>
+  <WRAP clear></WRAP>
+nach der letzten Spalte/Box.
+
+Diese Optionen können auch mit mit einem kleinen ''wrap'' genutzt werden (mit allen Elementen die umflossen werden können), ggf. macht die Anwendung allerdings nicht viel Sinn. :!: Breitenangaben funktionieren je nach Design üblicherweise nicht.
+
+:!: Achtung: Breitenangaben können Probleme verursachen, werden oftmals unterschiedlich in verschiedenen Browsern aussehen und teilweise sogar das Layout zerstören. Wenn Sie kein Webdesigner sind werden Sie die Gründe für eine [[wpde>Box-Modell-Fehler_im_Internet_Explorer|fehlerhafte Darstellung durch den Internet-Explorer]] eventuell nicht verstehen. Testen Sie die Angaben für Ihre Spalten einfach in allen gängigen Browsern und machen Sie die Breitenangaben etwas schmaler als sie eigentlich sein sollen um das Problem versuchen zu umgehen.
+
+Alle diese Optionen funktionieren auch in den [[#boxen_und_notizen|Boxen und Notizen]] (siehe unten).
+
+=== Mehrspaltigkeit ===
+
+<WRAP col3>
+Alle modernen Browser (Firefox, Chrome, Safari, ...) unterstützen Mehrspaltigkeit. Schreiben Sie einfach **''%%col2%%''** für 2 Spalten, **''%%col3%%''** für 3 Spalten, **''%%col4%%''** für 4 Spalten und **''%%col5%%''** für 5 Spalten.
+
+:!: Anmerkung: Mehrspaltigkeit macht bei kleingeschriebenen ''wrap''s keinen Sinn.
+</WRAP>
+
+<code>
+<WRAP col3>
+Alle modernen Browser (Firefox, Chrome, Safari, ...) unterstützen Mehrspaltigkeit. Schreiben Sie einfach **''%%col2%%''** für 2 Spalten, **''%%col3%%''** für 3 Spalten, **''%%col4%%''** für 4 Spalten und **''%%col5%%''** für 5 Spalten.
+
+:!: Anmerkung: Mehrspaltigkeit macht bei kleingeschriebenen ''wrap''s keinen Sinn.
+</WRAP>
+</code>
+
+=== Ausrichtungen ===
+
+Sie können diese verschiedenen Ausrichtungen nutzen:
+
+  * ''leftalign'' -> linksbündig
+  * ''rightalign'' -> rechtsbündig
+  * ''centeralign'' -> zentriert
+  * ''justify'' -> Blocksatz
+
+<WRAP centeralign>
+Zentrierter Text...
+</WRAP>
+
+<WRAP rightalign>
+... rechtsbündiger Text.
+</WRAP>
+
+<code>
+<WRAP centeralign>
+Zentrierter Text...
+</WRAP>
+
+<WRAP rightalign>
+... rechtsbündiger Text.
+</WRAP>
+</code>
+
+:!: Ausrichtungen können nicht bei kleinen ''wrap''s verwendet werden.
+
+==== Boxen und Anmerkungen ====
+
+<WRAP round box 570px center>
+//**__round box 570px center__**//
+
+  * ''box'' erzeugt einen Kasten um das ''WRAP''-Element herum
+  * Bei der Nutzung einer der Klassen ''info'', ''tip'', ''important'', ''alert'', ''help'', ''download'', ''todo'' erhält der Kasten eine entsprechende Färbung mit einem dazugehörigen Symbol
+  * Die Klassen ''danger'', ''warning'', ''caution'', ''notice'', ''safety'' erzeugen Kästen mit Signalfarben (ohne entsprechendes Symbol)
+  * Zusätzlich kann ''round'' hinzugefügt werden, um die Ecken des Kastens abzurunden. Dies funktioniert in allen modernen Browsern (Firefox, Chrome, Safari, ...), nicht aber dem Internet Explorer.
+</WRAP>
+
+<WRAP info 300px left>
+//**Info**//
+  <WRAP info></WRAP>
+</WRAP>
+
+<WRAP tip 300px left>
+//**Tip**//
+  <WRAP tip></WRAP>
+</WRAP>
+
+<WRAP important 300px left>
+//**Important**//
+  <WRAP important></WRAP>
+</WRAP>
+
+<WRAP alert 300px left>
+//**Alert**//
+  <WRAP alert></WRAP>
+</WRAP>
+
+<WRAP round help 300px left>
+//**Help**//
+  <WRAP round help></WRAP>
+</WRAP>
+
+<WRAP download 300px left>
+//**Download**//
+  <WRAP download></WRAP>
+</WRAP>
+
+<WRAP todo 300px left>
+//**Todo**//
+  <WRAP todo></WRAP>
+</WRAP>
+
+<WRAP clear></WRAP>
+
+**Kästen mit Signalfarben:**
+
+<WRAP danger 300px left>
+//**Danger**//
+  <WRAP danger></WRAP>
+</WRAP>
+
+<WRAP warning 300px left>
+//**Warning**//
+  <WRAP warning></WRAP>
+</WRAP>
+
+<WRAP caution 300px left>
+//**Caution**//
+  <WRAP caution></WRAP>
+</WRAP>
+
+<WRAP round notice 300px left>
+//**Notice**//
+  <WRAP round notice></WRAP>
+</WRAP>
+
+<WRAP round safety 300px left>
+//**Safety**//
+  <WRAP round safety></WRAP>
+</WRAP>
+
+<WRAP clear></WRAP>
+
+Die Hinweisboxen können ebenfalls in einer kleinen Variante im Fließtext eingesetzt werden:
+
+<wrap info>info</wrap>, <wrap help>help</wrap>, <wrap alert>alert</wrap>, <wrap important>important</wrap>, <wrap tip>tip</wrap>, <wrap download>download</wrap>, <wrap todo>todo</wrap> und <wrap round box>round box</wrap> und <wrap danger>danger</wrap>, <wrap warning>warning</wrap>, <wrap caution>caution</wrap>, <wrap notice>notice</wrap>, <wrap safety>safety</wrap>.
+  <wrap info>info</wrap>, <wrap help>help</wrap>, ...
+
+==== Markierungen ====
+
+Sie können Text als <wrap hi>hervorgehoben</wrap>, <wrap lo>weniger wichtig</wrap> und <wrap em>besonders hervorgehoben</wrap> markieren.
+
+  Sie können Text als <wrap hi>hervorgehoben</wrap>, <wrap lo>weniger wichtig</wrap> und <wrap em>besonders hervorgehoben</wrap> markieren.
+
+==== Verschiedenes ====
+
+=== Einrückungen ===
+
+<wrap indent>Dieser Text wird eingerückt.</wrap>
+
+  <wrap indent>Dieser Text wird eingerückt.</wrap>
+
+=== Outdent ===
+
+<wrap outdent>Dieser Text wird "ausgerückt".</wrap>
+
+  <wrap outdent>Dieser Text wird "ausgerückt".</wrap>
+
+=== Vorformatierter Text ===
+
+<WRAP prewrap 250px>
+<code>
+Text in diesem Block wird umgebrochen, obwohl alle Worte in einer Reihe stehen.
+</code>
+</WRAP>
+
+  <WRAP prewrap 250px>
+  <code>
+  Text in diesem Block wird umgebrochen, obwohl alle Worte in einer Reihe stehen.
+  </code>
+  </WRAP>
+
+=== Spoiler ===
+
+Mit der Spoiler-Funktion kann Text versteckt werden, der erst durch Markieren mit der Maus sichtbar wird. Diese Funktion ist für die Nutzung im Einsatzleiterwiki eher nicht angebracht, wird aber der Vollständigkeit halber mit aufgeführt.
+
+Es folgt der Spoiler: <wrap spoiler>Dieser Text wird erst nach Markieren mit der Maus sichtbar.</wrap>
+
+  Es folgt der Spoiler: <wrap spoiler>Dieser Text wird erst nach Markieren mit der Maus sichtbar.</wrap>
+
+=== Verstecken ===
+
+Der folgende Text ist versteckt: <wrap hide>Dieser Abschnitt muss überarbeitet werden.</wrap>
+
+  Der folgende Text ist versteckt: <wrap hide>Dieser Abschnitt muss überarbeitet werden.</wrap>
+
+:!: Achtung: Der Text ist nur in der direkten Anzeige versteckt. Beim Ansehen des Quelltextes der Seite oder beim Bearbeiten ist dieser trotzdem sichtbar, wird in älteren Browser angezeigt und durch die Suchfunktion gefunden. <wrap important>Verstecken Sie keine sicherheitsrelevanten Inhalte mittels dieser Funktion!</wrap>
+
+=== Seitenumbruch ===
+
+Das folgende Kommando erzeugt einen Seitenumbruch: <WRAP pagebreak></WRAP>
+
+  Das folgende Kommando erzeugt einen Seitenumbruch: <WRAP pagebreak></WRAP>
+
+Dies hat keine Auswirkung auf die Anzeige auf dem Bildschirm. Lediglich beim Ausdrucken des Artikels wird ein Seitenumbruch erzeugt.
+
+=== Kein Seitenumbruch ===
+
+Das folgende Kommando wird versuchen einen Seitenumbruch zu vermeiden: <WRAP nopagebreak>Ein langer Text, oder z.B. eine Tabelle, die nicht umgebrochen werden soll.</WRAP>
+
+  Das folgende Kommando wird versuchen einen Seitenumbruch zu vermeiden: <WRAP nopagebreak>Ein langer Text, oder z.B. eine Tabelle, die nicht umgebrochen werden soll.</WRAP>
+
+Dies hat ebenfalls keine Auswirkung auf die Anzeige auf dem Bildschirm. Lediglich beim Ausdrucken des Artikels wird versucht einen Seitenumbruch zu vermeiden.
+
+=== Nicht drucken ===
+
+<wrap noprint>Dieser Text erscheint auf dem Bildschirm, erscheint aber nicht auf einem Ausdruck.</wrap>
+
+  <wrap noprint>Dieser Text erscheint auf dem Bildschirm, erscheint aber nicht auf einem Ausdruck.</wrap>
+
+=== Nur drucken ===
+
+<wrap onlyprint>Dieser Text erscheint nicht auf dem Bildschirm, nur auf einem Ausdruck.</wrap>
+
+  <wrap onlyprint>Dieser Text erscheint nicht auf dem Bildschirm, nur auf einem Ausdruck.</wrap>
+
+==== Kombinieren und Verschachteln ====
+
+Sie können alle Klassen und Kasten-Arten kombinieren und ineinander verschachteln, z.B.
+
+<WRAP box safety 350px right>
+//**__Äußerer grüner Kasten wird rechts positioniert und links umflossen__**//
+
+<WRAP 165px left>
+Innere, verschachtelter Kasten wird links positioniert und rechts umflossen. Der Text ist teilweise <wrap em hi>hervorgehoben</wrap>.
+</WRAP>
+
+Text im äußeren, rechts positionierten Kasten, aber nach dem inneren, links positionierten Kasten.
+
+<WRAP clear></WRAP>
+
+<WRAP round tip>
+Runder "Tip"-Kasten, unter einem ''clear''.
+</WRAP>
+
+</WRAP>
+
+
+<code>
+<WRAP box safety 350px right>
+//**__Äußerer grüner Kasten wird rechts positioniert und links umflossen__**//
+
+<WRAP 165px left>
+Innere, verschachtelter Kasten wird links positioniert und rechts umflossen. Der Text ist teilweise <wrap em hi>hervorgehoben</wrap>.
+</WRAP>
+
+Text im äußeren, rechts positionierten Kasten, aber nach dem inneren, links positionierten Kasten.
+
+<WRAP clear></WRAP>
+
+<WRAP round tip>
+Runder "Tip"-Kasten, unter einem ''clear''.
+</WRAP>
+
+</WRAP>
+</code>

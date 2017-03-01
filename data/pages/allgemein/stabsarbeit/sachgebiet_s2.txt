@@ -1,0 +1,36 @@
+====== Sachgebiet S2 - Lage ======
+
+===== Lagefeststellung =====
+
+  * Beschaffen von Informationen
+    * Einsetzen von Erkunderinnen oder Erkundern
+    * Anfordern von Lagemeldungen
+  * Auswerten und bewerten von Informationen
+
+===== Lagedarstellung =====
+
+  * Führen einer Lagekarte
+  * Führen von Einsatzübersichten
+    * Beschreiben der Gefahrenlage
+    * Darstellen von Anzahl, Art und Umfang der Schäden
+    * Darstellen der Einsatzabschnitte und -schwerpunkte
+    * Darstellen der eingesetzten, bereitgestellten und noch
+    * erforderlichen Einsatzmittel und -kräfte
+  * Vorbereiten von Lagebesprechungen und Lagemeldungen
+
+===== Information =====
+
+  * Melden an vorgesetzte Stellen
+  * Unterrichten nachgeordneter Stellen
+  * Unterrichten anderer Stellen
+  * Unterrichten der Bevölkerung
+
+===== Einsatzdokumentation =====
+
+  * Führen des [[allgemein:stabsarbeit:etb|Einsatztagebuches]]
+  * Sammeln, registrieren und sicherstellen aller Informationsträger (Vordrucke, Tonbänder, Datenträger)
+  * Erstellen des Abschlussberichts
+
+===== Quellenangabe =====
+
+  * [[http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext_Fw_Dv/SKK_Dv_100.pdf?__blob=publicationFile|Führung und Leitung im Einsatz : Führungssystem ; Vorschlag einer Dienstvorschrift DV 100]], Ständige Konferenz für Katastrophenvorsorge und Katastrophenschutz

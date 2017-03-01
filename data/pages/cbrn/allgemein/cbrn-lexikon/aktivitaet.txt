@@ -1,0 +1,7 @@
+====== Aktivität ======
+
+Die Aktivität eines Radionuklids gibt an, wie viele Atomkerne pro Sekunde zerfallen. Die Maßeinheit lautet Becquerel [1/s].
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

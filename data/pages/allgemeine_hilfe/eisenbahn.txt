@@ -1,0 +1,230 @@
+====== Eisenbahnunfall ======
+
+===== zu treffende Maßnahmen =====
+
+{{ :allgemeine_hilfe:bahn:bilder:abstaende_gleisanlagen.png?nolink&300|Gefahrenbereiche im Gleis}}
+
+  * Betreten des Gefahrenbereichs in Gleisen nur wenn Fahrbetrieb eingestellt und bestätigt (genaue Bestätigung mit Gleisbezeichnung und Streckenkilometer anfordern), bis dahin Einsatz in Bereitstellung.\\ ggf. Gleise mehrerer Netzbetreiber nebeneinander, diese müssen alle gesperrt werden! (Auskunft kann Notfallmanager erteilen)\\ Bei nicht eingestelltem Fahrbetrieb:
+    * 3,00 Meter Abstand von der Schienenmitte aus gemessen bei Geschwindigkeiten bis 280 km/h
+    * 3,30 Meter Abstand von der Schienenmitte aus gemessen bei Geschwindigkeiten über 280 km/h
+  * [[allgemein:elektrische_anlagen|Abstände zu spannungsführenden Teilen]]
+    * nach DIN VDE 0132 regulär 3 Meter, bei herunterhängender Oberleitung 10 Meter (Spannungstrichter, Verringerung von 20 auf 10 Meter nur bei Bahn-Oberleitungen! Diese Ausnahmeregel gilt nicht in allen Bundesländern!)
+    * **Verringerung auf 1,5 Meter ausschließlich für Rettungseinsätze erlaubt**!
+    * Abstände bei Löschmitteleinsatz wie bei allen elektrischen Anlagen
+  * Schienenfahrzeuge gegen Bewegung sichern. Bis zum sicheren Festsetzen nur von der Seite nähern. Weitere Informationen im Abschnitt [[allgemeine_hilfe:eisenbahn#sichern_gegen_unbeabsichtigtes_bewegen|Sichern gegen unbeabsichtigtes Bewegen]]
+  * Bahnerden mindestens 2-fach, vor und hinter der Einsatzstelle. Nutzung eines in der Lok fest verbauten Kurzschließers ist nicht sicher da sich dieser lösen kann!
+  * [[allgemeine_hilfe:allgemein:rettungsdatenblaetter_bahn|Einsatzmerkblatt]] von Triebfahrzeug und ggf. Waggons ansehen
+  * bei Einsätzen mit Gefahrgut siehe auch [[cbrn:chemisch:gefahrgut_eisenbahn|Gefahrgut Eisenbahn]].
+  * ggf. [[allgemein:manv|MANV]] vorbereiten. Wahrscheinlich sammeln sich Patienten auf beiden Seiten der Gleise!
+  * Zugpersonal und örtliche Mitarbeiter (z.B. in Bahnhöfen) bzw. deren Fachauskünfte nutzen. Diese auf keinen Fall gehen lassen bis der Notfallmanager vor Ort ist.
+  * ggf. [[allgemein:thw|THW]] nachalarmieren
+
+==== besondere Gefahren ====
+
+  * hohe Geschwindigkeiten bis 300 km/h: Sog- und Zugkräfte die Menschen und Gegenstände ins Gleis ziehen können, Bremswege bis 3 km
+  * aufgrund niedrigem Geräuschpegel nur schwer wahrzunehmen, selbst bei Güterzügen
+  * Oberleitung: 15 kV bei 16,7 Hz
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Züge sollten nur von unterwiesenen Fachkräften getrennt werden!
+  * Fahrzeuge keinesfalls in Gleisbereichen aufstellen, auch nicht auf Bahnübergängen. Bei der Fahrzeugaufstellung auch auf Oberleitungen achten!
+  * Die abgeschaltete Oberleitung kann als Festpunkt für eine Absturzsicherung verwendet werden.
+  * ggf. dem Notfallmanager eine Einsatzkraft mit Funkgerät zur Seite stellen um mit ihm kommunizieren zu können
+
+==== Verhalten im Gleisbereich ====
+
+  * nur im Gleisbereich gehen wenn unbedingt nötig, nur mit Schrittgeschwindigkeit gehen (nicht laufen): Stolpergefahr
+  * nicht auf Schienenköpfe treten: Rutschgefahr
+  * nicht in bewegliche Teile Weichen treten -> Quetschgefahr\\ Weichen werden bei der Freischaltung der Oberleitung nicht abgeschaltet. Diese müssen ggf. vom Notfallmanager einzeln abgeschaltet werden.
+  * 2 Meter Sicherheitsabstand zu abgestellten Schienenfahrzeugen einhalten. Lücken zwischen zwei abgestellten Fahrzeugen müssen mindestens 5 Meter groß sein um an dieser Stelle die Gleise queren zu dürfen.
+  * Warnkleidung (Warnwesten) tragen (wie im Straßenverkehr vorgeschrieben)
+
+==== elektrisch betriebene Züge ====
+
+  * Bei abgeschalteter Oberleitung ist in dieser aufgrund elektrotechnischer Effekte trotzdem noch eine Spannung bis 7.000 Volt zu erwarten bis eine Erdung erfolgt ist.
+  * Schienenfahrzeuge speichern die Energie in Kondensatoren, somit können z.B. in Schaltschränken und Unterflurkästen noch für einige Zeit gefährliche Spannungen anliegen. Die gefährlichen Bereich sind auf den [[allgemeine_hilfe:allgemein:rettungsdatenblaetter_bahn|Einsatzmerkblättern]] gekennzeichnet. Diese können durch Erdung des Fahrzeugs abgebaut werden, was nur durch unterwiesene Mitarbeiter der Bahn durchgeführt werden darf.
+  * Da die Stromrückführung über die Gleise erfolgt, muss bei einem entgleisten Fahrzeug mit Potentialunterschieden (Spannungen) gerechnet werden.\\ Ist die Oberleitung nicht beschädigt und der Stromabnehmer abgesenkt, so besteht keine Gefahr.
+  * Aufstieg auf Tritte und Plattformen von Eisenbahnfahrzeugen die höher als 2m liegen dürfen erst erfolgen wenn abgeschaltet und geerdet wurde
+
+==== Bahnerden ====
+
+Bahnerden ist erfoderlich, wenn
+
+  * der Sicherheitsabstand unterschritten werden muss oder die Gefahr des Berührens besteht
+  * die Oberleitung beschädigt wurde und Teile herunterhängen bzw. den Boden berühren (bis zur Erdung Abstand von 20 Metern halten; Spannungstrichter!)
+  * der Zustand der Oberleitung unbekannt ist, z.B. im Tunnel
+
+Die Bahnerdung darf ausschließlich der Notfallmanager vor Ort bestätigen!
+
+=== Bahnerdung durch die Feuerwehr ===
+
+Auch speziell ausgebildete Einsatzkräfte dürfen Bahnerden, wenn **alle folgenden Bedingungen** gegeben sind:
+
+  * Notfallmanager noch nicht vor Ort
+  * übersichtliche Verhältnisse: Schaltgruppeneinteilung der Oberleitung lässt sich zweifelsfrei feststellen
+  * sofortige Bahnerdung erforderlich, z.B. zur Menschenrettung
+
+==== Ermittlung des Ereignisortes ====
+
+{{ :allgemeine_hilfe:bahn:bilder:hektometertafel.png?nolink&100|Hektometertafel}}
+
+Bei der Eisenbahn werden Ort mit Streckennummer und Streckenkilometer angegeben.
+
+Die Streckennummer lässt sich vor Ort nicht erkennen, die DB verteilt an die Feuerwehr-Leitstellen aber entsprechende Karten.
+
+Zur Kennzeichnung von Streckenkilometern gibt es Hektometertafeln. Die obere große Zahl gibt den Streckenkilometer an, die untere große Zahl ist die Hunder-Meter-Angabe. Die kleine Zahl gibt den Standort auf den Meter genau an. Das abgebildete Beispielschild würde also beim Streckenkilometer 25,2 stehen; ganz genau bei km 25,185.
+
+==== Sichern gegen unbeabsichtigtes Bewegen ====
+
+Sind die Bremsen gelöst, kann ein Zug mit nur wenigen Einsatzkräften angeschoben werden. Ein Anhalten per Hand ist jedoch nicht möglich und muss mit der Zugbremse geschehen. Diese ist aber ggf. nicht mehr funktionsfähig wenn die Spannung abgeschaltet und die Druckluftbremse entlüftet wurde. Daher darf die Bremse nur in Absprache mit dem Bahnpersonal gelöst werden.
+
+Schon ein Gefälle von 1 Promille (1 Meter Geländeabfall auf 1.000 Metern Strecke) sorgt dafür, dass sich der Zug (ohne funktionierende Bremse) unaufhaltsam in Bewegung setzt.
+
+**Getroffene Sicherungsmaßnahmen müssen dem Notfallmanager beim Eintreffen sofort mitgeteilt werden!**
+
+=== Kontrolle der Bremsen ===
+
+{{:allgemeine_hilfe:bahn:bilder:kontrollfenster_scheibenbremse.jpg?nolink&200 |Sichtfenster Scheibenbremse}}
+
+Bei der Bahn werden Klotz- und Scheibenbremsen eingesetzt.
+
+Ob eine Klotzbremse am Rad angelegt und somit der Wagen gebremst ist lässt sich direkt feststellen.
+
+Bei Scheibenbremsen lässt sich dies durch ein Sichtfenster nachvollziehen:
+
+  * rot: Bremse angelegt
+  * grün: Bremse gelöst
+
+Im hier gezeigten Bild ist die Scheibenbremse angelegt.
+
+=== Nutzung der Betriebsbremse ===
+
+{{:allgemeine_hilfe:bahn:bilder:luftabsperrhahn.jpg?nolink&200 |Luftabsperrhahn}}
+
+In der Regel wird die Betriebsbremse vom Führerstand aus betätigt. Diese wirkt auf alle Bremsen des Zugs und ist vorerst ausreichend für den Einsatz.
+
+Im Einsatzfall kann bei Zügen ohne automatische Kupplung (also nicht z.B. S-Bahn, ICE) auch an der Zugspitze und am Zugende die Hauptluftleitung geöffnet werden. Dazu den Schlauch festhalten und den Luftabsperrhahn (siehe Foto) öffnen. Bis zur kompletten Entlüftung können mehrere Minuten vergehen.
+
+=== Feststellbremse ===
+
+{{:allgemeine_hilfe:bahn:bilder:anschrift_feststellbremse.jpg?nolink&200 |Anschrift Feststellbremse}}
+
+Alle Reisezugwagen, Triebfahrzeuge und viele Güterwagen haben Feststellbremsen.
+
+Diese sind mit der auf dem Bild gezeigten Anschrift gekennzeichnet.
+
+== bei Triebfahrzeugen und Reisezugwagen ==
+
+{{:allgemeine_hilfe:bahn:bilder:feststellbremsrad.jpg?nolink&200 |Feststellbremsrad}}
+
+Feststellbremsen von Triebfahrzeuge und Reisezugwagen werden durch ein Feststellbremsrad betätigt. Dieses gibt es nur auf einer Seite in Lok bzw. Wagen.
+
+== bei Güterwagen ==
+
+|{{:allgemeine_hilfe:bahn:bilder:bodenbedienbare_bremse.jpg?nolink&200|bodenbedienbare Bremse}}|{{:allgemeine_hilfe:bahn:bilder:spindel-feststellbremse.jpg?nolink&200|Spindelbremse}}|
+
+Güterwagen können über bodenbedienbare Bremsen oder über Spindelbremsen verfügen.
+
+=== Sicherungsmittel ===
+
+Die folgenden Sicherungsmittel sind in der Regel nur in (Rangier-)Bahnhöfen vorhanden!
+
+^  Hemmschuh  ^  Radvorleger  ^
+|  {{ :allgemeine_hilfe:bahn:bilder:hemmschuh.jpg?nolink&200 |Hemmschuh}}  | {{ :allgemeine_hilfe:bahn:bilder:radvorleger.jpg?nolink&200 |Radvorleger}} |
+|Zum Anhalten und Festsetzen von Schienenfahrzeugen. Hemmschuhe werden nur auf die Schiene gelegt, nicht befestigt.|Radvorleger sind ausschließlich zur Sicherung stehender Fahrzeuge vorgesehen. Diese werden auf der Schiene befestigt.|
+
+Andere Gegenstände wie (Schotter-)Steine, Holzbalken und -keile, KFZ-Unterlegkeile u.ä. sind unggeignet und können sogar zum Entgleisen führen!
+
+==== Anheben von Fahrzeugen ====
+
+{{ :allgemeine_hilfe:bahn:bilder:ansetzpunkt_anheben.jpg?nolink&200|Ansetzpunkt zum Anheben}}
+
+Schienenfahrzeuge sollten nur von ausgebildetem Personal angehoben werden!
+
+  * Feuerwehr-Einsatzkräfte sollten das Fahrzeug nur teilweise (z.B. ein Drehgestell/Radsatz) aber nicht komplett anheben, da sonst weitere Gefahren entstehen.
+  * Zuvor Fahrzeuggewicht aus der [[allgemeine_hilfe:eisenbahn#fahrzeuganschriften|Fahrzeuganschrift]] ermitteln.
+  * Ansetzpunkte zum Anheben (siehe Bild) verwenden. Ist dies nicht möglich, können geeignete Träger die nicht weiter als 1 Meter von der Achse entfernt sind als Ansetzpunkt verwendet werden.
+    * [[allgemeine_hilfe:geraete:hebekissen|Hebekissen]] nicht unter der Achse ansetzen, da sich dort spitze Teile befinden.
+    * Beim Anheben an Ansetzpunkt oder Trägern muss das Fahrzeug erst aus den Federn gehoben werden. Die Federung kann fixiert werden, dies ist aber bauformanhängig.
+
+==== Eindringen in Fahrzeuge ====
+
+  * in der Regel kein hydraulisches Rettungsgerät erforderlich
+  * Zugangsmöglichkeiten neben Türen und Fenster ggf. auch über die Stirnseiten und bei den Faltenbälgen
+    * Notausstiegsfenster sind durch roten Punkt gekennzeichnet. Durch Schlag mit spitzem Gegenstand auf den roten Punkt reißt das Fenster.
+  * detailliertere Angaben sind in den [[allgemeine_hilfe:allgemein:rettungsdatenblaetter_bahn|Einsatzmerkblättern]] zu finden.
+
+==== Kennzeichnung von Gefahrgut-Kesselwagen ====
+
+Siehe Seite [[cbrn:allgemein:kennzeichnung:eisenbahn|Eisenbahnkennzeichnung]].
+
+==== Fahrzeuganschriften ====
+
+Die Fahrzeuganschriften sind an der Längsseite der Wagen zu finden. Bestandteile sind inbesondere:
+
+  * Eigentumskennzeichnung
+  * Gewichte und Längenangaben
+  * Ansetzpunkt zum Anheben
+
+=== Triebfahrzeug- und Wagennummern ===
+
+Für Trieb- und Reisefahrzeuge erklärt auf der Seite [[allgemeine_hilfe:allgemein:rettungsdatenblaetter_bahn|Einsatzmerkblätter]].
+
+{{:allgemeine_hilfe:bahn:bilder:wagennummer_gueterwagen.png?nolink&150 |Wagennummer Güterwagen}}
+
+Bei Güterwagen wird die Wagennummer wie auf dem Bild gezeigt von oben nach unten abgelesen. Der hier gezeigte Wagen hat also die Nummer
+
+<code>23 56 2275 108 - 1</code>
+
+=== Anschriften an Reisezugwagen ===
+
+{{:allgemeine_hilfe:bahn:bilder:anschrift_reisezugwagen.png?nolink&150 |Anschrift an Reisezugwagen}}
+
+Im oberen linken Feld ist das Leergewicht, im oberen rechten Feld das Gesamtgewicht (mit Passagieren) angegeben.
+
+Die untere Zeile gibt die Sitzplätze an, ggf. können diese in 1. und 2. Klasse unterteilt sein.\\
+Stehplätze werden nicht angegeben.
+
+=== Anschriften an Güterwagen ===
+
+^  Symbol  ^  Bedeutung  ^
+|  {{:allgemeine_hilfe:bahn:bilder:laenge_ueber_puffer.png?nolink|Länge über Puffer}}  |Länge über Puffer|
+|  {{:allgemeine_hilfe:bahn:bilder:eigenmasse.png?nolink|Eigenmasse (Leergewicht)}}\\ //alternativ://\\ {{:allgemeine_hilfe:bahn:bilder:eigenmasse_bremsen.png?nolink|Eigenmasse (Leergewicht) mit Bremsgewicht}}  |Eigenmasse (Leergewicht)\\ //alternativ:// \\ Eigenmasse (Leergewicht, obere Zeile) mit Bremsgewicht (untere Zeile) |
+|  {{:allgemeine_hilfe:bahn:bilder:ladelaenge.png?nolink|Ladelänge}}  |Ladelänge|
+|  {{:allgemeine_hilfe:bahn:bilder:bodenflaeche.png?nolink|Bodenfläche}}  |Bodenfläche|
+|  {{:allgemeine_hilfe:bahn:bilder:laderaum.png?nolink|Laderaum}}  |Laderaum|
+|  {{:allgemeine_hilfe:bahn:bilder:fassungsraum_behaelterwagen.png?nolink|Fassungsraum von Behälterwagen}}  |Fassungsraum von Behälterwagen|
+|  {{:allgemeine_hilfe:bahn:bilder:anschrift_abstaende.png?nolink|Anschrift Abstände}}  |Zeichen für den Abstand zwischen den:\\ - Endradsätzen in Drehgestellen\\ - Einradsätzen von Wagen ohne Drehgestellen\\ - Drehzapfen von Drehgestellwagen|
+|{{:allgemeine_hilfe:bahn:bilder:lastgrenzenraster_gueterwagen.png?nolink|Lastgrenzenraster für Güterwagen}}|Lastgrenzenraster für Güterwagen|
+
+Im Gegensatz zu Reisezugwagen wird bei Güterwagen kein Gesamtgewicht angegeben. Um dieses zur erhalten müssen die Angaben für Leergewicht und Zuladung miteinander addiert werden.
+
+Die Zuladung kann aus dem Lastgrenzenraster ermittelt werden; hier ist die maximale Zuladung nach Streckenkategorie (A, B, C, ...) angegeben. Da die Streckenkategorie vor Ort nicht ermittelt werden kann, muss immer der höchste Wert angesetzt werden.
+
+Aus den obigen Beispielangaben lässt sich also folgendes Maximalgewicht berechnen:\\
+Eigenmasse von 19,78t + max. Zuladung von 65,6t = 85,38t
+
+===== Weblinks =====
+
+  * [[http://www.deutschebahn.com/de/hidden_notfallmanagement/notfallmanagement/|Internetseite der Deutschen Bahn zum Notfallmanagement]]
+
+===== Quellenangabe =====
+
+  * [[allgemeine_hilfe:allgemein:leitfaden_hilfeleistungseinsaetze_bahn]], {{allgemeine_hilfe:bahn:leitfaden_hilfeleistung:db_lhe_00_deckblatt-impressum.pdf|Nutzung für nichtkommerzielle Zwecke im Impressum gestattet}}. Folgende Bilder wurden dem Leitfaden entnommen und unterliegen daher dem Copyright bzw. der Nutzungslizenz der DB:
+    * Kennzeichnung Feststellbremse
+    * Ansetzpunkt zum Anheben
+    * Bodenbedienbare Feststellbremse
+    * Feststellbremsrad
+    * Hemmschuh
+    * Kontrollfenster für Scheibenbremse
+    * Luftabsperrhahn
+    * Radvorleger
+    * Spindel-Feststellbremse
+  * Schulung bei der S-Bahn Berlin im Rahmen des B4-Lehrgangs 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * [[http://vfdb.de/Download-Bereich.111.0.html?&no_cache=1&L=0&tx_abdownloads_pi1[action]=getviewclickeddownload&tx_abdownloads_pi1[uid]=317&tx_abdownloads_pi1[cid]=192|vfdb-Merkblatt: Gefahrenabwehr im Bereich von öffentlichen Eisenbahnen - insbesondere Gefahrguteinsätze]]
+  * [[https://commons.wikimedia.org/wiki/File:Gedeckter-G%C3%BCterwagen-Hbillns-der-ITL-Schriftfeld.JPG|Foto Wagennummer Güterwagen]] (vor Aufnahme ins Einsatzleiterwiki zugeschnitten und bearbeitet): veröffentlicht vom Wikipedia-User [[wpde>Benutzer:Ketamin|Ketamin]] unter [[https://creativecommons.org/licenses/by-sa/2.0/de/deed.en|Creative Commons Attribution-Share Alike 2.0 Germany]]
+
+===== Stichwörter =====
+
+Eisenbahn, Bahn, Eisenbahn-Unfall, Eisenbahnunfall, Bahn-Unfall, Bahnunfall

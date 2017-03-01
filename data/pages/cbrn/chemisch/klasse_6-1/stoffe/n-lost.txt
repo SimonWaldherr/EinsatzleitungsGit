@@ -1,0 +1,24 @@
+====== N-Lost ======
+
+Hautkampfstoff, siehe [[cbrn:chemisch:chemische_kampfstoffe|Chemische Kampfstoffe]]
+
+===== zu treffende Maßnahmen =====
+
+Zu finden auf der {{cbrn:chemisch:klasse_6-1:stoffe:lfs_bw_kampfstoffe_n-lost.pdf|Einsatzleiterkarte N-Lost}} der Landesfeuerwehrschule Baden-Württemberg.
+
+==== besondere Gefahren ====
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+===== Weblinks =====
+
+  * [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/490230.xml?f=templates&fn=default.htm|N-Lost in der Gestis-Gefahrstoffdatenbank]]
+  * [[wpde>N-Lost#Stickstoffloste_.28N-Lost.29|Wikipedia: N-Lost]]
+
+===== Quellenangabe =====
+
+  * {{cbrn:allgemein:hinweise_abc_kampfstoffe.pdf|Einsatzleiterkarten für den Einsatz mit ABC-Kampfstoffen, Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2011}}. Nutzung mit freundlicher Genehmigung.
+
+===== Stichwörter =====
+
+HN, Stickstoff-Lost, HN-3, Trichlortriethylamin

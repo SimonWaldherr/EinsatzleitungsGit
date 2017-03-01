@@ -1,0 +1,67 @@
+====== PROPEN - UN 1077 - Gefahrnr. 23 - ERICard-Nr. 2-45 - UN1077 ======
+|Stoff | PROPEN   |
+|UN-Nummer | 1077   |
+|[[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Gefahrnummer]] | 23   |
+|ADR-Gefahrzettel |  {{cbrn:2-1.png?nolink&100}}    |
+|ADR-Klasse | 2   |
+|Klassifizierungscode | 2F   |
+|[[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]] |    |
+|ERI-Card | 2-45   |
+
+==== Unfall-Hilfeleistung ====
+===== Verflüssigtes Gas, entzündbar =====
+==== 1. Eigenschaften. ====
+  * Bildet mit Luft explosionsfähige Gemische.
+  * Erstickend! Das Gas wirkt ohne vorherige Wahrnehmung!
+==== 2. Gefahren. ====
+  * Erwärmung des Behälters führt zu Druckanstieg und Berstgefahr mit schlagartiger Freisetzung einer entzündbaren Dampfwolke (Gefahr eines [[cbrn:allgemein:begriffsklaerungen#bleve|BLEVE]]), die explodieren und sich mit einer Druckwelle (Dampfwolkenexplosion) ausbreiten kann.
+  * Entwickelt giftige und reizende Dämpfe bei starker Erwärmung oder Brand.
+  * Das Gas kann unsichtbar sein, in Kanalisation und Kellerräume eindringen oder die Atemluft in geschlossenen Räumen verdrängen.
+==== 3. Persönlicher Schutz. ====
+  * Umluftunabhängiger Atemschutz
+  * Einsatzkräfte vor Strahlungswärme schützen! Wassersprühstrahl (Hydroschild) oder andere geeignete Maßnahmen
+==== 4. Einsatz-Massnahmen. ====
+=== 4.1 Allgemeine Massnahmen. ===
+  * Mit dem Wind vorgehen.
+  * Nicht rauchen, Zündquellen ausschließen.
+  * Gefahr für die Öffentlichkeit! Personen in der Nähe auffordern, in Gebäuden zu bleiben, Fenster und Türen zu schließen und Klimaanlagen abzustellen. [[allgemein:evakuierung|Evakuierung von Personen]] erwägen.
+  * Zahl der Einsatzkräfte im [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] beschränken.
+  * Personen auffordern, Kellerräume, Kanalisation oder andere geschlossene tieferliegende Räume zu verlassen und nicht wieder zu betreten.
+=== 4.2 Massnahmen bei Stoffaustritt. ===
+  * Lecks wenn möglich schließen.
+  * Ausgetretenes Produkt mit allen verfügbaren Mitteln auffangen.
+  * [[cbrn:geraete:ex-messgeraet|Auf explosionsfähige Atmosphäre überprüfen]].
+  * Keine funkenreißenden Werkzeuge verwenden. Explosionsgeschützte Ausrüstung einsetzen.
+  * Gaswolke mit Sprühstrahl niederschlagen oder verwirbeln. Sprühstrahl nicht mit flüssigem Produkt in Berührung kommen lassen.
+  * Falls der Stoff in offenes Gewässer oder Kanalisation gelangt, zuständige Behörde informieren.
+  * Falls keine Gefahren für Einsatzkräfte oder die Öffentlichkeit entstehen, Kanalisation und Kellerräume belüften.
+=== 4.3 Massnahmen bei Feuer (falls Stoff betroffen). ===
+  * Behälter mit Wasser kühlen.
+  * Falls ohne Risiko möglich, Gaszufuhr absperren.
+  * Gasflamme nicht löschen, außer wenn unbedingt notwendig.
+  * Aus geschützter Stellung arbeiten, um Gefährdung der Einsatzkräfte zu reduzieren. Mobile Wasserwerfer verwenden.
+  * Mit Sprühstrahl oder [[brand:allgemein:pulver|Pulver]] löschen.
+  * Nicht mit Vollstrahl löschen.
+  * Brandgase wenn möglich mit Sprühstrahl niederschlagen.
+  * Aus Umweltschutzgründen [[brand:allgemein:loeschwasserrueckhaltung|Löschmittel zurückhalten]].
+==== 5. Erste Hilfe. ====
+  * Falls der Stoff in die Augen gelangt ist, mindestens 15 Minuten mit Wasser spülen und Personen sofort medizinischer Behandlung zuführen.
+  * Kontaminierte Kleidung sofort entfernen und betroffene Haut mit viel Wasser spülen.
+  * Personen, die mit dem Stoff in Berührung gekommen sind oder Dämpfe eingeatmet haben, sofort medizinischer Behandlung zuführen. Dabei alle verfügbaren Stoffinformationen mitgeben.
+  * Bei Verbrennungen die betroffenen Hautbereiche sofort und so lange wie möglich mit kaltem Wasser kühlen. An der Haut haftende Kleidung nicht entfernen.
+==== 6. Besondere Vorsichtsmassnahmen bei der Bergung von Havariegut. ====
+  * Bergung des Produkts kann nicht mit Standardausrüstung durchgeführt werden! Sofort [[cbrn:allgemein:tuis|Fachberater hinzuziehen]].
+==== 7. Vorsichtsmassnahmen nach dem Hilfeleistung-Einsatz. ====
+=== 7.1 Ablegen der Schutzkleidung. ===
+  * Kontaminierte Kleidung so schnell wie möglich, noch vor dem Verlassen der Einsatzstelle, ablegen.
+=== 7.2 Reinigung der Ausrüstung. ===
+  * Vor Abtransport von der Einsatzstelle mit Wasser abspülen.
+===== Quelle und Copyright =====
+
+Bitte nehmen Sie die Verwendungshinweise zu den ERI-Cards auf der [[cbrn:ericards:start#allgemeine_hinweise|ERI-Card Übersichtsseite]] zur Kenntnis.
+
+Diese ERICard kann im Original unter folgendem Link aufgerufen werden: [[http://www.ericards.net/psp/ericards.psp_ericard?lang=3&subkey=10770423]]
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

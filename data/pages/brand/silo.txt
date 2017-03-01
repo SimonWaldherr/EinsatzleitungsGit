@@ -1,0 +1,315 @@
+====== Silobrand ======
+
+===== zu treffende Maßnahmen =====
+
+Allgemeine Maßnahmen für [[brand:gebaeudebrand|Gebäudebrände]] beachten!
+
+  * Bei brennbarem Lagergut besteht die Gefahr einer Staubexplosion!
+    * Lagergut – staubig, körnig, schrotig, stückig? Bis zu 40% Luftanteil in Schüttungen möglich!
+    * Jedes Lagergut staubt – mechanischer Abrieb!
+  * Alle Handlungen ohne Zeitdruck unter Beachtung des Explosions-Schutzes!
+    * Jegliche Staubaufwirbelung vermeiden!
+    * Silo gut abdichten (inkl. Anschlussleitungen/-kanäle)!
+    * Einsatzkräfte und Betriebspersonal minimieren!
+    * Produktionsstopp im gesamten Anlagenbereich!
+  * Trümmerschatten mindestens 2-fache Höhe des betroffenen Silos/Silogebäudes! Absperrung veranlassen!
+  * Genaue Erkundung - [[allgemein:geraete:waermebildkamera|Wärmebildkamera, Fernthermometer]], [[cbrn:geraete:ex-messgeraet|Gasmessgeräte]]!
+    * Siloaufbau/vorhandene Öfnungen!
+    * Welches Lagergut/welche Eigenschaften?
+    * Stadium der thermischen Umsetzung/des Brandes!
+    * Vorhandene Ex-Schutzmöglichkeiten! Funktionstüchtigkeit?
+    * Innenliegende Silos ggf. nur von oben und über die Förderwege erreichbar!
+  * Vorhandenen Alarmplan nutzen!
+  * Hinzuziehen eines ortskundigen Fachberaters! Sicherheitsingenieur der Anlage, Mitarbeiter, Zulieferer, Berufsgenossenschaft (NGG), Versicherer...
+  * Nur dringend notwendige Stromversorgung beibehalten!
+  * Ausleuchten der notwendigen Einsatz- bzw. Arbeitsbereiche!
+  * Löschmittel grundsätzlich drucklos bzw. indirekt aufbringen!
+  * Gleichmäßiges Kühlen betroffener und angrenzender Silos!
+    * Wasserberieselung, [[brand:allgemein:schaum#dls_cafs|Druckluftschaum (DLS)]] „trocken“, Gel (z. B. Firesorb 2%) , ggf. [[brand:allgemein:schaum|Schwerschaum]]
+  * Ausräumen von Silos nur mit Fachberatung und flankierenden Maßnahmen – Löschmittel, Schutzgas!
+  * Bei unverzichtbarem Arbeiten im Ex-Bereich, Atmosphäre mit Sprühwasser benetzen – gegen statische Aufladung!
+  * Kein Einfahren von Personal in betroffene Silos!
+  * Maßnahmen zur [[allgemein:absturzsicherung|Absturzsicherung]] treffen!
+  * Kontrolle der Atemluft in angrenzenden Räumen!
+    * Messung von [[cbrn:chemisch:klasse_2:stoffe:sauerstoff|Sauerstoff]] (O<sub>2</sub>), Kohlendioxid (CO<sub>2</sub>), [[cbrn:chemisch:klasse_2:stoffe:kohlenmonoxid|Kohlenmonoxid]] (CO)!
+    * Messtechnik beispielsweise über Gaslieferanten!
+    * Situativ umluftunabhängigen Atemschutz anordnen!
+  * Nur so viel Personal wie notwendig an der Einsatzstelle!
+    * lange Einsatzdauer = Personalaustausch berücksichtigen!
+  * Lückenlose Einsatzdokumentation!
+    * inkl. Bildern, Besprechungsergebnissen, Gesprächsnotizen
+    * Ausführliches Messprotokoll
+
+==== besondere Gefahren ====
+
+  * Der **Aufenthalt auf einem brennenden Silo bedeutet Lebensgefahr**! -> Aufenthaltszeit so kurz wie möglich wählen![[#quellenangabe|**]]
+  * Neben Staubexplosionen sind auch explosive Gemische durch Schwelgase möglich![[#quellenangabe|**]]
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Brandbekämpfung: Löschmittel ====
+
+=== Wasser ===
+
+  * Einsatz grundsätzlich als Netzwasser!
+  * Einsatz grundsätzlich mit niedrigem Druck, über Sprühdüsen oder Brauseköpfe und keinesfalls mit Vollstrahl!
+  * Nur bedingter Einsatz bei saug- und quellfähigem Lagergut bzw. bei Material, das gefährlich mit Wasser reagiert!
+  * Möglichst in die Reaktionszone einbringen! - Nur bei grobkörnigem Siloinhalt ohne Hilfsmittel möglich!
+  * Ausspülen brennender Silos nur, wenn ...
+    * das Lagergut es zulässt
+    * das Bauwerk es aushält
+    * ein Ablauf garantiert ist und
+    * ein Aufangen gewährleistet ist, z. B. Container, Saugfahrzeug,
+
+-> Nutzung von Löschlanzen, Druckspül-Kanalmolchen o.ä.
+
+=== Schaum ===
+
+^ Einsatz                                 ^ für offene Brände ^ über große Entfernung ^ zum Abdecken ^
+^ Mittelschaum                            |  ✔                |  ✘                    |  ✔           |
+^ Schwerschaum /\\ Druckluftschaum max. 1:3 |  ✔                |  ✔                    |  ✔           |
+
+  * nur indirekter Auftrag!
+  * Einbringen in Hohlräume nur über Sonderrohre oder über Anschlüsse am Silo möglich!
+
+=== Pulver ===
+
+  * Einsatz für Entstehungs- oder Anlagenbrände (z.B. Trockner)
+    * wirkt nicht nachhaltig beim Löschen -> anschließend Schaum!
+    * mögl. drucklos aufbringen (z. B. Pulverbrausen)
+  * Einsatz zum Abdecken
+    * stabile, dichte Deckschicht unterstützt Selbstinertisierung
+    * möglichst drucklos aufbringen (z. B. Pulverbrausen)
+
+=== Gel ===
+
+  * Einsatz zum Löschen auch in Hohlräumen (z. B. Firesorb 0,5-1%ig)
+    * haftet am Brandgut und kühlt
+    * mögl. drucklos (Brauseköpfe) bzw. indirekt auftragen
+    * läuft nicht wie Wasser an Verkrustungen in Hohlräumen einfach ab, sondern hinterlässt einen Film
+  * Einsatz zum Abdecken (z. B. Firesorb 2-3%ig)
+    * sehr hohe Dampfdichte bei Selbst- und Fremdinertisierung
+  * Einsatz zum Kühlen (z. B. Firesorb 1-2%ig)
+    * am betroffenen Silo und als Nachbarschaftsschutz
+
+=== für das Abdecken gilt ===
+
+  * <wrap em>ACHTUNG! Durch Abdecken keine inertisierende Wirkung bei einstürzendem Lagergut! Die Deckschicht kann bei einstürzendem Lagergut aufgerissen werden (z.B. Brückeneinsturz)!</wrap>
+  * <wrap em>ACHTUNG! Grundsätzlich besteht die Gefahr des Einsturzes von Hohlräumen!</wrap>
+
+==== Brandbekämpfung: Taktik ====
+
+=== Verhindern einer Staubexplosion! ===
+
+<wrap em>Keine getroffene Maßnahme darf Staub aufwirbeln!</wrap>
+
+  * Luftzug im Silo bzw. Silogebäude (mit Staubablagerung) vermeiden!
+  * Löschmittel nur drucklos bzw. indirekt aufbringen!
+  * Erst Umgebung der Brandstelle, dann Brandherd benetzen!
+
+=== Ohne Zeitverzug handeln! ===
+
+  * Umgehend ortskundigen Fachberater mit Kenntnissen des betroffenen Lagergutes hinzuziehen!
+  * Schutzgas festlegen und anfordern!
+  * Bei Selbstinertisierung Abdeckmaterial festlegen/anfordern!
+  * Phase des allmählichen Temperaturanstieges im Silo nutzen, um die Maßnahmen zur Brandbekämpfung bzw. zum ggf. notwendigen Kühlen einzuleiten!
+
+=== Offene Brände umgehend ablöschen! ===
+
+  * Konsequent von außen nach innen und unten nach oben!
+  * Mittelschaum
+  * Netzwasser, druckarm, über Brauseköpfe oder indirekt als Sprühnebel!
+  * Schwerschaum, DLS „nass“, Gel (z. B. Firesorb 0,5-1%) – Nur indirekter Autrag!
+
+=== Förderwege/Öffnungen am Silo ===
+
+  * schließen/verstopfen, die eine Kaminwirkung begünstige könnten!
+
+=== Glimm- und Schwelnester bedeckt halten! ===
+
+  * Schaumschicht, Gelschicht, Gesteinsmehl, Löschpulver
+
+=== Vorsichtiges Aussondern oberflächlicher Glutnester ===
+
+  * bzw. Ausfahren des Silos unter Schutzgas!
+  * Ausfahren ohne Inertisierung nur, wenn Staubaufwirbelung zweifelsfrei ausgeschlossen wird, z. B. grobkörniges Produkt ohne Staub- bzw. Abriebanteile benutzen!
+  * Selbstinertisierung nur, wenn Lagergut keine Verkrustungsbrücken oder -pfropfen bildet!
+  * Möglichst Stickstoff (N<sub>2</sub>) verwenden!
+
+=== Laufende CO2-/CO-Messung ===
+
+  * in angrenzenden Räumen!
+  * Atemschutz!
+
+=== Länger andauernde Löschmaßnahmen ===
+
+  * Brandwache einrichten[[#quellenangabe|**]]
+  * Nachbarzellen im Silo entleeren um Brandausbreitung zu verhindern[[#quellenangabe|**]]
+
+==== Inertisierung ====
+
+zur Verhinderung einer Primär-Explosion
+
+  * Verdrängen der Luft im Silo durch Schutzgase \\ **Ziel:**  Sauerstofgehalt im Silo unter 8 Vol.% (organische Stofe); unter 4 Vol.% (Metallstäube)
+  * Bei größeren Silos statt Flaschenbündeln Tanks und Verdampfer verwenden[[#quellenangabe|**]]
+  * Pro 1 m³ Schüttgut ist in etwa die gleiche Menge Inertgas erforderlich, um die Sauerstoffkonzentration auf 2 Vol.-% abzusenken, gute Dichtigkeit des Silos vorausgesetzt.[[#quellenangabe|**]]
+
+=== Selbstinertisierung ===
+
+  * Erzeugung von Kohlendioxid durch Eigenstickeffekt
+      * unbrennbare Abdeckung aufbringen (Gel, z. B. Firesorb 2-3%ig, Gesteinsstaub, Löschpulver, Salz)
+      * keine wasserreaktiven Stoffe nutzen (Zement, Kalk …)
+  * Einsatz nur bis 550°C Schweltemperatur!
+  * Zusätzliche Inertisierung beim Ausfahren des Silos!
+
+=== Fremdinertisierung ===
+
+  * Einsatz, wenn Selbstinertisierung nicht möglich (Sicherheit) oder nicht erwünscht (Produktrettung)
+
+**Einsatz von Stickstoff (N<sub>2</sub>) ist zu bevorzugen:**
+
+  * Eigenschaften:
+      * farb- und geruchlos, geringfügig leichter als Luft
+      * aus 1kg Flüssigphase rund 840 l Gas/ca. 0,8m³ Gas
+      * wirkt erstickend → umluftunabhängiger Atemschutz
+
+**Wichtig:**  Stickstoff kann nur von unten durchströmen! (Keine Garantie für das Erreichung aller Poren!)
+
+  * Lieferung i.d.R. tiefkalt verflüssigt (-198°C) - Mit Verdampfer erwärmen!
+      * Druck zum Einbringen nicht über 2 bar!
+      * Druckschläuche der Feuerwehr zum Transport nutzbar!
+      * beim Einbringen kann ggf. der Brand angefacht werden[[#quellenangabe|**]]
+
+**Einsatz von [[:brand:allgemein:co2|Kohlendioxid]] (CO<sub>2</sub>):**
+
+Nur, wenn Stickstoff nicht zeitnah verfügbar und solange Silotemperatur < 550°C:
+
+  * Eigenschaften:
+      * farb- und geruchlos, rund 50% schwerer als Luft
+        * Eindringen in die Schüttung durch Aubringen von oben
+        * bildet See im unteren Silobereich, solange dieser dicht ist
+      * aus 1 kg Flüssigphase rund 540l Gas/ca. 0,5m³ Gas
+      * Nervengift (MAK/AGW 0,5Vol.%; erträglich 2,5Vol.%; akute Gefahr 6,0 Vol.%; tödlich 20,0 Vol.%) \\ Beispiel: O<sub>2</sub>  auf 8,4 Vol.% runter → 60 Vol.% CO<sub>2</sub>  = 3-fach tödlich → umluftunabhängiger Atemschutz
+      * Dissoziation beginnt bei ca. 1.200°C
+  * Bei CO 2 -Einsätzen, in Verbindung mit Glutbränden, fällt immer auch Kohlenmonoxid (CO) an! \\ Möglichkeit elektrostatischer Aufladung bei Dekompression!
+      * Einsatz leitfähiger Schläuche, Erdung des Systems!
+      * CO<sub>2</sub>  muss über den oberen Einstiegsdeckel eingebracht werden. Dabei den Deckel nicht weiter als nötig öffnen um Luftsauerstoff-Zufuhr zu vermeiden.[[#quellenangabe|**]]
+      * Messungen von CO<sub>2</sub>- und CO-Konzentration außerhalb des Silos durchführen (Eigenschutz!)[[#quellenangabe|**]]
+
+**Einsatz von Edelgasen:**
+
+Nur bei Bränden reaktiver Metallstäube vertretbar. (O<sub>2</sub>-Reduzierung auf unter 4 Vol.%)
+
+=== Grenzen der Inertisierung: ===
+
+Nur bedingt wirksam …
+
+  * … bei exothermen Reaktionen,
+  * … bei Stoffen, in denen Sauerstoff gebunden ist.
+
+
+==== Inertisierung: Taktik ====
+
+  * Fachberatung durch Gaslieferanten, Berufsgenossenschaft und Silobetreiber!
+  * Kühlen des Silos!
+  * Verschließen nicht notwendiger Öffnungen!
+  * Nie Kopfraum und Auslauf gleichzeitig öffnen!
+  * Schutzgasvolumen zur Erstinertisierung = Silovolumen!\\ -> dann Reserve zum laufenden Verlustausgleich
+  * Kontinuierliche Inertisierung, bis Silo restlos beräumt und staubfrei ist!
+  * Räumung des Silos erst, wenn Siloatmosphäre nicht mehr zündfähig ist!
+  * Völliges Entleeren in einem Zug (-> Luteintritt vermeiden)!\\ -> möglichst bis zuletzt eine Produktvorlage (Siloinhalt als Pfropfen) im Siloauslauf erhalten
+  * Sauerstoffgehalt in freien Räumen (Bsp. Kopfraum, Hohlbrand) immer unter 4 Vol.% halten!
+  * Schutzgaseintrag immer von oben (Kopfraum) **und** von unten (Auslaufbereich)!
+  * Schutzgaseintrag jeweils an zwei Stellen gleichzeitig!
+    * max. Staudruck mit Betreiber absprechen (i.d.R. nicht > 0,5 bar)!\\ -> Vermeiden vertikaler Schächte und Siloschäden
+    * Durchdringungszeiten zwischen 1 Std. und 24 Std. (Produkt körnig bis mehlig) einplanen!
+
+=== Technische Voraussetzungen ===
+
+  * Wärmebildkamera, ausreichend Fernthermometer und Gasmessgeräte (auch als Sonden)\\ -> Messsondenöfnungen (0,5“) nicht in der Nähe der Einblasestutzen
+  * Abdichtmaterial: z. B. Dichtkissen, Holzplatten, Silikon, Bauschaum zur Komplettabdichtung
+  * Einblasestutzen/-möglichkeiten in Absprache mit dem Gaslieferant schaffen – nur an modernen Silos vorhanden!
+    * mit dem Lieferanten abstimmen welche Einspeisemöglichkeiten (Armaturen, etc.) zur Verfügung stehen[[#quellenangabe|**]]
+    * empfohlen: 2 x im Kopfraumbereich und 2 x im Auslaubereich (1,0 – 1,5 m über Auslassschieber)
+    * empfohlen: Durchmesser 1,5-2“; 15° nach oben geneigt; Anschluss Storz C
+    * Bohrungen auf Höhe des Produkts um Eindringen von Luftsauerstoff ins Silo zu verhindern[[#quellenangabe|**]]
+    * Nutzung von Revisions-, Belüftungs- und Stocheröffnungen zur Schutzgaseinbringung über Rohr- u. Löschlanzen (Abdichtung!) bzw. Anfertigung von Ersatzdeckeln mit Einblasestutzen
+    * ggf. Nutzung vorhandener Kaltbelüftungsanlage
+  * Ggf. Bohrungen (Messen, Inertisieren, Löschmittelabgabe)!
+  * Nicht am Silo schweißen!
+  * Anfertigung verlängerbarer Rohre, um Schutzgas nah an Glutnester zu bringen\\ -> erhöhte Schutzgasdeckung beim Lösen der Nester
+  * Leitfähige Schläuche zum Eintrag von flüssigem oder teilweise flüssigem CO<sub>2</sub>!
+  * Provisorische Inertisierung notfalls...
+    * im Kopfraumbereich über eingehängte Schläuche (letzte Kupplung entfernen) oder Lanzenrohre
+    * im Auslauftrichterbereich über Austrageschnecke
+
+==== Ausfahren: Taktik ====
+
+  * Umsichtiges Vorgehen unter größter Vorsicht!
+  * Bei offenem Feuer im Silo, kein Bewegen des Lagergutes!
+  * Silos mit Glimm- oder Schwelbränden nie ohne flankierende Maßnahmen entleeren!
+  * Bei Produktentnahme, Weiterförderung und Abwurf Staubentwicklung vermeiden!
+    * Niederschlagen von Staubanteilen mit Netzwassersprühnebel
+    * ggf. Nutzung betriebseigener Absaugung
+  * Ebenfalls Staubreduzierung und Sicherung in Räumen, durch die gefördert werden muss!\\ -> Ex-Gefahr besteht theoretisch bis zur Ausfuhr ins Freie!
+  * Nachstochern bei verkrustetem Pfropfen im Auslauf!
+  * Brandnester/Verkrustungen – auch scheinbar abgelöschte – aussieben/auslesen!\\ -> separates Ausbrennen oder Ablöschen
+  * Hohlräume nicht ohne komplette Inertisierung (unter 4 Vol.% O<sub>2</sub>) zum Einsturz bringen!
+    * Verschluss aller Öffnungen im Auslauftrichterbereich!
+    * Abziehen des Personals im Fallbereich!
+    * Atemschutz für verbleibende Kräfte!
+  * Löschbereitschaft vom Auslauf bis zum Abtransport!
+  * Kein direktes Umlagern von ausgebrachtem Lagergut in freie Silos (Ex-Gefahr/Verschleppung)!
+
+=== Technische Voraussetzungen ===
+
+  * Platz für auslaufendes Lagergut (ggf. Demontage vorhandener Fördereinrichtungen)
+  * Einsatzbereite Löschgeräte
+  * Ausreichend geeignete Geräte zum Ausfahren des Schüttgutes ins Freie\\ -> z. B. Tragekübel, Schubkarren, Rutschen, Förderbänder, Schrägaufzüge
+  * Stocherstangen; verlängerbare Rohre; Fallgewichte an Stahlseilen/Ketten\\ -> ggf. Tiefbaubohrer oder Betonbaurüttler (Ex-Schutz!)
+  * Ggf. Schaufelbagger, Radlader
+  * Genügend Transportkapazität zur Abfuhr
+  * Ggf. Siebe zur Aussonderung von Verkrustungen und Aufnahmewannen zum Ablöschen
+
+===== Kontaktdaten/Ansprechpartner =====
+
+==== Notrufnummern von Lieferanten von Inertgasen: ====
+
+    * Firma Linde AG:
+      * 089/7446-2110
+      * 089/7446-2333
+    * Firma Messer Industriegas GmbH:
+      * 06196/7760-200
+    * Firma Air Liquide Deutschland GmbH:
+      * 01805/826282
+
+Allgemein auch über www.industriegaseverband.de
+
+==== Verdampfer ====
+
+z.B. über:
+
+Bayerischer Müllerbund e.V.\\
+Dr. Rampl\\
+Tel.: 089-281155\\
+kontakt@muellerbund.de
+
+==== Begleitung der Brandbekämpfung und Messtechnik ====
+
+z.B.:
+
+DMT GmbH & Co. KG\\
+Tel. 0231-5333310\\
+Notrufnummer: 0231-5333237\\
+www.dmt.de
+
+===== Quellenangabe =====
+
+Der Inhalt dieser Seite wurde vollständig dem Merkblatt "Verhalten bei einem Silobrand" entnommen. Einzelne Ergänzungen, die aus der "Handlungshilfe zum Vorgehen bei Silobränden" stammen, wurden durch [[#quellenangabe|**]] gekennzeichnet.
+
+  * {{:brand:uk-rlp_silobrand.pdf|Verhalten bei einem Silobrand: Merkblatt für die Feuerwehren in Rheinland-Pfalz}}, Herausgeber: Unfallkasse Rheinland-Pfalz, Nutzung mit Genehmigung des Autors
+  * [[http://vorschriften.portal.bgn.de/files/9427/43911/currentVersion/_ASI_9.35_30.4.klein.pdf|Handlungshilfe zum Vorgehen bei Silobränden]], Berufsgenossenschaft Nahrungsmittel und Gastgewerbe
+
+===== Stichwörter =====
+
+Getreide, Malz, Stärke, Holzspäne, Pellets, Kakaopulver, Milchpulver

@@ -1,0 +1,60 @@
+====== DG-EA-Code ======
+
+{{ cbrn:allgemein:kennzeichnung:dg-ea-3ye.png?nolink&350|Beispieltafel für Benzin}}Der DG-EA-Code (früher HAZCHEM-Code) wurde für Rettungskräfte in Großbritannien entwickelt. Er wird aber auch in anderen Ländern eingesetzt, beispielsweise in Australien. Er gibt genaue Anweisungen welche Löschmittel und Form der Schutzkleidung gewählt werden und welche Maßnahmen veranlasst werden sollen.
+
+Der DG-EA-Code besteht aus zwei bis drei Zeichen, wobei das erste Zeichen das zu verwendende Löschmittel, das zweite Zeichen eine eventuelle Reaktions- und Explosionsgefahr und die zu verwendende Schutzkleidung angibt und das dritte Zeichen auf eine ggf. vorzunehmende [[allgemein:raeumung|Räumung]] des Gebiets hinweist. 
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== 1. Zeichen: Löschmittel ====
+
+^  Zeichen  ^  einzusetzendes Löschmittel  ^
+|  1  | Vollstrahl |
+|  2  | Wassernebel, ersatzweise Sprühstrahl |
+|  3  | [[brand:allgemein:schaum|Schaum]] |
+|  4  | Trockenlöschmittel (z.B. [[brand:allgemein:pulver|Pulver]]) |
+
+Eine kleinere Löschmittel-Zahl schließt eine größere mit ein; ist ein Stoff mit "2" gekennzeichnet kann beispielsweise auch Schaum und Pulver zum Löschen verwendet werden.
+
+<wrap important>Ist der Stoff mit **4** gekennzeichnet, darf das Löschmittel auf keinen Fall Wasser enthalten!</wrap>
+
+==== 2. Zeichen: Gefahren, Schutzkleidung und Maßnahmen ====
+
+^  2. Zeichen                                                                                                  ^  Gefahren                                 ^  Schutzkleidung             ^  Maßnahmen  ^
+|  P                                                                                                           |  heftige Reaktion oder Explosion möglich  |  Chemikalienschutzkleidung  |  Verdünnen   |
+|  R                                                                                                           |                                           |  Chemikalienschutzkleidung  |  Verdünnen   |
+|  S                                                                                                           |  heftige Reaktion oder Explosion möglich  |  PA                         |  Verdünnen   |
+|  {{cbrn:allgemein:kennzeichnung:s_schwarz.png?nolink&15|S mit scharzem Hintergrund}}  |  heftige Reaktion oder Explosion möglich  |  PA nur bei Brand nötig     |  Verdünnen   |
+|  T                                                                                                           |                                           |  PA                         |  Verdünnen   |
+|  {{cbrn:allgemein:kennzeichnung:t_schwarz.png?nolink&18|T mit scharzem Hintergrund}}  |                                           |  PA nur bei Brand nötig     |  Verdünnen   |
+|  W                                                                                                           |  heftige Reaktion oder Explosion möglich  |  Chemikalienschutzkleidung  |  Auffangen  |
+|  X                                                                                                           |                                           |  Chemikalienschutzkleidung  |  Auffangen  |
+|  Y                                                                                                           |  heftige Reaktion oder Explosion möglich  |  PA                         |  Auffangen  |
+|  {{cbrn:allgemein:kennzeichnung:y_schwarz.png?nolink&18|Y mit scharzem Hintergrund}}  |  heftige Reaktion oder Explosion möglich  |  PA nur bei Brand nötig     |  Auffangen  |
+|  Z                                                                                                           |                                           |  PA                         |  Auffangen  |
+|  {{cbrn:allgemein:kennzeichnung:z_schwarz.png?nolink&18|Z mit scharzem Hintergund}}   |                                           |  PA nur bei Brand nötig     |  Auffangen  |
+
+Bei Kennzeichnung "Chemikalienschutzkleidung" muss entweder [[cbrn:allgemein:koerperschutzformen|Körperschutzform]] 2 oder 3 getragen werden.
+
+Fällt der Code in den Bereich "Verdünnen" und der verdünnte Stoff fließt in die Kanalisation, so sollte das zuständige Abwasserwerk verständigt werden.
+
+Befindet sich ein Rechteck um den Buchstaben oder ist er von den eckigen Klammern umfasst, z.B. [S], so ist dies wie der schwarze Untergrund zu werten.
+
+==== 3. Zeichen: Räumung prüfen ====
+
+^  Zeichen  ^  Bedeutung  ^
+|  E        |  [[allgemein:raeumung|Räumung]] des betroffenen Gebietes prüfen  |
+
+==== Beispiele ====
+
+^ Kennzeichnung ^  Bedeutung  ^
+|  {{cbrn:allgemein:kennzeichnung:dg-ea-3ye.png?direct&200|DG-EA-Code 3[Y]E}}  |[[cbrn:ericards:klasse_3:12030534|Benzin]]\\ - Schaum oder Pulver verwenden\\ - Stoff reagiert heftig/explosionsartig, bei Brand PA verwenden, auslaufenden Stoff auffangen\\ - Umgebung räumen |
+|  {{cbrn:allgemein:kennzeichnung:dg-ea-1se.png?direct&200|DG-EA-Code 1[S]E}}  |[[cbrn:ericards:klasse_5-1:19421094|Ammoniumnitrat]]\\ - Jedes Löschmittel zulässig\\ - Stoff reagiert heftig/explosionsartig, bei Brand PA verwenden, auslaufenden Stoff verdünnen\\ - Umgebung räumen |
+|  {{cbrn:allgemein:kennzeichnung:dg-ea-2p.png?direct&200|DG-EA-Code 2P}}  |[[cbrn:ericards:klasse_8:27961699|Schwefelsäure]]\\ - Wassernebel (Sprühstrahl), Schaum oder Pulver verwenden\\ - Stoff reagiert heftig/explosionsartig, Chemikalienschutzkleidung erforderlich, auslaufenden Stoff verdünnen |
+|  {{cbrn:allgemein:kennzeichnung:dg-ea-2x.png?direct&200|DG-EA-Code 2X}}  |[[cbrn:ericards:klasse_6-2:32912081|Klinischer Abfall]]\\ - Wassernebel (Sprühstrahl), Schaum oder Pulver verwenden\\ - Chemikalienschutzkleidung erforderlich, auslaufenden Stoff auffangen |
+
+===== Quellenangabe =====
+
+  * Lehrgangsunterlagen ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+  * [[http://www.safework.sa.gov.au/uploaded_files/ds9i.pdf|Informationsmaterial zum HAZCHEM-Code]] der Regierung von Süd-Australien
+  * Artikel [[http://en.wikipedia.org/wiki/Hazchem|HAZCHEM]] aus der englischsprachigen Wikipedia

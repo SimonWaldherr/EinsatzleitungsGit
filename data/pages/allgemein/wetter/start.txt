@@ -1,0 +1,3 @@
+====== Wetter ======
+
+{{simplenavi>allgemein:wetter}}

@@ -1,0 +1,32 @@
+====== Klasse 4.3 Stoffe, die in Berührung mit Wasser entzündbare Gase entwickeln ======
+
+===== zu treffende Maßnahmen =====
+
+[[cbrn:ericards:klasse_4-3:start]]
+
+  * von Feuchtigkeit und Regen fernhalten, ggf. Abdecken
+  * Nicht mit Wasser oder Schaum löschen! [[#loeschmittel|Löschmittel siehe unten]].
+
+==== besondere Gefahren ====
+
+  * heftige Reaktionen beim Kontakt mit Wasser möglich, sogar schon mit Luftfeuchtigkeit
+  * Entstehung explosiver Gas-Luftgemische möglich
+  * Selbstentzündung von verschiedenen Stoffen möglich
+  * beim Brand: Bildung meist reizender und giftiger Gase
+  * Entstehung giftiger und ätzender Stoffe beim Kontakt mit Wasser
+  * wassergefährdend
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Löschmittel ====
+
+  * [[brand:allgemein:pulver|Löschpulver]] (Metallbrandpulver)
+  * Sand: Baumarkt, ggf. unter Gehwegplatten (falls trocken)
+  * Zement: Baumarkt
+  * Salz: Streusalz von Winterdienst
+
+===== Quellenangabe =====
+
+  * Lehrgangsunterlagen ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+  * FwDV 500 Stand 2012
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr

@@ -1,0 +1,56 @@
+====== Strahlrohre ======
+
+==== besondere Gefahren ====
+
+  * bei Vollstrahl in staubiger Umgebung Gefahr einer [[cbrn:chemisch:klasse_4-1:start|Staubexplosion]]
+
+===== Mehrzweckstrahlrohre =====
+
+==== Wasserlieferung und Querschnitt ====
+
+Faustwerte, in Klammern dahinter die Werte nach DIN EN 15 182 bei 6 bar.
+
+^  Strahlrohr  ^  Wasserlieferung\\ in Liter/Minute\\ mit Mundstück  ^  Wasserlieferung\\ in Liter/Minute\\ ohne Mundstück  ^  Mundstücksweite\\ in mm  ^  Düsenweite in mm\\ (ohne Mundstück)  ^
+^  DM          |  25             |  50              |  4                |  6           |
+^  CM          |  100 (130)      |  200 (235)       |  9                |  12          |
+^  BM          |  400 (415)      |  800 (785)       |  16               |  22          |
+
+==== Wurfweite ====
+
+^  Strahlrohr  ^  Wurfweite bei 5 bar Strahlrohrdruck (Faustwerte)  ^^
+^  :::         ^  Vollstrahl  ^  Sprühstrahl  ^
+^  CM mit Mundstück  |  ca. 15 m  |  ca. 5 m  |
+^  CM ohne Mundstück  |  ca. 20 m  |  :::  |
+^  BM mit Mundstück  |  ca. 25 m  |  ca. 6,5 m  |
+^  BM ohne Mundstück  |  ca. 30 m  |  :::  |
+
+===== Hohlstrahlrohre =====
+
+Die Leistungsdaten von Hohlstrahlrohren sind im Gegensatz zu Mehrzweckstrahlrohren stark vom Hersteller abhängig. Die hier genannten Werte sind als Faustwerte zu verstehen.
+
+==== Wurfweite bei Vollstrahl ====
+
+^  Durchflussmenge\\ in Litern/Minute  ^  Wurfweite bei 6 bar\\ Strahlrohrdruck  ^
+^  100  |  ca. 18 m  |
+^  200  |  ca. 24 m  |
+^  400  |  ca. 30 m  |
+
+===== Abstände in elektrischen Anlagen =====
+
+siehe [[allgemein:elektrische_anlagen#loeschmittel_allgemein|Vorgehen in elektrischen Anlagen, Abschnitt Löschmittel allgemein]]
+
+===== Gasbrandbekämpfung =====
+
+Zum Löschen brennend austretender Flüssiggase Strahlrohr mit Vollstrahl quer zur Austrittsrichtung auf das Leck richten.
+
+Weitere Hinweise zum Thema Gasbrandbekämpfung im [[brand:gasbrandbekaempfung|entsprechenden Artikel]].
+
+===== Quellenangabe =====
+
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * [[http://www.sfs-w.de/lehr-und-lernmittel/merkblaetter-broschueren/abwehrender-brandschutz.html?no_cache=1&download=05_02_Internet_2011-07-19.pdf&did=33|Merkblatt Löschmittel-Löschverfahren]], Staatliche Feuerwehrschule Würzburg
+  * [[http://www.sfs-w.de/downloads/merkblaetter-broschueren.html?no_cache=1&download=05_008_2011-07-19.pdf&did=38|Merkblatt Wasserförderung über lange Schlauchstrecken]], Staatliche Feuerwehrschule Würzburg
+
+===== Stichwörter =====
+
+Armaturen zur Wasserabgabe

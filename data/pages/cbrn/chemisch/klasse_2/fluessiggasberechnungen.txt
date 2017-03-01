@@ -1,0 +1,35 @@
+~~NOCACHE~~
+
+====== Flüssiggasberechnungen ======
+
+===== Explosion von freigesetzten Gasmengen / Vapour Cloud Explosion =====
+
+~~INCLFORM=vapour_cloud_explosion~~
+
+===== Abschätzung des spontan verdampften Anteils beim Austritt eines beliebigen Flüssiggases =====
+
+~~INCLFORM=leckrate~~
+
+===== Sicherheitsabstände von Kugeltanks =====
+
+~~INCLFORM=abstand_kugeltank~~
+
+===== BLEVE (Boiling Liquid Expanding Vapour Explosion) =====
+
+~~INCLFORM=bleve_feuerball~~
+
+===== Abschätzung des spontan verdampften Anteils bei schlagartiger Freisetzung =====
+
+~~INCLFORM=spontanverdampfung~~
+
+===== Rückzündung von Gaswolken =====
+
+~~INCLFORM=rueckzuendung_gaswolke~~
+
+===== Quellenangabe =====
+
+  * AKNZ
+  * BF Kaiserslautern
+
+===== Stichwörter =====
+Propan, Butan, Explosion

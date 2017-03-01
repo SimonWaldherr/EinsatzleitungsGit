@@ -1,0 +1,77 @@
+====== Dekontamination ======
+
+Weitere Artikel für spezielle Bereiche im Rahmen der Dekontamintation:
+
+{{simplenavi>cbrn:allgemein:dekontamination}}
+
+===== zu treffende Maßnahmen =====
+
+==== Aufbau des Dekon-Platzes ====
+
+{{ cbrn:allgemein:dekontamination:dekon-platz.png?nolink&400|Lage Dekonplatz}}
+
+  * Dekon-Platz bei Einsätzen der [[cbrn:allgemein:gefahrengruppen|Gefahrengruppe]] II und III einrichten.
+  * ggf. getrennte Dekontaminationsplätze für Einsatzkräfte und Verletzte einrichten
+  * sind evtl. stationäre Einrichtungen nutzbar (Schwimmbad, Sporthalle, etc.)? -> Aufbau entfällt zu großem Teil
+  * Lage des Dekon-Platzes mit Abschnittsleiter Dekon absprechen
+    * Lage außerhalb des [[cbrn:allgemein:gefahrenbereich|Gefahrenbereichs]] gegen den Wind
+    * auf gute Erreichbarkeit achten
+    * auf Ver- und Entsorgungsmöglichkeiten (Strom, Wasser, Abwasser) achten
+    * Beleuchtung
+    * nötige Versorgung mit Betriebsstoffen, Einwegmaterial (z.B. Schutzkleidung) sicherstellen
+  * Dekon-Platz muss 15 min nach Anlegen des ersten PA betriebsbereit sein.
+  * Dekon-Einheit nachalarmieren falls vorhanden.
+  * Aufenthaltsräume für Einsatzkräfte in Pausen und Toiletten bereitstellen
+  * Verpflegung/Ablösung der Einsatzkräfte planen
+
+==== Betrieb des Dekon-Platzes ====
+
+  * Kontaminierte Personen falls möglich und medizinisch erforderlich vor Ort dekontaminieren/desinfizieren. Veranlassung weiterer Maßnahmen nach der Dekon durch zuständige Fachbehörde.
+  * bei kontaminierten Verletzten: **Lebensrettende Sofortmaßnahmen gehen vor (Grob-)Dekontamination. Dabei Eigenschutz beachten!** -> [[cbrn:allgemein:dekontamination:verletztendekontamination|weitere Hinweise zu Verletzten-Dekontamination]]
+  * kontaminierte Personen registrieren
+  * Bei Verdacht auf Kontamination oder [[cbrn:allgemein:cbrn-lexikon:inkorporation|Inkorporation]] die Person einem geeigneten Arzt vorstellen
+
+==== Mehrfachkontamination ====
+
+Bei Verdacht auf Mehrfachkontamination (A, B, C) in folgender Reihenfolge dekontaminieren:
+
+  - B-Dekon: Aufbringen von Desinfektionsmittel, Einwirken
+  - C-Dekon: Entfernen chemischer Kontaminationen (inkl. Desinfektionsmittel) mit Wasser und ggf. Reinigungszusätzen
+  - A-Dekon: Kontaminationsnachweis nach Ablegen der dekontaminierten Bekleidung bzw. nach der C-Dekon
+
+Bei vermuteter A-Kontamination bei der C-Dekon möglichst wenig, am besten gar keine Flüssigkeit verwenden. Abwasser und abgelegte Kleidung auf Kontamination überprüfen.
+
+==== besondere Gefahren ====
+
+  * Kontaminationsverschleppung vermeiden.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Kontaminierte (Einsatz-)Kleidung möglichst schnell gegen saubere tauschen.
+  * Einsatzkräfte in [[cbrn:allgemein:koerperschutzformen|Körperschutzform]] 1 nicht mit Wasser dekontaminieren; Einsatzkleidung direkt ausziehen lassen
+  * Personen nicht heiß sondern nur lauwarm duschen (Schadstoff kann sonst tiefer in Haut eindringen)
+  * Bei A- und B-Gefahrstoffen ist i.d.R. keine Notdekon erforderlich, da diese nicht so schnell auf die Haut wirken. Hier die Dekon besser gut vorbereiten und effektiv durchführen.\\ Ausnahme: die A- oder B-Gefahrstoffe haben auch chemische oder physikalische "Nebenwirkungen", auf die schnell reagiert werden muss
+  * Hautkontaminationen schnellstmöglich entfernen. Dabei nicht weiter verteilen (abtupfen statt abreiben)
+  * Muss die Haut gereinigt werden (wenn Wasser nicht ausreicht), so dürfen nur Reinigungsmittel eingesetzt werden die eine Zulassung zur Anwendung auf der Haut besitzen!
+  * Abschließende Behandlung nur durch medizinisches Personal oder Fachbehörde
+  * Arzt bzw. Rettungsdienst informieren über (RTW-Besatzung darauf hinweisen die Informationen weiterzugeben):
+    * Art der Kontamination (vermuteter Stoff und kontaminierte Fläche)
+    * Grad der Kontamination
+    * ungefähre Dauer der Einwirkung
+    * bisherige Gegen- oder Dekon-Maßnahmen
+  * falls möglich Krankenhaus vorab über die bevorstehende Aufnahme eines kontaminierten Patienten und Art des Gefahrstoffs informieren
+  * Die eigentliche Dekontamination der Einsatzstelle ist Aufgabe der Fachbehörden, die Feuerwehr kann aber in Amtshilfe unterstützend tätig werden.
+
+==== Dekontaminationsmatrix nach FwDV 500, 2012, Anlage 2 ====
+
+^ Einsatzart ^ Dekon-Stufe I\\ \\ Notdekontamination von Personen \\ \\ Sofort ab dem Einsatz des ersten Trupps im Gefahrenbereich sicherzustellen! Notwendig z.B. bei Beschädigung der Schutzausrüstung, bei Kontamination der Haut, bei Atemluftmangel oder bei Verletzungen, die sofort behandelt werden müssen. ^ Dekon-Stufe II\\ \\ Standard-Dekontamination\\ \\ Ist bei jedem ABC-Einsatz unter persönlicher Sonderausrüstung (z.B. CSA, Kontaminationsschutzanzug) sicherzustellen. ^ Dekon-Stufe III\\ \\ Erweiterte Dekontamination im ABC-Einsatz\\ \\ Ist anzuwenden bei Dekon-Maßnahmen für eine größere Anzahl von Personen und/oder starker oder schwer löslicher Verschmutzung. ^
+^ Radioaktive Stoffe | So schnell wie möglich kontaminierte Hautpartien reinigen. \\ Bei Verdacht auf Hautkontamination ist die Person einem Arzt vorzustellen. | Nach Überprüfung auf Kontamination (mit Kontaminationsnachweisgerät) wird die Schutzkleidung abgelegt. \\ Alles, was mehr als dreifache Nullrate aufweist, gilt als kontaminiert und ist in Säcke/Überfässer zu verpacken. | Dekontamination wie II und Nutzung bestimmter Sonderausstattung (z. B. Dusche, Zelte, Umkleidemöglichkeiten). |
+^ Biologische Stoffe | So schnell wie möglich kontaminierte Hautpartien desinfizieren. \\ Einwirkzeiten beachten! \\ Bei Verdacht auf Hautkontamination ist die Person einem Arzt vorzustellen.  | Desinfektion der Schutzkleidungsoberfläche (mit Flächendesinfektionsmittel). \\ Nach der Einwirkzeit kann die Schutzausrüstung abgespült werden. \\ Die Reinigungsflüssigkeit ist aufzufangen. | Desinfektion wie II und Nutzung bestimmter Sonderausstattung (z. B. Dusche, Zelte, Umkleidemöglichkeiten). \\ Anschließend Ablegen der gesamten Kleidung (auch Unterbekleidung).  Die Reinigungsflüssigkeit ist aufzufangen. |
+^ Chemische Stoffe | So schnell wie möglich kontaminierte Hautpartien mit Sprühstrahl reinigen. \\ Bei Verdacht auf Hautkontamination ist die Person einem Arzt vorzustellen. | Dekontamination mit Wasser und Hilfsmitteln. \\ Die Reinigungsflüssigkeit ist aufzufangen. | Dekontamination mit warmen Wasser (evtl. Reinigungszusätze verwenden) und bestimmter Sonderausstattung (z. B. Dusche, Zelte, Umkleidemöglichkeiten). \\ Die Reinigungsflüssigkeit ist aufzufangen. |
+
+===== Quellenangabe =====
+
+  * FwDV 500, Stand 2012
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * {{:allgemein:kleine_merkhilfe_fuer_den_feuerwehreinsatz_1.03.pdf|Kleine Merkhilfe für den Feuerwehreinsatz: Zusammenstellung für Führungskräfte der Feuerwehr}}, Florian Pernpeintner, basierend auf:\\ VfdB Entwurf Richtlinie E 10/04 „Dekontamination bei Einsätzen mit ABC-Gefahren“. http://www.vfdb.de. 08/2005
+  * [[http://www.vfdb.de/download/MB_Tierseuchen_Ref10_201203.pdf|Merkblatt Empfehlung für den Feuerwehreinsatz bei Tierseuchen]], Vereinigung zur Förderung des Deutschen Brandschutzes e.V., Altenberge 2012

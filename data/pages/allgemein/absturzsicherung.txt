@@ -1,0 +1,30 @@
+====== Absturzsicherung ======
+
+===== zu treffende Maßnahmen =====
+
+  * wenn nötig Kommunikation durch Funkgeräte sicherstellen, ggf. eigenen Kanal verwenden
+  * direkt im Seil und in 5 Meter Umkreis um die Ausrüstung ist absolutes Rauchverbot einzuhalten!
+  * Sobald ein Truppmitglied in den absturzgefährdeten Bereich vorgeht, ist sein Trupppartner einzig für seine Sicherung zuständig und darf für keine anderen Arbeiten eingesetzt werden!
+  * Der Festpunkt muss mindestens eine Festigkeit von 10 kN (1 t) aufweisen, im Zweifel mehrere Festpunkte miteinander kombinieren
+  * Sicherung der Einsatzkraft wenn möglich oberhalb dieser - z.B. auch an einer Drehleiter
+  * fallen Karabiner u.ä. herunter sind diese auszusondern!
+  * Nach dem Einsatz Sichtprüfung des Materials durchführen
+
+==== besondere Gefahren ====
+
+  * bei längerem Hängen im Seil Gefahr eines [[allgemein:haengetrauma|Hängetraumas]]!
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Grundsätzliches ====
+
+  * Haltegurt und Feuerwehrleine dürfen nur zum Halten verwendet werden - die Feuerwehrleine muss also permanent auf Zug gehalten werden; es darf kein Sturz ins Seil möglich sein!
+  * freies Hängen im Seil ist bei der Absturzsicherung nicht erlaubt; dies ist Höhenrettungs-Einheiten vorbehalten!
+
+===== Quellenangabe =====
+
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+
+===== Stichwörter =====
+
+Höhensicherung, Höhenrettung

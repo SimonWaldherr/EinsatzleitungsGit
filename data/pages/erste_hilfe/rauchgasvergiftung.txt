@@ -1,0 +1,42 @@
+====== Rauchgasvergiftung (Rauchgasintoxikation) ======
+
+===== zu treffende Maßnahmen =====
+
+  * Beruhigen, etwas von der Einsatzstelle wegbringen
+  * an frischer Luft hinsetzen, bei zunehmender Benommenheit mit erhöhtem Oberkörper hinlegen
+  * (Nach-) Alarmierung Rettungsdienst
+  * Person betreuen, permanente Kontrolle der Vitalfunktionen\\ Ggf. ist der Betroffene durch die Rauchgasvergiftung verwirrt und reagiert unanagemessen, will z.B. in die Wohnung zurücklaufen um Wertgegenstände zu holen.
+  * Sauerstoff geben (4 - 6 l/min) falls vorhanden
+  * Befragung:
+    * Weitere Personen im Gebäude?
+    * War der/die Betroffene direkt im Brandraum?
+    * Wie lange war er/sie den Rauchgasen ausgesetzt?
+    * Hat er/sie direkte [[erste_hilfe:verbrennung|Verbrennungen]] erlitten?
+
+==== Bei Bewusstlosigkeit: ====
+
+  * stabile Seitenlage
+  * (Nach-) Alarmierung Notarzt
+  * bei Herz-Kreislauf-Stillstand [[erste_hilfe:wiederbelebung|Wiederbelebung einleiten]]
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Symptome für eine Rauchgasvergiftung ====
+
+  * Kopfschmerzen
+  * Schwindel
+  * Atemnot
+  * Hustenreiz
+  * Erhöhte Herzfrequenz
+  * Benommenheit
+  * Bewusstlosigkeit
+  * [[erste_hilfe:epileptischer_anfall|Krampfanfall]]
+
+==== Symptome für ein Inhalationstrauma (Einatmen heißer Gase) ====
+
+  * Rußspuren im Mund-Nase-Bereich
+  * verbrannte Wimpern und Augenbrauen
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_Rauchgasintoxikation.pdf|Erste-Hilfe kompakt - Notfallstichwort Rauchgasintoxikation]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband

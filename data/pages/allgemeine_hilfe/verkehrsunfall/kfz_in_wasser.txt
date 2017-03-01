@@ -1,0 +1,43 @@
+====== KFZ im Wasser ======
+
+===== zu treffende Maßnahmen =====
+
+    * Schiffsverkehr einstellen. Dafür ggf. nahe Brücken mit Warnposten besetzen. Information an zuständige Behörde z.B. Oberhafenamt, Wasserschutzpolizei, Gewässeramt o.ä.
+    * bei vermissten Personen keine Rettungsversuche durch "normale" Einsatzkräfte mit Atemschutzgerät o.ä.; Eintreffen der Taucherstaffel abwarten
+    * Überprüfung auf auslaufende Betriebsmittel
+    * Kleinboote oder Löschboote im Vorfeld in die Alarmrolle einplanen
+
+==== besondere Gefahren ====
+
+  * Ertrinken; Arbeiten am Wasser nur mit ohnmachtsicherer Rettungsweste
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Ordnung des Raumes ====
+
+  * Direkt an der Einsatzstelle Platz für Taucher-Einsatzfahrzeug freihalten, da die Taucher an Land in ihrer Bewegung eingeschränkt sind
+  * Bei [[allgemein:kran-einsatz|Kraneinsatz]] den Stellplatz freihalten
+
+==== Taucher ====
+
+    * Lageeinweisung für den TEF (Taucheinsatzführer), Übernahme des Einsatzabschnitt "Wasser" durch den TEF der Tauchergruppe
+    * Für Taucher Einstiegspunkt ins Gewässer mittels [[allgemein:geraete:leitern#steckleiter_nach_din_14_711|Steckleiter]] herstellen
+    * bei Dunkelheit Einstiegspunkt ausleuchten
+    * evtl. Zusatzausrüstung nachalarmieren z.B.: Sidescansonar, Tauchgerät mit LVO (Oberflächenversorgtes Tauchgerät), Luftheber o.ä.
+
+==== Unfallfahrzeug ====
+
+Bei den meisten neueren Fahrzeugen funktionieren Licht, elektr. Fensterheber u.ä. auch noch einige Zeit nach Versinken des Fahrzeugs. Ggf. kann die Position des Fahrzeugs unter Wasser an noch leuchtenden Scheinwerfern erkannt werden.
+
+=== Sonderfall Elektrofahrzeug ===
+
+Bei [[allgemeine_hilfe:verkehrsunfall:elektrofahrzeuge|Elektrofahrzeugen]] besteht keine elektrische Gefahr. Es kann eine Elektrolyse stattfinden.
+
+Wenn möglich Hochvoltanlage abschalten.
+
+===== Quellenangabe =====
+
+    * Lehrgangsinhalte B3-Lehrgang (2013) an der Berliner Feuerwehr- und Rettungsdienstakademie
+    * [[http://publikationen.dguv.de/dguv/pdf/10002/i-8664.pdf|DGUV-Information "Rettungs- und Löscharbeiten an PKW mit alternativer Antriebstechnik]]
+    * FwDv 8 Tauchen
+    * Lehrgangsinhalte Feuerwehrtaucherlehrgang Stufe 3, BF Hamburg

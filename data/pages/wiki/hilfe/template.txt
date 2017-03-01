@@ -1,0 +1,344 @@
+====== Templateanpassungen ======
+
+Als Grundlage wird das [[http://www.dokuwiki.org/template:vector|Vector-Template]] von [[http://andreas-haerter.com/|Andreas Härter]] verwendet, welches es ermöglicht das Aussehen von Wikipedia auf eine DokuWiki-Installation zu übertragen. Folgende Anpassungen wurden vorgenommen, um das Template einsatztauglich zu machen:
+
+===== Entfernung des Logos =====
+
+In der linken oberen Ecke soll das standardmäßig vorhandene Logo entfernt werden. Dafür ist die Anpassung von zwei Dateien notwendig. In der Datei ''lib/tpl/vector/main.php'', ausgehend vom Stammverzeichnis der Installation, muss in Zeile 725 bis 746 der Inhalt entfernt werden. Zum Zwecke der Nachvollziehbarkeit wird der Inhalt aber nicht gelöscht, sondern lediglich auskommentiert. Dieses Vorgehen wird bei allen Quelltextänderungen angewandt. Damit kann, falls gewünscht, eine entsprechende Funktion auch schnell wieder reaktiviert werden:
+
+<code>
+  <!-- start logo 
+  <div id="p-logo">
+      <?php
+      //include default or userdefined logo
+      echo "<a href=\"".wl()."\" ";
+      if (file_exists(DOKU_TPLINC."user/logo.png")){
+          //user defined PNG
+          echo "style=\"background-image:url(".DOKU_TPL."user/logo.png);\"";
+      }elseif (file_exists(DOKU_TPLINC."user/logo.gif")){
+          //user defined GIF
+          echo "style=\"background-image:url(".DOKU_TPL."user/logo.gif);\"";
+      }elseif (file_exists(DOKU_TPLINC."user/logo.jpg")){
+          //user defined JPG
+          echo "style=\"background-image:url(".DOKU_TPL."user/logo.jpg);\"";
+      }else{
+          //default
+          echo "style=\"background-image:url(".DOKU_TPL."static/3rd/dokuwiki/logo.png);\"";
+      }
+      echo " accesskey=\"h\" title=\"[ALT+H]\"></a>\n";
+      ?>
+  </div>
+   end logo -->
+</code>
+
+Da in diesem Falle das entfernen des Logos ein Loch im Layout zurück lässt, muss außerdem die Datei ''lib/tpl/vector/static/3rd/vector/main-ltr.css'' angepasst werden, die unter anderem die Anweisungen zur Darstellung des Logos enthält. Hier muss in ca. Zeile 395 die Angabe zum oberen Abstand ''top: 160px;'' auf ''top: 0px;'' geändert werden, um die Lücke zu schließen:
+
+<code>
+div#panel {
+	position: absolute;
+	top: 0px;
+	padding-top: 1em;
+	width: 10em;
+	left: 0;
+}
+</code>
+===== Entfernung der Icons =====
+
+Falls Sie die Icons am unteren Ende der Seite entfernen möchten, müssen Sie in der Datei ''lib/tpl/vector/main.php'' die Zeilen 843 bis 852 (in der Version Oktober 2012) auskommentieren, die folgenden Code umfassen:
+
+<code>
+<ul id="footer-places" class="noprint">
+    <li><?php
+        //show buttons, see vector/user/buttons.php to configure them
+        if (!empty($_vector_btns) &&
+            is_array($_vector_btns)){
+            _vector_renderButtons($_vector_btns);
+        }
+        ?>
+    </li>
+  </ul>
+</code>
+
+Bitte beachten Sie, dass die Lizenzbedingungen des Programmierers des Designs es nicht erlauben, den Hinweis zu entfernen. Für Ihr lokales, nichtöffentlich genutztes Einsatzleiterwiki spricht allerdings nichts dagegen dies zu tun. In den im Internet laufenden Wikis sind aus diesem Grund diese Grafiken vorhanden.
+
+===== Anpassung der Toolboxen =====
+
+In der Datei ''lib/tpl/vector/conf/boxes.php'' zwischen die Einträge ODT-Plugin und dw2pdf-Plugin folgenden Code einfügen (dieser Schritt wird derzeit übergangen):
+
+<code>
+		//pdfbook plugin: add/remove selection
+		if (file_exists(DOKU_PLUGIN."bookcreator/action.php") &&
+    		!plugin_isdisabled("bookcreator")){
+		$_vector_boxes["p-coll-print_export"]["xhtml"]  .= "        <li id=\"coll-create-book\"><a href=\"".wl(cleanID(getId()), array("do" => "addtobook"))."\" rel=\"nofollow\">".hsc($lang["vector_exportbxdef_createbook"])."</a></li>\n";
+		}
+</code>
+
+Nun muss in der Inhalt der Datei ''lib/tpl/vector/conf/boxes.php'' die folgende Stelle im Quelltext gesucht werden:
+
+<code>
+    //html2pdf plugin
+    //see <http://www.dokuwiki.org/plugin:html2pdf> for info
+    } else if (file_exists(DOKU_PLUGIN."html2pdf/action.php") &&
+                       !plugin_isdisabled("html2pdf")){
+                $_vector_boxes["p-coll-print_export"]["xhtml"]  .= "        <li id=\"coll-download-as-rl\"><a href=\"".wl(cleanID(getId()), array("do" => "export_pdf"))."\" rel=\"nofollow\">".hsc($lang["vector_exportbxdef_downloadpdf"])."</a></li>\n";
+    }
+</code>
+
+und unterhalb des eben zitierten Texts folgenden Codeblock einfügen:
+
+<code>
+// Links auf diese Seite, Seitenindex und letzte Änderungen anzeigen, falls der Benutzer angemeldet ist (Vereinigung von Export- und Toolbox um keinen Platz zu verschwenden)
+      if ($loginname != ""){
+			if (actionOK("backlink")){ //check if action is disabled
+                $_vector_boxes["p-coll-print_export"]["xhtml"] .= "        <li id=\"t-whatlinkshere\"><a href=\"".wl(cleanID(getId()), array("do" => "backlink"))."\">".hsc($lang["vector_toolbxdef_whatlinkshere"])."</a></li>\n"; //we might use tpl_actionlink("backlink", "", "", hsc($lang["vector_toolbxdef_whatlinkshere"]), true), but it would be the only toolbox link where this is possible... therefore I don't use it to be consistent
+            } 
+            if (actionOK("recent")){ //check if action is disabled
+                $_vector_boxes["p-coll-print_export"]["xhtml"] .= "        <li id=\"t-recentchanges\"><a href=\"".wl("", array("do" => "recent"))."\" rel=\"nofollow\">".hsc($lang["btn_recent"])."</a></li>\n"; //language comes from DokuWiki core
+            }
+            // Inhalt senden
+            $_vector_boxes["p-coll-print_export"]["xhtml"] .= "        <li id=\"t-sendpage\"><a href=\"".wl(cleanID(getId()), array('do' => 'sendpagecontent'))."\">".hsc($lang["vector_toolbxdef_sendpagecontent"])."</a></li>\n";
+	}
+        if (actionOK("index")){ //check if action is disabled
+                $_vector_boxes["p-coll-print_export"]["xhtml"] .= "        <li id=\"t-special\"><a href=\"".wl("", array("do" => "index"))."\" rel=\"nofollow\">".hsc($lang["vector_toolbxdef_siteindex"])."</a></li>\n";
+    }
+// Export drucken
+(hier folgt nun der Drucken-Link im schon vorhandenen Quelltext)
+</code>
+
+===== Anpassungen der Tabs =====
+
+In der Datei conf/tabs.php muss im Bereich ''LEFT NAVIGATION'' der Inhalt bis zum Bereich ''RIGHT NAVIGATION'' alles gelöscht und dafür eingefügt werden:
+
+<code>
+// Anfang modifizierter Quelltext
+
+//article tab
+//ATTENTION: "ca-nstab-main" is used as css id selector!
+if (substr(getID(), 0, strlen("wiki:user:")) !== "wiki:user:"){
+    $_vector_tabs_left["ca-nstab-main"]["text"] = $lang["vector_article"];
+}else{
+    $_vector_tabs_left["ca-nstab-main"]["text"] = $lang["vector_userpage"];
+}
+$_vector_tabs_left["ca-nstab-main"]["accesskey"] = "V";
+if ($vector_context !== "discuss"){ //$vector_context was defined within main.php
+    $_vector_tabs_left["ca-nstab-main"]["wiki"]  = ":".getID();
+    $_vector_tabs_left["ca-nstab-main"]["class"] = "selected";
+}else{
+    $_vector_tabs_left["ca-nstab-main"]["wiki"]  = ":".substr(getID(), strlen(tpl_getConf("vector_discuss_ns"))-1);
+}
+
+
+//hide some tabs for anonymous clients (closed wiki)?
+if (empty($conf["useacl"]) || //are there any users?
+    $loginname !== "" || //user is logged in?
+    !tpl_getConf("vector_closedwiki")){
+
+    //discussion tab
+    //ATTENTION: "ca-talk" is used as css id selector!
+    if (tpl_getConf("vector_discuss")){
+        $_vector_tabs_left["ca-talk"]["text"] = $lang["vector_discussion"];
+        if ($vector_context === "discuss"){ //$vector_context was defined within main.php
+            $_vector_tabs_left["ca-talk"]["wiki"]  = ":".getID();
+            $_vector_tabs_left["ca-talk"]["class"] = "selected";
+        }else{
+            $_vector_tabs_left["ca-talk"]["wiki"] = tpl_getConf("vector_discuss_ns").getID();
+        }
+    }
+
+}
+</code>
+
+Im Bereich ''RIGHT NAVIGATION'' bis zum Hinweis ''ATTENTION'' wird ebenfalls alles gelöscht und dafür eingefügt:
+
+<code>
+// Tabs "Lesen - Bearbeiten - Ältere Versionen" erst erscheinen lassen, wenn ein User angemeldet ist
+if ($loginname != ""){
+
+//read tab
+if(!empty($INFO["exists"])){
+    //ATTENTION: "ca-view" is used as css id selector!
+    $_vector_tabs_right["ca-view"]["text"] = $lang["vector_read"];
+    if ($vector_context !== "discuss"){ //$vector_context was defined within main.php
+        $_vector_tabs_right["ca-view"]["wiki"]  = ":".getID();
+        if ($ACT === "show") { //$ACT comes from DokuWiki core
+            $_vector_tabs_right["ca-view"]["class"] = "selected";
+        }
+    }else{
+        $_vector_tabs_right["ca-view"]["wiki"]  = ":".substr(getID(), strlen(tpl_getConf("vector_discuss_ns"))-1);
+    }
+}
+
+
+//hide some tabs for anonymous clients (closed wiki)?
+if (empty($conf["useacl"]) || //are there any users?
+    $loginname !== "" || //user is logged in?
+    !tpl_getConf("vector_closedwiki")){
+
+    //edit/create/show source tab
+    //ATTENTION: "ca-edit" is used as css id selector!
+    $_vector_tabs_right["ca-edit"]["href"]      = wl(cleanID(getId()), array("do" => "edit", "rev" => (int)$rev), false, "&");
+    $_vector_tabs_right["ca-edit"]["accesskey"] = "E";
+    if (!empty($INFO["writable"])){ //$INFO comes from DokuWiki core
+        if (!empty($INFO["draft"])){
+            $_vector_tabs_right["ca-edit"]["href"] = wl(cleanID(getId()), array("do" => "draft", "rev" => (int)$rev), false, "&");
+            $_vector_tabs_right["ca-edit"]["text"] = $lang["btn_draft"]; //language comes from DokuWiki core
+        }else{
+            if(!empty($INFO["exists"])){
+                $_vector_tabs_right["ca-edit"]["text"] = $lang["vector_edit"];
+            }else{
+                $_vector_tabs_right["ca-edit"]["text"] = $lang["vector_create"];
+            }
+        }
+    }elseif (actionOK("source")){ //check if action is disabled
+        $_vector_tabs_right["ca-edit"]["text"]      = $lang["btn_source"]; //language comes from DokuWiki core
+        $_vector_tabs_right["ca-edit"]["accesskey"] = "E";
+    }
+    if ($ACT === "edit"){ //$ACT comes from DokuWiki core
+        $_vector_tabs_right["ca-edit"]["class"] = "selected";
+    }
+
+
+    //old versions/revisions tab
+    if (!empty($INFO["exists"]) &&
+        actionOK("revisions")){ //check if action is disabled
+        //ATTENTION: "ca-history" is used as css id selector!
+        $_vector_tabs_right["ca-history"]["text"]      = $lang["btn_revs"]; //language comes from DokuWiki core
+        $_vector_tabs_right["ca-history"]["href"]      = wl(cleanID(getId()), array("do" => "revisions"), false, "&");
+        $_vector_tabs_right["ca-history"]["accesskey"] = "O";
+        if ($ACT === "revisions"){ //$ACT comes from DokuWiki core
+            $_vector_tabs_right["ca-history"]["class"] = "selected";
+        }
+    }
+
+
+    //(un)subscribe tab
+    //ATTENTION: "ca-watch" is used as css id selector!
+    if (!empty($conf["useacl"]) &&
+        !empty($conf["subscribers"]) &&
+        !empty($loginname)){ //$loginname was defined within main.php
+        if (empty($INFO["subscribed"]) && //$INFO comes from DokuWiki core
+            actionOK("subscribe")){ //check if action is disabled
+            $_vector_tabs_right["ca-watch"]["href"] = wl(cleanID(getId()), array("do" => "subscribe"), false, "&");
+            $_vector_tabs_right["ca-watch"]["text"] = $lang["btn_subscribe"]; //language comes from DokuWiki core
+        }elseif (actionOK("unsubscribe")){ //check if action is disabled
+            $_vector_tabs_right["ca-watch"]["href"] = wl(cleanID(getId()), array("do" => "unsubscribe"), false, "&");
+            $_vector_tabs_right["ca-watch"]["text"] = $lang["btn_unsubscribe"]; //language comes from DokuWiki core
+        }
+    }
+
+}
+
+// Abschluss Abfrage ob User angemeldet ist
+}
+
+// Ende modifizierter Quelltext
+</code>
+
+===== Anpassungen der Sprachdatei =====
+
+In der Sprachdatei muss die Zeile
+
+<code>$lang["vector_exportbox"] = "Drucken/exportieren";</code>
+
+geändert werden in:
+
+<code>$lang["vector_exportbox"] = "Funktionen";</code>
+
+In der gleichen Datei muss 
+
+<code>$lang["vector_toolbxdef_siteindex"] = "Seitenindex";</code>
+
+geändert werden in
+
+<code>$lang["vector_toolbxdef_siteindex"] = "Inhaltsverzeichnis";</code>
+
+Außerdem müssen im Block ''default toolbox'' die Zeilen
+
+<code>
+$lang["vector_toolbxdef_sendpagecontent"] = "Artikel senden";
+</code>
+
+eingefügt werden.
+
+===== CSS-Änderungen =====
+
+Am Ende der Datei <code>lib/tpl/vector/css/static/screen.css</code> muss folgende Angabe zur Breite hinzugefügt werden:
+
+<code>
+/* begrenzte Breite der Quicksearch-Ergebnisliste */
+
+#qsearch__out,
+#qsearch__out ul {
+  width: 27em;
+  *width: 26em; /* do not remove the star in front, attribute hack for MS IE6/7 */
+}
+</code>
+
+Andernfalls kann sich die Suchergebnisliste die noch während der Eingabe erscheint über die ganze Seitenbreite erstrecken.
+
+
+===== Konfigurationsanpassungen =====
+
+In der Datei <code>lib/tpl/vector/conf/default.php</code> müssen folgende Werte geändert werden:
+
+<code>
+$conf["vector_userpage"]    = 1;
+in
+$conf["vector_userpage"]    = 0;
+</code>
+
+
+<code>
+$conf["vector_discuss"]    = 1;
+in
+$conf["vector_discuss"]    = 0;
+</code>
+
+
+<code>
+$conf["vector_sitenotice"]           = 1;
+in
+$conf["vector_sitenotice"]           = 0;
+</code>
+
+
+<code>
+$conf["vector_toolbox"]          = 1;
+in
+$conf["vector_toolbox"]          = 0;
+</code>
+
+
+<code>
+$conf["vector_qrcodebox"] = 1;
+in
+$conf["vector_qrcodebox"] = 0;
+</code>
+
+
+<code>
+$conf["vector_copyright"]           = 1;
+in
+$conf["vector_copyright"]           = 0;
+</code>
+
+
+<code>
+$conf["vector_donate"]     = 1;
+in
+$conf["vector_donate"]     = 0;
+</code>
+
+
+<code>
+$conf["vector_cite_author"] = "Contributors of ".hsc($_SERVER["HTTP_HOST"]);
+in
+$conf["vector_cite_author"] = "Autoren von einsatzleiterwiki.de";
+</code>
+
+
+<code>
+$conf["vector_cite_author"] = "Anonymous Contributors";
+in
+$conf["vector_cite_author"] = "Autoren von einsatzleiterwiki.de";
+</code>

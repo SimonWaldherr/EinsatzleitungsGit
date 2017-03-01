@@ -1,0 +1,91 @@
+====== Evakuierung ======
+
+**Räumung:** Notfallmäßiges ungeplantes Herausbringen von Personen aus einem Gefahrenbereich.\\ -> siehe [[allgemein:raeumung|entsprechender Artikel]]
+
+**Evakuierung:** Geplantes in-Sicherheit-bringen von Personen aus einem gefährdeten Bereich mit Vorlaufzeit.
+
+===== zu treffende Maßnahmen =====
+
+  * Festlegung des gefährdeten Bereichs der evakuiert werden muss, Unterteilung in Räumungsbezirke
+  * Besondere Objekte (Krankenhäuser, Heime, Gefängnisse, Schulen, ...)?
+  * [[allgemein:bereitstellungsraum|Bereitstellungsraum]] festlegen
+  * Festlegung des Standorts der Einsatzleitung
+  * Über Polizei (Melderegister) ungefähre Anzahl der Betroffenen ermitteln lassen und pro Räumungsbezirk erfassen
+  * Alarmierung von
+    * Transportkapazitäten (RTW, KTW, Busse, Bahnen, Taxen, ...) / HiOrgs / KatS-Einheiten
+    * Betreuungsdienst
+    * Sanitätsdienst
+    * Ärzten
+  * Anforderung von Lautsprecherwagen (Polizei, Feuerwehr, ...) zur [[allgemein:warnung_bevoelkerung|Warnung/Information der Bevölkerung]]
+  * Fachberater der Hilfsorganisationen alarmieren um deren Leistungsfähigkeit zu klären
+  * Erstellung eines Transportplans
+    * Welche/Wie viele Fahrzeuge in welchen Bereitstellungsraum
+    * Welche/Wie viele Fahrzeuge zu welchem Objekt (Krankenhaus, Schule, ...)
+    * Einweisung der Maschinisten
+    * separaten RTW für Notfälle während der Evakuierung vorsehen
+  * Verkehrslenkung;
+    * im allgemeinen durch Polizei festzulegen
+    * An- und Abfahrtswege für Rettungsmittel planen
+  * Verpflegung für Einsatzkräfte und Betroffene organisieren
+  * Information Bürgermeister
+  * auf [[allgemein:pressearbeit|Presseanfragen]] vorbereiten / gezielte Information der Presse
+  * Planung der Rückführung nach Beseitigung der Gefahr
+
+==== besondere Gefahren ====
+
+  * Verkehrsbehinderungen durch Zivilisten, die selbst versuchen aus dem Schadensgebiet zu flüchten, auch schon vor offiziellem Beginn der Evakuierung
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Faustregeln ====
+<WRAP round box>
+**10 %** der Betroffenen müssen untergebracht werden\\
+**1 %** der Betroffenen muss sitzen (Tragestuhl) oder liegend getragen werden\\
+**0,1 %** müssen notfallmäßig ins Krankenhaus gebracht werden
+</WRAP>
+
+<WRAP round box>
+**Dauer der Evakuierung für ca. 5.000 Betroffene:**
+
+  * 1h Einrichtung der Einsatzleitung
+  * 1h Entscheidung über Vorgehen
+  * 1,5h Alarmierung Rettungsdienst/HiOrgs
+  * 1h Vorbereitung Unterkünfte
+  * 3h eigentliche Evakuierung
+
+-> ca. 7,5 Stunden
+</WRAP>
+
+<WRAP round box>
+**Evakuierung von Krankenhäusern**
+
+**60 %** der Patienten können entlassen werden\\
+**15 %** der Patienten können sitzend transportiert werden\\
+**25 %** der Patienten können liegend transportiert werden
+
+  * Krankenhaus frühstmöglich über bevorstehende Evakuierung benachrichtigen
+  * zu evakuierende Patienten sollten in Krankenhäuser evakuiert werden die im gleichen Gebiet liegen in das auch der Rest der Bevölkerung gebracht wird
+</WRAP>
+
+==== Aufgaben der Feuerwehr ====
+
+  * ggf. Mithilfe bei
+    * Kontrolle der Häuser
+    * Betreuung
+    * Tragehilfe
+    * Transport
+    * Absperrung
+  * evtl. Türöffnungen
+
+==== Aufgaben des Rettungsdienstes/der Hilfsorganisationen (HiOrgs) ====
+
+  * Registrierung
+  * Betreuung
+  * Transport
+  * Versorgung
+  * Notfallrettung
+
+===== Quellenangabe =====
+
+  * Lehrgang zum Organisatorischen Leiter Rettungsdienst, Berliner Feuerwehr- und Rettungsdienstakademie 2014
+  * [[http://www.add.rlp.de/icc/ADD/med/e98/e9820ca7-4010-8901-be59-2613e9246ca9,11111111-1111-1111-1111-111111111111.pdf|Empfehlungen für die Planung von Evakuierungen im Rahmen von vorbeugenden Maßnahmen des Katastrophenschutzes, Ministerium des Innern und für Sport Rheinland-Pfalz]]

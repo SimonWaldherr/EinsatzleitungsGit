@@ -1,0 +1,143 @@
+====== Chlor ======
+
+===== zu treffende Maßnahmen =====
+
+  * allgemeine Vorgehenshinweise für [[cbrn:gefahrgut|ABC-Einsätze]] beachten
+  * [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] mindestens 50m
+    * Ausbreitungsverhalten beachten (Austrittsmenge, Geländeprofil), insbesondere tiefer gelegene Bereiche
+    * [[allgemein:warnung_bevoelkerung|Bevölkerung warnen]], Fenster und Türen schließen lassen, Lüftungsanlagen abstellen lassen, Räume auf windabgekehrter Seite aufsuchen lassen
+    * Nachbargebäude nicht räumen
+  * im Gefahrenbereich [[cbrn:allgemein:koerperschutzformen#koerperschutz_form_1|Körperschutzform 1]] zur Menschenrettung, für Arbeiten [[cbrn:allgemein:koerperschutzformen#koerperschutz_form_3_chemikalienschutzanzug_csa|CSA (Körperschutzform 3)]] tragen, bei flüssig austretendem Chlor Kälteschutz (Unterziehkleidung, Füßlinge, Wollhandschuhe)!
+  * ggf. betrieblicher Gefahrenabwehrplan vorhanden
+  * Dekontamination mit Wasser
+  * [[brand:allgemein:loeschwasserrueckhaltung|kontaminiertes Wasser wenn möglich auffangen]] und entsorgen
+  * Wasserbehörde verständigen
+
+==== gasförmig austretendes Chlor ====
+
+  * mit Sprühstrahl niederschlagen (Effekte: in Wasser lösen und verwirbeln/verdünnen)
+    * entstehende Flüssigkeit ist sauer und oxidierend, aus der wieder geringe Mengen Chlor austreten. Diese mit großen Wassermengen weiter verdünnen!
+    * vor Einleitung in Kanalisation mit dem Kanalwerk absprechen
+  * Austritt stoppen:
+    * Ventil schließen, bei defektem Ventil Gasflaschenabdichtset / Chlor-Notfallset
+      * festsitzende Ventile nicht mit Gewalt schließen
+      * vereiste Ventile können aufgetaut werden, aber nicht mit offener Flamme (z.B. Föhn)
+    * Gasflaschenbergebehälter nutzen, bis dahin Leckage abdichten:
+      * Keile, Leckbandagen und -dichtkissen verwenden
+      * notfalls Austrittsstelle mit Sand bedecken
+  * abgedichteten Behälter unter Wasser lagern (z.B. Müllcontainer), Austritt von flüssigem Chlor verhindern
+
+==== zusätzliche Maßnahmen für flüssig austretendes Chlor ====
+
+  * nicht mit Wasser auf Lache, Leck oder Behälter spritzen (Beschleunigung der Verdampfung)
+  * keine CSA aus PVC verwenden (wird bei Kontakt mit flüssigem Chlor brüchig)
+  * Freisetzungsrate verringern: Flasche so drehen dass Austrittsstelle in der Gasphase liegt
+  * Austrittsstelle/Lache mit PE-Folie oder [[brand:allgemein:schaum|Mittelschaum]] abdecken (Schaum vereist und dichtet ab)
+
+==== Hitzeeinwirkung auf den Druckgasbehälter ====
+
+  * Behälter kühlen\\ ab 70°C Gefahr des hydraulischen Behälterzerknalls
+  * möglichst [[brand:allgemein:pulver|Pulver]] oder [[brand:allgemein:co2|CO₂]] als Löschmittel verwenden
+
+==== besondere Gefahren ====
+
+  * Atemgift, Reiz- und Ätzwirkung, Konzentrationen ab 50 ppm potentiell tödlich, ab 1000 ppm sicher tödlich
+  * stark korrosiv (vor allem in feuchter Umgebung), greift in Verbindung mit Wasser fast alle Metalle an
+  * kann brennbare Stoffe zur Entzündung/Explosion bringen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+[[cbrn:ericards:klasse_2:10170380|ERICard für Chlor]]
+
+  * Chlor kann mittels Natriumthiosulfatlösung oder Wasserstoffperoxid zu ungefährlichem Chlorid reduziert werden
+
+==== Nachweis ====
+
+  * Geruch
+  * [[cbrn:geraete:pruefroehrchen|Prüfröhrchen]]
+  * Indikatorpapier:
+    * Universalindikatorpapier (pH-Papier) ungeeignet, wird entfärbt
+    * Kaliumiodidstärkepapier (für Luftprobe davor anfeuchten, in Flüssigkeiten nur kurz eintauchen)
+
+==== Eigenschaften ====
+
+  * unter Druck verflüssigtes Gas
+    * 6,7 bar bei 20°C als flüssiges Chlor im Druckgasbehälter
+    * 1 Liter flüssiges Chlor ergibt entspannt 457 gasförmiges Chlor
+    * Temperatur von flüssig austretendem Chlor beträgt -34°C
+
+==== Vorkommen ====
+
+  * Druckgasbehälter
+    * Gasflaschen bis 52 Liter
+    * Fässer mit 400 oder 800 Litern Inhalt
+  * chemisch gebunden, z.B. Tablettenform (Chlorkalk, für Schwimmbäder)
+  * [[cbrn:chemisch:gefahrgut_eisenbahn|Eisenbahn-Kesselwagen]]
+  * Pipelines
+
+==== Stoffdaten ====
+
+^ Identifikation ^^
+^ Alternative Namen                            | E 925 |
+^ CAS-Nr.                                      | 7782-50-5 |
+^ Gefahrgutbezeichnung                         | Chlor |
+^ [[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Nummer zur Kennzeichnung der Gefahr]] |{{cbrn:chemisch:klasse_2:stoffe:265-1017_chlor.png?nolink&100|Gefahrentafel Chlor}} |
+^ UN-Nr.                                       |  :::  |
+^ Gefahrzettel                                 | {{cbrn:2-3.png?nolink&100 |Gefahrzettel 2.3}} {{cbrn:5-1.png?nolink&100 |Gefahrzettel 5.1}}  {{cbrn:8.png?nolink&100 |Gefahrzettel 8}} {{cbrn:allgemein:kennzeichnung:pollution.png?nolink&100 |Fisch und Baum}}|
+^ ADR-Klasse                                   | [[cbrn:chemisch:klasse_2:start|ADR-Klasse 2]] |
+^ [[cbrn:allgemein:kennzeichnung:gasflaschenkennzeichnung|Gasflaschenkennzeichnung]] | {{cbrn:allgemein:gasflasche_giftig_aetzend.png?nolink&100|gelb}} \\ gelb |
+^ ERICard                                      | [[cbrn:ericards:klasse_2:10170380|2-31]] |
+^ Summenformel                                 | Cl₂ |
+^ [[cbrn:allgemein:begriffsklaerungen#molare_masse|molare Masse]] | 70,91 g/mol |
+^ Charakterisierung ^^
+^ Aggregatszustand                             | gasförmig |
+^ Farbe                                        | gelbgrün (in mittleren und hohen Konzentrationen) |
+^ Geruch                                       | stechend |
+^ Brennbarkeit                                 | selbst nicht brennbar, aber stark oxidierend |
+^ Verhalten an Luft                            | schwerer als Luft |
+^ physikalisch-chemische Eigenschaften ^^
+^ Schmelzpunkt                                 | -101 °C |
+^ Siedepunkt                                   | -34 °C |
+^ Dichte                                       | 3,2149 kg/m³ bei 0 °C und 1013 mbar (gasförmig)\\ 1,565 kg/m³ bei -34 °C und 1013 mbar (flüssig)|
+^ [[cbrn:allgemein:begriffsklaerungen#dampfdruck|Dampfdruck]] | 3,7 bar bei 0 °C\\ 6,776 bar bei 20 °C\\ 8,8 bar bei 30 °C\\ 11,4 bar bei 40 °C\\ 14,3 bar bei 50 °C\\ 22,2 bar bei 70 °C |
+^ [[cbrn:allgemein:begriffsklaerungen#relative_dichte_zu_luft|Relative Gasdichte]] (zu Luft) | 2,4865 |
+^ [[cbrn:allgemein:begriffsklaerungen#wasserloeslichkeit|Wasserlöslichkeit]] | 7,3 g/l bei 20 °C (gering) |
+^ [[cbrn:allgemein:begriffsklaerungen#wassergefaehrdungsklasse|Wassergefährdungsklasse]] | 2 |
+^ Explosionsgefahr bei Reaktion mit            | Aminen; Ammoniak; Acetaldehyd; Acetylen; Alkylphosphine (Schlag); Amidosulfonsäure; Ammoniumchlorid; Antimonwasserstoff; Aziridin; Benzin; Benzol (Dampf/ Licht); Borhydriden; Brompentafluorid (Wärme); Butadien; Butan; tert.-Butanol; 1-Chlor-2-propin/ Eisen; Chlorwasserstoffgas/ Luft; Cyanursäure; Diboran; Dibutylphthalat (Hitze); Diethylether; Difluordioxid; Dimethylformamid; Dimethylsulfoxid; Disilyloxid; Ethan/ Kohle; Ethen/ Luft; Ethylphosphin; Fette; Fluor (Funken); Glycerin/Chlor flüssig; Gummi/Chlor flüssig; Hexachlordisilan/Wärme; Hydrazin; Hydrazinsulfat; Kohlenwasserstoffen; Leinöl/Chlor flüssig; Methan/ Katalysator; Phenylmagnesiumbromid (seldom); Phosphor (weiß); Polypropylen/Chlor flüssig; Propan (Hitze); Propen (Hitze); Pyridin, chloriert/ Eisen; Sauerstoff; Schwefelkohlenstoff/ Eisen; Stickstofftrichlorid; Stickstofftriiodid; Styrol/Eisen(III)chlorid; Sulfaminsäure/ Wasser; Tetraselentetranitrid; Vanadiumpulver; Wachs; Wasserstoff |
+^ gefährliche Reaktion mit                     | Alkalimetallen; Alkoholen; Aluminium; brennbaren Stoffen; Reduktionsmitteln; organischen Stoffen; Wasser; Metallpulvern; Arsenwasserstoff; Berylliumpulver; Bor; Caesiumacetylid; Caesiumoxid (Wärme); Calcium; Calciumhydrid; Calciumnitrid; Cyanwasserstoff; Dichlordimethylether; Dimethylether; Dioxandampf (Wärme); Metallcarbiden; Ethylenoxid; Glycerin (Einschluss); Hydroxylamin; Iod /Chlor flüssig; Metallhydriden; Kautschuk; Kohle/Aktivkohle; Lithiumsilicid; Merkaptanen; Metalle/ Hitze; Metalle/Feuchtigkeit; Methylvinylether; Natriumhydroxid; Öl; Phosphinen; Phosphiden; Phosphor (rot); Phosphortrioxid; Phosphorwasserstoff; Quecksilberoxid; Schwefelwasserstoff; Silanen; Silberoxid; Sulfiden; Terpentinöl; Wolframdioxid/Wärme; Zinkdiethyl; Zinnfluorid |
+^ Maßnahmen bei Bränden ^^
+^ geeignete Löschmittel                        | Stoff nicht brennbar. |
+^ Grenzwerte ^^
+^ Geruchsschwellenwert | 0,01 bis 0,3 ppm (verschiedene Angaben in der Literatur und abhängig vom Individuum) |
+^ [[cbrn:allgemein:begriffsklaerungen#agw-wert|AGW-Wert]] | 0,5 ppm / 1,5 Vol-% |
+^ [[cbrn:allgemein:begriffsklaerungen#etw-wert|ETW-Wert]] | 1 ppm |
+^ Arbeit auf Dauer unerträglich, starke Reizsymptome | 3 ppm |
+^ [[cbrn:allgemein:begriffsklaerungen#idlh-wert|IDLH-Wert]] | 10 ppm |
+^ Lebensgefährlich bei Einwirkung bis 30 Minuten | 20 ppm |
+^ Tod in 30 - 60 Minuten | 50 ppm |
+^ Tod in 5 - 10 Minuten | 200 ppm |
+^ [[cbrn:allgemein:kennzeichnung:ghs|GHS-Einstufung und Kennzeichnung]] ^^
+^ [[cbrn:allgemein:kennzeichnung:ghs#piktogramme|GHS-Piktogramm(e)]] | {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_skull.png?nolink&100 |Totenkopf}} {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_rondflam.png?nolink&100 |brandfördernd}} {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_bottle.png?nolink&100 |Gasflasche}} {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_aquatic-pollut-red.png?nolink&100 |umweltgefährlich}} |
+^ GHS-Signalwort                               | Gefahr |
+^ [[cbrn:allgemein:kennzeichnung:ghs#gefahrenhinweise_h-saetze|GHS-Gefahrenhinweise (H-Sätze)]] | H270: Kann Brand verursachen oder verstärken; Oxidationsmittel.\\ H280: Enthält Gas unter Druck; kann bei Erwärmung explodieren.\\ H330: Lebensgefahr bei Einatmen.\\ H315: Verursacht Hautreizungen.\\ H319: Verursacht schwere Augenreizung.\\ H335: Kann die Atemwege reizen.\\ H400: Sehr giftig für Wasserorganismen.\\ EUH071: Wirkt ätzend auf die Atemwege. |
+^ [[cbrn:allgemein:kennzeichnung:ghs#sicherheitshinweise_p-saetze|GHS-Sicherheitshinweise (P-Sätze)]] | P260: Gas/Dampf nicht einatmen.\\ P220: Von brennbaren Materialien entfernt aufbewahren.\\ P280: Schutzhandschuhe/Schutzkleidung/Augenschutz/Gesichtsschutz tragen.\\ P244: Druckminderer frei von Fett und Öl halten.\\ P273: Freisetzung in die Umwelt vermeiden.\\ P304+P340: BEI EINATMEN: An die frische Luft bringen und in einer Position ruhigstellen, die das Atmen erleichtert.\\ P305+P351+P338: BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser spülen. Vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.\\ P332+P313: Bei Hautreizung: Ärztlichen Rat einholen/ärztliche Hilfe hinzuziehen.\\ P370+P376: Bei Brand: Undichtigkeit beseitigen, wenn gefahrlos möglich.\\ P302+P352: BEI KONTAKT MIT DER HAUT: Mit viel Wasser und Seife waschen.\\ P315: Sofort ärztlichen Rat einholen / ärztliche Hilfe hinzuziehen.\\ P405: Unter Verschluss aufbewahren.\\ P403: An einem gut belüfteten Ort aufbewahren. |
+^ [[cbrn:allgemein:kennzeichnung:gefahrensymbole|Einstufung nach Stoffrichtlinie]] (R- und S-Sätze) ^^
+^ [[cbrn:allgemein:kennzeichnung:gefahrensymbole|Piktogramm]] | {{cbrn:allgemein:kennzeichnung:gefahr_o.png?nolink&100 |brandfördernd}} {{cbrn:allgemein:kennzeichnung:gefahr_t.png?nolink&100 |giftig}} {{cbrn:allgemein:kennzeichnung:gefahr_n.png?nolink&100 |umweltgefährlich}}|
+^ Risiko-Sätze (R-Sätze)                       | R 8: Feuergefahr bei Berührung mit brennbaren Stoffen\\ R 23: Giftig beim Einatmen\\ R 36/37/38: Reizt die Augen, Atmungsorgane und die Haut\\ R 50: Sehr giftig für Wasserorganismen |
+^ Sicherheitssätze (S-Sätze)                   | S 9: Behälter an einem gut gelüfteten Ort aufbewahren\\ S 45: Bei Unfall oder Unwohlsein sofort Arzt zuziehen\\ S 61: Freisetzung in die Umwelt vermeiden |
+^ [[cbrn:allgemein:kennzeichnung:warnzeichen|Warnzeichen]] ^^
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_giftigen_stoffen.png?nolink&100|Warnung vor giftigen Stoffen}} |Warnung vor giftigen Stoffen|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_brandfoerdernden_stoffen.png?nolink&100|Warnung vor brandfördernden Stoffen}}|Warnung vor brandfördernden Stoffen|
+|{{cbrn:allgemein:kennzeichnung:warnung_vor_gasflaschen.png?nolink&100|Warnung vor Gasflaschen}}|Warnung vor Gasflaschen|
+
+**Lizenzhinweis**: Die Daten aus dem Bereich "Stoffdaten" stammen zu großen Teilen aus der GESTIS-Stoffdatenbank und dürfen daher ausschließlich für nichtkommerzielle Zwecke des Arbeitssschutzes verwendet werden.
+
+===== Quellenangabe =====
+
+  * [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/007170.xml?f=templates&fn=default.htm|Eintrag für Chlor]] in der Gestis Stoffdatenbank
+  * [[http://vfdb.de/Download-Bereich.111.0.html?&no_cache=1&L=0&tx_abdownloads_pi1[action]=getviewclickeddownload&tx_abdownloads_pi1[uid]=123&tx_abdownloads_pi1[cid]=192|vfdb-Merkblatt: Empfehlung für den Feuerwehreinsatz bei Gefahr durch Chlor]]
+  * [[http://www.bundesfeuerwehrverband.at/fileadmin/user_upload/Downloads/Infoblaetter/SG_4.6_Schadstoffe/E05-Chlor.pdf|Information Chlor]], Österreichischer Bundesfeuerwehrverband
+
+===== Stichwörter =====
+
+Schwimmbad

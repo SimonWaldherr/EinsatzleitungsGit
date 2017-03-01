@@ -1,0 +1,98 @@
+~~NOCACHE~~
+
+====== Seilwinde / Mehrzweckzug ======
+
+siehe auch [[allgemeine_hilfe:allgemein:anschlagmittel|Anschlagmittel]]
+
+===== zu treffende Maßnahmen =====
+
+  * das 1,5-fache der genutzten Seillänge als Sicherheitsabstand absperren
+  * Bei Dunkelheit den Bereich am Seil ausleuchten
+  * Handschuhe und Helm mit Gesichtsschutz (Visier) tragen
+
+==== besondere Gefahren ====
+
+  * Wegrutschen der Last
+  * Quetschgefahr: Nicht ins laufende Seil oder laufende Rollen greifen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * nicht ruckartig anziehen
+  * eine Schlagschutzmatte (ersatzweise eine Wolldecke o.ä.) auf das Seil legen um dieses im Falle eines Abrisses nach unten abzulenken (siehe Quellenangabe für weitere Informationen)
+  * Alle Bestandteile (Seile, Schäkel, Umlenkrollen, etc.) müssen so gewählt sein dass die Zugeinrichtung nicht stärker als die zugelassene Belastung der Bestandteile ist
+  * Bei Drahtseilen darauf achten dass alle verwendeten Seile in gleiche Richtung gedreht sind. Wird ein rechts- und ein linksgedrehtes Seil zusammen verwendet, drehen sich die beiden Drahtseile unter Last gegenseitig auf!
+  * Nach dem Einsatz alle eingesetzten Materialien auf Beschädigungen prüfen
+
+==== Mehrzweckzug ====
+
+  * als Zugseil für den Mehrzweckzug nur Spezialseil mit roter Litze verwenden
+  * zulässige Belastung beachten
+  * beim Ansprechen der Überlastsicherung (Scherstifte, bei ca. 25% Überlast) kann nur noch entlastet werden. Nur original Scherstifte des Herstellers verwenden.\\ -> Selbstverständlich muss danach der Aufbau geändert werden um den Mehrzweckzug danach weniger zu belasten!
+
+==== maschinelle Zugeinrichtung (Seilwinde) ====
+
+  * Lenkung gerade stellen und Vorderräder mit Unterlegkeilen sichern. Dabei nur verzahnte Keile benutzen, normale LKW-Unterlegkeile können versagen
+  * maximale horizontale und vertikale Zugwinkel nicht überschreiten (Angabe des Herstellers)
+  * nicht zum Heben und Senken von Lasten verwenden
+  * Auf Wegrutschen des ziehenden Fahrzeugs achten
+    * Faustregel: Auf fester, trockener Teerstraße hält ein Fahrzeug mit 10 bis 14 Tonnen Eigengewicht eine Zugkraft von ca. 50 kN Zugkraft (auch ohne Unterlegkeile)
+    * ggf. das ziehende Fahrzeug an einem zweiten Fahrzeug, Baum, Erdanker, etc. sichern
+  * Fahrzeug nicht bewegen solange eine Last angeschlagen ist
+
+==== Aufbau von Flaschenzügen ====
+
+Folgende Kräfte können mithilfe von Flaschenzügen mit einem 16-kN-Mehrzweckzug aufgebaut werden. Beachten Sie, dass Seile, Umlenkrollen und Anschlagmittel für die entstehenden Kräfte ausgelegt sein müssen!
+
+{{:allgemeine_hilfe:allgemein:flaschenzuege.png?nolink&500|Flaschenzüge}}
+
+==== Fahrzeugbergung ====
+
+~~INCLFORM=fahrzeugbergung~~
+
+=== Umrechnungstabelle für Steigung von % (auf Straßenschildern) in Grad (für Fahrzeugbergungs-Berechnung) ===
+
+^  Steigung\\ in Grad °  ^  Steigung\\ in %  | ^  Steigung\\ in Grad °  ^  Steigung\\ in %  ^
+|  1   |  1,8   ^ |  11  |  19,4  |
+|  2   |  3,4   ^ |  12  |  21,3  |
+|  3   |  5,2   ^ |  13  |  23,0  |
+|  4   |  7,0   ^ |  14  |  24,9  |
+|  5   |  8,8   ^ |  15  |  26,8  |
+|  6   |  10,5  ^ |  16  |  28,7  |
+|  7   |  12,3  ^ |  17  |  30,6  |
+|  8   |  14,1  ^ |  18  |  32,5  |
+|  9   |  15,8  ^ |  19  |  34,4  |
+|  10  |  17,6  ^ |  20  |  36,4  |
+
+==== mögliche Zugkraft an Bäumen ====
+
+**Diese Werte gelten für Laubbäume mit tiefen Wurzeln!**
+
+^  Durchmesser\\ in cm  ^  mögliche Zugkraft\\ in kN  ^
+|  20  |  13  |
+|  30  |  30  |
+|  40  |  53  |
+|  50  |  83  |
+|  60  |  120  |
+
+==== Winkelfunktionen ====
+
+~~INCLFORM=winkelfunktionen~~
+
+Erläuterungen zu den Winkelfunktionen Tangens, Sinus und Cosinus finden Sie auf der Seite [[allgemein:mathematische_berechnungen#winkelfunktionen|Mathematische Berechnungen]]
+
+===== Weblinks =====
+
+===== Quellenangabe =====
+
+  * FwDV 1
+  * [[http://www.heavy-rescue.de/2013/04/arbeiten-mit-der-winde-vorlage-fur-berechnungen/|heavy-rescue.de: Arbeiten mit der Winde: Vorlage für Berechnungen]], Irakli West
+  * [[http://www.heavy-rescue.de/2013/05/sicherheit-bei-seilabriss-greifzug/|heavy-rescue.de: Sicherheit bei Seilabriss]] (Erläuterung der improvisierten Schlagschutzmatte), Irakli West
+  * [[https://www.feuerwehrmagazin.de/wissen/seilwinde-im-einsatz-wie-es-geht-und-was-beachtet-werden-sollte-54172|Tipps für den Seilwinden-Einsatz bei der Feuerwehr]] von Olaf Preuschoff, Feuerwehr-Magazin, 03.08.2018
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * Grafik Flaschenzüge: selbst zusammengestellte Grafik, basierend auf den beiden Grafiken
+    * [[http://commons.wikimedia.org/wiki/File:Four_pulleys_FHZaw.svg]], veröffentlicht vom Wikipedia-User [[http://commons.wikimedia.org/wiki/User:StromBer|StromBer]] unter [[http://creativecommons.org/licenses/by-sa/3.0/deed.de|Attribution-ShareAlike 3.0 Unported]]-Lizenz
+    * [[http://commons.wikimedia.org/wiki/File:Power_pulley.svg]], veröffentlicht von den Wikipedia-Usern [[http://commons.wikimedia.org/wiki/User:Prolineserver|Prolineserver]] und [[http://commons.wikimedia.org/wiki/User:Tomia|Tomia]] unter [[http://creativecommons.org/licenses/by-sa/3.0/deed.de|Attribution-ShareAlike 3.0 Unported]]-Lizenz
+
+===== Stichwörter =====
+
+Greifzug

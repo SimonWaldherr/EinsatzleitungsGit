@@ -1,0 +1,68 @@
+====== Schichtungsstabilität der Atmosphäre ======
+
+===== Unterteilung verschiedener Ausbreitungsklassen =====
+
+^                           ^  TA Luft  ^  Pasquill          ^  Turner             ^  Beschreibung der Wetterlagen (nach TA Luft)  ^
+^ sehr labil (instabil)     |  V        |  A                 |  1                  | Tage in den Sommermonaten, wolkenarm oder windschwach, nur um die Mittagszeit |
+^ labil (instabil)          |  IV       |  B                 |  2                  | tags, windschwach, wenig Bewölkung |
+^ neutral bis leicht labil (instabil) |  III/2    |  C                 |  3                  | tags, mittlere Windgeschwindigkeiten, bedeckt |
+^ neutral bis leicht stabil |  III/1    |  D (neutral)       |  4 (neutral)        | Tag und Nacht, höhere Windgeschwindigkeiten |
+^ stabil                    |  II       |  E (leicht stabil) |  6 (leicht stabil)  | nachts, windschwach, bedeckt |
+^ sehr stabil               |  I        |  F (stabil)        |  7 (stabil)         | nachts, windschwach, wenig Bewölkung |
+
+===== Ausbreitungstypen =====
+
+Anhand eines Fabrikschornsteins werden die unterschiedlichen Ausbreitungstypen erläutert. Ursache für die Ausbreitung kann natürlich auch ein Brandereignis oder ein austretender Gefahrstoff sein.
+
+Die fünf dargestellten Fälle werden nur isoliert betrachtet, was aber über eine größere horizontale Entfernung kaum den realen Bedingungen entspricht. Die Schichtung der Atmosphäre kann sich also mit der Entfernung vom Schornstein ändern, was besonders bei Erhebungen und einer Änderung der Thermik der Erdoberfläche der Fall ist.
+
+<WRAP center round info 100%>
+Die Reihenfolge der nachfolgend beschriebenen Ausbreitungstypen ist von labil zu stabil geordnet.
+</WRAP>
+
+
+==== Looping ====
+
+{{ :allgemein:wetter:schichtung_looping.png?direct&300|Looping}}
+Es herrscht eine leicht bis mittelstarke labile Schichtung, die Luftschadstoffe breiten sich schleifenförmig aus. Durch Turbulenzen und konvektive Vorgänge kann der Ausstoß bereits nach kurzer Zeit den Boden berühren, sodass <wrap important>die Schadstoffbelastung in relativ geringer Nähe vom Schornstein recht groß ist</wrap>. Sie lässt dafür jedoch auch schnell nach und ist bei mittelgroßen Entfernungen recht gering. Die Situation ist typisch für Nachmittage von sonnigen Sommertagen.
+
+==== Coning ====
+
+{{ :allgemein:wetter:schichtung_coning.png?direct&300|Coning}}
+Es herrscht eine neutrale bis leicht stabile Schichtung und die Luftschadstoffe breiten sich konisch aus, wobei die vertikale Ausdehnung des zunehmend breiter werdenden Abgaskegels recht gleichmäßig ist. Die Verdünnung der Abgase ist recht gering, die Rauchfahne berührt jedoch nicht direkt den Boden. Eine Situation vorab bei bewölktem Wetter.
+
+==== Fanning ====
+
+{{ :allgemein:wetter:schichtung_fanning.png?direct&300|Fanning}}
+Inversionswetterlage. Der Rauch steigt bis zur Höhe auf, bei der sich die Inversion befindet. Die Rauchfahne wird kaum verdünnt. Die hohen Abgaskonzentrationen bleiben auch noch in erheblicher Entfernung zum Schornstein erhalten. **Bodennah ist die Belastung hier gering**, hoch ist sie allerdings bei Auftreten von Geländeerhöhungen in der Ausbreitungs-Richtung. Auftreten v.a. nachts und bei Tiefdruck, wobei es sich häufig um die Vorstufe zu Fumigation (siehe unten) handelt.
+
+==== Lofting ====
+
+{{ :allgemein:wetter:schichtung_lofting.png?direct&300|Lofting}}
+Am Boden zeigt sich eine Inversion, doch liegt deren Obergrenze nun auf oder sogar unter der Schornsteinhöhe. Für die vertikale Ausbreitung der Rauchsäule erweist sich die Inversion als Sperrschicht, in diesem Fall jedoch nach unten. Da die Emissionen oberhalb der Inversion erfolgen (andernfalls würde es sich wieder um eine Fanning-Lage handeln), können die Schadstoffe maximal bis zur Obergrenze der Inversion absinken. Dort zeigt sich dann auch meist eine höhere Abgaskonzentration. Nach oben hin wird die vertikale Ausbreitung jedoch nicht behindert. **Für die Luftverschmutzung ist dies eine sehr wünschenswerte Situation**: Die Rauchgasfahne verdünnt sich, erreicht jedoch nicht die Erdoberfläche. Auftreten v.a. am frühen Abend bei wolkenlosem Himmel, in den meisten Fällen von kürzerer Dauer.
+
+==== Fumigation ====
+
+{{ :allgemein:wetter:schichtung_fumigation.png?direct&300|Fumigation}}
+<wrap important>Der Typ der Fumigation stellt die aus Sicht der Luftverschmutzung schädlichste Lage dar.</wrap> Hier herrscht eine labile Schichtung am Boden, gefolgt von einer Höheninversion oberhalb des Schornsteins. Unterhalb der Inversion können sich die Abgase aufgrund der labilen Schichtung sehr gut ausbreiten, werden jedoch nach oben durch die Inversion blockiert. Die Durchmischung erfolgt also nur in Bodennähe.
+
+<wrap important>Bleibt diese Lage über längere Zeit erhalten, kann es zu einer drastischen Anreicherung der Schadstoffe kommen.</wrap> Ist die Durchmischungszone zum Beispiel durch eine Tal- oder gar Kessellage recht klein, so ist auch eine Auflösung der Inversion durch Wind stark eingeschränkt, was die Anreicherung der Abgase entsprechend begünstigt. Eine solche Tallage und ebenso ein hoher Schadstoffausstoß ist gerade für Ballungsräume charakteristisch.
+
+===== Begriffserklärungen =====
+
+==== Inversion ====
+
+Eine Inversionswetterlage ist eine Wetterlage, bei der die oberen Luftschichten wärmer sind als die unteren. Durch die Inversion wird die untere Luftschicht von der oberen abgeschirmt und kann diese nicht durchbrechen. 
+
+===== Quellenangabe =====
+
+  * Lehrgangsunterlagen „Chemische Risiken“, Akademie für Krisenmanagement, Notfallplanung und Zivilschutz (AKNZ)
+  * [[https://www.hlnug.de/fileadmin/dokumente/luft/ausbreitungsrechnung/glossar_internet.pdf|Hessisches Landesamt für Umwelt und Geologie - Glossar Ausbreitungsrechnung]]
+  * [[http://www.bmub.bund.de/fileadmin/Daten_BMU/Download_PDF/Luft/taluft.pdf|Technische Anleitung zur Reinhaltung der Luft]]
+  * [[wpde>Schichtungsstabilität_der_Erdatmosphäre|Wikipedia: Schichtungsstabilität der Erdatmosphäre]], insbesondere die Texte im Abschnitt "Ausbreitungstypen"
+  * [[wpde>Inversionswetterlage|Wikipedia: Inversionswetterlage]]
+  * Grafiken der Ausbreitungstypen: veröffentlicht vom Wikipedia-User [[https://commons.wikimedia.org/wiki/User:Saperaud~commonswiki|Saperaud]] unter Public-Domain-Lizenz, zugeschnitten
+
+===== Stichwörter =====
+
+Schadstoffausbreitung, Ausbreitungsklasse

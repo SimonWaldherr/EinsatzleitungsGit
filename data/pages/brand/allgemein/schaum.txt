@@ -1,0 +1,102 @@
+~~NOCACHE~~
+
+====== Löschmittel Schaum ======
+
+Löschschaum muss grundsätzlich in strahlrohrverschäumten Schaum (herkömmlich erzeugt am Schaumstrahlrohr) und Druckluftschaum (DLS, englisch CAFS: Compressed Air Foam System, erzeugt in der Pumpe) unterschieden werden.
+
+===== Schaumberechnungen =====
+
+==== praktische Hinweise zu den berechneten Ergebnissen ====
+
+Die „Zerstörungsrate“, auch „Abbrandwiderstand“ oder „Abbrandfaktor“, hat im Allgemeinen den Wert von 2 –> ca. 50% des Schaumes wird beim Aufbringen oder durch die Hitze direkt zerstört. Diese Tatsache ist bei den berechneten Ergebnissen schon enthalten und braucht nicht selbst berücksichtigt werden.
+
+Zu beschäumende Flächen werden ca. 50 cm hoch eingeschäumt. –> Mit 1 m³ Schaum können 2 m² Fläche beschäumt werden.
+
+==== Berechnung der maximal erzeugbaren Schaummenge ====
+
+~~INCLFORM=max_schaummenge~~
+
+==== Berechnung der benötigten Schaummittelmenge für eine bestimmte Menge Schaum ====
+
+~~INCLFORM=gewuenschte_schaummenge~~
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Einsatzgrundsätze ====
+
+  * Durchflussmenge von Zumischer und Schaumrohr muss aufeinander abgestimmt sein
+  * Schaumrohr erst auf Brandobjekt richten wenn gleichmäßiger Schaum austritt
+  * bei Arbeit mit Schaummittel Handschuhe und Gesichts- bzw. Augenschutz tragen
+  * [[brand:allgemein:loeschwasserrueckhaltung|Löschwasserrückhaltung]] einrichten, Schaummittel wird üblicherweise in die [[cbrn:allgemein:cbrn-lexikon:wassergefaehrdungsklasse|Wassergefährdungsklasse 2]] eingestuft
+
+=== Strahlrohrverschäumter Schaum ===
+
+  * saubere Luft bzw. keinen Brandrauch ansaugen da sonst die Schaumbildung nicht ordentlich funktioniert
+  * Luftansaugöffnungen am Schaumrohr nicht zuhalten oder mit Kleidung verdecken
+  * richtiger Druck am Schaumrohr wichtig (i.d.R. 5 bar - ggf. ist auch Manometer am Schaumrohr vorhanden)
+    * Müssen große Druck- bzw. Höhenunterschiede überwunden werden, z.B. beim Einsatz des Schaumrohrs aus dem Drehleiterkorb heraus, so sollte zwischen Zumischer und Schaumrohr eine weitere Pumpe eingesetzt werden um den nötigen Druck am Schaumrohr garantieren zu können (siehe Grafik, sogenanntes "Geradeaus-Verfahren"). Zweite Pumpe nach dem Einsatz gründlich spülen!
+
+{{ :brand:allgemein:geradeaus-verfahren.png?direct&600 |Geradeaus-Verfahren}}
+
+=== DLS/CAFS ===
+
+  * Nutzung im Innenangriff nur, wenn bei Ausfall der Anlage mit Wasser weitergelöscht werden kann
+  * die durch die Strahlrohre abgebbare Menge muss zur im Fahrzeug verbauten Schaumanlage passen (die Durchflussmenge des Strahlrohrs darf nicht zu niedrig sein)
+  * Schlauchplatzer äußern sich durch die Druckluft mit einem lauten Knall - dieser muss also nicht gleich Explosion/Einsturz/etc. bedeuten, dies muss Trupp und Einheitsführer bekannt sein
+
+==== Taktik im Schaum-Einsatz ====
+
+  * möglichst mehrere Schaumrohre gleichzeitig einsetzen
+  * beim Löschen von brennbaren Flüssigkeiten entweder
+    * Schaumstrahl auf einen Punkt in die Flüssigkeit richten und den Schaum sich von dort aus ausbreiten lassen oder
+    * an die Wand richten und von dort aus auf die Flüssigkeit gleiten lassen
+
+=== speziell bei DLS/CAFS ===
+
+  * beim Löschen von [[brand:metallbrand|Metallbränden]] den trockenen DLS vor das Metall auf den Boden richten und über das Brandgut //schieben// \\ Der Metallbrand lässt sich hiermit nicht endgültig löschen, aber unter Kontrolle halten bis ein adäquates Löschmittel verfügbar ist
+  * Wurfweite aus dem Strahlrohr ca. 30 bis 80% weiter als Wasser
+  * deutlich größere Förderhöhen möglich (z.B. beim Einsatz in [[brand:allgemein:steigleitung|Steigleitungen]])
+  * bleibt der Schaum am Objekt haften, liegt die Temperatur des Objekts unter 100°C
+
+==== Begriffsdefinitionen ====
+
+=== Zumischrate ===
+
+Die **Zumischrate** gibt an, wie groß der Anteil Schaummittel im Wasser-Schaummittel-Gemisch ist. Bei einer 3%-igen Zumischung sind in 100 Litern Wasser-Schaummittel-Gemisch also 3 Liter Schaummittelkonzentrat. Die Zumischrate wird vom Hersteller des Schaummittels vorgegeben. Generell gilt aber, dass der Schaum umso stabiler wird je höher die Zumischrate ist.
+
+=== Verschäumungszahl ===
+
+Die **Verschäumungszahl** gibt an, das wie-viel-fache des Schaummittel-Wasser-Gemisch-Volumens der entstehende Schaum einnimmt. Eine VZ von 15 bedeutet: aus 1 Liter Gemisch entstehen 15 Liter Schaum. Die Verschäumungszahl ist eine feste Eigenschaft des Strahlrohrs und kann nicht geändert werden. Je nach VZ wird der Schaum bezeichnet als
+
+  * VZ 4 - 20: Schwerschaum\\ **Kühlen** und abdecken von brennbaren Feststoffen/Flüssigkeiten
+  * VZ 20 - 200: Mittelschaum\\ **Abdecken** und kühlen, Schützen von Objekten
+  * VZ 200 - 1000: Leichtschaum\\ Sauerstoffverdrängung in geschlossenen Räumen, Abdecken ohne effektive Kühlwirkung
+
+Die typische VZ für ein Schwerschaumrohr beträgt 15, für Mittelschaumrohre 75.
+
+Bei DLS-/CAFS-Systemen können in etwa folgende Verschäumungszahlen angesetzt werden:
+
+  * nasser Schaum: VZ ca. 4
+    * Einsatz zum Löschen
+    * hauptsächliche Löschwirkung: Kühleffekt durch hohen Wasseranteil
+    * Schichtdicke an senkrechten Wänden von ca. 5 mm möglich
+  * trockener Schaum: VZ ca. 15
+    * Einsatz zum Schützen von Objekten (vorsorgliches Einschäumen)
+    * geringe Fließfähigkeit
+    * Schichtdicke an senkrechten Wänden von ca. 15 mm möglich
+
+=== Zerstörungsrate ===
+Die **Zerstörungsrate** gibt an, wie hoch der Anteil des Löschschaums ist der direkt beim Auftreffen auf den Brand zerstört wird. Ursachen dafür können neben der Hitze des Brandes beispieslweise auch chemische Reaktionen mit dem Brennstoff sein. Bei der Berechnung von benötigten Schaummengen wird in der Regel mit Zerstörungsraten von 50% gerechnet, in Einzelfällen wie bei sehr heißen Mineralölbränden kann diese aber bis zu 70% betragen.
+
+===== Quellenangabe =====
+
+  * [[http://internet.lfks-rlp.de/fileadmin/user_upload/Redakteur/kreisausbildung/truppfuehrer/teilnehmerheft_truppfuehrer_komplett.pdf|Lehrgangsunterlage Truppführerausbildung der LFKS RLP (PDF, 9 MB)]]
+  * FwDV 1
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * Verein zur Förderung des deutschen Brandschutzes (vfdb): [[http://www.vfdb.de/download/TechnischerBerichtDLS102010.pdf‎|Technischer Bericht Druckluftschaum (DLS)]]
+  * Grafik "Geradeaus-Verfahren": [[https://commons.wikimedia.org/wiki/File:Geradeaus-Verfahren.svg|https://commons.wikimedia.org/wiki/File:Geradeaus-Verfahren.svg]], veröffentlicht vom Wikipedia-User [[wpde>Benutzer:Jiver|]] unter Creative Commons Attribution-Share Alike 3.0 Unported-Lizenz
+
+===== Stichwörter =====
+
+Verschäumungszahl, VZ
+

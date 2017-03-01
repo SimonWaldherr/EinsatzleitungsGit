@@ -1,0 +1,70 @@
+====== Brandeinwirkung auf Druckgasbehälter ("Gasflaschen") ======
+
+===== zu treffende Maßnahmen =====
+
+  * [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] räumen.
+  * Druckbehälter mit unbekanntem Inhalt wie [[cbrn:chemisch:klasse_2:stoffe:acetylen|Acetylen]] behandeln!
+  * Für das Medium erforderliche Schutzausrüstung verwenden (entsprechende [[cbrn:allgemein:koerperschutzformen|Körperschutzform]]; Beständigkeitsliste beachten, ...).
+  * Noch nicht betroffene Behälter aus dem Gefahrenbereich entfernen.
+  * Wenn möglich Behälterventile schließen.
+  * heiße Druckbehälter aus der Deckung kühlen, bis diese bei einer Unterbrechung der Kühlung dauerhaft kalt bzw. nass bleiben.
+  * Druckbehälter auf Dichtheit prüfen (z.B. mit Lecksuchspray).
+  * Vom Brand betroffene Druckbehälter nicht mehr als nötig bewegen.
+
+==== Brand am Ventil von Behältern mit brennbaren Gasen ====
+
+  * Ventil schließen, ansonsten Druckbehälter und Umgebung kühlen wenn nicht möglich.
+  * Flüssiggasbehälter (Propan/Butan) beim Kühlen mit dem Wasserstrahl nicht umwerfen, umgefallene Flüssiggasbehälter wieder aufstellen.
+  * Ventilbrand nur löschen, wenn
+    - Behälter besondere Gefahr darstellt
+    - schnelles Schließen des Ventils möglich ist
+    - davor alle Zündquellen beseitigt wurden
+
+==== besondere Gefahren ====
+
+  * Bersten des Druckbehälters -> umherfliegende Metallteile, die selbst Beton durchschlagen können
+  * Druckwellen
+  * Austritt von brennbaren, heißen, giftigen oder korrosiven (ätzenden) Inhalten
+  * Ventile können nach starker Erhitzung undicht werden
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+Weitere Hinweise zu spezifischen Stoffen auf den jeweiligen Spezial-Seiten:
+
+==== Klasse 2: gasförmige Stoffe ====
+
+[[cbrn:chemisch:klasse_2:start|Hauptseite Klasse 2]]
+
+{{simplenavi>cbrn:chemisch:klasse_2:stoffe}}
+
+==== Klasse 6.1: giftige Stoffe ====
+
+[[cbrn:chemisch:klasse_6-1:start|Hauptseite Klasse 6.1]]
+
+{{simplenavi>cbrn:chemisch:klasse_6-1:stoffe}}
+
+==== Klasse 8: ätzende Stoffe ====
+
+[[cbrn:chemisch:klasse_8:start|Hauptseite Klasse 8]]
+
+{{simplenavi>cbrn:chemisch:klasse_8:stoffe}}
+
+===== Weblinks =====
+
+Weitere Hinweise für das Vorgehen nach dem Brand für den Eigentümer im [[http://www.industriegaseverband.de/igv/sicherheitshinweise/Druckgasflaschen-nach-Braenden.pdf|SICHERHEITSHINWEIS: Behandlung von Druckgasflaschen während und nach Bränden]] des Industriegaseverbands.
+
+===== Kontaktdaten/Ansprechpartner =====
+
+==== Industriegaseverband e.V. ====
+
+Komödienstr. 48\\
+50667 Köln
+
+Telefon: 0221-9125750\\
+Telefax: 0221-912575-15\\
+e-mail: [[Kontakt@Industriegaseverband.de]]\\
+Internet: www.Industriegaseverband.de
+
+===== Quellenangabe =====
+
+  * [[http://www.industriegaseverband.de/igv/sicherheitshinweise/Druckgasflaschen-nach-Braenden.pdf|SICHERHEITSHINWEIS: Behandlung von Druckgasflaschen während und nach Bränden]], Industriegaseverband e.V.

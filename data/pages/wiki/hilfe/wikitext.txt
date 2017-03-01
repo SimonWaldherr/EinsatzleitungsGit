@@ -1,0 +1,11 @@
+====== Der Wiki Code ======
+
+Wiki Seiten sind in Reintext, genannt [[wpde>Wikitext]] geschrieben. Dieser Code ist einfacher Text, der mit einer einfachen Syntax aufgewertet wird. Dieser Syntax wird mit dem [[wiki:hilfe:artikel_standardeditor|Standard-Editor]] direkt erzeugt. Der [[wiki:hilfe:artikel_fck-editor|FCK-Editor]] übernimmt die Umwandlung von komfortabel erzeugtem Text in Wiki-Syntax. 
+
+Dieser Code wird vom DokuWiki [[doku>devel:Parser]] (engl.) interpretiert und in XHTML überführt nachdem eine Seite bearbeitet wurde.
+
+Man kann in Wiki Text einsehen, wenn man auf die Schaltfläche "Bearbeiten" rechts oben neben dem Suchfeld klickt.
+
+===== Quellenangabe =====
+
+  * [[doku>de:wikitext]], veröffentlicht unter der //CC Attribution-Share Alike 3.0 Unported//-Lizenz

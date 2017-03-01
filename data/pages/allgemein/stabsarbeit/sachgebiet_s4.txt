@@ -1,0 +1,14 @@
+====== Sachgebiet S4 - Versorgung ======
+
+  * Anfordern weiterer Einsatzmittel
+  * Heranziehen von Hilfsmitteln, zum Beispiel Baustoffe, Abstützmaterial, Lastkraftwagen, Tankkraftwagen, Räum- und Hebegeräte
+  * Bereitstellen von Verbrauchsgütern und Einsatzmitteln, zum Beispiel [[brand:allgemein:loeschwasserversorgung|Wasserversorgung]], Löschmittel, Atemschutzgeräte, [[allgemein:kraftstoffverbrauch|Kraftstoffe]]
+  * Bereitstellen und zuführen der [[allgemein:verpflegung|Verpflegung]]
+  * Sicherstellen der Materialerhaltung für das Gerät
+  * Festlegen der Versorgungsorganisation
+  * Bereitstellen von Rettungsmitteln zum Eigenschutz der Einsatzkräfte
+  * Bereitstellen von Unterkünften für Einsatzkräfte
+
+===== Quellenangabe =====
+
+  * [[http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext_Fw_Dv/SKK_Dv_100.pdf?__blob=publicationFile|Führung und Leitung im Einsatz : Führungssystem ; Vorschlag einer Dienstvorschrift DV 100]], Ständige Konferenz für Katastrophenvorsorge und Katastrophenschutz

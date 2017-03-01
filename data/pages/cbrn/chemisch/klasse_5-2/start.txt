@@ -1,0 +1,52 @@
+====== Klasse 5.2 Organische Peroxide ======
+
+Stoffe der Klasse 5.2 enthalten gebundenen Sauerstoff, den sie an andere Stoffe abgeben können. Diese können dann bei geringeren Temperaturen und heftiger brennen. Der Stoff der Klasse 5.2 kann sich oberhalb einer bestimmten Temperatur explosionsartig zersetzen.
+
+Bestimmte organische Peroxide werden unter Temperaturkontrolle (im Kühlbehälter) transportiert, bei Ausfall der Temperaturkontrolle und beim Erreichen der Notfalltemperatur (Angaben aus Frachtbrief) sind bestimmte Sicherungsmaßnahmen zu ergreifen (siehe Sicherheitsdatenblatt).
+
+===== zu treffende Maßnahmen =====
+
+[[cbrn:ericards:klasse_5-2:start]]
+
+  * Notfall- und Kontrolltemperatur aus Frachtbrief entnehmen und am Stoff messen
+  * Kühlmaßnahmen aus der Deckung oder ohne Personal (Monitor) vornehmen
+
+==== besondere Gefahren ====
+
+  * Brand- und Explosionsgefahr bei Kontakt mit brennbaren Stoffen
+  * explosionsartige Selbstzersetzung bei Licht- oder Wärmeeinwirkung
+  * heftige Reaktion mit Wasser und Säuren
+  * Bei Brand Bildung giftiger und ätzender Gase
+  * erstickende Löschmittel meist unwirksam (Stoff selbst gibt Sauerstoff ab)
+  * Druckanstieg in Tanks durch Gasentwicklung
+  * ätzend
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * kein organisches/brennbares Bindemittel verwenden
+  * ggf. Funktion des Kühlaggregats aufrecht erhalten
+  * Experten hinzuziehen ([[cbrn:allgemein:tuis|TUIS]])
+
+==== verschiedene Temperaturen ====
+
+=== SADT ===
+
+Temperatur, bei der sich der Stoff unter zunehmender Reaktionsgeschwindigkeit zersetzt
+
+=== Notfalltemperatur ===
+
+Temperatur, bei der Notfallmaßnahmen ergriffen werden müssen (5 bis 10°C unter SADT). Bei Überschreitung der Temperatur Gebiet räumen und Abstand halten.
+
+=== Kontrolltemperatur ===
+
+Temperatur, bei der der Stoff sicher transportiert werden kann (10 bis 20°C unter SADT)
+
+==== besondere Stoffe der Klasse 5.2 ====
+
+{{simplenavi>cbrn:chemisch:klasse_5-2:stoffe}}
+
+===== Quellenangabe =====
+
+  * Lehrgangsunterlagen ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+  * FwDV 500 Stand 2012
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr

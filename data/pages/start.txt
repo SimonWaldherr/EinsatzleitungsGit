@@ -1,0 +1,55 @@
+====== Startseite ======
+
+<WRAP group>
+<WRAP column box centeralign>
+[[:brand:start|{{ :brand.png }}]]
+[[:brand:start|Brandeinsatz]]
+</WRAP>
+
+<WRAP column box centeralign>
+[[:allgemeine_hilfe:start|{{ :allgemeine_hilfe.png }}]]
+[[:allgemeine_hilfe:start|Allgemeine Hilfe]]
+</WRAP>
+
+<WRAP column box centeralign>
+[[cbrn:start|{{ :gefaehrliche_stoffe_gueter.png }}]]
+[[cbrn:start|CBRN/ABC/GSG]]
+</WRAP>
+
+<WRAP column box centeralign>
+[[:lokal:start|{{ :lokal.png }}]]
+[[:lokal:start|lokale Daten]]
+</WRAP>
+
+<WRAP column box centeralign>
+[[:allgemein:start|{{ :allgemein.png }}]]
+[[:allgemein:start|Allgemein]]
+</WRAP>
+
+<WRAP column box centeralign>
+[[:rettungsdatenblaetter:start|{{ :rettungsdatenblaetter.png }}]]
+[[:rettungsdatenblaetter:start|Rettungsdatenblätter]]
+</WRAP>
+
+<WRAP column box centeralign>
+[[cbrn:ericards:start|{{ :ericards.png |ERICards}}]]
+[[cbrn:ericards:start|ERICards]]
+</WRAP>
+
+<WRAP column box centeralign>
+[[:allgemein:woerterbuch:start|{{ :woerterbuch.png }}]]
+[[:allgemein:woerterbuch:start|Einsatz-Wörterbuch]]
+</WRAP>
+
+<WRAP column box centeralign>
+[[:erste_hilfe:start|{{ :erste_hilfe.png }}]]
+[[:erste_hilfe:start|Erste Hilfe]]
+</WRAP>
+</WRAP>
+
+
+<WRAP round tip 100% centeralign>Nutzen Sie das **Suchfeld oben rechts**, um eine **Volltextsuche in allen Artikeln** durchzuführen.
+
+Geben Sie //un// gefolgt von der UN-Nummer eines Gefahrguts ein, um die zum Stoff gehörende **ERICard** aufzurufen, z.B. //un1203// für Benzin.
+
+Eine **thematische Sortierung aller Artikel** finden Sie in den entsprechenden Kategorien.</WRAP>

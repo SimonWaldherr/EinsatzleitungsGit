@@ -1,0 +1,44 @@
+====== Download und Installation ======
+
+Seit 30. Oktober 2012 ist die Installation wesentlich einfacher als zuvor. Sie können das Einsatzleiterwiki nun wie jedes gewöhnliche Programm installieren ohne weitere Konfigurationen vorzunehmen. Lediglich wenn Sie das Einsatzleiterwiki auf einem Internet-/Intranet-Server oder einem anderen Betriebssystem als Microsoft Windows installieren wollen, müssen Sie mehrere Schritte ausführen.
+
+Die Installation auf einem normalen Computer (z.B. Laptop auf dem ELW) wird in diesem Youtube-Video gezeigt: [[http://youtu.be/X3VWbh7EyS8]]
+===== Download =====
+
+Laden Sie sich das [[http://www.einsatzleiterwiki.de/index.php/download/Einsatzleiterwiki-Installation/Einsatzleiterwiki-Installation/|Installationsprogramm]] aus dem Downloadbereich herunter.
+
+===== Installation unter Windows =====
+
+Starten Sie das Installationsprogramm mit Administratorrechten (unter Windows Vista und 7 sollte beim Aufruf das bekannte Dialogfenster erscheinen welches Sie dazu auffordert) und folgen Sie den Anweisungen. Sie müssen während der Installation zwingend mit dem Internet verbunden sein, da etwa 330 MB aus dem Internet geladen werden müssen. Es werden drei mal hintereinander abwechselnd Daten heruntergeladen und entpackt. Dies kann aufgrund der Datenmenge einige Zeit in Anspruch nehmen. Sie als Benutzer brauchen während der Installation nichts tun.
+
+Nachdem alle Dateien heruntergeladen und entpackt worden sind, öffnet sich ggf. ein Fenster, indem Ihre Firewall Sie auffordert eine Verbindung zuzulassen. Falls Sie über ein lokales Netzwerk (LAN bzw. WLAN) auch von anderen Computern auf diesen Rechner zugreifen möchten lassen Sie im ersten Kästchen den Haken. Wenn Sie nur von dem Computer auf dem Sie gerade installieren zugreifen möchten, können Sie den Haken entfernen. Im zweiten Kästchen machen Sie bitte nur einen Haken falls Sie genau wissen was Sie tun.
+
+{{:wiki:hilfe:installation:firewall.png?nolink|Abfrage Firewall}}
+
+Nachdem Sie die Verbindung zugelassen haben, öffnet sich folgendes Fenster in welchem Sie Ihr Administrator-Konto einrichten müssen.
+
+===== Administrator-Benutzerkonto erstellen und erster Start =====
+
+{{:wiki:hilfe:installation:installationsmaske.png?nolink&700|Einrichtung Administratorkonto}}
+
+  * Wiki-Name: Der Name des Einsatzleiterwikis, welcher später in der Titelleiste Ihres Browsers angezeigt wird. Tragen Sie hier z.B. ein: "Einsatzleiterwiki Feuerwehr XY"
+  * Die Felder Administrator Benutzername, Voller Name, E-Mail und Passwort sollten selbsterklärend sein.
+  * Klicken Sie nun auf Speichern. Auf der sich nun öffnenden Seite finden Sie den Link zur Startseite Ihres Einsatzleiterwikis. Alternativ können Sie dies jederzeit unter folgender Adresse aufrufen: [[http://127.0.0.1:8080/einsatzleiterwiki/doku.php]].
+
+Die Daten die Sie hier eingeben sind für ihr eigenes Einsatzleiterwiki und bleiben auch in diesem (werden nicht ins Internet übertragen o.ä.).
+
+Hinweis: Während Sie aufgefordert wurden Ihr Benutzerkonto einzurichten, hat sich im Hintergrund ein "Eingabeaufforderungs"-Fenster geöffnet, in welchem Sie nun Dateinamen durchlaufen sehen. Dieser Prozess ist erforderlich, um die Suchdatenbank aufzubauen, die das Einsatzleiterwiki benutzt. Er kann einige Zeit dauern, das Fenster schließt sich nach Abschluss der Arbeit von selbst. Bitte schließen Sie es nicht von Hand, da ansonsten Ihre Suchfunktion nicht funktionieren wird.
+
+{{:wiki:hilfe:installation:indexer.png?nolink|Indexer}}
+
+===== Fehlerquellen =====
+
+  * Falls Sie keine Verbindung zum Einsatzleiterwiki herstellen können nachdem sich der Browser geöffnet hat, ist möglicherweise der Port 8080, welchen das Einsatzleiterwiki verwendet, schon durch ein anderes Programm belegt.
+
+===== Quellenangabe =====
+
+keine
+
+===== Stichwörter =====
+
+Noch keine Stichwörter angegeben.

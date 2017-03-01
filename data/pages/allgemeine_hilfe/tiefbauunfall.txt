@@ -1,0 +1,71 @@
+====== Tiefbauunfall ======
+
+
+===== zu treffende Maßnahmen =====
+
+
+    * Lage erkunden:
+      * Bodenbeschaffenheit
+      * Witterung
+      * Versorgungsleitungen
+    * Menschenrettung
+      * Absuchen
+        * Trümmerbereiche von außen nach innen Absuchen, höchstens 4 Meter Abstand zwischen zwei Helfern
+        * Verschüttete sind durch Staub kaum von Trümmerteilen zu unterscheiden!
+      * Durchsuchen
+        * aller begehbarer und unbegehbarer, beschädigter und unbeschädigter Räume
+        * im Erdgeschoss und Keller beginnen, danach die oberen Geschosse
+        * besonders auf Winkel und Ecken achten, Personen in Panik verkriechen sich darin
+        * in unbegehbare Räume rufen oder klopfen, bei Reaktion sofort mit Rettung beginnen
+      * Suchen und Orten
+        * ausreichend Personal verteilen, welches auf Hilferufe, Stöhnen und andere Geräusche achtet
+        * absolute Ruhe an der Einsatzstelle auf Kommando "Ruhe für die Rettung"
+        * Trümmerteile die in den Bereich hineinreichen für Klopfzeichen nutzen, z.B. Eisenträger, Rohre. Klopfzeichen: Einzelschlag, drei Schläge, Einzelschlag
+        * an den wahrscheinlichsten Verschüttungsorten mit der Räumung beginnen
+    * Verkehr umleiten / Absperren der E-Stelle
+    * Personal begrenzen, auch mit Einsatzfahrzeugen Abstand halten
+    * Abstützen um weiteres Nachrutschen zu verhindern
+    * Frischluftzufuhr für Verschüttete, ggf. mit [[brand:allgemein:belueftung|Belüftungsgeräten]]
+    * Schließung der Versorgungsleitungen
+    * ggf. Wasser abpumpen (Vorsicht Nachrutschgefahr!)
+
+==== besondere Gefahren ====
+
+
+    * Einsturz/stetige Veränderungen in der Statik von Trümmerteilen
+    * Niederrieseln, Ersticken von Verschütteten durch feines Trümmergut
+    * Verkehr
+    * Baugrubenbegrenzung/Nachrutschen
+    * Wasser/Schlamm
+    * Versorgungsleitungen: [[:allgemein:elektrische_anlagen|Strom]], Gas, Wasser, Dampf, Heizöl
+
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+
+==== Nachalarmierungen ====
+
+
+    * Abstützmaterial
+    * [[allgemein:kran-einsatz|(Feuerwehr-)Kran]]
+    * Baufirmen (Sonderfahrzeuge)
+    * ggf. übergeordneten Führungsdienst
+    * [[allgemein:thw|THW]]
+    * E-Werke
+    * Gaswerke
+
+
+==== Einsatzabschluss ====
+
+
+    * Gewerbeaufsicht
+    * Sicherung der E-Stelle
+    * Rückbau durch den Betreiber
+    * Übergabe der E-Stelle
+
+
+===== Quellenangabe =====
+
+
+    * Einsatzleiterhandbuch BF Kaiserslautern
+  * Lehrgangsunterlagen "Technische Hilfeleistung" des Landkreis Bad Dürkheim, Dünkelberg/Lander 2011

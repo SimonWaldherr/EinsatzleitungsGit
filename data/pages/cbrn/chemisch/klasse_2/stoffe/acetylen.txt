@@ -1,0 +1,160 @@
+====== Acetylen ======
+
+===== zu treffende Maßnahmen =====
+
+  * <wrap important>massives Kühlen des Behälters</wrap>
+  * Umgebungsbrände unbedingt sofort löschen!
+  * [[allgemein:raeumung|Betroffenen Bereich und anliegende Gebäude umgehend räumen]].
+  * Verhaltensanweisungen an Personen in Gebäuden in der näheren Umgebung geben (z.B. ggf. Glasbruch bei Behälterzerknall).
+  * So wenig Personal wie möglich im [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] einsetzen:
+
+<WRAP center round important >
+    * **20m** für Einsatzkräfte mit Deckung, Hitzeschutzkleidung und Atemschutz
+    * **50m** für Einsatzkräfte mit Deckung
+    * **300m** für Personen ohne Deckung
+</WRAP>
+
+  * Messtechnik
+    * bei Einsatz eines [[cbrn:geraete:ex-messgeraet|EX-Messgeräts Kalibrierung beachten/umrechnen]]
+    * bei [[cbrn:geraete:pruefroehrchen|Prüfröhrcheneinsatz]] Ex-Schutz-Maßnahmen beachten
+
+==== Manipulation am Ventil ====
+
+<wrap info>Feuerwehr kommt für wirkungsvolles Ventilschließen meist zu spät!</wrap>
+
+Ventil nur schließen, wenn:
+
+  - reines Gas austritt (kein Ruß)
+  - Behälter nicht erwärmt ist
+  - keine Wärmebeaufschlagung stattfand
+
+==== Austritt nichtbrennend ====
+
+  * konsequent Ex-Schutz einhalten (Funkgeräte, Handys, Lampen, etc.), weitere Zündquellen beseitigen
+  * bei nichtrußendem Austritt Behälterventil schließen
+  * erhebliche Ex-Gefahr in geschlossenen Räumen
+    * [[cbrn:geraete:ex-messgeraet|Ex-Messgerät einsetzen]]
+    * [[brand:allgemein:belueftung|Räume belüften]] (ggf. Ex-geschützer Lüfter erforderlich!?)
+    * so viele Türen und Fenster wie möglich öffnen (Druckentlastung im Falle einer Explosion)
+  * Behältertemperatur überprüfen (Zerstörung des Farbanstrichs, [[allgemein:geraete:waermebildkamera|Wärmebildkamera]], Infrarot-/Fernthermometer, Sprühstrahl, Handrücken (nur wenn Wasser nicht direkt trocknet!)).
+    * Wenn mehr als handwarm: sofort massiv aus Deckung kühlen (Zersetzungsgefahr)!
+    * Bei schneller/punktueller Erwärmung jederzeit Behälterzerknall möglich!
+
+==== Austritt brennend ====
+
+  * Gefahrenbereich räumen
+  * Bei Ventilbränden > 60 Sekunden das Ventil nicht mehr schließen.\\ -> Behälter kühlen und brennen lassen.
+  * Ventilbrand nur löschen, wenn die Flamme den eigenen oder einen anderen Behälterkörper erwärmt! Achtung: dann große Ex-Gefahr!
+
+==== Kühlen erwärmter Behälter ====
+
+  * Kühlen aus der Deckung, wenn möglich unbemannte Monitore
+  * Sprühstrahl mit großer Wassermenge zum Kühlen verwenden
+  * nach 30 Minuten die Kühlung unterbrechen und Druckbehälter auf Temperaturanstieg kontrollieren:
+    * Behälter bleibt für mindestens 10 Minuten allseitig handwarm: mit Ventil nach oben in Wasserbad legen und für 24 Stunden darin kühlen. Wenn unbedingt erforderlich, kann das Wasserbad nun in einen sicheren Bereich transportiert werden.
+    * Behälter wird wieder warm oder Temperaturkontrolle nicht möglich: für mindestens 24 Stunden aus der Deckung kühlen um Zerfall zu stoppen.\\ Bei Flaschenbündeln: Diese nicht auseinander nehmen! So kühlen, dass auch die inneren Behälter des Flaschenbündels erreicht werden!
+
+==== Aufschießen kritischer Acetylen-Druckbehälter ====
+
+  * Nur durch geübte Spezialkräfte von Polizei (SEK) oder Streitkräfte mit geeigneter Ausrüstung (Waffe und Munition)
+  * Nur, wenn Umgebung dafür geeignet (freies Schussfeld, großer Sicherheitsabstand wegen Querschlägern)
+  * Der Behälter muss mehrfach mittig getroffen und das dann austretende Acetylen sofort sicher gezündet werden (Munition, Fernzünder)!
+
+==== besondere Gefahren ====
+
+  * hochentzündlich, größer Explosionsbereich
+  * neigt zur Selbstzersetzung (chemisch instabil)
+  * möglicher hydraulischer Behälterzerknall bei Temperaturen größer 100 °C
+    * bei schrillem Pfeifton höchste Berstgefahr
+    * Feuerball mit 30 m Durchmesser möglich
+    * <wrap danger>Trümmerflug bis 300 m</wrap>. Trümmer können Betonwände durchschlagen!
+  * Wirkt beim Einatmen narkotisierend
+
+==== abschließende Maßnahmen ====
+
+  * Flaschenbündel nicht auseinander nehmen.
+  * brandbeaufschlagte Behälter entsprechend kennzeichnen
+  * Behälter an Hersteller / Lieferant / Eigentümer übergeben
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Merkmale Acetylen-Zersetzung ====
+
+  * Selbstzersetzung beginnt ab 300 °C Behälterwandtemperatur, Behälter erwärmt sich dann von selbst weiter
+  * Austritt rußhaltigen Gases
+  * im Brandfall rußende/rauchende Flamme
+  * seltsamer Geruch
+  * Änderung des Abströmgeräusch
+  * Stoppen des Austritts kann auch Ventilverstopfung bedeuten, Behälter muss dann nicht leer sein!
+
+==== Acetylen-Druckbehälter ====
+
+  * Acetylen-Druckbehälter besitzen ein ovales Handrad und einen Bügelverschluss.
+  * Acetylen ist unter Druck in Aceton oder Dimethylformamid (DMF) gelöst.\\ -> Kein hohler Klang, auch wenn kein Acetylen mehr im Druckbehälter.
+  * Regulärer Druck bei Behältern älterer Bauart ca. 8,5 bar, bei neuen Behältern bis 19 bar.
+  * Es dürfen nur für Acetylen explizit zugelassene Druckbehälter-Bergebehälter und Abdicht-Armaturen verwendet werden. **Dabei nur nicht funkenreißendes Werkzeug einsetzen!**
+  * Druckbehälter durch Einsatzkräfte wenn möglich nicht Erschütterungen aussetzen
+
+[[cbrn:allgemein:volumenabschaetzung#stahlflaschen_fuer_unter_druck_geloeste_gase_acetylen|Weitere Informationen zu Acetylen-Druckbehältern]]
+
+==== Stoffdaten ====
+
+^ Identifikation ^^
+^ Alternative Namen                            | Azetylen, Narcylen, Dissousgas, Ethin, Äthin |
+^ CAS-Nr.                                      | 74-86-2 |
+^ Gefahrgutbezeichnung                         | Acetylen, gelöst //oder// Acetylen, lösungsmittelfrei |
+^ [[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Nummer zur Kennzeichnung der Gefahr]] | {{cbrn:chemisch:klasse_2:stoffe:239-1001.png?nolink&100|Acetylen, gelöst}}\\ Acetylen, gelöst |
+^ UN-Nr.                                       |  :::  |
+^ [[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Nummer zur Kennzeichnung der Gefahr]] | {{cbrn:chemisch:klasse_2:stoffe:239-3374.png?nolink&100|Acetylen, lösungsmittelfrei}}\\ Acetylen, lösungsmittelfrei |
+^ UN-Nr.                                       |  :::  |
+^ Gefahrzettel                                 | {{cbrn:2-1.png?nolink&100|Gefahrzettel 2.1}} |
+^ ADR-Klasse                                   | [[cbrn:chemisch:klasse_2:start|ADR-Klasse 2]] |
+^ [[cbrn:allgemein:kennzeichnung:gasflaschenkennzeichnung|Gasflaschenkennzeichnung]] | {{cbrn:allgemein:gasflasche_acetylen.png?nolink&100|kastanienbraun}}\\ kastanienbraun (vorher gelb) |
+^ ERICard                                      | [[cbrn:ericards:klasse_2:10010366]] |
+^ Summenformel                                 | C<sub>2</sub>H<sub>2</sub> |
+^ [[cbrn:allgemein:begriffsklaerungen#molare_masse|molare Masse]] | 26,04 g/mol |
+^ Charakterisierung ^^
+^ Aggregatszustand                             | gasförmig |
+^ Farbe                                        | farblos |
+^ Geruch                                       | knoblauch- / gummiartig, in reiner Form schwach etherisch, Geruchsschwelle: 240 ppm = 0,024 Vol.-% |
+^ Brennbarkeit                                 | extrem entzündbar |
+^ Verhalten an Luft                            | leichter als Luft |
+^ physikalisch-chemische Eigenschaften ^^
+^ Schmelzpunkt                                 | -80,8 °C |
+^ Siedepunkt                                   | Kein Siedepunkt bei Normaldruck. |
+^ Dichte                                       | 1,1772 kg/m³ bei 0 °C und 1013 mbar |
+^ [[cbrn:allgemein:begriffsklaerungen#dampfdruck|Dampfdruck]] | 42,473 bar bei 20 °C\\ 55 bar bei 30 °C |
+^ [[cbrn:allgemein:begriffsklaerungen#zuendtemperatur|Zündtemperatur]] | 305 °C |
+^ [[cbrn:chemisch:temperaturklasse|Temperaturklasse]] | T2 |
+^ [[cbrn:allgemein:begriffsklaerungen#explosionsgrenzen|Explosionsgrenzen]] | UEG: 2,3 Vol.-%\\ OEG: 83 Vol.-% |
+^ [[cbrn:allgemein:begriffsklaerungen#relative_dichte_zu_luft|Relative Gasdichte]] (zu Luft) | 0,9066 |
+^ [[cbrn:allgemein:begriffsklaerungen#wasserloeslichkeit|Wasserlöslichkeit]] | 1185 mg/l bei 20 °C |
+^ [[cbrn:allgemein:begriffsklaerungen#wassergefaehrdungsklasse|Wassergefährdungsklasse]] | Nicht wassergefährdender Stoff |
+^ Explosionsgefahr bei Reaktion mit            | Oxidationsmitteln, Sauerstoff, Salpetersäure, Quecksilber, Halogenen, Brandgasen, Calciumhypochlorit, Gold, Kupfer und Verbindungen, Kobalt (fein verteilt) und Verbindungen, Luft, Magnesium, Natriumhypochlorit, Quecksilbernitrat, Schwermetallsalzen, Silber und Salzen, Messing, Kalium (geschmolzen) |
+^ gefährliche Reaktion mit                     | Alkalihydride, Chromtrioxid, Buten, Kaliumhydroxid, Rubidiumhydrid |
+^ Maßnahmen bei Bränden ^^
+^ [[brand:allgemein:brandklassen|Brandklasse]] | {{:brand:allgemein:brandklasse_c.png?nolink&100|Brandklasse C}} |
+^ geeignete Löschmittel                        | alle |
+^ gefährliche Zersetzungsprodukte beim Löschen | [[cbrn:chemisch:klasse_2:stoffe:kohlenmonoxid|Kohlenmonoxid]] und [[cbrn:chemisch:klasse_2:stoffe:kohlendioxid|Kohlendioxid]] |
+^ [[cbrn:allgemein:kennzeichnung:ghs|GHS-Einstufung und Kennzeichnung]] ^^
+^ [[cbrn:allgemein:kennzeichnung:ghs#piktogramme|GHS-Piktogramm(e)]] | {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_flamme.png?nolink&100|Flamme}} {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_bottle.png?nolink&100|Flasche}} |
+^ GHS-Signalwort                               | Gefahr |
+^ [[cbrn:allgemein:kennzeichnung:ghs#gefahrenhinweise_h-saetze|GHS-Gefahrenhinweise (H-Sätze)]] | H220: Extrem entzündbares Gas.\\ H280: Enthält Gas unter Druck; kann bei Erwärmung explodieren.\\ EUH006: Mit und ohne Luft explosionsfähig. |
+^ [[cbrn:allgemein:kennzeichnung:ghs#sicherheitshinweise_p-saetze|GHS-Sicherheitshinweise (P-Sätze)]] | P210: Von Hitze, heißen Oberflächen, Funken, offenen Flammen und anderen Zündquellen fernhalten. Nicht rauchen.\\ P377: Brand von ausströmendem Gas: Nicht löschen, bis Undichtigkeit gefahrlos beseitigt werden kann.\\ P381: Alle Zündquellen entfernen, wenn gefahrlos möglich.\\ P403: An einem gut belüfteten Ort aufbewahren. |
+^ [[cbrn:allgemein:kennzeichnung:gefahrensymbole|Einstufung nach Stoffrichtlinie]] (R- und S-Sätze) ^^
+^ [[cbrn:allgemein:kennzeichnung:gefahrensymbole|Piktogramm]] | {{cbrn:allgemein:kennzeichnung:gefahr_f.png?nolink&100|F+ Hochentzündlich}}\\ F+ Hochentzündlich |
+^ Risiko-Sätze (R-Sätze)                       | R 5: Beim Erwärmen explosionsfähig\\ R 6: Mit und ohne Luft explosionsfähig\\ R 12: Hochentzündlich |
+^ Sicherheitssätze (S-Sätze)                   | S 2: Darf nicht in die Hände von Kindern gelangen.\\ S 9: Behälter an einem gut gelüfteten Ort aufbewahren.\\ S 16: Von Zündquellen fernhalten – Nicht rauchen.\\ S 33: Maßnahmen gegen elektrostatische Aufladung treffen. |
+^ [[cbrn:allgemein:kennzeichnung:warnzeichen|Warnzeichen]] ^^
+^  {{cbrn:allgemein:kennzeichnung:warnung_vor_gasflaschen.png?nolink&100|Warnung vor Gasflaschen}}  | Warnung vor Gasflaschen |
+^  {{cbrn:allgemein:kennzeichnung:warnung_vor_explosionsfaehiger_atmosphaere.png?nolink&100|Warnung vor explosionsfähiger Atmosphäre}}  | Warnung vor explosionsfähiger Atmosphäre |
+
+**Lizenzhinweis**: Die Daten aus dem Bereich "Stoffdaten" stammen zu großen Teilen aus der GESTIS-Stoffdatenbank und dürfen daher ausschließlich für nichtkommerzielle Zwecke des Arbeitssschutzes verwendet werden.
+
+===== Quellenangabe =====
+
+  * [[http://www.vfdb.de/download/Merkblatt/MB_Acetylen_Ref10_Mai_2011.pdf|vfdb-Merkblatt Empfehlung für den Feuerwehreinsatz bei Gefahr durch Acetylen]]
+  * Ausbildungsunterlagen Lehrgang ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+  * [[http://www.hlfs.hessen.de/irj/servlet/prt/portal/prtroot/slimp.CMReader/HMdI_15/HLFS_Internet/med/907/9071f07b-fe15-d217-9cda-ae2389e48185,22222222-2222-2222-2222-222222222222|Flyer "Merkblatt Acetylen / Wasserstoff"]], Hessische Landesfeuerwehrschule
+  * {{:allgemein:kleine_merkhilfe_fuer_den_feuerwehreinsatz_1.03.pdf|Kleine Merkhilfe für den Feuerwehreinsatz: Zusammenstellung für Führungskräfte der Feuerwehr}}, Florian Pernpeintner
+  * [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/013570.xml?f=templates&fn=default.htm|Eintrag in der GESTIS-Stoffdatenbank für Acetylen]]

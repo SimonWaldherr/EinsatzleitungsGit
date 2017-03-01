@@ -1,0 +1,38 @@
+====== Löschwasserrückhaltung ======
+
+Ziel: Vermeidung von Schadstoffeintrag in Gewässer.
+
+===== zu treffende Maßnahmen =====
+
+  * Löschwasserrückhaltung frühstmöglich einrichten
+  * Verständigung Verantwortlicher des Betriebs, Wasserwirtschaftsbetriebe, Kläranlage, Gewerbeaufsicht, Untere Wasserbehörde, ...\\ **Klärung der Zuständigkeiten** und Abstimmung der zu erledigenden Aufgaben
+
+==== Beurteilung / Abschätzung Löschwasser ====
+
+  * Feuerwehrplan vorhanden (Kennzeichnung ABC-Stoffe, Abwasserleitungen, bauliche Anlagen zur Löschwasserrückhaltung?)
+  * Welche Bereiche sind betroffen, sind dort ABC-Stoffe vorhanden?
+  * Welche Verbrennungsprodukte treten auf?
+  * Abschätzung der zurückzuhaltenden Löschwassermenge (wird oftmals zu gering bemessen), siehe [[allgemein:flaechen_volumenberechnungen|Flächen- und Volumenberechnungen]]. Erfahrungsgemäß:
+    * bei "kleineren" Bränden ca. 100 m³
+    * bei größeren Bränden mehrere 1.000 m³
+  * Schnellanalyse durch pH-Teststreifen, Ölnachweispapier, ggf. auch [[cbrn:geraete:pruefroehrchen|Prüfröhrchen]]
+  * Nachalarmierung von Experten zur Analyse des Löschwassers (Labor des Betriebs? ggf. [[cbrn:allgemein:atf|ATF]]?)
+
+==== Möglichkeiten ====
+
+  * Wiederverwendung von Löschwasser (im Kreis pumpen).\\ Achtung: Zur Erzeugung von [[brand:allgemein:schaum|Schaum]] muss sauberes Wasser verwendet werden, somit kommt hier ein Kreislaufsystem nicht in Frage.
+  * Auffangen:
+    * Baulich vorgesehene Löschwasserrückhalteanlagen (insbesondere bei [[cbrn:allgemein:stoerfallanlagen|Störfallanlagen]])
+    * Verschließen von Gullys; evtl. sind Gully-Abdeckungen vorhanden, Kanaldichtkissen (z.B. //Gully-Ei//) -> wohin fließt das Wasser dann?
+    * Absperrung des Kanals, Speicheranlagen im Kanalnetz -> durch Wasserwirtschaftsbetriebe
+    * Regenrückhaltebecken, ggf. nur bei trockenem Wetter möglich
+    * Improvisation, z.B.:
+      * Einleiten in Keller
+      * Schlauchsperren (evtl. durch [[allgemein:thw|THW]])
+      * transportable Behälter
+      * Verwendung beständiger Folien
+  * Aufnehmen des zurückgehaltenen Wassers durch Saugwagen (Anfahrmöglichkeit einrichten!)
+
+===== Quellenangabe =====
+
+  * [[http://www.lfs-bw.de/Fachthemen/abceinsatz/Documents/Gewaesserschutz_bei_Braenden.pdf|Gewässerschutz bei Bränden in Industrie- und Gewerbebetrieben]], Zuständigkeiten und Löschwassermanagement, Zuständigkeiten und Löschwassermanagement, Oktober 2011

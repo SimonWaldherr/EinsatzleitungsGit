@@ -1,0 +1,182 @@
+====== Installation unter Android ======
+
+<WRAP center round info>
+Die mobile Version des Einsatzleiterwikis befindet sich noch in der Erprobungsphase. Sollte die Installation aus welchen Gründen auch immer nicht funktionieren, so wären wir über eine Mitteilung und eine Beschreibung des Problems dankbar. Wenn die Installation erfolgreich abgeschlossen wird kann aber von einem stabilen Betrieb des Einsatzleiterwikis ausgegangen werden.
+</WRAP>
+
+Die Installation unter Android funktioniert genauso wie die [[wiki:hilfe:installation_download_manuell|(manuelle) Installation unter Windows]], sogar noch etwas einfacher. Es sind auch hier drei Arbeitsschritte nötig, nämlich die Installation von:
+
+  - Server-Software (in Form einer App)
+  - Wiki-Programm (DokuWiki) mit entsprechenden Erweiterungen
+  - Daten des Einsatzleiterwikis
+
+Lassen Sie sich durch die Länge dieser Anleitung nicht abschrecken, sie ist sehr ausführlich und mit vielen Screenshots versehen. Selbst Computer-Laien sollten mit dieser Anleitung zurecht kommen.
+
+<WRAP center round info>
+Zum Betrieb des Android-Einsatzleiterwikis sind etwa 130 MB an freiem Speicher nötig. Davon entfallen ca. 10 MB auf die Webserver-App, weitere 15 MB auf die Wiki-Software und der Rest auf die Daten des Einsatzleiterwikis. Bedenken Sie, dass Sie zusätzlichen Speicherplatz für lokale Daten benötigen, z.B. wenn Sie Feuerwehrpläne im Wiki ablegen möchten.
+</WRAP>
+
+===== Installation der Server-Software =====
+
+{{ :wiki:hilfe:installation:android_webserver_google_play.png?nolink&300|"Server für PHP" bei Google Play}}
+{{:wiki:hilfe:installation:webserver_app.png?nolink |Link zu Google Play zur Installation von "Server für PHP"}}Für den Betrieb des Einsatzleiterwikis ist eine Server-Software notwendig. Diese wird mittels einer App eines Drittanbieters installiert. Empfohlen werden kann die App [[https://play.google.com/store/apps/details?id=com.esminis.server.php|Server für PHP]] (auch wenn der Name etwas holprig klingt), unter anderem weil sie leicht zu bedienen ist und eine Einstellung erfolgen kann die den Webserver automatisch beim Start des Handys/Tablets mitstartet. Wie auch in allen anderen Bereichen des Einsatzleiterwikis ist die Installation der Webserver-App mit keinerlei Kosten verbunden. Sie können den QR-Code-Scanner Ihres Geräts nutzen, um den nebenstehenden QR-Code einzulesen und direkt die Google-Play-Seite "Server für PHP" aufzurufen.
+
+Bei der Installation bzw. dem ersten Start werden Sie gefragt, ob Sie der App das Recht gewähren auf Ihre Dateien zuzugreifen. Dies müssen Sie gestatten, da die Daten des Einsatzleiterwikis später auf Ihrem Gerät liegen und die Server-App darauf zugreifen können muss um die Daten zu verarbeiten und Ihnen anzuzeigen.
+<WRAP clear/>
+
+==== erster Start der App ====
+
+{{:wiki:hilfe:installation:android_webserver_php_auswaehlen.png?nolink&300 |PHP-Version auswählen}} Beim ersten Start der App wird Ihnen nebenstehendes Fenster angezeigt. Hier müssen Sie die PHP-Version auswählen, mit der Sie den Server betreiben möchten. Wählen Sie die oberste PHP-5-Version, das Einsatzleiterwiki ist derzeit mit PHP 7 noch nicht voll kompatibel.
+
+Nach der Auswahl wird die gewählte PHP-Version heruntergeladen und installiert, dies dauert ca. eine Minute.
+
+==== Vornehmen der Einstellungen ====
+
+{{:wiki:hilfe:installation:android_webserver_hauptfenster.png?nolink&300 |Hauptfenster}} Nach Abschluss der PHP-Installation kommen Sie in das Hauptfenster. Hier sehen Sie den aktuellen Status des Webservers.
+
+Oben links sehen Sie die IP-Adresse und die Schnittstelle, unter der der Server derzeit erreichbar ist. In der Konfiguration im Bild ist das die WLAN-Verbindung (was nach der Installation wohl standardmäßig eingestellt wird). Dies ist aber aus zwei Gründen ungünstig:
+
+  - Jedes anderes Gerät im gleichen WLAN kann mit dieser Konfiguration auch auf die Daten des Webservers zugreifen
+  - Wenn Sie den Bereich des WLANs verlassen, können Sie die Webseiten des Servers nicht mehr öffnen, trotz dass sich alle Daten auf dem Gerät befinden
+
+Nehmen Sie daher folgende Einstellung vor:
+
+{{ :wiki:hilfe:installation:android_webserver_schnittstelle.png?nolink&200|Auswahl der Schnittstelle}}
+
+Klicken Sie auf den kleinen Pfeil zwischen der IP-Adresse und dem Port, und wählen Sie 127.0.0.1 aus. Dies ist die IP-Adresse, die immer das eigene Gerät beschreibt. Somit haben Sie mit dem Gerät jederzeit (auf sich selbst) Zugriff, und kein anderes Gerät kann die Daten auf dem Server abfragen.
+
+Beim //Port// dürften Sie in aller Regel keine Änderungen vornehmen müssen.
+
+//Dokumentstamm// ist der Ordner, in den Sie später die Dateien Ihres Einsatzleiterwikis hineinkopieren. Diesen können Sie frei nach Ihren Wünschen anpassen.
+
+<WRAP center round important 100%>
+Selbstverständlich können Sie auch einen Ordner auf einer SD-Karte wählen. Bei Tests kam es allerdings zu Problemen damit, wenn die SD-Karte nicht verfügbar war (z.B. weil das Handy per Kabel an den Computer angeschlossen wurde und somit dem Computer und nicht dem Handy zur Verfügung steht), auch wenn das nur kurzfristig der Fall war. Die Webserver-App stoppt in diesem Fall den Server, und dieser muss (wenn die SD-Karte wieder zur Verfügung steht) von Hand wieder gestartet werden. Es wird daher empfohlen, das Datenverzeichnis im internen Speicher des Geräts zu wählen wenn möglich.
+</WRAP>
+
+
+=== Weitere Einstellungen ===
+
+{{:wiki:hilfe:installation:android_webserver_einstellungen.png?nolink&300 |Weitere Einstellungen öffnen}} Klicken Sie auf die drei waagrechten Striche übereinander, um die weiteren Einstellungen zu öffnen. Sie sehen daraufhin folgendes Fenster:
+
+<WRAP clear/>
+
+{{:wiki:hilfe:installation:android_webserver_weitere_einstellungen.png?nolink&300 |Weitere Einstellungen}}
+
+Neben der Option **Nach dem Booten starten** muss ein Haken gesetzt werden, um den Webserver automatisch beim Start des Geräts mitzustarten. Andernfalls müssten Sie jedes Mal wenn Sie ihr Offline-Einsatzleiterwiki benutzten möchten die App aufrufen und den Server von Hand starten.
+
+Normalerweise arbeitet der Server zuverlässig. Wenn Sie trotzdem jederzeit eine visuelle Rückmeldung haben möchten ob der Server betriebsbereit ist, können Sie außerdem einen Haken bei **Meldung anzeigen** setzen. Dann wird, während der Server läuft, permanent ein Symbol in der Statusleiste angezeigt, wie im Bild unten dargestellt.
+
+{{:wiki:hilfe:installation:android_webserver_statusleiste.png?nolink&300|Symbol in der Statusleiste}}
+
+==== Abschluss der Webserver-Installation ====
+
+{{:wiki:hilfe:installation:android_webserver_hauptfenster_vor_start.png?nolink&300 |Hauptfenster vor dem Start}} Die nötige Konfiguration ist jetzt vorgenommen. Kehren Sie nun aus den Einstellungs-Menüs zurück zur eigentlichen App. Tippen Sie unten auf das Feld **Server starten**
+
+<WRAP clear/>
+
+{{:wiki:hilfe:installation:android_webserver_hauptfenster_server_laeuft.png?nolink&300 |Hauptfenster bei laufendem Server}}
+
+Wenn der Server erfolgreich gestartet werden konnte, sehen Sie über der Taste zum Starten/Stoppen die Adresse, unter der der Server von Ihrem Gerät aus erreichbar ist. Evtl. müssen Sie, nachdem Sie auf den Link geklickt haben, in der Adresse noch einen Unterordner ergänzen (dazu gleich mehr).
+
+===== Installation der Wiki-Software und der Daten =====
+
+Im nächsten Schritt werden die Wiki Software und die Daten des Einsatzleiterwikis auf Ihr Android-Gerät aufgespielt. Verbinden Sie dazu Ihr Gerät mit Ihrem Computer.
+
+<WRAP center round important 100%>
+Auf den folgenden Bildschirmfotos ist auf dem Android-Gerät ein anderer Ordner ausgewählt als in der Anleitung bisher beschrieben. Bitte ignorieren Sie dies, die folgenden Bilder stammen noch aus einer früheren Version der Anleitung. Sie müssen sowieso die Daten in das Verzeichnis ihres Android-Geräts entpacken, das sie bei der Installation des Servers festgelegt haben.
+</WRAP>
+
+==== Wiki-Software herunterladen und auf das Android-Gerät kopieren ====
+
+Laden Sie sich die [[http://einsatzleiterwiki.de/index.php/download/category/2-weiterfuehrende-dateien-fuer-fortgeschrittene-nutzer|Einsatzleiterwiki-Mobil-Version aus dem Downloadbereich herunter]] (vorherige kostenlose Registrierung erforderlich) und entpacken Sie die ZIP-Datei an eine beliebige Stelle auf Ihrem Computer. Öffnen Sie den Ordner ''einsatzleiterwiki_mobil'', der sich in der eben entpackten Datei befindet.
+
+Öffnen Sie nun den Speicherort auf Ihrem Android-Gerät in einem Windows-Explorer-Fenster, den Sie bei der Konfiguration des Webservers bei der Option //Dokumentstamm// festgelegt haben.
+
+=== Kopieren beginnen ===
+
+{{:wiki:hilfe:installation:1_android_dateien_kopieren.png?direct&500 |Wiki-Software auf das Android-Gerät kopieren}} Kopieren Sie nun die Daten auf Ihr Android-Gerät. Dies kann einige Minuten dauern!
+
+Hinweis: Die App installiert in den Ordner der unter //Dokumentenstamm// angegeben ist automatisch die Dateien index.php und php.ini. Die Datei index.php ist auch im Einsatzleiterwiki-Archiv, die von der App angelegte Datei muss mit der index.php aus dem Einsatzleiterwiki-Archiv überschrieben werden.
+
+=== Kopieren bestätigen ===
+
+{{:wiki:hilfe:installation:2_android_kopieren_bestaetigen.png?direct&500 |Kopieren von Dateien bestätigen}} Ggf. erhalten Sie eine Rückfrage, ob Sie die Datei wirklich kopieren möchten weil diese evtl. nicht auf diesem Gerät wiedergegeben werden kann.
+
+Setzen Sie einen Haken bei **Für alle Dateien ausführen** und klicken Sie auf **ja**. Lassen Sie den Ordner mit dem Speicherort Ihres Android-Geräts geöffnet, Sie werden ihn für den nächsten Schritt erneut benötigen.
+
+Nach diesem Schritt ist der Kopiervorgang für die Wiki-Software beendet. Zuletzt müssen noch die Einsatzleiterwiki-Daten in den Ordner integriert werden.
+
+==== Einsatzleiterwiki-Daten auf das Gerät kopieren ====
+
+Sie haben zwei verschiedene Möglichkeiten, welche Daten Sie auf Ihrem Gerät installieren: Entweder greifen Sie auf die allgemeinen Einsatzleiterwiki-Daten zurück, oder Sie verwenden bereits individualisierte Daten einer lokalen Installation (mit z.B. Feuerwehrplänen usw.) weiter.
+
+=== Variante A: allgemeine Einsatzleiterwiki-Daten ===
+
+Laden Sie sich die [[http://einsatzleiterwiki.de/index.php/download/category/2-weiterfuehrende-dateien-fuer-fortgeschrittene-nutzer|Einsatzleiterwiki-Daten aus dem Downloadbereich herunter]] (kostenlose Registrierung erforderlich) und entpacken Sie diese an eine beliebige Stelle auf Ihrem Computer. Die entpackten Daten enthalten lediglich einen Ordner mit dem Namen **data**, in dem sich alle weiteren Dateien befinden.
+
+{{:wiki:hilfe:installation:3_android_data_kopieren_variante_a.png?direct&500 |Variante A: allgemeine Einsatzleiterwiki-Daten kopieren}} Kopieren Sie den soeben entpackten Ordner **data** in das Wiki-Hauptverzeichnis Ihres Android-Geräts (das Sie im vorherigen Schritt auf Ihr Gerät kopiert hatten). Im Wiki-Hauptverzeichnis muss sich zwingend auch ein data-Ordner befinden, ansonsten befinden Sie sich im falschen Verzeichnis!
+
+Fahren Sie danach mit dem Punkt [[#data-ordner_integrieren|data-Ordner integrieren]] fort.
+
+=== Variante B: bereits vorhandene lokale Daten ===
+
+Öffnen Sie das Verzeichnis, in das Sie Ihr lokales Einsatzleiterwiki installiert haben. In der Standardinstallation lautet der Pfad ''C:\Programme (x86)\Einsatzleiterwiki\xampp\htdocs\einsatzleiterwiki'' bzw. ''C:\Programme\Einsatzleiterwiki\xampp\htdocs\einsatzleiterwiki'' (sofern Sie bei der Installation kein selbst gewähltes Verzeichnis angegeben haben).
+
+{{:wiki:hilfe:installation:4_android_data_kopieren_variante_b.png?direct&500 |Variante B: bereits vorhandene lokale Daten kopieren}} Kopieren Sie nun den Ordner **data** auf Ihr Android-Gerät.
+
+<WRAP center round important 100%>
+**Wichtig:** Kopieren Sie wirklich nur den Ordner **data** und keine der anderen Dateien/Verzeichnisse. Ihr mobiles Einsatzleiterwiki wird sonst nicht fehlerfrei funktionieren!
+</WRAP>
+
+=== data-Ordner integrieren ===
+
+{{:wiki:hilfe:installation:5_android_data-ordner_integrieren.png?direct&500 |data-Ordner integrieren}} Sie erhalten nun eine Nachfrage, ob Sie den Ordner in den bereits vorhanden data-Ordner integrieren möchten. Setzen Sie einen Haken bei **Für alle aktuellen Elemente wiederholen** und klicken Sie danach auf **ja**.
+
+=== Kopieren des data-Ordners bestätigen ===
+
+{{:wiki:hilfe:installation:6_android_data_kopieren_bestaetigen.png?direct&500 |Kopieren des data-Ordners bestätigen}}Wie auch schon beim Kopieren der Wiki-Software erhalten Sie ggf. auch hier wieder eine Nachfrage ob Sie die Dateien wirklich kopieren möchten weil diese evtl. nicht auf diesem Gerät wiedergegeben werden können.
+
+Setzen Sie einen Haken bei **Für alle Dateien ausführen** und klicken Sie auf **ja**. Nun muss nur noch die Installation bzw. Einrichtung des Einsatzleiterwikis erfolgen.
+
+===== Installation des Einsatzleiterwikis =====
+
+Zuletzt müssen Sie noch das Wiki konfigurieren. Rufen Sie dazu im Browser Ihres Handys die Adresse [[http://localhost:8080/install.php]] auf (8080 beschreibt den Port, falls Sie im Anfang bei der Konfiguration diese Einstellung geändert haben. Wenn nicht, dann lassen Sie 8080 stehen.). Nun öffnet sich das Installationsfenster.
+
+{{:wiki:hilfe:installation:7_android_wiki_installation.png?direct&300 |Installationsmaske}} Geben Sie hier die Daten für das Administratorkonto an. Welche Email-Adresse Sie angeben ist praktisch unerheblich, da auf Ihrem Android-Gerät kein Email-Server eingerichtet ist der Emails versenden könnte.
+
+Sehr wahrscheinlich wird Ihnen bei der Installation und später bei der Benutzung im Admin-Bereich der folgende Hinweis begegnen:
+
+{{:wiki:hilfe:installation:security.png?nolink|Sicherheitshinweis}}
+
+Sie können diesen Hinweis ignorieren; der Grund dafür liegt im Android-Betriebssystem und nicht etwa in einer falschen Konfiguration des Wikis.
+
+Nach einem Klick auf **Speichern** sehen Sie die folgende Bestätigungsseite:
+
+==== Bestätigungsseite der Installation ====
+
+{{:wiki:hilfe:installation:8_android_installation_bestaetigung.png?direct&300 |Bestätigungsseite der Installation}} Wenn Sie diese Seite sehen, war die Installation erfolgreich. Klicken Sie auf den Link **Einsatzleiterwiki** um die Startseite zu öffnen.
+
+Eventuell erhalten Sie beim ersten Aufrufen der Einsatzleiterwiki-Startseite mehrere Fehlermeldungen, die Seite wird im Wesentlichen aber trotzdem geladen. Diese sollten danach aber nicht wieder erscheinen.
+==== Start ====
+
+{{:wiki:hilfe:installation:9_android_startseite.png?direct&300 |Start}} Wenn Sie diese Seite sehen, ist die eigentliche Installation abgeschlossen und Sie können beginnen das Einsatzleiterwiki offline zu benutzen. Zum endgültigen Abschluss allerdings hier noch Tipps:
+
+==== abschließende Tipps ====
+
+=== Werkzeuge ===
+
+{{:wiki:hilfe:installation:10_android_werkzeuge.png?direct&300 |Werkzeuge}} Das mobile Design ist sehr platzsparend bzw. übersichtlich angelegt. Die meisten Funktionen sind daher standardmäßig verborgen. Klicken Sie im oberen Bereich auf die Schaltfläche **Werkzeuge**, um die verborgenen Funktionen wie im nebenstehenden Bild anzuzeigen (u.a. auch die Anmeldung für das Wiki). In der Liste kann hinauf- und hinuntergescrollt werden.
+
+=== Schneller Zugriff vom Startbildschirm aus ===
+
+<WRAP center round tip 100%>
+Legen Sie sich im Anschluss noch ein Lesezeichen für Ihr Offline-Einsatzleiterwiki an. Sie können, nachdem Sie das Lesezeichen angelegt haben, dieses auch auf den Startbildschirm legen. Somit ist ein Zugriff auf das Offline-Wiki genauso schnell möglich wie bei einer //echten// App.
+</WRAP>
+
+===== Aktualisierung der Einsatzleiterwiki-Daten =====
+
+Bei Versuchen war es nicht möglich, das Synchronisations-Plugin in der mobilen Version zum Arbeiten zu bringen. Sie sollten daher wie im obigen Abschnitt [[#einsatzleiterwiki-daten_auf_das_geraet_kopieren|Einsatzleiterwiki-Daten auf das Gerät kopieren]] vorgehen. Die auf dem Android-Gerät jeweils vorhandenen Daten können Sie einfach überschreiben.
+
+===== Quellenangabe =====
+
+Diese Anleitung wurde komplett selbst ausgearbeitet.

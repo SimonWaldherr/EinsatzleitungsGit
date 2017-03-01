@@ -1,0 +1,19 @@
+====== FCK-Editor ======
+
+===== Bilder und andere Dateien =====
+
+==== Voraussetzungen zum Hochladen von Dateien ====
+
+Um Bilder im DokuWiki speichern zu dürfen, muss der Benutzer die entsprechende Berechtigung besitzen. Zum Hochladen ist mindestens die Berechtigung „Hochladen“ (engl. „Upload“), zum Löschen „Entfernen“ (engl. „Delete“) für den Namensraum erforderlich. 
+
+==== Dateien hochladen ====
+
+Klicken Sie auf den {{:wiki:hilfe:fck-editor:fck_dateiauswahl.png?nolink|Bild einfügen/editieren}}-Knopf. Es öffnet sich ein neues Fenster. Klicken Sie in diesem auf **Server durchsuchen**
+
+{{:wiki:hilfe:fck-editor:fck_dateimanager.png?direct&500|FCK-Editor Dateimanager}}
+
+Bewegen Sie sich in der linken Spalte in den gewünschten Namensraum. Sobald Sie sich in diesem befinden, können Sie durch einen Klick auf die Schaltfläche **Durchsuchen** eine Datei von Ihrem Computer auswählen. Dafür öffnet sich ein Dateiauswahldialog.
+
+Nachdem Sie die Datei ausgewählt haben, klicken Sie auf **Zum Server senden**, um diese hochzuladen.
+
+Leider wird im **FCK-Editor** nicht das Hochladen mehrerer Dateien gleichzeitig und das Anlegen von Unter-Namensräumen zu besseren Übersichtlichkeit unterstützt. Verwenden Sie bitte den [[wiki:hilfe:artikel_standardeditor#dateien_hochladen|Standard-Editor]] indem Sie auf {{:wiki:hilfe:fck-editor:dw_edit.png?nolink|DW Edit}} klicken, wenn Sie beispielsweise viele Feuerwehrpläne auf einmal hochladen möchten.

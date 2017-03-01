@@ -1,0 +1,43 @@
+====== @!PAGE@ ======
+
+Dies ist eine automatisiert erstellte Vorlage für das Anlegen neuer Inhalte. Nicht benötigte Abschnitte können gelöscht werden, bitte behalten Sie aber generell die Reihenfolge bei um einen einheitlichen Aufbau der Artikel zu gewährleisten. Sehen Sie sich im Zweifel einfach einige schon bestehende Artikel an.
+
+===== zu treffende Maßnahmen =====
+
+stichpunktförmige Auflistung der wichtigsten Schritte
+
+Nicht benötigte Punkte aus der folgenden Liste der oftmals nötigen Maßnahmen bitte löschen!
+
+  * [[allgemein:absicherung_einsatzstelle|Absicherung Einsatzstelle]], [[gefaehrliche_stoffe_gueter:allgemein:gefahrenbereich|Gefahren- und Absperrbereich]], Fahrzeugaufstellung, [[allgemein:einsatzabschnitte|Einsatzabschnitte bilden]], Funkkanaltrennung, [[allgemein:bereitstellungsraum|Bereitstellungsraum]] einrichten
+  * Sicherheitstrupp stellen ([[brand:allgemein:atemschutznotfall|Atemschutznotfall]])
+  * [[brand:allgemein:belueftung|Belüften]], Kontrolle der betroffenen Bereiche
+  * [[brand:allgemein:loeschwasserversorgung|Löschwasserversorgung]], [[brand:allgemein:loeschwasserrueckhaltung|Löschwasserrückhaltung]]
+  * auf [[allgemein:pressearbeit|Presseanfragen]] vorbereiten
+  * Einsatzdokumentation
+  * [[allgemein:warnung_bevoelkerung|Bevölkerung warnen/informieren]], [[allgemein:raeumung|Gebäude räumen]], [[allgemein:evakuierung|Bereich evakuieren]]
+  * Verpflegung/Ablösung der Einsatzkräfte
+  * [[allgemein:manv|MANV]], [[allgemein:psnv:start|Psychologische Betreuung]] Angehöriger und Einsatzkräfte
+  * Information weiterer Stellen: übergeordnete Führungskräfte, Polizei, Ordnungsamt, Umweltbehörde, Wasserbehörde, Gesundheitsamt, Arbeitsschutz, Bürgermeister, Aufsichtsbehörde/Innenministerium, ...
+  * Nachforderung: Fachberater, Versorger (Stadtwerke; Gas, Wasser, Strom, ...), SEG Sanität/Betreuung, [[allgemein:thw|THW]], ...
+
+==== besondere Gefahren ====
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+z.B. generelle Informationen, Verlinkungen relevanter und zugehöriger Artikel, Auflistung von zugeordneten Dateien, ...
+
+===== Weblinks =====
+
+zu weiterführenden Inhalten, Online-Recherche-Angeboten u.ä.
+
+===== Kontaktdaten/Ansprechpartner =====
+
+z.B. Notrufnummern
+
+===== Quellenangabe =====
+
+Geben Sie falls möglich bitte immer Ihre Quellen an, um im Zweifel die Überprüfung einfacher zu gestalten. Außerdem kann so bei sich öfters ändernden Inhalten überprüft werden, ob die Daten noch aktuell sind.
+
+===== Stichwörter =====
+
+Hier können durch Komma getrennte Stichwörter, beispielsweise Synonyme, zum Thema eingetragen werden. Dadurch werden bei der Suchfunktion bessere Ergebnisse erzielt und ein Artikel könnte auch bei unklaren Suchbegriffen gefunden werden.

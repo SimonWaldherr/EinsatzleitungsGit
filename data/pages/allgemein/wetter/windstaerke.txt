@@ -1,0 +1,39 @@
+====== Windstärke ======
+
+===== Windstärke in Beaufort =====
+
+^  Windstärke\\ in Bft  ^  Bezeichnung der Windstärke  ^  Wirkung an Land  ^  Windgeschwindigkeit  ^^^
+^ ::: ^ ::: ^ ::: ^  in km/h  ^  in m/s  ^  in Knoten  ^
+^ 0|Windstille|keine Luftbewegung, Rauch steigt senkrecht empor|  0  |  0,0 - 0,2  |  1  |
+^ 1|leiser Zug|kaum merklich, Rauch treibt leicht ab, Windflügel und Windfahnen unbewegt|  1 - 5  |  0,3 - 1,5  |  1 - 3  |
+^ 2|leichte Brise|Blätter rascheln, Wind im Gesicht spürbar|  6 - 11  |  1,6 - 3,3  |  4 - 6  |
+^ 3|schwache Brise|Blätter und dünne Zweige bewegen sich, Wimpel werden gestreckt|  12 - 19  |  3,4 - 5,4  |  7 - 10  |
+^ 4|mäßige Brise|Zweige bewegen sich, loses Papier wird vom Boden gehoben|  20 - 28  |  5,5 - 7,9  |  11 - 15  |
+^ 5|frische Brise|größere Zweige und Bäume bewegen sich, Wind deutlich hörbar|  29 - 38  |  8,0 - 10,7  |  16 - 21  |
+^ 6|starker Wind|dicke Äste bewegen sich, hörbares Pfeifen an Drahtseilen, in Telefonleitungen|  39 - 49  |  10,8 - 13,8  |  22 - 27  |
+^ 7|steifer Wind|Bäume schwanken, Widerstand beim Gehen gegen den Wind|  50 - 61  |  13,9 - 17,1  |  28 - 33  |
+^ 8|stürmischer Wind|große Bäume werden bewegt, Fensterläden werden geöffnet, Zweige brechen von Bäumen, beim Gehen erhebliche Behinderung|  62 - 74  |  17,2 - 20,7  |  34 - 40  |
+^ 9|Sturm|Äste brechen, kleinere Schäden an Häusern, Ziegel und Rauchhauben werden von Dächern gehoben, Gartenmöbel werden umgeworfen und verweht, beim Gehen erhebliche Behinderung|  75 - 88  |  20,8 - 24,4  |  41 - 47  |
+^ 10|schwerer Sturm|Bäume werden entwurzelt, Baumstämme brechen, Gartenmöbel werden weggeweht, größere Schäden an Häusern; selten im Landesinneren|  89 - 102  |  24,5 - 28,4  |  48 - 55  |
+^ 11|orkanartiger Sturm|heftige Böen, schwere Sturmschäden, schwere Schäden an Wäldern (Windbruch), Dächer werden abgedeckt, Autos werden aus der Spur geworfen, dicke Mauern werden beschädigt, Gehen ist unmöglich; sehr selten im Landesinneren|  103 - 117  |  28,5 - 32,6  |  56 - 63  |
+^ 12|Orkan|schwerste Sturmschäden und Verwüstungen; sehr selten im Landesinneren|  > 117  |  > 32,6  |  >  63  |
+
+===== Windgeschwindigkeit =====
+
+  * Die Windgeschwindigkeit steigt mit zunehmender Höhe nicht linear (gleichmäßig an)
+  * Vom Erdboden bis in eine Höhe von ca. 100 m steigt die Windgeschwindigkeit stark an, darüber kaum mehr
+  * Faustregel:
+    * In 100 m Höhe ist die Windgeschwindigkeit ca. doppelt so hoch als in 10 m Höhe.
+
+===== Umrechnung Geschwindigkeit =====
+
+~~INCLFORM=umrechnung_geschwindigkeit~~
+
+===== Quellenangabe =====
+
+  * Einsatzleiterhandbuch Feuerwehr Kaiserslautern
+  * [[http://gsb.download.bva.bund.de/BBK/KatS_Dv_507.pdf|Vorläufer KatS DV 507]], Bundesamt für zivilen Bevölkerungsschutz
+
+===== Stichwörter =====
+
+Windstärken, Windgeschwindigkeit

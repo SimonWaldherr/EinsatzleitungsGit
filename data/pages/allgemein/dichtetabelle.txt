@@ -1,0 +1,69 @@
+====== Dichtetabelle ======
+
+Sortierung innerhalb der einzelnen Aggregatszustände aufsteigend.
+
+Angabe in kg/m³, um die Dichte in g/cm³ zu berechnen den Wert von kg/m³ durch 1000 teilen.
+
+==== Dichte fester Stoffe ====
+
+^ Stoff ^ Dichte in kg/m³ ^
+| Neuschnee |  60...200  |
+| Holz (lufttrocken) |  400...800  |
+| Fichtenholz |  500  |
+| Eichenholz |  800  |
+| Wachs |  900...980  |
+| Eis (bei 0°C) |  917  |
+| Gummi/Kautschuk |  920...960  |
+| Steinkohle |  1350  |
+| Schotter |  1700...1900  |
+| Beton |  1800...2450  |
+| Sandstein |  2400  |
+| Fensterglas |  2500...2600  |
+| Aluminium |  2710  |
+| Granit |  2800  |
+| Zement |  3000...3100  |
+| Gusseisen |  7250  |
+| Stahl |  7700...7900 |
+| Blei |  11340  |
+
+==== Dichte flüssiger Stoffe ====
+
+^ Stoff ^ Dichte in kg/m³ ^
+| Ottokraftstoff |  750  |
+| Ethanol, Spiritus |  789  |
+| Aceton, Methanol |  790  |
+| Petroleum |  800  |
+| Dieselkraftstoff |  830  |
+| Wasser |  1000  |
+
+==== Dichte gasförmiger Stoffe ====
+
+Dichte trockener Gase, wenn nicht anders angegeben, gemessen bei 1,01325 bar Druck und 0°C Temperatur.
+
+^ Stoff ^ Dichte in kg/m³ ^
+| Wasserstoff |  0,08988  |
+| Helium |  0,178  |
+| Methan |  0,717  |
+|Wasserdampf |  0,880  |
+| Wasserdampf bei 100 °C |  0,598  |
+| Acetylen |  1,171  |
+| Luft bei 20 °C |  1,204  |
+| Kohlenmonoxid |  1,250  |
+| Stickstoff |  1,251  |
+| Ethan |  1,356  |
+| Sauerstoff |  1,429  |
+| Kohlenstoffdioxid |  1,977  |
+| Propan |  2,019  |
+| n-Butan |  2,703  |
+| Schwefeldioxid |  2,926  |
+| Chlor |  3,214  |
+
+===== Quellenangabe =====
+
+  * [[http://de.wikibooks.org/wiki/Tabellensammlung_Chemie/_Dichte_fester_Stoffe|Wikibooks: Dichte fester Stoffe]], veröffentlich unter der „Creative Commons Attribution/Share-Alike“-Lizenz
+  * [[http://de.wikibooks.org/wiki/Tabellensammlung_Chemie/_Dichte_fl%C3%BCssiger_Stoffe|Wikibooks: Dichte flüssiger Stoffe]], veröffentlich unter der „Creative Commons Attribution/Share-Alike“-Lizenz
+  * [[http://de.wikibooks.org/wiki/Tabellensammlung_Chemie/_Dichte_gasf%C3%B6rmiger_Stoffe|Wikibooks: Dichte gasförmiger Stoffe]], veröffentlich unter der „Creative Commons Attribution/Share-Alike“-Lizenz
+
+===== Stichwörter =====
+
+Dichte, Schwere

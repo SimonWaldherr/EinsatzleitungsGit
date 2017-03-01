@@ -1,0 +1,40 @@
+====== Airbagsysteme ======
+
+===== zu treffende Maßnahmen =====
+
+==== Airbag nicht ausgelöst ====
+
+  * Zündung komplett ausschalten, aber Schlüssel nicht abziehen
+  * Batterie abklemmen. Bei PKW meist immer noch im Motorraum, bei Transportern oft unter dem Fahrersitz.
+    * neuere Oberklassefahrzeuge können zwei Batterien besitzen
+    * Warnblinker einschalten, um zu sehen ob alle Batterien abgeklemmt wurden wenn der Blinker bzw. Kontrollleuchte erlischt (funktioniert nicht immer)
+    * Einsatzkräfte darauf hinweisen wenn Batterie nicht abgeklemmt werden kann
+  * Entfaltungsbereich der Airbags möglichst freihalten, Abstand zu:
+    * Seitenairbags: 30 cm
+    * Fahrerairbag: 60 cm
+    * Beifahrerairbag: 90 cm
+    * besonders großen Abstand im Brandfall halten, da das Airbagmodul explosionsartig wegfliegen kann
+  * keine Werkzeuge auf Airbag ablegen
+  * nicht in Gasgeneratoren schneiden
+    * bei neueren Fahrzeugen im Dachbereich und an der B-Säule Verkleidung entfernen, um die Gasgeneratoren zu lokalisieren
+  * bei nicht sicher abgeklemmter Batterie hydraulische Rettungsgeräte nicht am Mitteltunnel verwenden, da sich dort in Nähe des Schaltknüppels sehr oft das Steuergerät befindet
+  * Keine Hitzeeinwirkung auf Airbags zulassen!
+  * Airbagsicherungssystem?
+
+==== Airbag ausgelöst ====
+
+  * evtl. handelt es sich um einen zweistufigen Airbag, bei dem nur die erste Stufe ausgelöst hat. Es sind die selben Sicherheitsmaßnahmen einzuhalten wie bei nicht ausgelösten Airbags.
+  * bei Übergabe an den Rettungsdienst auf ausgelösten Airbag hinweisen
+
+==== besondere Gefahren ====
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Einsatz von Airbag-Rückhaltesystemen abwägen, da sich diese lösen oder Fahrzeugteile brechen können und das Rückhaltesystem zum Geschoss werden kann
+  * Ausführliche Begründung für das hier empfohlene Vorgehen: {{:allgemeine_hilfe:allgemein:th_merkblatt_airbagsysteme.pdf|Airbagsysteme in Kraftfahrzeugen - Merkblatt. Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2009.}}
+
+===== Quellenangabe =====
+
+  * {{:allgemeine_hilfe:allgemein:th_merkblatt_airbagsysteme.pdf|Airbagsysteme in Kraftfahrzeugen - Merkblatt. Landesfeuerwehrschule Baden-Württemberg, Bruchsal 2009.}}
+
+===== Stichwörter =====

@@ -1,0 +1,9 @@
+====== Beförderungskategorien ======
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+Im [[cbrn:allgemein:adr|ADR]] werden Gefahrgüter in Beförderungskategorien von 0 bis 4 eingeteilt. 0 ist die gefährlichste Beförderungskategorie, 4 die ungefährlichste.
+
+===== Quellenangabe =====
+
+  * FwDV 500, Stand 2012

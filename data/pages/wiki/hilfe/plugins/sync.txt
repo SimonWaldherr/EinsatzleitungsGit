@@ -1,0 +1,102 @@
+====== Datenbestand des Systems mit dem Einsatzleiterwiki-Server synchronisieren ======
+
+In regelmäßigen Abständen werden die geprüften Daten in die geschlossene Version des Einsatzleiterwikis übernommen. Sie können diese mit ein paar wenigen Klicks aktualisieren:
+
+{{:wiki:hilfe:plugins:admin_oeffnen.png?500 |Verwaltungsbereich öffnen}} Melden Sie sich mit dem Administratorkonto in dem Wiki auf Ihrem Computer an. Klicken Sie danach oben rechts auf "Admin", um in der Verwaltungsbereich zu gelangen.
+
+<WRAP clear></WRAP>
+
+{{:wiki:hilfe:plugins:sync_01_admin-menu.png?500 |Synchronisation aus dem Verwaltungsbereich starten}} Nun klicken Sie auf "Wikis abgleichen" im unteren Bereich der Seite.
+
+<WRAP clear></WRAP>
+
+{{:wiki:hilfe:plugins:sync_02_serverauswahl.png?500 |Einsatzleiterwiki-Server auswählen}} Auf der nun erscheinenden Seite wählen Sie im Bereich "Abgleich-Profil" aus der Liste den Eintrag "Einsatzleiterwiki". 
+
+Klicken Sie danach auf die Schaltfläche "Auswählen" direkt rechts daneben. Nun wird über die Internet-Verbindung Kontakt zum Einsatzleiterwiki-Server aufgenommen.
+
+<WRAP clear></WRAP>
+
+{{:wiki:hilfe:plugins:sync_03_serverstart.png?500 |Einsatzleiterwiki-Server kontaktieren}}
+
+Mit einem Klick auf die Schaltfläche "Abgleich starten" werden die Unterschiede zwischen der lokalen Version und dem Online-Einsatzleiterwiki aufgelistet. 
+
+Dies dauert einige Zeit, manchmal funktioniert der Abgleich nicht beim ersten Versuch. Dies erkennen Sie, indem der Balken der anzeigt wie weit die Seite schon geladen ist voll bzw. verschwunden, aber die Seite trotzdem noch weiß ist. Laden Sie in diesem Fall die Seite einfach neu (oder drücken Sie alternativ die Taste F5). Die Frage, ob die Formulardaten erneut gesendet werden sollen beantworten Sie mit "Ja" bzw. "Wiederholen".
+
+<WRAP center round info 60%>
+In den neueren Versionen der Synchronisationssoftware ist es anscheinend nicht mehr möglich, einzelne Namensräume für die Synchronisation zu verwenden. Sie erkennen, ob Ihre Version betroffen ist, wenn bei einem Synchronisationsversuch die Meldung **Kein Abgleich nötig. Alle Dateien befinden sich auf dem aktuellen Stand.** erhalten, trotz dass neue Inhalte vorhanden sind.
+
+Löschen Sie in diesem Fall aus dem Feld **Namensraum** alle Inhalte und drücken Sie danach unten auf **speichern**. Bei einem neuen Versuch sollte die Synchronisation funktionieren.
+
+Hinweis: Nun werden bei jeder Synchronisation auch alle Ihre lokalen Daten aufgelistet. Setzen Sie einfach bei Ihren eigenen Daten den Punkt für die Synchronisationsrichtung in die Mitte, um die Dateien zu ignorieren. Die Software merkt sich Ihren Wunsch und wird den Punkt zukünftig automatisch in die Mitte setzen. Selbst wenn Sie dies einmal vergessen, brauchen Sie trotzdem keine Angst zu haben Ihre Daten ins Internet hochzuladen. Da im Online-Wiki für den Synchronisationsvorgang keine Schreibrechte bestehen, werden Sie lediglich eine Fehlermeldung erhalten dass Sie keinen Schreibzugriff besitzen, aber es wird nichts hochgeladen!
+</WRAP>
+
+
+<WRAP clear></WRAP>
+
+{{:wiki:hilfe:plugins:sync_04_dateiliste.png?500 |Dateiliste}}
+
+Nun werden alle Seiten und Dateien aufgelistet, die sich im Internet gegenüber der lokalen Version geändert haben. In jeder Zeile kann ein Punkt in eines von drei Feldern gesetzt werden:
+
+  * Punkt im linken Feld: die Seite/Datei wird vom lokalen System ins Internet übertragen. Diese Funktion ist im Einsatzleiterwiki deaktiviert.
+  * Punkt im mittleren Feld: die Seite/Datei wird ignoriert, d.h. es werden keine Änderungen übertragen
+  * Punkt im rechten Feld: die Seite/Datei wird vom Einsatzleiterwiki-Server in das lokale System heruntergeladen. Diese Auswahl wird meistens der Fall sein.
+
+Wenn Sie auf das entsprechen Symbol **>**, **=** oder **<** klicken, werden alle Dateien in diese Richtung kopiert.
+
+Nach einem Klick auf den Link "Unterschied" öffnet sich ein Fenster, in dem Sie sehen können, welche Inhalte sich in der Internet-Version gegenüber Ihrer lokalen Version geändert haben.
+
+Im Feld "Zusammenfassung" können Sie einen Bearbeitungsvermerk eingeben. In der Liste der Änderungen können Sie so nachvollziehen, dass die Änderung des Artikels mittels der Synchronisationsfunktion in Ihr Wiki gekommen ist.
+
+Nach einem Klick auf "Abgleich starten" beginnt die Übertragung.
+
+<WRAP clear></WRAP>
+
+{{:wiki:hilfe:plugins:sync_05_ergebnis.png?500 |Synchronisations-Ergebnis}} Sobald die Meldung "Abgleich abgeschlossen" erscheint ist die Übertragung beendet. Sie können nun Ihr Einsatzleiterwiki wie gewohnt weiter verwenden.
+
+===== Einrichtung eines eigenen Einsatzleiterwiki-Servers =====
+
+Wenn Sie einen eigenen Server zur Synchronisation einrichten möchten, führen Sie folgende Schritte durch:
+
+==== Server für Zugriff vorbereiten ====
+
+Melden Sie sich in dem Wiki, welches Ihr Server sein soll, im Administrations-Bereich an und wählen Sie den Punkt "Konfiguration". Im Abschnitt //Authentifizierungs-Konfiguration// setzen Sie einen Haken bei //Aktiviert den externen API-Zugang. Diese Option erlaubt es externen Anwendungen von außen auf die XML-RPC-Schnittstelle oder anderweitigen Schnittstellen zuzugreifen.//
+
+{{:wiki:hilfe:plugins:einstellungen_sync_server.png?500|Zugriff auf Synchronisations-Server zulassen}}
+
+==== Client-Einstellungen anpassen ====
+
+Wechseln Sie jetzt in das Wiki welches Ihr(e) Client(s) sein/werden soll. Melden Sie sich mit dem Administratorkonto an. Klicken Sie danach oben rechts auf "Admin", um in der Verwaltungsbereich zu gelangen. Nun klicken Sie auf "Wikis abgleichen" im unteren Bereich der Seite. Auf der nun erscheinenden Seite wählen Sie im Bereich "Abgleich-Profil" aus der Liste den Eintrag "Einsatzleiterwiki". 
+
+{{:wiki:hilfe:plugins:sync_02_serverauswahl.png?500|Einsatzleiterwiki-Server auswählen}}
+
+Klicken Sie danach auf die Schaltfläche "Auswählen" direkt rechts daneben. Nun sind in den Feldern auf der rechten Seite die Zugangsdaten zum Original-Online-Einsatzleiterwiki eingetragen. Ändern Sie die Adresse
+
+<code>
+http://sync.einsatzleiterwiki.de/lib/exe/xmlrpc.php
+</code>
+
+in die entsprechende Adresse Ihres zukünftigen Server-Wikis um. Ersetzen Sie dafür den Mittelteil **sync.einsatzleiterwiki.de** mit der entsprechenden Adresse. Diese finden Sie ganz einfach, indem Sie Ihr Server-Wiki aufrufen und die Adresse kopieren. Hier einige Beispiele wie die endgültige Adresse, die Sie in Ihr Feld eintragen, aussehen kann:
+
+<code>
+http://192.168.0.1:8080/einsatzleiterwiki/lib/exe/xmlrpc.php
+So wird Ihre Adresse aussehen, wenn Sie Ihren Einsatzleiterwiki-Server mittels des Windows-Installations-Programms installiert haben.
+
+http://192.168.0.1/lib/exe/xmlrpc.php
+http://wiki.feuerwehr-musterhausen.de/lib/exe/xmlrpc.php
+http://www.feuerwehr-musterhausen.de/wiki/lib/exe/xmlrpc.php
+
+http://benutzername:passwort@feuerwehr-musterhausen.de/wiki/lib/exe/xmlrpc.php
+So geben Sie Ihre Adresse an, wenn Sie einen .htaccess-Verzeichnisschutz in Ihrem Wiki-Verzeichnis eingerichtet haben um unbefugten Zugriff zu verhindern.
+</code>
+
+Tragen Sie danach noch die Benutzername und Passwort eines Users mit Schreibzugriff ein (ggf. einfach Ihr Administratorkonto) **der im Server-Wiki existiert**.
+
+Klicken Sie nun rechts unten auf //Speichern//. Nach einem weitern Klick auf //Abgleich starten// wird eine Verbindung zu Ihrem Wiki-Server aufgebaut und Sie sehen wie weiter oben bereits beschrieben die Liste der Unterschiede zwischen Ihren beiden Wikis.
+
+**Hinweis:** Zukünftig müssen Sie mit Ihrem Server-Wiki einen Abgleich mit dem Online-Einsatzleiterwiki durchführen und danach mit den Clients einen Abgleich mit Ihrem Server-Wiki.
+
+===== Quellenangabe =====
+
+  * [[https://www.dokuwiki.org/plugin:sync|Dokumentation zum Synchronisations-Plugin]] des DokuWiki-Systems, auf dem das Einsatzleiterwiki basiert.
+
+===== Stichwörter =====

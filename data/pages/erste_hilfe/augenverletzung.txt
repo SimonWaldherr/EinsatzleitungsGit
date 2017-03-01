@@ -1,0 +1,51 @@
+====== Augenverletzung ======
+
+<wrap important>Auch vermeintlich leichte Augenverletzung können bis zur Erblindung führen. Die tatsächliche Schwere kann nur ein Augenarzt beurteilen!</wrap>
+
+===== zu treffende Maßnahmen =====
+
+  * Der Verletzte darf nicht im Auge reiben
+  * Augen abdecken um das verletzte Auge zu schützen und Augenbewegungen zu vermeiden. Es sollten beide Augen abgedeckt werden, da sich beide Augäpfel synchron bewegen. Dabei sollte immer jemand beim Verletzten bleiben und diesen betreuen.
+
+==== kleiner Fremdkörper im Auge ====
+
+  * Vorsichtig versuchen mit sauberem Taschentuch oder Wattestäbchen zu entfernen. Dabei unbedingt von außen nach innen (zur Nase hin) wischen.
+  * Alternativ versuchen Fremdkörper am Augenlid abzustreifen:
+    * wenn Fremdkörper im oberen Bereich:
+      * Betroffener soll nach unten schauen
+      * oberes Augenlid vorsichtig über das untere ziehen\\ -> Beim Hochrutschen wird der Fremdkörper evtl. an den Wimpern abgestreift
+    * wenn Fremdkörper im unteren Bereich:
+      * Betroffener soll nach oben schauen
+      * unteres Augenlid vorsichtig herunterziehen
+      * ggf. jetzt sichtbaren Fremdkörper vorsichtig mit feuchtem Wattestäbchen entfernen
+  * Führen beide Techniken nicht zum Erfolg, dann Auge spülen (beschrieben unten im Teil [[#veraetzung|Verätzung]])
+  * Hilft keine der Techniken oder hat der Betroffenen immer noch das Gefühl etwas im Auge zu haben, muss der Betroffene zum Augenarzt, ggf. auch mit dem Rettungsdienst.
+
+==== ins Auge eingedrungene Fremdkörper ====
+
+  * Fremdkörper die im Auge stecken immer in der Wunde belassen
+  * betroffenes Auge um den Fremdkörper herum bedecken und dafür sorgen dass sich dieser so wenig wie möglich bewegt
+  * beide Augen abdecken ([[#zu_treffende_massnahmen|siehe oben]])
+  * sofort Rettungsdienst (nach-) alarmieren
+
+==== Stumpfe Gewalteinwirkung ====
+
+"Blaues Auge", z.B. durch Faustschlag oder durch einen Fußball
+
+  * Auge schnell kühlen, aber nicht direkt aufs Auge legen, z.B. in Handtuch einwickeln.
+  * Auf jeden Fall zum Augenarzt bringen, ggf. auch mit dem Rettungsdienst.
+
+==== Verätzung ====
+
+  * Auge schnellstmöglich spülen:
+    * Am Besten mit 0,9%iger Kochsalzlösung (NaCl)
+    * sonst mit Leitungswasser
+    * notfalls mit Mineralwasser oder kaltem Tee
+  * das verletzte Auge muss sich dabei unterhalb des gesunden befinden damit die ätzende Flüssigkeit nicht auch in dieses hineinläuft
+  * ggf. Auge während dem Spülen mit zwei Fingern offenhalten
+  * Vorgang mehrmals wiederholen
+  * auf jeden Fall Rettungsdienst (nach-) alarmieren und diesen detailliert über Unfallgeschehen und getroffene Maßnahmen informieren!
+
+===== Quellenangabe =====
+
+  * [[http://www.dfv.org/fileadmin/dfv/Dateien/Fachthemen/FB_Gesundheitswesen_und_Rettungsdienst/DFV_Erste_Hilfe_kompakt_Augenverletzungen.pdf|Erste-Hilfe kompakt - Notfallstichwort Augenverletzungen]], Empfehlungen des Bundesfeuerwehrarztes, Deutscher Feuerwehrverband

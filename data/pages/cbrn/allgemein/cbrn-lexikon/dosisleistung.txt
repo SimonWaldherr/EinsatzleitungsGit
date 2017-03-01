@@ -1,0 +1,5 @@
+====== Dosisleistung ======
+
+Die Dosisleistung ist die aufgenommene [[cbrn:allgemein:cbrn-lexikon:dosis|Dosis]] pro Zeit. Die Dosisleistung wird in der Einheit Sievert pro Stunde (Sv/h) bzw. in mSv/h, µSv/h und nSv/h angegeben.
+
+[[cbrn:atomar:strahlenschutzberechnungen#umrechnung_der_dosisleistung|Umrechnung der Dosisleistung]]

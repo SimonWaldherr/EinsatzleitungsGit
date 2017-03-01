@@ -1,0 +1,43 @@
+====== U-Bahn-Brand ======
+
+===== zu treffende Maßnahmen =====
+
+
+  * Kontakt mit Bahnpersonal herstellen, Zusammenarbeit mit Notfallmanager
+  * Bahnverkehr einstellen lassen, ggf. Freischalten/Kurzschließen der Fahrstromversorgung (soweit vorgesehen und durch die Feuerwehr möglich)
+  * (Tunnel-) Beleuchtung einschalten lassen, evtl. eigene Beleuchtung aufbauen
+  * Räumung/Absperrung des Bahnhofs durch Polizei
+  * ggf. Objektfunkanlage einschalten
+  * Lage der nächstgelegenen Notausstiege erkunden und auf geflüchtete Personen kontrollieren
+  * ggf. [[allgemein:manv|MANV]] vorbereiten
+  * Belüften und Entrauchen, benachbarte Bahnhöfe auf Rauchausbreitung kontrollieren
+  * auf [[allgemein:pressearbeit|Presseanfragen]] vorbereiten
+  * Einsatzabschnitte bilden, z.B.
+    * Ereignisort
+    * Verletztenversorgung
+    * [[allgemein:bereitstellungsraum|Bereitstellungsraum]]
+    * Entrauchung
+
+==== besondere Gefahren ====
+
+  * viele Betroffene
+  * Bahnverkehr und Fahrspannung
+  * Weichenbewegungen ggf. auch bei eingestelltem Zugverkehr und abgeschalteter Fahrspannung möglich
+  * (nicht vorhersagbare) Rauchausbreitung
+  * ggf. lange Anmarschwege unter Atemschutz
+  * schlechte Funkverbindung
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Neben der eigentlichen Brandbekämpfung (des U-Bahn-Zuges) auch die Tunnelwände kühlen
+  * Der Abstand zwischen Notausgängen darf max. 300m betragen, diese sind im Tunnel durch blaues Licht gekennzeichnet
+  * Leichtverletzte werden eigenständig die umliegenden Krankenhäuser aufsuchen und diese "blockieren". Potentiell betroffene Krankenhäuser frühzeitig informieren!
+
+===== Quellenangabe =====
+
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * Notausgänge nach [[http://www.gesetze-im-internet.de/strabbo_1987/__30.html|§30 Verordnung über den Bau und Betrieb der Straßenbahnen]], gültig für alle deutschen Hoch- und Untergrundbahnen, Schwebebahnen oder ähnliche Bahnen (ausgenommen sind Bergbahnen und Seilbahnen), geregelt in [[http://www.gesetze-im-internet.de/pbefg/__4.html|§4 Personenbeförderungsgesetz]]
+
+===== Stichwörter =====
+
+Hochbahn, Straßenbahn, Untergrundbahn

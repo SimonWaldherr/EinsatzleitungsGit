@@ -1,0 +1,29 @@
+====== Gefahrengruppen ======
+
+Bauliche Anlagen in denen mit ABC-Stoffen umgegangen wird werden entsprechend der durchzuführenden Maßnahmen eingeteilt. Außerdem werden nach FwDV 500 folgende weitere Einteilungen getroffen:
+
+**Transportunfälle** sind zunächst wie **Gefahrengruppe II** zu behandeln.
+
+**Terroristische Anschläge** sind grundsätzlich wie **Gefahrengruppe III** zu behandeln.
+
+===== zu treffende Maßnahmen =====
+
+^ Art des Gefahrstoffs ^ {{ cbrn:allgemein:gefahrengruppe_i.png?nolink&200 |Gefahrengruppe I}} ^ {{ cbrn:allgemein:gefahrengruppe_ii.png?nolink&200 |Gefahrengruppe II}} ^ {{ cbrn:allgemein:gefahrengruppe_iii.png?nolink&200 |Gefahrengruppe III}} ^
+^ allgemein ^ Einsatz ohne Sonderausrüstung gestattet \\ Atemschutz zur Vermeidung von [[cbrn:allgemein:cbrn-lexikon:inkorporation|Inkorporation]]\\ Aufbau eines [[cbrn:allgemein:dekontamination:start|Dekonplatzes]] ggf. nicht nötig ^ Einsatz nur mit Sonderausrüstung \\ besondere Überwachung und [[cbrn:allgemein:dekontamination:start|Dekontamination/Hygiene]] (Aufbau Dekon-Stufe II) ^ wie Gefahrengruppe II, aber zusätzlich Anwesenheit einer fachkundigen Person erforderlich ^
+^ atomar | Zu den erforderlichen Messgeräten siehe [[cbrn:atomar:strahlenschutzmessgeraete|Strahlenschutzmessgeräte]] |||
+^ ::: | keine weiteren Maßnahmen neben den allgemein gültigen (siehe oberstes Feld) |PSA: für den Ersteinsatz mindestens [[cbrn:allgemein:koerperschutzformen#koerperschutz_form_1|Körperschutz Form 1 (Kontaminationsschutzhaube)]]\\ **Menschenrettung**: bei baulichen Anlagen Dosiswarngerät und Filmdosimeter erforderlich, bei Transportunfällen können diese entfallen. | PSA: Körperschutz Form 2 oder 3 ([[cbrn:allgemein:koerperschutzformen#koerperschutz_form_2|Kontaminations-]] oder [[cbrn:allgemein:koerperschutzformen#koerperschutz_form_3|Chemikalienschutzanzug]]), bei möglicher [[cbrn:allgemein:cbrn-lexikon:inkorporation|Inkorporation]] von leichtflüchtigen Radionukliden über die Haut grundsätzlich [[cbrn:allgemein:koerperschutzformen#koerperschutz_form_3|CSA (Form 3)]]\\ Bereiche in denen mit Kernbrennstoffen umgegangen wird dürfen ohne Anwesenheit einer fachkundigen Person, **auch zur Menschenrettung**, nicht betreten werden!|
+^ biologisch | ::: | PSA: mindestens [[cbrn:allgemein:koerperschutzformen#koerperschutz_form_1|Körperschutz Form 1]]\\ Atemfilter ABEK2-P3 | PSA: Körperschutz Form [[cbrn:allgemein:koerperschutzformen#koerperschutz_form_2|2]] oder [[cbrn:allgemein:koerperschutzformen#koerperschutz_form_3|3]]\\ Umluftunabhängiges Atemschutzgerät\\ Bereiche in denen mit Arbeitsstoffen der [[cbrn:biologisch:risikogruppen_schutzstufen|Risikogruppen]] 4 umgegangen wird dürfen ohne Anwesenheit einer fachkundigen Person, **auch zur Menschenrettung**, nicht betreten werden! |
+^ chemisch | ::: | PSA: [[cbrn:allgemein:koerperschutzformen#koerperschutz_form_1|Körperschutz Form 1]] | PSA: Körperschutz Form [[cbrn:allgemein:koerperschutzformen#koerperschutz_form_2|2]] oder [[cbrn:allgemein:koerperschutzformen#koerperschutz_form_3|3]] |
+^ ::: | aufgrund der stark unterschiedlichen Eigenschaften von chemischen Stoffen muss die persönliche Sonderausrüstung im Einzelfall geprüft werden |||
+
+Wenn das thermische Risiko höher zu bewerten ist als das von den ABC-Stoffen ausgehende (z.B. zur Brandbekämpfung, Austritt brennbarer Gase, etc.) oder wenn eine unaufschiebbare Menschenrettung durchzuführen ist und keine Zeit bleibt eine entsprechende Körperschutzform anzulegen ist [[cbrn:allgemein:koerperschutzformen|Körperschutzform]] 1 zu tragen. 
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Für die Einteilung der Bio-Gefahrengruppen siehe auch [[cbrn:biologisch:risikogruppen_schutzstufen|Risikogruppen]].
+
+===== Quellenangabe =====
+
+  * FwDV 500, Stand 2012
+
+===== Stichwörter =====

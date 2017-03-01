@@ -1,0 +1,43 @@
+====== Bauernhof-Brand ======
+
+Allgemeine Maßnahmen für [[brand:gebaeudebrand|Gebäudebrände]] beachten!
+
+===== zu treffende Maßnahmen =====
+
+  * Zufahrt freihalten
+  * Wasserversorgung sicherstellen (ggf. [[brand:allgemein:loeschwasser_lange_wegstrecke|Pendelverkehr oder Schlauchleitung]])
+  * [[allgemeine_hilfe:tierrettung|Tierrettung]] unter Beachtung des Eigenschutzes (Rücksprache mit Landwirt)
+  * Ausbreitung verhindern (Riegelstellung) 
+  * Klärung der Energieversorgung sowie der gelagerten Produkte ([[brand:duengemittel|Düngemittel]], [[cbrn:chemisch:klasse_2:stoffe:fluessiggas|Flüssiggastank]], Kraftstoffe etc.) 
+  * Bei Stroh- und Heubränden [[brand:allgemein:schaum|Netzmitteleinsatz]] erwägen
+
+==== besondere Gefahren ====
+
+  * [[cbrn:biologisch:biogasanlage|Biogasanlage]] vorhanden?
+  * Panikreaktionen von Nutztieren (ggf. Wachhunde)
+  * [[cbrn:chemisch:klasse_4-1:start|Staubexplosion]] (z.B. durch Stroh, Heu, etc.)
+  * [[brand:silo|Silos]] betroffen?
+  * [[brand:duengemittel|Düngemittelzersetzung]] (nitrose Gase, heftige Reaktionen, giftige Dämpfe) -> [[brand:allgemein:loeschwasserrueckhaltung|Löschwasserrückhaltung]]?
+  * Bevorratung von größeren Mengen an Kraft- und Schmierstoffen
+  * Gefahren durch gelagerte [[cbrn:chemisch:klasse_2:start|Druckgasbehälter]]
+  * u.U. unzureichende [[allgemein:elektrische_anlagen|Elektroinstallation]]
+  * Absturzgefahr durch Gruben und fehlende Geländer
+  * Heu- und Strohbrände infolge Selbstentzündung
+  * Unzureichende Wasserversorgung
+  * Ggf. unzureichende Gebäudekonstruktion hinsichtlich des Feuerwiderstandes und Brandabschnittsbildung
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+  * Unruhe für Tiere vermeiden (Sondersignalverzicht) 
+  * Pferde reagieren leichter auf Hinausführen an Leine
+  * u.U. Einsatz von CO2-Löscher zur Tierbetäubung
+  * Notschlachtung über Veterinär (ggf. Polizeiwaffen) 
+  * Zur Bergung von Landmaschinen (Mähdrescher etc.) funktionsweise klären (ggf. andere Landwirte)
+
+===== Quellenangabe =====
+
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr
+
+===== Stichwörter =====
+
+Farm, Landwirtschaftlicher Betrieb, Nutztiere, Nutzvieh, Vieh

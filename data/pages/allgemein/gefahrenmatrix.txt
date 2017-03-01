@@ -1,0 +1,24 @@
+====== Gefahrenmatrix ======
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+^            ^  Atemgifte  ^  Angst-\\ reaktion  ^  Ausbreitung  ^  [[cbrn:atomar:start|Atomare Strahlung]]  ^  [[cbrn:start|Chemische]]/\\ [[cbrn:biologisch:start|Biologische]] Stoffe  ^  Erkrankung/\\ Verletzung  ^  Explosion  ^  [[allgemein:elektrische_anlagen|Elektrizität]]  ^  Einsturz/\\ [[allgemein:absturzsicherung|Absturz]]  ^
+^ Menschen   |      |      |      |      |      |      |      |      |      |
+^ Tiere      |      |      |      |      |      |      |      |      |      |
+^ Umwelt     |      ^  --  |      |      |      ^  --  |      ^  --  ^  --  ^
+^ Sachwerte  ^  --  ^  --  |      |      |      ^  --  |      |      |      |
+^            ^      ^      ^      ^      ^      ^      ^      ^      ^      ^
+^ Mannschaft |      |      |      |      |      |      |      |      |      |
+^ Gerät      ^  --  ^  --  |      |      |      ^  --  |      |      |      |
+
+Gestrichen/Unterlegt: Gefahr in dieser Reihe der Matrix nicht relevant
+
+**zusätzliche mögliche Gefahren zur "klassischen" Gefahrenmatrix:**
+
+  * Ertrinken
+  * Verkehr
+
+===== Quellenangabe =====
+
+  * Lehrgangsinhalte B3-Lehrgang (2013) an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+  * {{:allgemein:kleine_merkhilfe_fuer_den_feuerwehreinsatz_1.03.pdf|Kleine Merkhilfe für den Feuerwehreinsatz: Zusammenstellung für Führungskräfte der Feuerwehr}}, Florian Pernpeintner

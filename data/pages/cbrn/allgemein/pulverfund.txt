@@ -1,0 +1,17 @@
+====== Pulverfund ======
+
+===== zu treffende Maßnahmen =====
+
+<WRAP center round tip 100%>
+Auf die Grafik klicken, um sie als PDF-Datei in hoher Auflösung zu öffnen.
+</WRAP>
+
+[[this>lib/exe/fetch.php?media=cbrn:allgemein:pulverfund_bbk-180622.pdf|{{:cbrn:allgemein:pulverfund_bbk-180622.png?direct|Pulverfund}}]]
+
+===== Quellenangabe =====
+
+  * {{ :cbrn:allgemein:pulverfund_bbk-180622.pdf |Gemeinsame Infografik des BBK, BKA und RKI mit Hinweisen zum Ablauf und zu den Maßnahmen im Falle eines Pulverfundes für Einsatzkräfte der Feuerwehren}}
+
+===== Stichwörter =====
+
+Pulverbrief

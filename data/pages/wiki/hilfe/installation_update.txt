@@ -1,0 +1,49 @@
+====== Update ======
+
+<WRAP center round important>
+Auch wenn das Update in nahezu allen Fällen ohne Probleme verlaufen sollte: Erstellen Sie eine Datensicherung Ihres Einsatzleiterwikis. Kopieren Sie dazu einfach den kompletten Ordner ''einsatzleiterwiki'' aus dem Verzeichnis ''C:\Programme (x86)\Einsatzleiterwiki\xampp\htdocs\'' bzw. ''C:\Programme\Einsatzleiterwiki\xampp\htdocs\'' (dies ist das Standardverzeichnis für die Installation, falls Sie bei der Installation kein anderes Verzeichnis angegeben haben) an eine andere Stelle auf Ihrer Festplatte, auf einen USB-Stick, externe Festplatte, etc. ABER NICHT auf eine CD, da es aufgrund der vielen Ordnerebenen dabei zu Fehlern kommen kann.\\ **IGNORIEREN SIE DIESEN SCHRITT NICHT, DIE INVESTITION VON DIESEN 2 MINUTEN KÖNNTE IHNEN EVENTUELL SPÄTER VIEL ARBEIT ERSPAREN!**
+</WRAP>
+
+An dieser Stelle sei erwähnt, dass Sie Datensicherungen auch während des laufenden Betriebs in regelmäßigen Abständen anfertigen sollten, um beispielsweise für einen Defekt Ihrer Festplatte vorgesorgt zu haben!
+
+===== Vorbereitungen =====
+
+Ein Update von einer früheren auf eine neuere Version des Einsatzleiterwikis lässt sich problemlos durchführen. Ihre Einstellungen bleiben erhalten, da diese in zusätzlich automatisch angelegten Dateien gespeichert werden.
+
+Arbeiten Sie für die Aktualisierung folgende Schritte ab:
+
+Laden Sie sich die [[http://www.einsatzleiterwiki.de/index.php/download/category/2-weiterfuehrende-dateien-fuer-fortgeschrittene-nutzer?download=5:einsatzleiterwiki-software|Einsatzleiterwiki-Software aus dem Downloadbereich]] (ZIP-Archiv) herunter.
+
+Entpacken Sie das ZIP-Archiv in einen beliebigen Ordner auf Ihrer Festplatte. Öffnen Sie diesen Ordner.
+
+===== Ersetzen der alten Dateien =====
+
+Öffnen Sie zusätzlich das Verzeichnis ''C:\Programme (x86)\Einsatzleiterwiki\xampp\htdocs\'' bzw. ''C:\Programme\Einsatzleiterwiki\xampp\htdocs\'' (sofern Sie bei der Installation kein anderes angegeben haben).
+
+{{:wiki:hilfe:update:windows_update_1.png?direct&500 |Dateien für Update auswählen}} Kopieren Sie die eben heruntergeladenen Daten **mit Ausnahme des Ordners data** in den Ordner in dem Ihr Einsatzleiterwiki installiert ist.
+
+<WRAP clear></WRAP>
+
+{{:wiki:hilfe:update:windows_update_2.png?direct&500 |Ersetzen bestätigen}} Nun werden Sie gefragt, ob Sie die vorhandenen Dateien ersetzen möchten.
+
+Setzen Sie einen Haken bei **Vorgang für die nächsten ... Konflikte durchführen** und klicken Sie danach auf **verschieben und ersetzen**.
+
+<WRAP clear></WRAP>
+
+{{:wiki:hilfe:update:windows_update_3.png?direct&500 |Integrieren bestätigen}} Im nächsten Fenster werden Sie gefragt, ob Sie den zu kopierenden Ordner in den bereits bestehenden integrieren möchten.
+
+Setzen Sie auch hier wieder einen Haken bei **Vorgang für alle aktuellen Elemente ausführen** und klicken Sie danach auf **ja**.
+
+<WRAP clear></WRAP>
+
+{{:wiki:hilfe:update:windows_update_4.png?direct&500 |Admin-Rechte bestätigen}} Ggf. werden Sie noch darum gebeten, für den Kopiervorgang Administrator-Rechte zu vergeben, insbesondere falls Sie den standardmäßig verwendeten Pfad verwenden.
+
+Setzen Sie auch hier wieder ein Häkchen bei **Vorgang für alle aktuellen Elemente ausführen** und klicken Sie danach auf **ja**.
+
+<WRAP clear></WRAP>
+
+Dies war alles, um Ihr Einsatzleiterwiki auf den neusten Stand zu bringen!
+ 
+===== Nach der Aktualisierung =====
+
+Laden Sie nach der Software-Aktualisierung am Besten nun auch gleich noch [[wiki:hilfe:plugins:sync|die neusten Inhalte in Ihr Wiki]].

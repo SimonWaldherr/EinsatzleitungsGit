@@ -1,0 +1,22 @@
+====== Allgemein ======
+
+<WRAP column>
+{{simplenavi>allgemein}}
+</WRAP>
+
+<WRAP column>
+==== Geräte allgemein =====
+{{simplenavi>allgemein:geraete}}
+
+==== Psychosoziale Notfallversorgung =====
+{{simplenavi>allgemein:psnv}}
+
+==== Rechtliche Grundlagen =====
+{{simplenavi>allgemein:recht}}
+
+==== Stabsarbeit =====
+{{simplenavi>allgemein:stabsarbeit}}
+
+==== Wetter =====
+{{simplenavi>allgemein:wetter}}
+</WRAP>

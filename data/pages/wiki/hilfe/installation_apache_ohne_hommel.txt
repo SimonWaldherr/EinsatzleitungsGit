@@ -1,0 +1,16 @@
+====== Installation der Server-Software falls die Gefahrstoffdatenbank Hommel interaktiv auf dem Computer nicht zusätzlich installiert wird ======
+
+  - Starten Sie die Installation und wählen Sie die Sprache aus
+  - Geben Sie das Verzeichnis an, in welches Sie die Serversoftware installieren wollen. Es ist eine gute Idee, die Vorgabe c:\xampp zu verwenden.{{ :wiki:hilfe:installation:auswahl_verzeichnis.png?nolink& |}}
+  - Bei der Auswahl der Installationsoptionen können Sie auf das Anlegen eines Desktop-Icons verzichten, da Sie im späteren Betrieb normalerweise keine Anpassungen an der XAMPP-Software vornehmen müssen. Bereits jetzt sollten Sie aber den Apache-Server als Dienst einrichten, damit dieser bei jedem Systemstart automatisch mitgestartet wird. Falls Sie dies vergessen sind aber keine Konsequenzen zu befürchten; dies kann später nachgeholt werden.{{ :wiki:hilfe:installation:shortcut_und_dienst.png?nolink& |}}
+  - Falls sich nun Ihre Firewall zu Wort meldet, so gestatten Sie dem Apache-Server die Kommunikation{{ :wiki:hilfe:installation:firewall.png?nolink& |}}
+  - Die Frage, ob Sie das Control Panel öffnen möchten, beantworten Sie mit //ja//
+  - Überprüfen Sie nun im Control Panel, ob der Server als Service eingerichtet ist und läuft{{ :wiki:hilfe:installation:control_panel.png?nolink& |}}
+  - Öffnen Sie nun Ihren Browser (Internet Explorer, Firefox, etc.) und geben Sie in die Adressleiste ein und drücken Enter: ''127.0.0.1'' (Dies ist immer die Netzwerkadresse ihres eigenen Rechners. Sie stellen also nun eine Serveranfrage an sich selbst.) Folgende Seite sollten Sie nun sehen:{{ :wiki:hilfe:installation:kontrolle_xampp.png?direct&500 |}}
+  - Die Server-Software ist damit installiert und sie können mit der Installation der Wiki-Software fortfahren. Falls Sie vergessen haben den Server als Service einzurichten, so klicken Sie auf das X auf orangenem Grund links neben Uhrzeit in der rechten unteren Ecke, und das Control Panel wird sich öffnen.
+
+===== Quellenangabe =====
+
+noch keine Quellen angegeben
+
+===== Stichwörter =====

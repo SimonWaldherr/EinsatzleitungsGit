@@ -1,0 +1,7 @@
+====== Objekte ======
+
+Diese Seite dient der Demonstration in welcher Art und Weise der lokale Bereich in einer Einsatzleiterwiki-Installation der eigenen Feuerwehr genutzt werden könnte. Sie ist in der Online-Variante des Einsatzleiterwikis für die Bearbeitung gesperrt, um ein fälschliches Eintragen eigener Daten ins Internet zu verhindern.
+
+In diesem Bereich können Sie Feuerwehrpläne, objektbezogene Einsatzpläne, Anfahrtsbeschreibungen und Ähnliches ablegen. Legen Sie im Namensraum lokal:objekte einfach pro Objekt eine Seite an und es wird auf dieser Seite automatisch eine alphabetische Auflistung erstellt. Falls Sie pro Objekt nur eine PDF-Datei besitzen, können Sie diese natürlich auch nur einfach hier verlinken.
+
+{{simplenavi>lokal:objekte}}

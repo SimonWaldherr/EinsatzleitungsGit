@@ -1,0 +1,26 @@
+====== Gefahrenbegriffe ======
+
+===== Anscheinsgefahr =====
+
+Von einer Anscheinsgefahr wird gesprochen wenn nach objektiven Gesichtspunkten, also z.B. einer gründlichen Erkundung, von einer Gefahr auszugehen ist aber sich im Nachhinein herausstellt dass keine Gefahr bestand bzw. hätte entstehen können. Das Handeln bei einer Anscheinsgefahr ist rechtmäßig.
+
+Beispiel Türöffnung: Sprechen an der Einsatzstelle mehrere Gründe dafür dass sich in der Wohnung wirklich eine hilfsbedürftige Person befindet, so handelt es sich um eine Anscheinsgefahr. Solche Gründe können z.B. sein:
+
+  * Der Briefkasten quillt über.
+  * Vor der Tür stapeln sich die Mahlzeiten des "Essen auf Rädern".
+  * Befragte Nachbarn sprechen von einem schlechten Allgemeinzustand der Person.
+  * Die Person hat eigentlich feste Rituale denen sie nicht nachkommt.
+  * ...
+
+===== Putativgefahr =====
+
+Von einer Putativgefahr wird gesprochen wenn es keine ausreichend belastbaren Anhaltspunkte für das Vorliegen einer wirklichen Gefahr gibt und das Handeln auf einer rein subjektiven Einschätzung beruht. Werden die Einsatzkräfte bei einer Putativgefahr tätig, so ist dies rechtswidrig.
+
+Beispiel Türöffnung: Aufbrechen der Tür nach dem Klingeln, ohne dass eine weitere Erkundung/Befragung vorgenommen wurde. Oftmals wird die Putativgefahr auch als Scheingefahr bezeichnet.
+
+
+===== Quellenangabe =====
+
+  * B4-Lehrgang 2013 an der Berliner Feuerwehr- und Rettungsdienst-Akademie
+
+===== Stichwörter =====

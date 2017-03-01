@@ -1,0 +1,29 @@
+====== (Administrator-) Passwort vergessen ======
+
+Für den Fall, dass das Passwort vergessen wird, kann (in der eigenen lokalen Version) auf der Anmeldungsseite per Mail ein neues Passwort zugeschickt werden. Bei einer lokalen Installation wird aber i.d.R. kein Mail-Server installiert sein.
+
+Sofern Zugriff auf die Dateien des Wikis besteht, was normalerweise möglich sein sollte, kann jedoch per Hand ein neues Passwort vergeben werden. Öffnen Sie dazu, ausgehend vom Wiki-Hauptverzeichnis (dieses ist standardmäßig unter ''C:/Program Files (x86)/Einsatzleiterwiki/xampp/htdocs/einsatzleiterwiki'' zu finden), den Ordner ''conf''. In diesem befindet sich die Datei ''users.auth.php'', in welcher die Benutzer des Wikis hinterlegt sind. Die Felder jedes Benutzer-Datensatzes sind in der folgenden Form aufgebaut:
+
+__Benutzername__:__verschlüsseltes Passwort__:__Voller Name__:__Email-Adresse__:__zugeordnete Gruppen__
+
+Die Daten des Benutzers admin könnten beispielsweise so aussehen, der Teil mit dem verschlüsselten Passwort ist rot hervorgehoben:
+
+''admin:<wrap em>$1$4RC3eZYj$63Ss0DJFXPCVAzje/0V5z0</wrap>:Wiki Administrator:mail@host.com:admin,user''
+
+Möchten Sie nun das Passwort zurücksetzen, dann ersetzen Sie den Text zwischen dem ersten und dem zweiten Doppelpunkt durch die Zeichenkette ''$1$4fd0ad31$.cId7p1uxI4a.RcrH81On0''\\
+Im eben gezeigten Beispiel würde das folgendermaßen aussehen:
+
+''admin:$1$4fd0ad31$.cId7p1uxI4a.RcrH81On0:Wiki Administrator:mail@host.com:admin,user''
+
+Nun können Sie sich mit diesem Benutzernamen und dem Passwort <wrap em>admin</wrap> anmelden.
+
+In einem weiteren Beispiel könnte dies auch so aussehen:
+
+''fritz:$1$4fd0ad31$.cId7p1uxI4a.RcrH81On0:Fritz Müller:fritz.mueller@feuerwehr-musterstadt.de:admin,user''
+
+<WRAP center round important 100%>
+Ändern Sie auf diesem Weg nur Ihr Passwort wenn Sie es vergessen haben, nutzen Sie dies nicht um Ihren Benutzernamen zu ändern o.ä.\\
+Die Änderungsverfolgung des Wikis, Einstellungen sowie weitere Funktionen können dadurch unbrauchbar werden!
+
+Möchten Sie Änderungen an einem Account vornehmen, so verwenden Sie dafür die Zugangsverwaltung im Admin-Bereich, nachdem Sie sich wieder anmelden können.
+</WRAP>

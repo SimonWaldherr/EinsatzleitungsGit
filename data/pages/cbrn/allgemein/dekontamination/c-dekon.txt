@@ -1,0 +1,22 @@
+====== C-Dekon ======
+
+===== zu treffende Maßnahmen =====
+
+siehe [[cbrn:allgemein:dekontamination:start|Dekontamination]] für die Dekontamination und den Dekon-Platz allgemein
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Dekontamination bei verschiedenen Anwendungen nach vfdb-Richtlinie 10/04 ====
+
+^  Kontamination  ^  Haut  ^  andere Oberflächen  ^
+^ unbekannter Stoff | Wasser und Seife | Wasser und Seife |
+^ Benzol, Aromaten | Polyethylenglykol 400 (PEG 400) | Polyethylenglykol 400 (PEG 400) |
+^ Benzine; Mineralöle | handelsübliche Flüssigseifen, Spülmittel, Ölvlies, Putzwolle | |
+^ Fette; höher viskose, nicht wasserlösliche Stoffe | Spülmittel, behelfsmäßig auch Mehrbereichsschaummittel | Kaltreiniger (in Wasser gelöst), Spülmittel, behelfsmäßig auch Mehrbereichsschaummittel |
+^ [[cbrn:chemisch:klasse_8:start|Laugen / Säuren]] | Wasser (Verdünnung!) | Wasser (Verdünnung!) |
+^ [[cbrn:chemisch:chemische_kampfstoffe|C-Kampfstoffe]] | Trocken abtupfen und dann mit viel Wasser und Seife spülen | Chlorkalk, Calciumhypochlorit- / Natriumhypochloritlösung (Chlorbleichlauge) |
+
+===== Quellenangabe =====
+
+  * vfdb-Richtlinie 10/04, Vereinigung zur Förderung des Deutschen Brandschutzes e.V
+  * {{:allgemein:kleine_merkhilfe_fuer_den_feuerwehreinsatz_1.03.pdf|Kleine Merkhilfe für den Feuerwehreinsatz: Zusammenstellung für Führungskräfte der Feuerwehr}}, Florian Pernpeintner

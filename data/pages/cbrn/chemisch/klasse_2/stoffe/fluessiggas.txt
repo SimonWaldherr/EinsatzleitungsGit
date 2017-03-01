@@ -1,0 +1,242 @@
+====== Flüssiggas ======
+
+Als Flüssiggas werden niedrig siedende Kohlenwasserstoffe wie Propan oder Butan, artverwandte Stoffe und Stoffgemische aus diesen bezeichnet.
+
+Hilfreiche Berechnungen für Flüssiggas-Einsätze sind auf der Seite [[cbrn:chemisch:klasse_2:fluessiggasberechnungen|Flüssiggasberechnungen]] zu finden.
+
+===== zu treffende Maßnahmen =====
+
+==== besondere Gefahren ====
+
+  * brennbar, bildet Ex-Atmosphäre
+  * erstickendes (luftverdrängendes) Atemgift, in hohen Konzentrationen geringfügig betäubend, aber nicht giftig
+  * je nach Gemisch ca. 1,5- bis 2,1-fach schwerer als Luft, fließt am Boden wie eine Flüssigkeit
+  * flüssig austretendes Flüssiggas verdampft zunächst, wird danach aber ggf. wieder flüssig. Dabei kühlt es sich und die Umgebung stark ab -> **Erfrierungsgefahr!**\\ Dabei können die Bedienelemente (Armaturen) vereisen.
+  * Gas vermischt sich nur langsam mit Luft und ist auch in größeren Distanzen noch zündfähig. Es ist eine Rückzündung bis zur Austrittsstelle möglich.
+  * Größere Lachen Flüssiggas können sich über längere Zeit in flüssiger Form in Vertiefungen halten
+  * Verbrennungen der ungeschützten Haut bei brennendem Austritt noch in 300 m Entfernung möglich
+  * Brand-/wärmebeaufschlagte Flüssiggasflaschen können bersten
+  * Bei Behälterversagen können Teile je nach Behältergröße ca. 1.000 m weit geschleudert werden
+
+<WRAP center round important 100%>
+1 kg Flüssiggas entspricht der Sprengkraft von 500 Gramm TNT
+
+Aus 1 kg Flüssiggas werden ca. 2 Liter flüssiges Flüssiggas.\\
+Aus 2 Litern flüssigem Flüssiggas werden ca. 500 Liter gasförmiges Flüssiggas.\\
+Aus 500 Litern gasförmigem Flüssiggas werden 30.000 Liter zündfähiges Gas-Luft-Gemisch.</WRAP>
+
+==== Anfahrt / beim Eintreffen ====
+
+  * Wenn möglich mit dem Wind anfahren, auf Windrichtungsänderungen achten
+  * Fahrzeuge nicht in Senken und nicht direkt an der Schadensstelle aufstellen
+  * [[cbrn:chemisch:klasse_2:stoffe:fluessiggas#sicherheitsabstaende_und_kuehlwasserbedarf|Gefahren- und Absperrbereich je nach Behältergröße einrichten]] (dabei vermutliche Ausbreitungsrichtung beachten, nicht in Gefälle-Richtung!), [[allgemein:raeumung|Räumung des Bereichs]], Aufenthalt von Einsatzkräften in diesen Bereichen nur wenn diese auch benötigt werden
+  * Nachalarmierung von Spezialkräften: z.B. Gefahrstoffzug (RW, GW-G, ...), Trockenlöschfahrzeug / Feuerwehranhänger-Pulver (P250), [[cbrn:chemisch:klasse_2:stoffe:fluessiggas#fluessiggas-sicherheitsdienst_fsd|Flüssiggas-Sicherheitsdienst]], Gefahrgut-Beauftragter des Unternehmens, Elektroversorgung, ...
+  * Erkundung von Inhalt, Behältervolumen und Füllstand, [[cbrn:chemisch:klasse_2:stoffe:fluessiggas#sicherheitsabstaende_und_kuehlwasserbedarf|Sicherheitsventil vorhanden?]], Leck in der Flüssig- oder Gasphase?, Ursache und Umfang des Unfalls; Unfallmerkblätter / Einsatzpläne für das Objekt vorhanden?
+  * Dokumentation: Zeitpunkt der Erwärmung des Behälters, austretendes Gas, Messergebnisse von Gasspürtrupps, Öffnen und Schließen von Ventilen, getroffene Kühlmaßnahmen
+  * [[brand:allgemein:loeschwasserversorgung|Löschwasserversorgung]] aufbauen (vermutlich große Wassermengen erforderlich, ggf. [[brand:allgemein:loeschwasser_lange_wegstrecke|Wasserförderung über lange Wegstrecke]] notwendig)
+
+==== Gasaustritt ohne Brand ====
+
+  * Ex-gefährdeten Bereich mit [[cbrn:geraete:ex-messgeraet|Ex-Messgerät (Kalibriergas beachten!)]], ersatzweise [[cbrn:geraete:pruefroehrchen|Prüfröhrchen]], laufend kontrollieren; insbesondere in benachbarten Gebäuden, Senken, Kellern, Kanälen, ...\\ in Vertiefungen, ggf. auch im Freien Atemschutzgerät erforderlich!
+  * Beschädigung der Schutzkleidung durch tiefkaltes Gas beachten!
+  * Leckstellen unter Atemschutz und [[brand:allgemein:hitzeschutzkleidung|Hitzeschutzkleidung]] erkunden, falls möglich abdichten
+  * evtl. kann [[allgemein:geraete:waermebildkamera|Wärmebildkamera]] helfen die ausgetretene Gasphase sichtbar zu machen
+  * Zündquellen ausschließen:
+    * vor Ort vorhandene Zündquellen beseitigen
+    * Nur Ex-geschützte Funkgeräte verwenden
+    * Fahrzeuge / Geräte / Auffangbehälter, etc. erden
+    * Elektrische Anlagen von außen (außerhalb des Gefahrenbereichs) [[allgemein:elektrische_anlagen|freischalten]]
+    * mechanische Funken (nur nicht funkenreißendes Werkzeug verwenden)
+    * elektrostatische Aufladung aufgrund von ausströmenden Flüssigkeiten/Gasen beachten
+    * keine Handys, Pieper, andere elektrischen Geräte mit in den Gefahrenbereich nehmen
+    * nicht rauchen
+  * Fenster und Türen schließen, Lüftungsanlagen abschalten
+  * Trupps mit Hitzeschutzkleidung bereitstellen, auch an Sicherheitstrupp denken (Ausrüstung ggf. mit Pulverlöscher)
+  * Auswirkungen einer Verpuffung abschätzen (siehe dazu auch [[cbrn:chemisch:klasse_2:fluessiggasberechnungen|Flüssiggasberechnungen]])
+  * Einfließen von Gas in Senken, Keller, Kanäle, etc. verhindern bzw. diese abdichten, bei besonders gefährdeten Bereichen versuchen mit Sprühstrahl abzudrängen, ggf. Einsatz von Werfer / Hydroschild sinnvoll
+  * ausgetretene Flüssigphase kann mit [[brand:allgemein:schaum|Leicht- oder Mittelschaum]] abgedeckt werden um Verdampfungsgeschwindigkeit zu Verringern
+  * Einsatz stationärer Berieselungsanlagen soweit vorhanden (ggf. im Feuerwehrplan ersichtlich)
+  * Ventile und Absperrorgane in Rücksprache mit dem Betreiber schließen, falls vorhanden Tankheizung abstellen
+
+=== Sonderfall: gewolltes Verdampfen flüssiger Lachen ===
+
+Bei Ansammlung der ausgetretenen Flüssigphase in einem gefährlichen Bereich kann das Verdampfen mit den folgenden Maßnahmen beschleunigt werden. Dabei ist zusätzlich zu den oben genannten Punkten zu beachten:
+
+  * im Vorhinein wenn möglich mit Fachleuten abstimmen (z.B. [[cbrn:chemisch:klasse_2:stoffe:fluessiggas#fluessiggas-sicherheitsdienst_fsd|Flüssiggas-Sicherheitsdienst]])
+  * Absperrung großräumig erweitern
+  * Dauerhaft und an allen möglichen Punkten [[cbrn:geraete:ex-messgeraet|Ex-Messungen]] vornehmen, insbesondere in tieferliegenden Bereichen
+  * kontrolliertes Abziehen der Gaswolke sicherstellen wenn Umgebung nicht gefährdet wird
+  * dann: vorsichtig Zugabe von Wasser in die Flüssiggas-Lache (das vergleichsweise wärmere Wasser sorgt für ein schnelleres Verdampfen)
+
+=== Sonderfall: Schadensstelle in Gebäuden ===
+
+  * Fenster und Türen zur Belüftung öffnen
+  * Gasbehälter falls möglich ins Freie bringen / Absperreinrichtung schließen
+  * keine elektrischen Schalter / Einrichtungen betätigen, Gebäude von außen [[allgemein:elektrische_anlagen|freischalten]]
+  * Gebäudeinneres mit ex-geschützten Lüftern (z.B. Wasserlüftern) **entlüften**, um Ex-Atmosphäre gezielt zu leiten
+  * Bei [[brand:allgemein:belueftung|Überdruckbelüftung]] darauf achten keine Gefahrenausbreitung zu verursachen
+
+==== brennend austretendes Flüssiggas ====
+
+<wrap important>Folgende Maßnahmen nur durchführen wenn keine unmittelbare Verpuffungsgefahr besteht!</wrap>
+
+  * stationäre Berieselungsanlage in Betrieb nehmen falls vorhanden
+  * Gefahren-/Absperrbereich gemäß [[cbrn:chemisch:klasse_2:stoffe:fluessiggas#sicherheitsabstaende_und_kuehlwasserbedarf|untenstehender Tabelle]] einrichten
+  * leistungsfähige [[brand:allgemein:loeschwasserversorgung|Löschwasserversorgung]] aufbauen/erweitern
+  * aus **sicherer** Position (Wurfweite von Wasserwerfern ausnutzen):
+    * Umgebung kühlen/schützen (Wärmestrahlung!), brennbare Objekte entfernen wenn möglich
+    * **Flüssiggasbehälter oder -anlage mit größtem Einsatz kühlen** ([[cbrn:chemisch:klasse_2:stoffe:fluessiggas#sicherheitsabstaende_und_kuehlwasserbedarf|Kühlwasserbedarf]])
+  * Gaszufuhr absperren wenn möglich, danach Kontrollmessungen durchführen
+  * Verhalten des Behälters beobachten (Öffnen und Schließen des Ventils, Blasenbildung des Lacks)
+    * bei Öffnen des Druckbegrenzungsventils trotz Kühlung muss mit Behälterzerknall gerechnet werden ([[cbrn:allgemein:begriffsklaerungen#bleve|BLEVE]]), bei leeren Behältern schon nach ca. 10 Minuten Beflammung!
+  * Flamme nur löschen wenn kein weiterer Austritt erfolgt oder austretendes Gas sicher bis unter die UEG verdünnt werden kann.\\ Nach Verlöschen der Flamme mit Wiederentzündung rechnen. Wiederentzündung durch Feuerwehr nur, wenn:
+    * Entzündung schnell möglich ist
+    * Zündquellen in der Nähe das Gas sowieso wieder entzünden
+    * keine Gefahr der Brandausbreitung besteht
+  * Hochspannungsfreileitungen über dem Behälter können brechen und herunterfallen ([[allgemein:elektrische_anlagen#spannungstrichter|Spannungstrichter]]!)
+  * brennende Kesselwagen aus Zug herauslösen
+  * ggf. schließen Druckentlastungsventile nicht mehr dicht nachdem diese angesprochen haben
+  * Nach erfolgreichem Ablöschen [[cbrn:geraete:ex-messgeraet|Ex-Messungen]] vornehmen, vor allem in tiefer gelegenen Bereichen
+
+==== Vorgehen bei Brand-/wärmebeaufschlagten ortsbeweglichen Flüssiggasbehältern ====
+
+<WRAP center round important 100%>
+Das folgende Fließschema gilt nur für ortsbewegliche Flüssiggasbehälter (Gasflaschen). Es gilt nicht für Fahrzeugtanks, ortsfeste Speichertanks, Tankfahrzeuge, etc.
+</WRAP>
+
+{{:cbrn:chemisch:klasse_2:stoffe:fluessiggas:dguv_i_205-030_-_anhang_1.png?direct|Flussdiagramm Vorgehen bei Brand-/wärmebeaufschlagten Flüssiggasbehältern}}
+
+<sup>1)</sup> Bei Freifeldversuchen wurden durch die Bundesanstalt für Materialforschung und –prüfung (BAM) <wrap important>Fragment-Flugweiten von über 260 m</wrap> festgestellt, der Gefahren-/Absperrbereich (in Anlehnung an die FwDV 500) muss lageabhängig erfolgen.\\
+<sup>2)</sup> Stichflamme möglichst weiterbrennen lassen\\
+<sup>3)</sup> z.B. bei Beflammung weiterer Gasflaschen in der Umgebung\\
+<sup>4)</sup> Beim Transport einer heißen Propangasflasche kann es zum Nachverdampfen von flüssigem Propan und damit zu einem Behälterzerknall kommen.
+
+Fließschema entnommen aus //DGUV Information 205-030: "Umgang mit ortsbeweglichen Flüssiggasflaschen im Brandeinsatz"//, Deutsche Gesetzliche Unfallversicherung e.V., Berlin 2018
+
+==== Brand in der Umgebung eines Flüssiggastanks ====
+
+  * [[allgemein:raeumung|Räumung]] des [[cbrn:chemisch:klasse_2:stoffe:fluessiggas#sicherheitsabstaende_und_kuehlwasserbedarf|Gefahrenbereichs]], Absperrbereich einrichten.
+  * Zugangs- und Abgangsleitung der betroffenen Flüssiggasanlage in Zusammenarbeit mit dem Betreiber absperren
+  * tragbare Druckbehälter aus dem Gefahrenbereich bringen
+  * **Einsatzschwerpunkt: Brandbekämpfung** des Feuers welches die Flüssiggasanlage bedroht. Beflammung des Behälters von unten unbedingt vermeiden!
+  * Flüssiggasanlage von geschütztem Standort aus maximaler Entfernung kühlen, evtl. Wasserwerfer aufbauen und danach Gefahrenbereich verlassen
+  * bei vertretbarem Risiko Behälter durch Einschäumen mit [[brand:allgemein:schaum|Schwerschaum]] schützen
+  * Verfärbungen von Farbanstrichen und Öffnen und Schließen von Druckbegrenzungsventilen können Hinweise auf baldiges Behälterversagen sein
+  * Nach Löschen des Umgebungsbrandes und abgekühltem Flüssiggasbehälter [[cbrn:geraete:ex-messgeraet|Ex-Messungen]] in der Umgebung vornehmen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Eigenschaften ====
+
+  * Unter Druck verflüssigt (5 bis 10 bar)
+  * Flüssigphase schwimmt auf Wasser, nicht wasserlöslich, nicht wassergefährdend
+
+==== Hinweise zu Behältern ====
+
+  * Bei kleineren Blechbehältern (z.B. Kartuschen für Gaskocher) deutet ein "aufgeblähter" Behälterboden auf ein baldiges Bersten hin.
+  * Behälter bis 3 Tonnen Fassungsvermögen dürfen genehmigungsfrei aufgestellt werden und sind den Einsatzkräften deswegen im Vorhinein nicht unbedingt bekannt!
+
+==== Sicherheitsabstände und Kühlwasserbedarf ====
+
+^  Art des\\ Behälters  ^  Volumen\\ in m³  ^  max.\\ Lager-\\ masse\\ in kg  ^  Abstand für\\ Einsatzkräfte\\ unter Wärme-\\ schutzkleidung  ^  <WRAP danger>Gefahren-\\ bereich\\ in m</WRAP>  ^  <WRAP safety>Absperr-\\ bereich\\ in m</WRAP>  ^  Kühl-\\ wasser-\\ bedarf\\ in l/min  ^  Sicher-\\ heits-\\ ventil?  ^
+^ [[cbrn:chemisch:klasse_2:brandeinwirkung_auf_druckgasbehaelter|Druckgas-]]\\ [[cbrn:chemisch:klasse_2:brandeinwirkung_auf_druckgasbehaelter|flaschen]] |  < 0,08  |  33  |  25  |  lageabhängig  ||  15  |  teilweise<sup>6</sup>  |
+^ [[cbrn:chemisch:klasse_2:lpg-fahrzeuge|Gasbetr. KFZ]] |  0,1  |  40  |  25  |  100  |  200  |  15  |  Ja  |
+^ priv. Versor-\\ gungsanlage /\\ Kompaktanlage |  2,7 - 6,4  |  1.200 -\\ 2.900  |  100<sup>7</sup>  |  200  |  400  |  180  |  Ja  |
+^ Einzel-LKW\\ 5t Ladegewicht |  6 - 11  |  2.500 -\\ 5.000  |  100*  |  200  |  400  |  1.200  |  Nein  |
+^ LKW + Anhänger\\ und Sattelzug |  20 - 36  |  9.000 -\\ 16.000  |  200*  |  400  |  800  |  :::  |  :::  |
+^ [[cbrn:allgemein:kennzeichnung:eisenbahn#anschriften_an_gefahrgut-kesselwagen|Eisenbahn-]]\\ [[cbrn:allgemein:kennzeichnung:eisenbahn#anschriften_an_gefahrgut-kesselwagen|Kesselwagen]] |  62 - 120  |  26.000 -\\ 55.000  |  300*  |  600  |  1.200  |  2.500  |  Nein  |
+^ Speicher-\\ anlagen und\\ Binnenschiffe |  bis 250     |  bis 100.000   |  min. 300*  |  min. 600  |  1.500  |  2.000 -\\ 150.000  |  Nein  |
+^ :::                                     |  bis 1.000   |  bis 430.000   |  min. 300*  |  min. 600  |  2.000  |  :::                |  :::   |
+^ :::                                     |  über 1.000  |  über 430.000  |  500*       |  min. 800  |  2.500  |  :::                |  :::   |
+
+<WRAP round info><sup>6</sup> Deutsche Gasflaschen haben i.d.R. ein Sicherheitsventil. Gaskartuschen, Treibgasflaschen (z.B. für Gabelstapler) und ausländische Flüssiggasflaschen haben meist kein Sicherheitsventil. Sicherheitsventile haben, je nach Auslegung des Druckbehälters, nach DIN 13953 einen Nennansprechdruck zwischen 21 und 35 bar.
+
+* Abstand muss zum Aufstellen von Wasserwerfern ggf. unterschritten werden.\\
+Die Unterschreitung der Sicherheitsabstände ist möglich wenn eine geeignete Deckung vorhanden ist.</WRAP>
+
+nach: Informationsschrift „Gefahren und Gefahrenabwehr bei Lagerung und Transport von Flüssiggas” des Innenministers Nordrhein-Westfalen, „Ereignisorientierter Einsatzplan für Flüssiggasunfälle und Brände”
+v. H.-E. Dolle, Brandschutz 10/87
+
+==== Stoffdaten ====
+
+^ Identifikation ^  Propan  ^  Butan  ^  Normgemisch  ^
+^ Alternative Namen                            |  R 290, n-Propan  |  R 600, n-Butan  |  LPG, Liquefied Petroleum Gas  |
+^ CAS-Nr.                                      |  74-98-6  |  106-97-8  |  |
+^ Gefahrgutbezeichnung                         |  Propan  |  Butan  |  Kohlenwasserstoffgas, Gemisch, Verflüssigt, n.a.g.  |
+^ [[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Nummer zur Kennzeichnung der Gefahr]] | {{ cbrn:chemisch:klasse_2:stoffe:23-1978.png?nolink&100 |Gefahrentafel Propan}} | {{ cbrn:chemisch:klasse_2:stoffe:23-1011.png?nolink&100 |Gefahrentafel Butan}} | {{ cbrn:chemisch:klasse_2:stoffe:23-1965.png?nolink&100 |Gefahrentafel Normgemisch}} |
+^ UN-Nr.                                       |  :::  | ::: | ::: |
+^ Gefahrzettel                                 |  {{ cbrn:2-1.png?nolink&100 |Entzündbares Gas}}  |||
+^ ADR-Klasse                                   |  [[cbrn:chemisch:klasse_2:start|ADR-Klasse 2: gasförmige Stoffe]]  |||
+^ [[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]]  |  keine  |||
+^ [[cbrn:allgemein:kennzeichnung:gasflaschenkennzeichnung|Gasflaschenkennzeichnung]] | Druckbehälter bis 6,2 kg haben keine einheitliche Farbgebung.\\ Druckbehälter mit 5, 11 und 33 kg sind orange, rot oder grau. Graue und rote Behälter müssen einen orangen Ring besitzen. Campinggas-Behälter können auch blau sein.\\ Ortsfeste Behälter bis 3 Tonnen Fassungsvermögen sind weiß oder hellgrün.\\ [[cbrn:allgemein:kennzeichnung:eisenbahn#anschriften_an_gefahrgut-kesselwagen|Eisenbahn-Kesselwagen]] haben mittig ein umlaufendes orangenes Band.\\ Binnenschiff sind mit einem [[cbrn:allgemein:kennzeichnung:schiffe#binnenschifffahrt|blauen Kegel / blaues Licht gekennzeichnet]]. |||
+^ ERICard                                      |  [[cbrn:ericards:klasse_2:19781120|2-45]]  |  [[cbrn:ericards:klasse_2:10110374|2-45]]  |  [[cbrn:ericards:klasse_2:19651108|2-45]]  |
+^ Hommel-Merkblatt-Nr.                         |  164  |  46  |  1102, 1103, 1071, 1072, 1095ff  |
+^ Summenformel                                 |  C<sub>3</sub>H<sub>8</sub>  |  C<sub>4</sub>H<sub>10</sub>  |  C<sub>4</sub>H<sub>10</sub> / C<sub>3</sub>H<sub>8</sub>  |
+^ [[cbrn:allgemein:begriffsklaerungen#molare_masse|molare Masse]] |  44,10 g/mol  |  58,12 g/mol  |   |
+^ Charakterisierung ^  Propan  ^  Butan  ^  Normgemisch  ^
+^ Aggregatszustand                             |  gasförmig  |||
+^ Farbe                                        |  farblos (als Gas und Flüssigkeit)  |||
+^ Geruch                                       |  in natürlicher Form nahezu keiner, wird aber mit Odorierungsmittel versetzt  |||
+^ Brennbarkeit                                 |  Extrem entzündbares Gas. Bildet mit Luft explosive Gemische.  |||
+^ Verhalten an Luft                            |  schwerer als Luft  |||
+^ physikalisch-chemische\\ Eigenschaften ^  Propan  ^  Butan  ^  Normgemisch  ^
+^ Schmelzpunkt                                 |  -187,7 °C  |  -138,3 °C  | |
+^ Siedepunkt                                   |  -42,1 °C   |  -0,5 °C  | |
+^ Dichte (gasförmig)\\ bei 0 °C und 1013 mbar  |  2,01 kg/m³  |  2,71 kg/m³  | |
+^ Dichte (flüssig)\\ am Siedepunkt             |  0,58 kg/l  |  0,60 kg/l  | |
+^ [[cbrn:allgemein:begriffsklaerungen#dampfdruck|Dampfdruck]] |  8,3 bar (20°C)\\ 10,8 bar (30°C)\\ 17,1 bar (50°C)  |  2,1 bar (20°C)\\ 2,8 bar (30°C)\\ 4,9 bar (50°C)  | |
+^ [[cbrn:allgemein:begriffsklaerungen#flammpunkt|Flammpunkt]] |  -104 °C  |  -60 °C  | |
+^ [[cbrn:allgemein:begriffsklaerungen#zuendtemperatur|Zündtemperatur]] |  450 °C  |  365 °C  | |
+^ [[cbrn:chemisch:temperaturklasse|Temperaturklasse]] |  T1  |  T2  |  T2  |
+^ Explosionsgruppe |  II A  |||
+^ [[cbrn:allgemein:begriffsklaerungen#explosionsgrenzen|Explosionsgrenzen]] |  UEG: 1,7 Vol.-%\\ OEG: 10,8 Vol.-%  |  UEG: 1,4 Vol.-%\\ OEG: 9,4 Vol.-%  | |
+^ [[cbrn:allgemein:begriffsklaerungen#relative_dichte_zu_luft|Relative Gasdichte]] (zu Luft) |  1,55  |  2,11  | |
+^ [[cbrn:allgemein:begriffsklaerungen#wasserloeslichkeit|Wasserlöslichkeit]] |  75 mg/l bei 20 °C  |  61 mg/l bei 20 °C  | |
+^ [[cbrn:allgemein:begriffsklaerungen#wassergefaehrdungsklasse|Wassergefährdungsklasse]] |  nicht wassergefährdender Stoff  |||
+^ Explosionsgefahr bei Reaktion mit            |  Chlordioxid  |  Oxidationsmitteln (Sauerstoff), Nickelcarbonyl  | |
+^ gefährliche Reaktion mit                     |  Bariumperoxid  | | |
+^ Maßnahmen bei Bränden ^  Propan  ^  Butan  ^  Normgemisch  ^
+^ [[brand:allgemein:brandklassen|Brandklasse]] |  {{:brand:allgemein:brandklasse_c.png?nolink&100|Brandklasse C}}  |||
+^ geeignete Löschmittel                        |  Wasser-Sprühstrahl, [[brand:allgemein:schaum|Schaum]], [[brand:allgemein:pulver|Pulver]], [[brand:allgemein:co2|Kohlenstoffdioxid]]  |||
+^ ungeeignete Löschmittel                      |  Wasser-Vollstrahl  |||
+^ Grenzwerte ^  Propan  ^  Butan  ^  Normgemisch  ^
+^ [[cbrn:chemisch:grenzwerte#etw-wert|ETW-Wert]] |  nicht definiert  |||
+^ [[cbrn:chemisch:grenzwerte#agw-wert|AGW-Wert]] |  1000 ppm (0,1 Vol.-%)  |||
+^ Geruchsschwelle |  1,6 Vol.-%  |  0,27 Vol.-%  | |
+^ [[cbrn:allgemein:kennzeichnung:ghs|GHS-Einstufung und Kennzeichnung]] ^^^^
+^ [[cbrn:allgemein:kennzeichnung:ghs#piktogramme|GHS-Piktogramm(e)]] |  {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_flamme.png?nolink&100|Entzündbare Gase}} {{cbrn:allgemein:kennzeichnung:ghs_piktogramm_bottle.png?nolink&100|Gase unter Druck}}  |||
+^ GHS-Signalwort                               |  Gefahr  |||
+^ [[cbrn:allgemein:kennzeichnung:ghs#gefahrenhinweise_h-saetze|GHS-Gefahrenhinweise (H-Sätze)]] |  H220: Extrem entzündbares Gas.\\ H280: Enthält Gas unter Druck; kann bei Erwärmung explodieren.  |||
+^ [[cbrn:allgemein:kennzeichnung:ghs#sicherheitshinweise_p-saetze|GHS-Sicherheitshinweise (P-Sätze)]] |  P210: Von Hitze, heißen Oberflächen, Funken, offenen Flammen und anderen Zündquellen fernhalten. Nicht rauchen.\\ P377: Brand von ausströmendem Gas: Nicht löschen, bis Undichtigkeit gefahrlos beseitigt werden kann.\\ P381: Alle Zündquellen entfernen, wenn gefahrlos möglich.\\ P403: An einem gut belüfteten Ort aufbewahren.  |||
+^ [[cbrn:allgemein:kennzeichnung:gefahrensymbole|Einstufung nach Stoffrichtlinie]] (R- und S-Sätze) ^^^^
+^ [[cbrn:allgemein:kennzeichnung:gefahrensymbole|Piktogramm]] |  {{ cbrn:allgemein:kennzeichnung:gefahr_f.png?nolink&100 |F+ Hochentzündlich}} F+ Hochentzündlich  |||
+^ Risiko-Sätze (R-Sätze)                       |  R12 Hochentzündlich  |||
+^ Sicherheitssätze (S-Sätze)                   |  S 2 Darf nicht in die Hände von Kindern gelangen.\\ S 9 Behälter an einem gut gelüfteten Ort aufbewahren.\\ S 16 Von Zündquellen fernhalten – Nicht rauchen.  |||
+^ [[cbrn:allgemein:kennzeichnung:warnzeichen|Warnzeichen]] ^^^^
+|  {{ cbrn:allgemein:kennzeichnung:warnung_vor_gasflaschen.png?nolink&100 |Warnung vor Gasflaschen}}  |  Warnung vor Gasflaschen  |||
+|  {{ cbrn:allgemein:kennzeichnung:warnung_vor_explosionsfaehiger_atmosphaere.png?nolink&100 |Warnung vor explosionsfähiger Atmosphäre}}  |  Warnung vor explosionsfähiger Atmosphäre  |||
+
+**Lizenzhinweis**: Die Daten aus dem Bereich "Stoffdaten" stammen zu großen Teilen aus der GESTIS-Stoffdatenbank und dürfen daher ausschließlich für nichtkommerzielle Zwecke des Arbeitssschutzes verwendet werden.
+
+===== Kontaktdaten/Ansprechpartner =====
+
+==== Flüssiggas-Sicherheitsdienst (FSD)  ====
+
+** 069/75909-153 (ständig besetzt!) **
+
+Der Flüssiggas-Sicherheitsdienst gibt Hilfestellung bei Betriebsstörungen und Unfällen. Er bietet ähnlich wie [[cbrn:allgemein:tuis|TUIS]] ein dreistufiges Hilfesystem an:
+
+  - Telefonische Fernberatung
+  - Beratung vor Ort
+  - Aktive technische Hilfe vor Ort
+
+===== Quellenangabe =====
+
+  * vfdb-Merkblatt [[http://vfdb.de/download/Merkblatt/MB_Fluessiggas_Ref10_2013_11_26.pdf|Empfehlung für den Feuerwehreinsatz bei Gefahr durch Flüssiggas]], 11/2013
+  * [[http://www.sfs-w.de/lehr-und-lernmittel/merkblaetter-broschueren/gefaehrliche-stoffe.html?no_cache=1&download=07_08_Internet_2011-07-22.pdf&did=48|Flüssiggas - Merkblatt für die Feuerwehren Bayerns]], Staatliche Feuerwehrschule Würzburg, 08/2007
+  * [[https://publikationen.dguv.de/dguv/pdf/10002/205-030.pdf|DGUV Information 205-030: "Umgang mit ortsbeweglichen Flüssiggasflaschen im Brandeinsatz"]], Deutsche Gesetzliche Unfallversicherung e.V., Berlin 2018
+  * Informationsschrift „Gefahren und Gefahrenabwehr bei Lagerung und Transport von Flüssiggas” des Innenministers Nordrhein-Westfalen
+  * Ereignisorientierter Einsatzplan für Flüssiggasunfälle und Brände, H.-E. Dolle, veröffentlicht in Brandschutz 10/87, Kohlhammer-Verlag
+  * [[http://dvfg.de/qualitaet-sicherheit/sicherheit/#c3095|Sicherheit: Flüssiggas-Sicherheitsdienst]], Deutscher Verband Flüssiggas e.V.
+  * [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/010020.xml?f=templates&fn=default.htm|Eintrag für Propan in der Gestis-Gefahrstoffdatenbank]]
+  * [[http://gestis.itrust.de/nxt/gateway.dll/gestis_de/010030.xml?f=templates&fn=default.htm|Eintrag für Butan in der Gestis-Gefahrstoffdatenbank]]

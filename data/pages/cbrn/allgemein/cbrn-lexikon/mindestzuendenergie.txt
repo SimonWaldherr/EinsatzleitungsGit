@@ -1,0 +1,7 @@
+====== Mindestzündenergie ======
+
+Die Mindestzündenergie beschreibt, wie viel Energie nötig ist um das zündwilligste (stöchiometrische) Gemisch einer explosionsfähigen Atmosphäre zu entzünden.
+
+===== Quellenangabe =====
+
+Bitte beachten Sie die Quellenangabe auf der [[cbrn:allgemein:cbrn-lexikon:start|übergeordneten Seite]].

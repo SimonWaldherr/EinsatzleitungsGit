@@ -1,0 +1,55 @@
+====== GRANATEN, ÜBUNG, Hand oder Gewehr - UN 0452 - Gefahrnr.  - ERICard-Nr. 1-04 - UN0452 ======
+|Stoff | GRANATEN, ÜBUNG, Hand oder Gewehr   |
+|UN-Nummer | 0452   |
+|[[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Gefahrnummer]] |    |
+|ADR-Gefahrzettel | {{cbrn:1-4.png?nolink&100 }}\\ **Beachten Sie:**\\ Auf dem hier abgebildete Gefahrzettel muss anstelle des Sternchens auch die  [[cbrn:chemisch:klasse_1:vertraeglichkeitsgruppen|Verträglichkeitsgruppe]] (z.B. D) eingetragen werden, wie unten in der Zeile **Klassifizierungscode** angegeben.   |
+|ADR-Klasse | 1   |
+|Klassifizierungscode | 1.4G   |
+|[[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]] |    |
+|ERI-Card | 1-04   |
+
+==== Unfall-Hilfeleistung ====
+===== Explosionsgefährliche Stoffe und Gegenstände mit einem geringen Explosionsrisiko (Unterklasse 1.4) =====
+==== 1. Eigenschaften. ====
+  * Explosionsgefährliche Stoffe oder Gegenstände mit Explosivstoffen (z.B. Munition).
+  * Kann zusätzlich giftige oder ätzende Eigenschaften haben.
+==== 2. Gefahren. ====
+  * Vermindertes Explosionsrisiko. Auswirkungen sind weitgehend auf ein Versandstück beschränkt.
+  * Kann im Brandfall giftige oder ätzende Dämpfe entwickeln.
+==== 3. Persönlicher Schutz. ====
+  * Umluftunabhängiger Atemschutz
+==== 4. Einsatz-Massnahmen. ====
+=== 4.1 Allgemeine Massnahmen. ===
+  * Nicht rauchen, Zündquellen ausschließen. In der Nähe der Ladung keine elektronischen Geräte betreiben.
+  * Abstand halten und sofort jede geeignete Deckungsmöglichkeit nutzen.
+  * Gefahr für die Öffentlichkeit ! Personen in der Nähe warnen und den [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] unverzüglich räumen.
+  * Zahl der Einsatzkräfte im [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] beschränken.
+  * Herabgefallene oder herausgeschleuderte Explosivstoffe oder Gegenstände NICHT BERÜHREN!
+  * Zuständige Behörden benachrichtigen.
+=== 4.2 Massnahmen bei Stoffaustritt. ===
+  * KEINE MASSNAHMEN ZUR EINGRENZUNG EINES STOFFAUSTRITTS! Sofort [[cbrn:allgemein:tuis|Fachleute hinzuziehen]].
+  * Falls der Stoff in offenes Gewässer oder Kanalisation gelangt, zuständige Behörde benachrichtigen.
+=== 4.3 Massnahmen bei Feuer (falls Stoff betroffen). ===
+  * Ausbreitung des Brandes verhindern. Vollstrahl einsetzen!
+  * Aus geschützter Stellung arbeiten, um Gefährdung der Einsatzkräfte zu reduzieren. Mobile Wasserwerfer verwenden.
+  * [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] für die Bevölkerung im Umkreis von mindestens 100 m um die Unfallstelle. Sofort räumen!
+  * [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] für die Einsatzkräfte im Umkreis von mindestens 25 m um die Unfallstelle. Zurückziehen!
+==== 5. Erste Hilfe. ====
+  * Bei Verbrennungen die betroffenen Hautbereiche sofort und so lange wie möglich mit kaltem Wasser kühlen. An der Haut haftende Kleidung nicht entfernen.
+  * Personen, die mit dem Stoff in Berührung gekommen sind oder Dämpfe eingeatmet haben, sofort medizinischer Behandlung zuführen. Dabei alle verfügbaren Stoffinformationen mitgeben.
+==== 6. Besondere Vorsichtsmassnahmen bei der Bergung von Havariegut. ====
+  * Bergung des Produkts kann nicht mit Standardausrüstung durchgeführt werden! Sofort [[cbrn:allgemein:tuis|Fachberater hinzuziehen]].
+==== 7. Vorsichtsmassnahmen nach dem Hilfeleistung-Einsatz. ====
+=== 7.1 Ablegen der Schutzkleidung. ===
+  * Zur [[cbrn:allgemein:dekontamination:start|Dekontamination]] unbedingt [[cbrn:allgemein:tuis|Fachleute hinzuziehen]].
+=== 7.2 Reinigung der Ausrüstung. ===
+  * Vor Verlassen der Einsatzstelle [[cbrn:allgemein:tuis|Fachleute hinzuziehen]].
+===== Quelle und Copyright =====
+
+Bitte nehmen Sie die Verwendungshinweise zu den ERI-Cards auf der [[cbrn:ericards:start#allgemeine_hinweise|ERI-Card Übersichtsseite]] zur Kenntnis.
+
+Diese ERICard kann im Original unter folgendem Link aufgerufen werden: [[http://www.ericards.net/psp/ericards.psp_ericard?lang=3&subkey=04520313]]
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

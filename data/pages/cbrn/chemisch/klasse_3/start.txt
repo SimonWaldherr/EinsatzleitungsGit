@@ -1,0 +1,39 @@
+====== Klasse 3: Entzündbare flüssige Stoffe ======
+
+  * Schmelzpunkt ≤ 20 °C
+  * [[cbrn:allgemein:cbrn-lexikon:dampfdruck|Dampfdruck]] ≤ 300 kPa bei 50 °C
+  * bei 20 °C und 101,3 kPa nicht vollständig gasförmig
+  * [[cbrn:allgemein:cbrn-lexikon:flammpunkt|Flammpunkt]] ≤ 61 °C
+
+===== zu treffende Maßnahmen =====
+
+[[cbrn:ericards:klasse_3:start]]
+
+  * [[cbrn:allgemein:koerperschutzformen|Atem- und Körperschutz]]
+  * [[cbrn:allgemein:gefahrenbereich|Absperrungen]] bei Tankwagen, Kesselwaggons und Industrietanks:
+    * <wrap danger>Gefahrenbereich 50 m</wrap>
+    * <wrap safety>Absperrbereich 300 m</wrap>
+  * im Brandfall mit [[brand:allgemein:schaum|Schaum]] löschen, Behälter und Umgebung kühlen
+  * [[cbrn:allgemein:auslaufende_stoffe|Ausbreitung verhindern (Flüssigkeit auffangen, Leckstelle abdichten)]]
+  * Flüssigkeit mit [[brand:allgemein:schaum|Schaum]] abdecken um Ausbreitung von brennbaren Gasen einzudämmen
+  * Kanalisation, tiefere Räume und Gewässer sichern
+  * Nur explosionsgeschützte Geräte im Gefahrenbereich verwenden
+  * Messgeräte einsetzen ([[cbrn:geraete:ex-messgeraet|Ex-Messung]] / Tox-Messung)
+  * [[cbrn:chemisch:temperaturklasse|Temperaturklassen]] beachten!
+
+==== besondere Gefahren ====
+
+  * Brandgefahr, abhängig vom [[cbrn:allgemein:cbrn-lexikon:flammpunkt|Flammpunkt]]
+  * explosive Dampf-Luft-Gemische möglich
+  * Dämpfe sind schwerer als Luft ([[cbrn:allgemein:cbrn-lexikon:dampfdichteverhaeltnis|Dampfdichteverhältnis]] > 1); Ansammlung und Ausbreitung in tiefer gelegenen Stellen wie z.B. Schächten, Kellern und der Kanalisation
+  * Brandgase können giftig und/oder ätzend sein
+  * Vorsicht bei Wassereinsatz (Fettexplosion!), bei Tankbränden [[cbrn:allgemein:cbrn-lexikon:boil-over|Boil-over]] möglich
+  * Umweltgefahr ([[allgemeine_hilfe:oelschadenbekaempfung|Öl-Austritt]])
+  * elektrostatische Aufladung oder elektrische Geräte können Zündquelle sein (z.B. Funkgeräte, Handscheinwerfer, FME, Handy, …)
+
+===== Quellenangabe =====
+
+  * Lehrgangsunterlagen ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+  * FwDV 500 Stand 2012
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+  * //Taschenbuch Einsatzdienst// der Berliner Feuerwehr

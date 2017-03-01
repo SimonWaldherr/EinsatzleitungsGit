@@ -1,0 +1,51 @@
+====== Wörterbuch ======
+
+Die Freiwillige Feuerwehr Arnsberg hat ein {{ :allgemein:woerterbuch:einsatz-woerterbuch_ff_arnsberg.pdf |Wörterbuch für den Einsatz}} entwickelt, in dem die wichtigsten Fragen und Hinweise für die Kommunikation mit nicht oder nur eingeschränkt deutsch sprechenden Mitbürgern in verschiedenen Sprachen aufgeführt sind. Die FF Arnsberg hat dem Einsatzleiterwiki dankenswerterweise gestattet, ihr Wörterbuch zu integrieren.
+
+<wrap info>Spezielle Feuerwehr-Vokabeln sind außerdem im [[https://www.vfdb.de/lexikon/|Lexikon der vfdb]] zu finden.</wrap>
+
+===== Sprachen =====
+
+^  Flagge  ^  Sprache  ^
+| [[this>lib/exe/fetch.php?media=allgemein:woerterbuch:albanisch.pdf|{{ :allgemein:woerterbuch:albanien.png?nolink&50 |Albanisch}}]] | {{ :allgemein:woerterbuch:albanisch.pdf |Albanisch}} |
+| {{ :allgemein:woerterbuch:blanko.png?nolink&50 |}} | {{ :allgemein:woerterbuch:arabisch.pdf |Arabisch}} |
+| [[this>lib/exe/fetch.php?media=allgemein:woerterbuch:bulgarisch.pdf|{{ :allgemein:woerterbuch:bulgarien.png?nolink&50 |Bulgarisch}}]] | {{ :allgemein:woerterbuch:bulgarisch.pdf |Bulgarisch}} |
+| {{ :allgemein:woerterbuch:blanko.png?nolink&50 |}} | {{ :allgemein:woerterbuch:dari-farsi.pdf |Dari/Farsi}} |
+| [[this>lib/exe/fetch.php?media=allgemein:woerterbuch:englisch.pdf|{{ :allgemein:woerterbuch:grossbritannien.png?nolink&50 |Englisch}}]] | {{ :allgemein:woerterbuch:englisch.pdf |Englisch}} |
+| [[this>lib/exe/fetch.php?media=allgemein:woerterbuch:franzoesisch.pdf|{{ :allgemein:woerterbuch:frankreich.png?nolink&50 |Französisch}}]] | {{ :allgemein:woerterbuch:franzoesisch.pdf |Französisch}} |
+| [[this>lib/exe/fetch.php?media=allgemein:woerterbuch:griechisch.pdf|{{ :allgemein:woerterbuch:griechenland.png?nolink&50 |Griechisch}}]] | {{ :allgemein:woerterbuch:griechisch.pdf |Griechisch}} |
+| [[this>lib/exe/fetch.php?media=allgemein:woerterbuch:italienisch.pdf|{{ :allgemein:woerterbuch:italien.png?nolink&50 |Italienisch}}]] | {{ :allgemein:woerterbuch:italienisch.pdf |Italienisch}} |
+| [[this>lib/exe/fetch.php?media=allgemein:woerterbuch:kroatisch.pdf|{{ :allgemein:woerterbuch:kroatien.png?nolink&50 |Kroatisch}}]] | {{ :allgemein:woerterbuch:kroatisch.pdf |Kroatisch}} |
+| {{ :allgemein:woerterbuch:blanko.png?nolink&50 |}} | {{ :allgemein:woerterbuch:kurdisch.pdf |Kurdisch}} |
+| [[this>lib/exe/fetch.php?media=allgemein:woerterbuch:arabisch-marokkanisch.pdf|{{ :allgemein:woerterbuch:marokko.png?nolink&50 |Arabisch (Marokkanisch)}}]] | {{ :allgemein:woerterbuch:arabisch-marokkanisch.pdf |Arabisch (Marokkanisch)}} |
+| [[this>lib/exe/fetch.php?media=allgemein:woerterbuch:niederlaendisch.pdf|{{ :allgemein:woerterbuch:niederlande.png?nolink&50 |Niederländisch}}]] | {{ :allgemein:woerterbuch:niederlaendisch.pdf |Niederländisch}} |
+| [[this>lib/exe/fetch.php?media=allgemein:woerterbuch:polnisch.pdf|{{ :allgemein:woerterbuch:polen.png?nolink&50 |Polnisch}}]] | {{ :allgemein:woerterbuch:polnisch.pdf |Polnisch}} |
+| [[this>lib/exe/fetch.php?media=allgemein:woerterbuch:portugiesisch.pdf|{{ :allgemein:woerterbuch:portugal.png?nolink&50 |Portugiesisch}}]] | {{ :allgemein:woerterbuch:portugiesisch.pdf |Portugiesisch}} |
+| [[this>lib/exe/fetch.php?media=allgemein:woerterbuch:rumaenisch.pdf|{{ :allgemein:woerterbuch:rumaenien.png?nolink&50 |Rumänisch}}]] | {{ :allgemein:woerterbuch:rumaenisch.pdf |Rumänisch}} |
+| [[this>lib/exe/fetch.php?media=allgemein:woerterbuch:russisch.pdf|{{ :allgemein:woerterbuch:russland.png?nolink&50 |Russisch}}]] | {{ :allgemein:woerterbuch:russisch.pdf |Russisch}} |
+| [[this>lib/exe/fetch.php?media=allgemein:woerterbuch:serbisch.pdf|{{ :allgemein:woerterbuch:serbien.png?nolink&50 |Serbisch}}]] | {{ :allgemein:woerterbuch:serbisch.pdf |Serbisch}} |
+| [[this>lib/exe/fetch.php?media=allgemein:woerterbuch:spanisch.pdf|{{ :allgemein:woerterbuch:spanien.png?nolink&50 |Spanisch}}]] | {{ :allgemein:woerterbuch:spanisch.pdf |Spanisch}} |
+| [[this>lib/exe/fetch.php?media=allgemein:woerterbuch:tuerkisch.pdf|{{ :allgemein:woerterbuch:tuerkei.png?nolink&50 |Türkisch}}]] | {{ :allgemein:woerterbuch:tuerkisch.pdf |Türkisch}} |
+| [[this>lib/exe/fetch.php?media=allgemein:woerterbuch:ungarisch.pdf|{{ :allgemein:woerterbuch:ungarn.png?nolink&50 |Ungarisch}}]] | {{ :allgemein:woerterbuch:ungarisch.pdf |Ungarisch}} |
+
+===== Hinweise zum Gebrauch des Wörterbuchs =====
+
+  * Die Anweisungen und Fragen werden jeweils auf Deutsch, in der Fremdsprache und in Lautschrift aufgeführt. Es wurde bewusst nicht das Internationale Phonetische Alphabet (IPA) verwendet, weil dieses zahlreiche Sonderzeichen enthält, die nicht allgemein verständlich sind.
+  * Stattdessen wurde versucht, die Texte mit den im Deutschen üblichen Zeichen so zu schreiben, dass sie von einem Sprecher der jeweiligen Sprache verstanden werden können.
+  * Regeln für den optimalen Gebrauch:
+    * Betonte Silben = **fett** und **__unterstrichen__**.
+    * : = der Vokal ist lang. Beispiel: **__a:__tmen**
+    * - (Bindestrich im Wort): Sprich den Folgelaut, als stünde er unverbunden.
+    * ß = stimmloses s (Beispiel: „caßa“), ersetzt auch „th“ wie im Englischen „think“.
+    * **//j//** wie in „Journalist“ = //kursiv// und **fett**
+    * **//ch//** = Ach-Laut://kursiv// und **fett**
+    * Zungen-**//r//** (gerollt): //kursiv// und **fett**. Kann durch ein deutsches Rachen-r ersetzt werden.
+
+
+===== Quellenangabe =====
+
+Alle Informationen auf dieser Seite und den verlinkten PDF-Dateien unterliegen dem Urheberrecht der FF Arnsberg.
+
+  * {{:allgemein:woerterbuch:einsatz-woerterbuch_ff_arnsberg.pdf|Einsatz-Wörterbuch der FF Arnsberg}}
+  * [[http://www.feuerwehr-arnsberg.de/aktuelles-topmenu-138/90320-arnsberger-feuerwehr-bewaeltigt-ihre-einsaetze-kuenftig-mehrsprachig.html]]
+  * Die Landesflaggen wurden den entsprechenden Artikeln der zugehörigen Länder in der Wikipedia entnommen und wurden alle unter Public-Domain-Lizenz veröffentlicht.

@@ -1,0 +1,17 @@
+<WRAP column>
+====== Brandeinsätze ======
+
+{{simplenavi>brand}}
+</WRAP>
+
+<WRAP column>
+===== Brandeinsatz allgemein =====
+
+{{simplenavi>brand:allgemein}}
+</WRAP>
+
+<WRAP column>
+===== Geräte für den Brandeinsatz =====
+
+{{simplenavi>brand:geraete}}
+</WRAP>

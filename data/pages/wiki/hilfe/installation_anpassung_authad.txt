@@ -1,0 +1,67 @@
+====== Einrichtung der Active-Directory-Anbindung ======
+
+siehe auch die Original-Dokumentation aus dem DokuWiki-Projekt, auf dem das Einsatzleiterwiki basiert: https://www.dokuwiki.org/plugin:authad
+
+===== Apache-Konfiguration =====
+
+In der Apache-Konfigurationsdatei, standardmäßig zu finden unter ''C:\Program Files (x86)\Einsatzleiterwiki\xampp\apache\conf\httpd.conf'', muss vor folgenden Zeilen das Kommentarzeichen **#** entfernt werden:
+
+<code>
+LoadModule ldap_module modules/mod_ldap.so
+</code>
+
+und
+
+<code>
+LoadModule authnz_ldap_module modules/mod_authnz_ldap.so
+</code>
+
+Die Änderung wird erst nach einem Neustart des Apache-Servers wirksam, im nächsten Schritt muss jedoch sowieso nochmals der Computer neugestartet werden, somit kann dies hier i.d.R. entfallen.
+
+===== Umgebungsvariable einrichten =====
+
+Zusätzlich zu der Konfiguration des Apache-Servers muss noch der Pfad zu PHP in die Umgebungsvariablen aufgenommen werden, damit die AD-Anbindung funktioniert.
+
+Um die Umgebungsvariablen zu bearbeiten, folgende Dialogfenster öffnen:
+
+//Systemsteuerung// -> Punkt //System und Sicherheit// -> //System// -> in der Spalte ganz links auf //erweiterte Systemeinstellungen// klicken -> auf dem Reiter //Erweitert// auf den Button //Umgebungsvariablen...// klicken.
+
+In der unteren Liste //Systemvariablen// beim Eintrag //Path// ans Ende ein Semikolon als Trennzeichen einfügen und danach den Pfad zu PHP eintragen. Standardmäßig lautet der Eintrag 
+
+''C:\Program Files (x86)\Einsatzleiterwiki\xampp\php''
+
+(kann sich je nach Auswahl des Installationsordners selbstverständlich ändern und sollte vor dem Eintragen überprüft werden).
+
+Nach einem Neustart des Systems ist die Umgebungsvariable verfügbar.
+
+===== Wiki-Konfiguration =====
+
+Im Administrationsbereich muss das Plugin //authad// aktiviert werden, soweit nicht schon geschehen.
+
+Danach muss im Administrationsbereich des Wikis die //Konfiguration// geöffnet werden. Im Bereich //Authentifizierung// beim Punkt //Authentifizierungsmechanismus// kann nun aus der Liste //authad// ausgewählt werden, um die Active-Directory-Anbindung zu aktivieren.
+
+Es müssen in der Konfiguration zumindest folgende Einstellungen gesetzt sein, welche auch die ersten drei Eingabefelder bei der Konfiguration des AuthAD-Plugins sind:
+
+Account-Suffix\\
+Base-DN\\
+Komma-separierte Liste von Domänen-Controllern
+
+Nun am Ende der Seite auf Speichern klicken.
+
+Ab sofort sollte eine Anmeldung mit dem Windows-Benutzerkonto möglich sein.
+
+===== HILFE!!! =====
+
+Sollte etwas schiefgelaufen und eine Anmeldung im Wiki nicht mehr möglich sein, so kann die AD-Authentifizierung auch per Hand wieder deaktiviert bzw. auf das Standardverfahren zurückgesetzt werden. Dafür vom Wiki-Hauptverzeichnis ausgehend im Unterordner ''conf'' die Datei ''local.php'' öffnen und die Zeile
+
+<code>
+$conf['authtype'] = 'authad';
+</code>
+
+ändern auf
+
+<code>
+$conf['authtype'] = 'authplain';
+</code>
+
+Damit wird wieder die DokuWiki-eigene Benutzerdatenbank aktiviert und die Active-Directory-Anbindung deaktiviert.

@@ -1,0 +1,64 @@
+====== RADIOAKTIVE STOFFE, UNTER SONDERVEREINBARUNG BEFÖRDERT, SPALTBAR - UN 3331 - Gefahrnr. 70 - ERICard-Nr. 7-03 - UN3331 ======
+|Stoff | RADIOAKTIVE STOFFE, UNTER SONDERVEREINBARUNG BEFÖRDERT, SPALTBAR   |
+|UN-Nummer | 3331   |
+|[[cbrn:allgemein:kennzeichnung:liste_der_gefahr-nummern|Gefahrnummer]] | 70   |
+|ADR-Gefahrzettel | 7X+ [[cbrn:atomar:befoerderung#kritikalitaetssicherheitskennzahl|{{cbrn:7-4.png?nolink&100}}]]    |
+|ADR-Klasse | 7   |
+|Klassifizierungscode |    |
+|[[cbrn:allgemein:kennzeichnung:verpackungsgruppen|Verpackungsgruppe]] |    |
+|ERI-Card | 7-03   |
+
+==== Unfall-Hilfeleistung ====
+===== Radioaktiver Stoff, spaltbar =====
+==== 1. Eigenschaften. ====
+  * Das radiologische Gefährdungspotential kann gering bis hoch sein.
+  * Die Gefahrzettel der Klasse 7 geben Hinweise auf die maximale [[cbrn:allgemein:begriffsklaerungen#dosisleistung|Dosisleistung]] an der Oberfläche des unbeschädigten Versandstückes: Kategorie I-WEISS: 0,005 mSv/h Kategorie II-GELB: 0,5 mSv/h Kategorie III-GELB: 2 mSv/h (bei Transporten unter ausschließlicher Verwendung: 10 mSv/h).
+==== 2. Gefahren. ====
+  * Kann bei starker Erwärmung oder Brand radioaktive, giftige und ätzende Dämpfe entwickeln.
+  * Gefahr einer Kettenreaktion.
+  * Externes Bestrahlungsrisiko bei unbeschädigten Versandstücken: nur für Versandstücke der Kategorien II-GELB und III-GELB.
+  * Kontaminations- und Inkorporationsgefahr nur bei beschädigten Versandstücken.
+==== 3. Persönlicher Schutz. ====
+  * Umluftunabhängiger Atemschutz
+  * Chemikalienbeständige Kleidung bei Kontaminationsgefahr.
+  * Personendosimeter und [[cbrn:allgemein:begriffsklaerungen#dosisleistung|Dosisleistung]]smeßgerät
+==== 4. Einsatz-Massnahmen. ====
+=== 4.1 Allgemeine Massnahmen. ===
+  * Mit dem Wind vorgehen. Schutzausrüstung bereits vor dem Betreten des [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]]s anlegen.
+  * Gefahr für die Öffentlichkeit ! Personen in der Nähe warnen und den [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] unverzüglich räumen.
+  * [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]]: Absperrung bei einer [[cbrn:allgemein:begriffsklaerungen#dosisleistung|Dosisleistung]] von 25 µSv/h festlegen.
+  * Zahl der Einsatzkräfte im [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] beschränken.
+  * Zuständige Behörden benachrichtigen.
+=== 4.2 Massnahmen bei Stoffaustritt. ===
+  * Ausgetretenen Stoff oder aus einer Abschirmung herausgefallenen Strahler nicht berühren.
+  * Ausgetretenes Produkt mit allen verfügbaren Mitteln auffangen.
+  * Flüssigkeit mit Sand, Erde oder anderen geeigneten Materialien aufnehmen.
+  * Falls der Stoff in offenes Gewässer oder Kanalisation gelangt, zuständige Behörde informieren.
+=== 4.3 Massnahmen bei Feuer (falls Stoff betroffen). ===
+  * Nicht mit Wasser oder [[brand:allgemein:schaum|Schaum]] löschen.
+  * Mit [[brand:allgemein:pulver|Pulver]] löschen.
+  * Unbeschädigte Behälter aus der Wärmestrahlung entfernen.
+  * Aus Umweltschutzgründen [[brand:allgemein:loeschwasserrueckhaltung|Löschmittel zurückhalten]].
+==== 5. Erste Hilfe. ====
+  * Betroffene Personen aus dem [[cbrn:allgemein:gefahrenbereich|Gefahrenbereich]] retten; die medizinische Versorgung hat Vorrang vor Maßnahmen des Strahlenschutzes.
+  * Erste Hilfe darf nur von Einsatzkräften mit geeigneter Schutzausrüstung geleistet werden.
+  * Kontaminierte Kleidung sofort entfernen, hierbei (z.B mit einer Maske) die Atemwege schützen und betroffene Haut mit viel Wasser spülen.
+  * Personen, die mit dem Stoff in Berührung gekommen sind, sofort medizinischer Behandlung zuführen. Dabei alle verfügbaren Stoffinformationen mitgeben.
+  * Mund-zu-Mund-Beatmung vermeiden. Beatmungsgeräte anwenden.
+==== 6. Besondere Vorsichtsmassnahmen bei der Bergung von Havariegut. ====
+  * Bergung des Produkts kann nicht mit Standardausrüstung durchgeführt werden! Sofort [[cbrn:allgemein:tuis|Fachberater hinzuziehen]].
+==== 7. Vorsichtsmassnahmen nach dem Hilfeleistung-Einsatz. ====
+=== 7.1 Ablegen der Schutzkleidung. ===
+  * Vor dem Ablegen von Maske und Schutzanzug Einsatzkräfte mit Messgerät auf Kontamination überprüfen.
+  * Zur [[cbrn:allgemein:dekontamination:start|Dekontamination]] unbedingt [[cbrn:allgemein:tuis|Fachleute hinzuziehen]].
+=== 7.2 Reinigung der Ausrüstung. ===
+  * Vor Verlassen der Einsatzstelle [[cbrn:allgemein:tuis|Fachleute hinzuziehen]].
+===== Quelle und Copyright =====
+
+Bitte nehmen Sie die Verwendungshinweise zu den ERI-Cards auf der [[cbrn:ericards:start#allgemeine_hinweise|ERI-Card Übersichtsseite]] zur Kenntnis.
+
+Diese ERICard kann im Original unter folgendem Link aufgerufen werden: [[http://www.ericards.net/psp/ericards.psp_ericard?lang=3&subkey=33312118]]
+
+© European Chemical Industry Council (CEFIC) 2015-2017.
+
+Web http://www.cefic.org - Email [[fjo@cefic.be]] - Tel (+32) 2 6767266 - Fax (+32) 2 6767432

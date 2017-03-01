@@ -1,0 +1,88 @@
+====== physikalische Grundlagen Strahlenschutz ======
+
+Für Definitionen der hier verwendeten Begriffe siehe auch das [[cbrn:allgemein:cbrn-lexikon:start]].
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Strahlungsarten ====
+
+=== Alpha-Strahlung ===
+
+  * Helium-Kerne (-> Teilchenstrahlung)
+  * Reichweite in Luft ca. 7 bis 10 cm
+  * Abschirmung durch ein Blatt Papier möglich
+  * Bestrahlung von Gewebe:
+    * von außen: relativ ungefährlich, da die oberen (abgestorbenen) Hautschichten die Alpha-Teilchen stoppen
+    * von innen: gefährlich, da die vergleichsweise großen Alpha-Teilchen schwere Schäden im Gewebe anrichten können
+
+=== Beta-Strahlung ===
+
+  * Elektronen (-> Teilchenstrahlung)
+  * Reichweite in Luft ca. 7 bis 10 m
+  * Abschirmung durch 3 bis 4 mm Blech möglich
+
+=== Gamma-Strahlung ===
+
+  * elektromagnetische Wellenstrahlung
+  * Reichweite in Luft theoretisch unbegrenzt
+  * Abschirmung abhängig vom Material (Dichte), siehe Abschnitt Halbwertschicht
+
+==== Abstandsquadratgesetz ====
+
+Bei Annäherung an eine punktförmige Strahlenquelle steigt die Dosisleistung im Quadrat (vierfache Dosisleistung bei halbem Abstand).
+
+Die Dosisleistung errechnet sich aus der Formel 1/r²
+
+Eine Berechnung zum Abstandsquadratgesetz ist auf der Seite [[cbrn:atomar:strahlenschutzberechnungen#abstandsgesetz|Strahlenschutzberechnungen]] zu finden.
+
+==== Halbwertzeit ====
+
+Analog zur Aktivität nimmt auch die Dosisleistung nach einer Halbwertzeit (HWZ) um die Hälfte ab.
+
+Faustregel zur Halbwertzeit (Prozent der Anfangsaktivität):
+
+  * 1 HWZ: 50 %
+  * 2 HWZ: 25 %
+  * 3 HWZ: ca. 10 %
+  * 7 HWZ: ca. 1 %
+  * 10 HWZ: ca. 0,1 %
+
+==== Abschirmung ====
+
+=== Halbwertschicht ===
+
+Faustregel zur Halbwertschicht (Prozent der Anfangsdosisleistung):
+
+  * 1 HWS: 50 %
+  * 2 HWS: 25 %
+  * 3 HWS: ca. 10 %
+  * 7 HWS: ca. 1 %
+  * 10 HWS: ca. 0,1 %
+
+Die Dicke der Halbwertschicht hängt vom Isotop bzw. der Energie ab. Halbwertschichten gängiger Materialien für Cobalt-60 und Cäsium-137 sind:
+
+^  Halbwertschichtdicke in cm  ^^^
+^ Material ^  Co-60  ^  Cs-137  ^
+^ Luft     |  10.000\\ (100 m)  |  7.500\\ (75 m)  |
+^ Wasser   |  35      |  30     |
+^ Beton    |  14      |  12     |
+^ Eisen    |  3,5     |  2,8    |
+^ Blei     |  1,5     |  0,8    |
+
+=== Zehntelwertschicht ===
+
+Eine Zehntelwertschicht (ZWS) entspricht in etwa 3 Halbwertschichten.
+
+Faustregel zur Zehntelwertschicht (Prozent der Anfangsdosisleistung):
+
+  * 1 ZWS: 10 %
+  * 2 ZWS: 1 %
+  * 3 ZWS: 0,1 %
+  * ...
+
+===== Quellenangabe =====
+
+  * Ausbildungsunterlagen Lehrgang ABC 1 an der LFKS Rheinland-Pfalz im August 2007
+  * [[http://webuser.hs-furtwangen.de/~neutron/download/lehre/strlsch/Strahlenschutzkurs_Skript_15_09_16.pdf|Lehrunterlage "Grundkurs im Strahlenschutz"]], Studiengang Security & Safety Engineering (Bachelor), Hochschule Furtwangen
+
+===== Stichwörter =====

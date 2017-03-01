@@ -1,0 +1,171 @@
+====== Abstützen und Aussteifen ======
+
+Abstützungen dienen der Sicherung von Bauten, Bau- und Ruinenteilen sowie zum Aussteifen in und zwischen Bauwerkteilen bis zur Beendigung der Rettungsmaßnahmen.
+Bei umfangreichen Maßnahmen zum Abstützen und Aussteifen sollte das THW eingebunden werden, da dieses auch spezielle Ausrüstung dazu vorhält (Z.B.: Einsatzgerüstsystem). Hilfsmittel zum Abstützen müssen in der Regel vor Ort selbst gebaut werden, da das normal mitgeführte Rüstholz sowie die Hebegeräte nicht für die Abstützung von schweren Trümmern und Ruinenteilen geeignet sind.
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+Zum Abstützen und Aussteifen lassen sich verschiedene Hilfsmittel erstellen.
+
+==== Einfache Stütze / einfache Spreize ==== 
+
+Das einfachste Mittel zur Aufnahme lotgerechter Kräfte. Sie kann sowohl senkrecht (Stütze), als auch waagrecht (Spreize) eingesetzt werden. Bei waagrechtem Einbau ist auf eine ausreichende Festigkeit des Widerlagers zu achten. 
+
+=== Durchführung: ===
+
+  * Stütze entsprechend der aufzunehmenden Last auswählen und auf das erforderliche Maß ablängen
+  * Unterzug auf Stütze auflegen und befestigen
+  * Stütze auf die Schwelle setzen, ausrichten und mit Keilpaar anziehen
+  * Keilpaar durch Bauklammern oder Drahtnägel sichern 
+
+**lotrechte Abstützung**
+
+<WRAP group>
+<WRAP column>
+{{:allgemeine_hilfe:abstuetzung:abstuetzung.gif?direct&500|Kraftaufnahme einer lotrechten Abstützung}}
+</WRAP>
+
+<WRAP column>
+{{:allgemeine_hilfe:abstuetzung:senkrechte_stuetze.gif?direct|lotrechte Abstützung}}
+</WRAP>
+</WRAP>
+
+**Spreize** (horizontal)
+
+{{:allgemeine_hilfe:abstuetzung:einfache_spreize.gif?direct&200|einfache Spreize}}
+
+=== Beachte: ===
+
+  * Schwelle und Unterzug müssen beidseitig mindestens 1 ½ Holzstärke über die Stütze hinausragen
+  * Die Schwelle ist flach anzulegen, der Unterzug hochkant zu stellen
+  * Keilpaar nur leicht antreiben
+  * Werden mehrere einfache, lotrechte Stützen nebeneinander gesetzt, sind sie miteinander zu verstreben
+
+{{:allgemeine_hilfe:abstuetzung:senkrechte_stuetze_verstrebt.gif?direct|senkrechte Stützen verstrebt}}
+
+=== Tragfähigkeit von Holzstützen ===
+
+{{:allgemeine_hilfe:abstuetzung:senkrechte_stuetze_einfach.gif?direct|Holzstärken bei einfachen lotrechten Stützen in Maueröffnungen}}
+
+{{:allgemeine_hilfe:abstuetzung:senkrechte_stuetze_doppelt.gif?direct|Holzstärken bei doppelten lotrechten Stützen mit Unterzug}}
+
+==== Schwelljoch ====
+
+Joche dienen zur Aufnahme lotrechter Druckkräfte, die auf eine große Fläche wirken. Je nach Größe der abzufangenden Last können mehrere Joche nebeneinander platziert und mit einander verstrebt werden.
+
+{{:allgemeine_hilfe:abstuetzung:schwelljoch.gif?direct|Schwelljoch}}
+
+=== Durchführung: ===
+
+  * Untergrund auf Standfestigkeit und Belastbarkeit prüfen
+  * Stützhöhe Messen. Holm, Schwelle und Stiellänge auf entsprechende Länge schneiden 
+  * Stiele in vorgesehenen Abständen zwischen Schwelle und Holm einpassen und mit Bauklammern, Bandstahl oder Stahlflaschen verbinden
+  * Verschwertungen anbringen
+  * Joch an vorgesehene Stelle transportieren, aufrichten und mit Keilen anziehen
+
+=== Beachte: ===
+
+  * Holz für Schwelle muss flach, Holz für Holm hochkant gelegt werden
+  * Keile in Höhe der Stiele platzieren (unter- oder oberhalb)
+  * Keile nur leicht antreiben
+  * Auf Standfestigkeit des Untergrundes achten, ggf. in allen Geschossen von unten beginnend Abstützungen anbringen
+
+=== Belastbarkeit von Jochen ===
+
+^  Belastung des Deckenstreifens  ^^  Holmquerschnitt  ^  Stielquerschnitt  ^^
+^  t / lfdm  ^  kN / lfdm  ^  Kantholz\\ cm / cm  ^  Kantholz\\ cm / cm  ^  Rundholz\\ ⌀ in cm  ^
+|  1    |  10  |  10/14  |  10/10  |  11  |
+|  1,5  |  15  |  12/14  |  10/10  |  12  |
+|  2    |  20  |  14/16  |  12/12  |  12  |
+|  3    |  30  |  16/18  |  12/12  |  13  |
+
+==== Strebstütze ====
+
+Strebstützen dienen zum schnellen Abstützen erschütterter Bauwerke.
+
+{{:allgemeine_hilfe:abstuetzung:strebstuetze.gif?direct|Bauteile einer Strebstütze}}
+
+=== Durchführung: ===
+
+  * Hölzer auf erforderliches Maß ablängen und herrichten
+  * Knaggen an Streichbohle anbringen
+  * Strebstütze an Streichbohle anlegen und beiderseits mit Zangen verbinden
+  * Bodenschwelle für Strebstütze entsprechend den Bodenverhältnissen herrichten
+  * Strebstütze aufrichten und Strebstützenfuß mit mit Brechstange oder Keilen andrücken und mittels Knaggen oder Bauklammern sichern
+
+=== Beachte: ===
+
+  * Bei Ausbuchtungen des Mauerwerks sind Strebstützen darunter anzusetzen
+  * Winkel zwischen Bodenschwelle und Strebstütze muss 90° betragen
+  * Strebstützenfuß nicht mit Schlagwerkzeugen antreiben
+  * Die Art der Bodenschwelle richtet sich nach den vorgefundenen Bodenverhältnissen
+
+{{:allgemeine_hilfe:abstuetzung:strebstuetzenfuss.gif?direct|Strebstützenfuß}}
+
+==== Verstärkte Spreize ====
+
+Die verstärkte Spreize dient zur Abstützung bei größeren Stützweiten und zur Aufnahme größerer seitlicher, einseitig auftretender Druckkräfte.
+
+{{:allgemeine_hilfe:abstuetzung:verstaerkte_spreize.gif?direct|Verstärkte Spreize}}
+
+=== Durchführung: ===
+
+  * Streichbohlen, Spreizbalken, Strebe und Zange auf das erforderliche Maß ablängen und herrichten
+  * Streichbohlen an den abzustützenden Stellen und Wiederlagern aufstellen
+  * Knaggen zur Aufnahme des Spreizbalken und zur Sicherung der Strebe anbringen
+  * Knagge zur Sicherung der Strebe auf Spreizbalken anbringen
+  * Spreizbalken auflegen
+  * Strebe einpassen, Keilpaar hinter Spreizbalken und Strebefuß ansetzen und abwechselnd anziehen
+  * Zangen beidseitig des Spreizbalkens sowie der Streben anbringen
+
+{{:allgemeine_hilfe:abstuetzung:verstaerkte_spreize_gross.gif?direct|verstärkte Spreize detailliert}}
+
+==== Sprengwerk ====
+
+{{:allgemeine_hilfe:abstuetzung:sprengwerk.gif?direct|Sprengwerk}}
+
+Das Sprengwerk dient der Aufnahme waagrechter und im geringen Umfang auch diagonaler Kräfte.
+
+=== Durchführung: ===
+
+  * Streichbohlen, Spreizbalken und Streben auf das erforderliche Maß ablängen und herrichten
+  * Knaggen für Spreizbalken und Streben an Streichbalken anbringen
+  * Spannhölzer mit Bauschrauben oder Zangen mittig auf Ober- und Unterseite – in Längsachse – auf Spreizbalken anbringen
+  * Streichbohlen lotrecht am Objekt auf Widerlager aufstellen
+  * Spreizbaken auf vorgesehene Knaggen auflegen und Keilpaar ansetzen
+  * Streben ansetzen und durch Keilpaare festsetzen
+
+====Stützbock====
+
+Sind die auftretenden Kräfte erschütterter Bauwerke in der Höhe mit einer Strebstütze nicht abzufangen oder soll die Abstützung über einen längeren Zeitraum erfolgen, sind Stützböcke anzubringen. Im Gegensatz zur verstärkten Spreize wird hier die Kraft nicht in ein Widerlager (anderes Bauwerk) abgeleitet, sondern in den Boden.
+Je nach Belastung lassen diese sich auch mit mehreren Stützbalken herstellen. Werden mehrere Stützböcke nebeneinander platziert, sind diese zu verstreben.
+
+{{:allgemeine_hilfe:abstuetzung:stuetzbock.gif?direct|Stützbock}}
+
+=== Durchführung: ===
+
+  * Strebstütze, Streichbalken und Treiblade auf erforderliches Maß ablängen
+  * An Treiblade Schlitz zur Aufnahme des Zapfens des Treibbalkens anbringen
+  * Zapfen am Streichbalkenende herstellen
+  * Knagge als Widerlager für Strebstütze mit Bauschreiben oder Bolzen am Streichbalken anbringen
+  * Streichbalken mit Zapfen in die Treiblade einlassen
+  * Strebstütze einpassen und mit Keilpaar festlegen
+  * Treiblade mit Pfählen oder Erdnägeln unverrückbar festlegen
+  * Strebstütze mit Keilpaar antreiben und mit Bauklammern beidseits sichern
+
+== Beachte: ==
+
+  * Einfache Stützböcke ggf. gegen Umkippen sichern
+  * Werden mehrere Strebstützen montiert, sind diese einzeln durch Keilpaare einzutreiben und durch Zangen beidseitig miteinander zu verbinden
+
+{{:allgemeine_hilfe:abstuetzung:schwellentreiblade.gif?direct|}}
+
+{{:allgemeine_hilfe:abstuetzung:stuetzbock_dreifach.gif?direct|}}
+
+===== Quellenangabe =====
+
+  * [[http://gsb.download.bva.bund.de/BBK/KatS_Dv_221_1_Vorlaeufer.pdf|KatS-DV 221/1 Ausbildung des Bergungsdienstes (Vorläufer)]]
+
+===== Stichwörter =====
+
+Einsturz, Trümmer, Ruine, Abstützen, Aussteifen, Abstützung, Aussteifung, Stütze, Spreize, Schwelljoch, Strebstütze, Sprengwerk

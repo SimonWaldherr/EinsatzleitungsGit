@@ -1,0 +1,72 @@
+====== Düngemittelbrand ======
+
+Düngemittel mit einem Massenanteil von mehr als 10% Ammoniumnitrat werden nach GefStoffV Anhang I Nr. 5 in die Gruppen A bis E eingeteilt. Die Gruppen A und E werden in Deutschland nicht als Dünger verwendet.
+
+    * Gruppe B: selbsterhaltende thermische Zersetzung möglich
+    * Gruppe C:
+      * keine thermische Zersetzung, keine detonative Umsetzung, aber Entstehung von Stickoxiden ("Nitrose Gase")
+      * Dünger mit chemischer Zusammensetzung wie Klasse B, aber keine Zersetzung möglich
+    * Gruppe D: Flüssigdünger, nach Austrocknung aber detonative Umsetzung möglich
+
+===== zu treffende Maßnahmen =====
+
+Allgemeine Maßnahmen für [[brand:gebaeudebrand|Gebäudebrände]] beachten!
+
+    * Gruppe des Düngers ermitteln (Lager- oder Transportpapiere!)
+    * Düngemittel mit Wasser löschen. Erstickende Löschmittel wie Schaum sind wirkungslos.
+       * bei Düngern Gruppe B: Zersetzungsherd lokalisieren, ggf. Löschlanzen verwenden da Düngerschüttung bei auftreffendem Wasser verhärten kann. Löschlanzen insbesondere in Behältern verwenden, Behälter fluten falls dies nicht möglich ist. Evtl. Gefährdung der Tragfähigkeit der Konstruktion durch eingebrachtes Löschwasser!
+       * bei Düngern Gruppe D: Auskristallisation kann durch Zugabe von Wasser verhindert bzw. rückgängig gemacht werden
+    * Brände in der Umgebung schnellstmöglich löschen, dort keine Einschränkung des Löschmittels.
+    * [[:brand:allgemein:rwa|RWA]] auslösen, Zuluftöffnungen schaffen. Ggf. auch Fenster einschlagen und Dachhaut öffnen. Bei Gruppe B besonders schneller Abzug notwendig, da der Zersetzungsherd durch austretende Zersetzungsgase lokalisiert werden kann.
+      * Vorsicht bei Silos/Behältern, da Druckanstieg durch Zersetzungsgase. Druckentlastung durch Öffnen von Armaturen, Behälterverschlüssen und Deckeln. Behälter von außen mit Sprühstrahl kühlen.
+    * Hitzeeinwirkung auf benachbarte Lagerstätten verhinden, ggf. ausräumen/abtrennen. Noch nicht von der Zersetzung erfassten Dünger mittels Schaufeln oder Bagger wegschaffen.
+    * Umluftunabhängigen Atemschutz verwenden. Filter bieten nur kurzzeitig Schutz.
+    * [[brand:allgemein:loeschwasserrueckhaltung|Löschwasserrückhaltung]] unbedingt erforderlich!
+    * Nach Inhalation von Zersetzungsgasen schnelle ärztliche Hilfe erforderlich. Person ins Freie bringen, warm halten.\\ Hinweis für den Arzt: Inhalation von Stickoxide (nitrose Gase), Chlorwasserstoff (Salzsäure), Chlor und Ammoniak möglich (Lungenödem). Außerdem Lachgas (betäubend). Symptome treten ggf. erst nach 48 Stunden auf.
+    * Absperren, Fenster und Türen in der Umgebung schließen lassen, ggf. Bevölkerung warnen
+    * Umgebungsluft überwachen (Messgeräte/[[cbrn:geraete:pruefroehrchen|Prüfröhrchen]]). Warnung der Bevölkerung ab folgenden [[cbrn:chemisch:grenzwerte#aegl|AEGL]]-1-Werten empfohlen:
+      * Ammoniak (NH<sub>3</sub>): 30 ppm
+      * Stickstoffdioxid (NO<sub>2</sub>): 0,5 ppm
+      * Chlor (Cl): 0,5 ppm
+      * Chlorwasserstoff (HCl): 1,8 ppm
+    * Nach Abschluss der Löscharbeiten Brandwache stellen
+
+===== Allgemeine (Vorgehens-)Hinweise    =====
+
+
+==== allgemein ====
+
+
+    * ammoniumnitrathaltige Dünger sind nicht brennbar, können aber zu Bränden in der Umgebung beitragen
+    * Die Zersetzungsgase bestehen hauptsächlich aus Wasserdampf, Lachgas, Stickoxiden (nitrose Gase), Ammoniak. Ist Kaliumchlorid im Dünger, kann ebenfalls Chlor und Chlorwasserstoff entstehen.
+    * Zersetzungsgase haben stechenden Geruch, anfangs weiße, später braune Farbe
+    * In  Hohlräumen an Lager- und Verarbeitungsstätten kann sich Ammoniumnitrat  sammeln und bei Erhitzung (z.B. Schweißen) zu Behälterzerknall führen
+
+
+==== Gruppe B ====
+
+
+    * Start der Zersetzung ab 130°C möglich, abhängig von Einwirkdauer und Temperatur der Hitzequelle. Zersetzung kann auch zeitverzögert beginnen oder auch wenn die Hitzequelle beseitigt wurde.
+    * Zersetzung kann die gesamte Menge des Düngemittels erfassen
+    * Zersetzung ist unabhängig vom Luftsauerstoff
+    * erhebliche Bildung von Zersetzungsgasen möglich
+
+
+==== Gruppe C ====
+
+
+    * Start der Zersetzung unter Bildung von Zersetzungsgasen ab 130°C möglich
+    * nach Beseitigung der Hitzequelle stoppt der Zersetzungsvorgang rasch
+
+
+===== Weblinks =====
+
+  * [[http://www.iva.de/branche/pflanzenernaehrung/bad/infomaterial|Informationsseite des Industrieverbands Agrar]] 
+
+===== Quellenangabe =====
+
+    * [[http://www.iva.de/sites/default/files/pdfs/merkbl.hinw_fd_fw_braende_stand_110228.pdf|Hinweise für die Feuerwehr bei Einwirkung von Hitze und Feuer  auf feste ammoniumnitrathaltige Düngemittel / Brände in Düngelägern (PDF, 91 kB)]] 
+
+===== Stichwörter =====
+
+Bauernhof

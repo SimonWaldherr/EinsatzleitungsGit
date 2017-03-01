@@ -1,0 +1,17 @@
+====== Fehlersuche ======
+
+Auf dieser Seite werden häufige Fehlerquellen gesammelt.
+
+===== Anmeldung am Wiki funktioniert nicht =====
+
+Für die Anmeldung am Wiki müssen im Browser (z.B. Firefox, Internet Explorer, ...) Cookies zugelassen sein. Diese Option finden Sie in Ihren Browsereinstellungen. Ist dies nicht der Fall, findet man sich nach einem Anmeldeversuch auf der zuvor besuchten Seite wieder, ohne dass man angemeldet ist.
+
+==== iPad/iPhone ====
+
+Gehen Sie folgenden Weg, um die Cookies auf iPad/iPhone zuzulassen:
+
+Einstellungen -> Safari -> Cookies erlauben
+
+===== Quellenangabe =====
+
+  * [[https://forum.dokuwiki.org/thread/9871|DokuWiki-Forum: Thema: I-Pad / I-phone und scheiternde Anmeldung]]

@@ -1,0 +1,37 @@
+====== Absicherung der Einsatzstelle ======
+
+===== zu treffende Maßnahmen =====
+
+    * Warnkleidung tragen
+    * schweres, nicht benötigtes Fahrzeug als Sicherungsfahrzeug nutzen. Dieses nicht mit Personal besetzen!
+    * An- und Abfahrt für Rettungsdienst-Fahrzeuge ermöglichen
+    * nicht benötigte Einsatzkräfte abseits der Straße/hinter Leitplanke warten lassen
+    * unten genannte Mindestabstände einhalten; bei Kurven, Kuppen und anderen unübersichtlichen Stellen Abstände vergrößern
+    * zur besseren Sichtbarkeit Einsatzstelle ausleuchten
+    * keine verkehrslenkenden Maßnahmen durch die Feuerwehr (Ausnahme Bayern und Thüringen)
+    * ggf. [[:allgemein:bereitstellungsraum|Bereitstellungsraum]] festlegen
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Bundesstraßen ====
+
+{{:allgemein:absicherung_bundesstrasse.png?nolink&750|Sicherungsabstände Bundesstraßen}}
+
+==== Autobahnen ====
+
+{{:allgemein:absicherung_autobahn.png?nolink&750|Sicherungsabstände Autobahnen}}
+
+<WRAP center round important 100%>
+Erst nach Freigabe durch Autobahnpolizei entgegen der Fahrtrichtung auffahren
+</WRAP>
+
+
+===== Quellenangabe =====
+
+  * [[http://internet.lfks-rlp.de/index.php?id=408|Ausbildungsunterlage Truppführerlehrgang]] der Feuerwehr- und Katastrophenschutzschule Rheinland Pfalz
+  * B1-Lehrgang 02/2012 am Führungs- und Schulungszentrum der BF Köln
+
+===== Stichwörter =====
+
+Landstraße, Schnellstraße, Bundesstraße, Autobahn
+

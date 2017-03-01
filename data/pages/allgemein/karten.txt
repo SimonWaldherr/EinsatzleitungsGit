@@ -1,0 +1,60 @@
+====== Karten ======
+
+Auf dieser Seite finden Sie Informationen zu geographischen Koordinatensystemen. Es existiert eine weitere Seite zu [[allgemein:taktische_zeichen|taktischen Zeichen]].
+
+===== Allgemeine (Vorgehens-)Hinweise =====
+
+==== Maßstab ====
+
+Indem der Maßstab durch 100 geteilt wird kann ermittelt werden welche Distanz in Metern einem Zentimeter auf der Karte entspricht.
+
+Beispiel:
+
+Maßstab 1:50.000 -> 50.000 / 100 = 500 -> 1 cm auf der Karte entsprechen 500 Metern in der Natur.
+
+==== UTM-Koordinaten ====
+
+Das UTM-Koordinatensystem ist das von den deutschen BOS eingesetzte System für die Identifikation geographischer Orte.
+
+Zusammensetzung einer UTM-Koordinate:
+
+^  33  ^  U  ^  UU  ^  8984  ^  1995  |
+|  Zone  |  Band  |  100-km-Planquadrat  |  Ost-Wert  |  Nord-Wert  |
+
+  * **Zone** \\ Die Welt ist in 60 Zonen eingeteilt (horizontale Einteilung). Jede Zone umfasst 6 Breitengrade. Deutschland liegt in den Zonen 32 und 33.
+  * **Band** \\ Die Welt ist in 20 Bänder eingeteilt (vertikale Einteilung). Jedes Band umfasst 8 Längengrade. Deutschland liegt hauptsächlich im Band U und zu kleinen Teilen im Band T.
+  * **100-km-Planquadrat** \\ Die deutschen BOS verwenden das militärische System UTMREF, welches die sich aus Zonen und Bändern ergebende Fläche in Quadrate mit 100 km Seitenlänge einteilt. Diese Quadrate werden mit zwei Buchstaben identifziert.
+  * **Koordinaten** \\ Ein Paar aus zwei Werten bildet die genauen Koordinaten. Die Ost-Werte steigen auf der Karte von Westen nach Osten an, die Nord-Werte von Süden nach Norden. Ost- und Nordwert müssen immer gleich viele Stellen haben, sonst sind sie nicht korrekt. Es sind unterschiedliche viele Ziffern pro Wert möglich:
+      * Zwei Stellen pro Wert (z.B. 89 19) beschreiben ein Quadrat mit 1.000 Metern Seitenlänge.
+      * Drei Stellen pro Wert (z.B. 898 199) beschreiben ein Quadrat mit 100 Metern Seitenlänge.
+      * Vier Stellen pro Wert (z.B. 8984 1995) beschreiben ein Quadrat mit 10 Metern Seitenlänge.
+
+Zum einfacheren Auffinden und Ermitteln von Koordinaten sollte ein Planzeiger eingesetzt werden.
+
+\\
+
+
+==== weitere Koordinatensysteme ====
+
+Koordinaten unterschiedlicher Koordinatensysteme können nicht von Hand ineinander umgerechnet werden, da dies komplizierte Berechnungen erfordert. Im Internet gibt es kostenlose Möglichkeiten die Koordinaten ineinander umzurechnen (siehe Abschnitt [[allgemein:karten#weblinks|Weblinks]]).
+
+Bis 2010 war das Gauß-Krüger-System das Koordinatensystem für amtlichen Karten in Deutschland. Ggf. kann man auf "Restbestände" stoßen. Diese müssen vor Benutzung auf UTM-Karten umgerechnet werden.
+
+GPS-Geräte sowie viele Online-Kartendienste (z.B. Google Maps) verwenden das System der geographischen Koordinaten. Auch diese müssen vor Benutzung auf UTM-Karten umgerechnet werden.
+
+===== Weblinks =====
+
+  * [[wpde>UTM-Koordinatensystem|UTM bei Wikipedia]]
+  * Die militärische Modifikation des UTM-Systems [[wpde>MGRS|UTMREF bei Wikipedia]].
+  * [[http://www.deine-berge.de/umrechner_koordinaten.php|Umrechnung von Koordinaten]] verschiedener Koordinatensysteme in jeweils andere Formate.
+  * [[http://www.netzwolf.info/kartografie/openlayers/utmr|Karte]] auf OpenStreetMap-Basis, bei der die UTMREF-Koordinaten angezeigt werden auf denen sich der Mauszeiger gerade befindet (in der Ecke rechts unten).
+  * [[http://fernmeldedienst.net/Planzeiger.html|Planzeiger zum Ausdrucken]]
+
+===== Quellenangabe =====
+
+  * [[http://internet.lfks-rlp.de/fileadmin/user_upload/Redakteur/kreisausbildung/sprechfunker/Teilnehmerheft_SpFu.pdf|Teilnehmerheft Sprechfunker]] der Landesfeuerwehrschule Rheinland-Pfalz
+  * Wikipedia-Artikel zu [[wpde>UTM-Koordinatensystem|UTM]], [[wpde>MGRS|UTMREF]] und [[wpde>Gauß-Krüger-Koordinatensystem|Gauß-Krüger-Koordinatensystem]]
+
+===== Stichwörter =====
+
+Lagekarte, Plan, Lageplan
